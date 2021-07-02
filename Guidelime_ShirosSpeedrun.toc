@@ -1,0 +1,8 @@
+## Title: Guidelime_ShirosSpeedrun
+## Author: Shiro
+## Version: v0.1-EarlyDevelopment
+## Interface: 20501
+## Dependencies: Guidelime
+## Notes: This is a speedrun route for alliance. Currently only supports Night Elf start. Very much a WIP, don't expect much yet.
+
+01 - Teldrassil.lua
