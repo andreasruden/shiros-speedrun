@@ -4,7 +4,7 @@ Guidelime.registerGuide(
 [D Shiros 1-58 Speedrun for alliance (patch 2.3+)]
 [GA Alliance]
 [N 1-12 Teldrassil]
-[NX 13-15 TBD]
+[NX 12-15 Darkshore]
 
 *Some speedrun tips*:
 *Speedrunning is best done with a class that can kill while moving*. Always try to strafe towards your next objective while killing. And always look to kill/grind while headed somewhere.
@@ -43,7 +43,7 @@ Turn in [QT920 Tenaron's Summons].\\Accept [QA921 Crown of the Earth].
 Jump straight away from Tenaron, and Complete [QC921 Crown of the Earth] at the moonwell you can see to your left.
 Turn in [QT921 Crown of the Earth] back at Tenaron.\\Accept follow-up [QA928 Crown of the Earth].
 Jump straight away from Tenaron. Then run to [G61.2,47.4].\\Accept [QA2159 Dolanaar Delivery].
--- End of Shadowglen
+[OC] End of Shadowglen (/played:)
 
 -- Arriving in Dolanaar
 Accept [QA488 Zenn's Bidding]. Note: go behind the tree, don't follow the road.
@@ -53,7 +53,9 @@ Learn *First Aid* from Byancie [G55.3,56.8].
 Accept [QA932 Twisted Hatred] and [QA2438 The Emerald Dreamcatcher].
 Turn in [QC2159 Dolanaar Delivery]. Set hearthstone in [S Dolanaar].
 Turn in [QT928 Crown of the Earth].\\Accept follow-up [QA929 Crown of the Earth].
-XXX: Learn Cooking here? Zarrin is right next to us. + Level it to 10? or 40? Probably can't afford that many spices here.
+Learn *Cooking* from [G57.08, 61.28 Zarrin]. Cooking is essential in getting our mount.
+Accept [QA4161 Recipe of the Kaldorei].
+[OC] Note: Any level 5+ spider will drop *Small Spider Leg* for [QC4161 Recipe of the Kaldorei]. Keep killing spiders as you see them. Save any extra legs for cooking skill points.
 
 -- Go east for First batch of quests.
 [O] During the next steps kill *Nightsaber*, *Webwood Lurker*, and *Strigid Owl* as you encounter them, for [QC488].
@@ -75,7 +77,7 @@ If not already completed, complete [QC488 Zenn's Bidding] on your way back to Ze
 Turn in [QT488 Zenn's Bidding].
 Accept [QA489 Seek Redemption!].
 Turn in [QT476 Gnarlpine Corruption].\\Accept [QA483 The Relics of Wakening].
-[V] Vendor and [T] train level 6 skills.
+[V] Vendor and [T] train level 6 skills. Do not vendor Small Spider Legs.
 Enter the [G 54.7,52.6 Fel Rock cave] behind Dolanaar.
 Keep to the left as you advance in the cave. Then kill Lord Melenas for [QC932 Twisted Hatred].
 XXX: Die to go back? On priv servers this puts you in shadowglen.
@@ -95,10 +97,13 @@ Die & Spirit ress. (XXX: This is shadowglen on priv servers)
 Turn in [QT2459 Fermocitas the Dream Eater].
 [OC] If completed, turn in [QT489 Seek Redemption!].
 [T] Learn level 8 skills.
+[OC] End of Dolanaar (/played:)
 
 -- Barrow Den!
+[OC] Note: Reminder to keep killing spiders for *Small Spider Leg* (extra equals more cooking skill).
 Accept [QA487 The Road to Darnassus] from Moon Priestess Amara, who patrols between Dolanaar and (48,51).
-[G42.1,50.05] Learn *Skinning* from Radnaal.
+[G42.1,50.05] Learn *Skinning* from Radnaal. Skinning is essential in getting our mount.
+[OC] Note: In the guide we will assume all leather is vendored, as we cannot use AH for speedrunning. But feel free to auction the leather if that provides better profit :-).
 [OC] If not completed, complete [QC489 Seek Redemption!] while doing the next quests.
 [OC] Note: On the way to the next quests, kill beasts & critters for skinning.
 [G40.35,54.05]
@@ -129,7 +134,7 @@ Turn in [QT2541 The Sleeping Druid] back at Oben Rageclaw.\\Accept [QA2561 Druid
 Kill *Rageclaw*, then use the *Voodoo Charm* to complete [QC2561 Druid of the Claw].
 Turn in [QT2561 Druid of the Claw] back at Oben Rageclaw.
 -- Grinding for some classes (1050 for Druid of the Claw, 780 for Crown of the Earth, 780 for Relics, 700 for road)
--- XXX: What other classes need to grind?
+-- XXX: What other classes need to grind? XXX: Add class skills for those classes
 [A Rogue]Grind to [XP10-3310] (630 less if you've not turned in *Seek Redemption!* yet).
 Die & ress.
 Turn in [QT933 Crown of the Earth].\\Accept follow-up [QA934 Crown of the Earth].
@@ -138,8 +143,10 @@ Turn in [QT483 The Relics of Wakening].\\Accept [QA486 Ursal the Mauler].
 [OC] If not already turned in, turn in [QT489 Seek Redemption!].
 Turn in [QT487 The Road to Darnassus].
 [A Rogue]Accept [QA2241 The Apple Falls] and [T] learn skills.
+[OC] End of Barrow Den (/played:)
 
 -- Darnassus & Western-side quests
+[OC] Note: Reminder to keep killing spiders for *Small Spider Leg* (extra equals more cooking skill).
 Head west to [G36.06,54.35 Darnassus]. Try to get some skinning skills on the way.
 Turn in [QT922 Rellian Greenspyre].\\Accept [QA923 Tumors].
 [A Rogue] Walk under the tree and turn in [QT2241 The Apple Falls].\\Accept [QA2242 Destiny Calls].
@@ -166,13 +173,18 @@ Turn in [QT2518 Tears of the Moon].\\Accept [QA2520 Sathrah's Sacrifice].
 On the bottom floor in the fountain use *Sathrah's Sacrifice* to complete [QC2520 Sathrah's Sacrifice].
 Turn in [QT2520 Sathrah's Sacrifice].
 Level skinning to 55 between east and south-east of Darnassus [G43.8,73.5]. (Skin nightsabers & critters)
+If by some miracle it's not completed, complete [QC4161 Recipe of the Kaldorei].
 Accept [QA930 The Glowing Fruit].
 Complete [QC486 Ursal the Mauler].
 Hearthstone to [H Dolanaar].
+[OC] End of West Teldrassil (/played:)
 
 -- Finishing up Teldrassil
 Turn in [QT486 Ursal the Mauler].
 Turn in [QT934 Crown of the Earth].\\Accept follow-up [QA935 Crown of the Earth].
+Turn in [QT4161 Recipe of the Kaldorei].
+Cooking: Learn recipe *Spice Bread* from Zarrin. Buy 10 Simple Flour and 10 Mild Spices from Nyoma. Cook until level 11.
+Cooking: Learn the Spider Kabob recipe, and cook any extra spider legs you have.
 Turn in [QT930 The Glowing Fruit], [QT2498 Return to Denalan] and [QT931 The Shimmering Frond].
 Accept [QA2399 The Sprouted Fronds] and turn in [QT2399 The Sprouted Fronds].
 Accept [QA2499 Oakenscowl].
@@ -185,6 +197,7 @@ Turn in [QT940 Teldrassil] and [QT935 Crown of the Earth] up the tree.\\Accept [
 Turn in [QT6344 Nessa Shadowsong].\\Accept [QA6341 The Bounty of Teldrassil].
 Turn in [QT6341 The Bounty of Teldrassil].\\Accept [QA6342 Flight to Auberdine].
 Fly to [F Auberdine].
+[OC] End of Teldrassil (/played:)
 
 -- Listing of Teldrassil Quests:
 -- Initial Dolanaar Quests: 488 Zenn's Bidding (Satyr), Outside tree building: 997 Denalan's Earth, 475 A Troubling Breeze,
