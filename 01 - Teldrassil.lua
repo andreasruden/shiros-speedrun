@@ -26,7 +26,7 @@ Collect [QC3521,1 Hyacinth Mushroom] and [QC3521,2 Moonpetal Lily].
 Complete [QC457 The Balance of Nature] by killing mobs around [G60.3,34.7].
 Kill spiders outside the cave for the [QC3521,3 Webwood Ichor].
 Complete [QC916 Webwood Venom].
-Die & spirit ress.
+Deathwarp back. (Die & resurrect at spirit healer)
 Turn in [QT457 The Balance of Nature].
 [A Rogue]Accept [QA3118 Encrypted Sigil].
 [A Rogue]Turn in [QC3118 Encrypted Sigil] and [T] train level 2 & 4 skills.
@@ -36,7 +36,7 @@ Turn in [QT3521 Iverron's Antidote].\\Accept [QA3522 Iverron's Antidote].
 Turn in [QT916 Webwood Venom].\\Accept [QA917 Webwood Egg].
 Turn in [QC3522 Iverron's Antidote].
 Complete [QC917 Webwood Egg].
-Die & Spirit ress.
+Deathwarp back.
 Turn in [QT917 Webwood Egg].\\Accept [QA920 Tenaron's Summons].
 Turn in [QT920 Tenaron's Summons].\\Accept [QA921 Crown of the Earth].
 -- Note: Classes that go up the tree for their skills should grab it together with Tenaron turnin.
@@ -93,7 +93,7 @@ Turn in [QT929 Crown of the Earth].\\Accept [QA933 Crown of the Earth].
 Kill Mystics to finish [QC2459 Ferocitas the Dream Eater].
 Grind until [XP8-1510].
 [OC] If Seek Redemption! was not completed grind until [XP8-880].
-Die & Spirit ress. (XXX: This is shadowglen on priv servers)
+Deathwarp to Dolanaar. (XXX: This is shadowglen on priv servers)
 Turn in [QT2459 Fermocitas the Dream Eater].
 [OC] If completed, turn in [QT489 Seek Redemption!].
 [T] Learn level 8 skills.
@@ -136,7 +136,7 @@ Turn in [QT2561 Druid of the Claw] back at Oben Rageclaw.
 -- Grinding for some classes (1050 for Druid of the Claw, 780 for Crown of the Earth, 780 for Relics, 700 for road)
 -- XXX: What other classes need to grind? XXX: Add class skills for those classes
 [A Rogue]Grind to [XP10-3310] (630 less if you've not turned in *Seek Redemption!* yet).
-Die & ress.
+Deathwarp to Dolanaar.
 Turn in [QT933 Crown of the Earth].\\Accept follow-up [QA934 Crown of the Earth].
 Turn in [QT2561 Druid of the Claw].
 Turn in [QT483 The Relics of Wakening].\\Accept [QA486 Ursal the Mauler].
@@ -172,7 +172,7 @@ Turn in [QT923 Tumors].\\Accept [QA2498 Return to Denalan].
 Turn in [QT2518 Tears of the Moon].\\Accept [QA2520 Sathrah's Sacrifice].
 On the bottom floor in the fountain use *Sathrah's Sacrifice* to complete [QC2520 Sathrah's Sacrifice].
 Turn in [QT2520 Sathrah's Sacrifice].
-Level skinning to 55 between east and south-east of Darnassus [G43.8,73.5]. (Skin nightsabers & critters)
+Level skinning to 60 between east and south-east of Darnassus [G43.8,73.5]. (Skin nightsabers & critters)
 If by some miracle it's not completed, complete [QC4161 Recipe of the Kaldorei].
 Accept [QA930 The Glowing Fruit].
 Complete [QC486 Ursal the Mauler].
