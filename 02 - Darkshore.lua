@@ -4,7 +4,7 @@ Guidelime.registerGuide(
 [D Shiros 1-58 Speedrun for alliance (patch 2.3+)]
 [GA Alliance]
 [N 12-15 Darkshore]
-[NX 15-17 TBD]
+[NX 15-17 Loch Modan]
 
 -- XXX: List which quests we have coming into this zone, for checking against.
 You should have 2 quests: Grove of the Ancients, Flight to Auberdine.
@@ -61,30 +61,43 @@ In this general area (above Bashal'aran, but below the Cliffspring river) comple
 Turn in [QT1002 Buzzbox 323].\\Accept [QA1003 Buzzbox 525].
 Jump into the waterfall and fill the sampling tube to complete [QC4762 The Cliffspring River].
 Head west and accept [QA4725 Beached Sea Turtle].
-Deathwarp (die & resurrect at spirit healer) to Bashal'Aran.
+Deathwarp (die & resurrect at spirit healer) to Bashal'Aran. (Saves 92 seconds)
 Follow the road until [G41.19,44.19].
 Then head east through the trees and jump down. [G39.97,43.88]
 Turn in [QT2138 Cleansing of the Infected].\\Accept [QA2139 Tharnariun's Hope].
-Accept [QA965 The Tower of Althalaxx].
+Accept [QA965 The Tower of Althalaxx] in the upper floor of the house.
 Turn in [QT982 Deep Ocean, Vast Sea].
-[R] Repair at Elisa, the dwarf next to the turn-in.
+[V][R] Vendor and repair at Elisa, the dwarf next to the turn-in.
 Turn in [QT2178 Easy Strider Living].
+
+-- Making the first southern round
+Go south and complete [QC985 How Big a Threat?].
+Accept [QA953 The Fall of Ameth'Aran].
+[OC] If you spot Anaya while doing the next few steps, kill her for [QC983 For Love Eternal].
+Read the [QC953,1 Lay of Ameth'Aran].
+Complete [QA957 Bashal'Aran].
+Read the [QC953,2 Fall of Ameth'Aran].
+Complete [QC983 For Love Eternal].
+Complete [QC958 Tools of the Highborne].
+Grind until [XP15-
+Turn in [QT953 The Fall of Ameth'Aran].
+Run back to Auberdine and turn in [QT985 How Big a Threat?]. \\(Notes: Deathwarp to Bashal'Aran is 5 seconds slower, and grabbing [11] beached turtle now loses 67 seconds total since coming FP side messes up turn-in routing + increased distance, and it doesn't lose xp until level 18.)
+[OC] Ignore RP, we will accept the follow up later.
+Turn in [QT4762 The Cliffspring River] and [QT958 Tools of the Highborne].\\Accept [QA4763 The Blackwood Corrupted].
+Go to Auberdine's [G37.78,44.03 Moonwell].
+Fill the *Empty Water Tube* to get [CI14339 Moonwell Water Tube].
+Fill the *Empty Cleansing Bowl* to get [CI12347 Filled Cleansing Bowl].
+Accept [QA4740 WANTED: Murkdeep!].
+Turn in [QT963 For Love Eternal].
 Turn in [QT4723 Beached Sea Creature].
 Turn in [QT4725 Beached Sea Turtle].
-[OC] You should be a decent way into level 14 at this point.
 Fly to [F Rut'theran Village].
 Turn in [QT6343 Return to Nessa].
 *Outside* of the Temple of Moon in Darnassus, accept [QA730 Trouble In Darkshore?].
 [T] Learn *only essential* skills at your trainer. We need to start saving for 30 mount!
-[OC] Gold check: You should have at least 1g 50s after buying skills.
+[OC] Gold check: You should have at least 1g 80s after buying skills.
 Hearth to [H Auberdine].
-
--- Next round? Or Loch Modan?
-
-
--- XXX: Once Level 15:
-Turn in [QT4762 The Cliffspring River].\\Accept [QA4763 The Blackwood Corrupted].
-Fill tube for this + red crystal follow up in auberdine moonwell.
+Take the southern boat to Menethil Harbor. Craft bandages until first aid is 40 while you wait.
 
 -- Quest Chains of Darkshore:
 -- Buzzbox -> kill crawlers -> Auberdine -> kill Thresher -> NW coast -> Moonstalker Fang (together with rabid bears in north) -> Cliffspring River waterfall -> Grizzled Scalp in south (around lost master / expedition) -> Grove of the Ancients
