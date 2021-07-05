@@ -103,6 +103,34 @@ Turn in [QT6343 Return to Nessa].
 Hearth to [H Auberdine].
 Take the southern boat to Menethil Harbor. Craft bandages until first aid is 40 while you wait.
 
+-- To Loch Modan
+When arriving in Menethil, accept the flight point [P Menethil Harbor].
+Jump from the [G5.86,64.16 bridge] at this point.
+Swim to the [G3.28,75.93 coast]. (This avoids the murlocs)
+Walk to this [0.07, 77.51 spot].
+Swim forward, you will come to more walkable land. We're no longer on the Menethil map but in Menethil, so cannot give coordinates here. If you look at the Dun Morogh map we start walking again at (33, 8).
+At (27, 7) in Dun Morogh we start swimming again. Follow the coast line closely.
+At (20, 11) in Dun Morogh, just as we get very close to the fatigue area and start turning inwards, start draining your breath to prepare to deathwarp. Don't die before it says "Dun Morogh" on your minimap though!
+If you follow the terrain, it will show you as actually in Dun Morogh at (17, 15). This is when it's okay to die :-).
+Deathwarp to Kharanos.
+Follow the road to [G15.35, 85.68 Ironforge].
+Enter the [G53.56,55.45 Herbalism building].
+Learn *Heavy Linen Bandage* from Nissa at the second level.
+Make 10 [CI2581,10 Heavy Linen Bandage] to skill first aid to 50.
+Learn First Aid (Journeyman) from Nissa, too.
+Accept the flight point in [P Ironforge].
+Accept [QA2041 Speak with Shoni] and [QA2039 Find Bingles].
+Run to Rudra and accept [QA314 Protecting the Herd].
+Backtrack the road you came from, then run around the mountain and follow the [G59.77,50.04 path up].
+Complete [QC314 Protecting the Herd].
+Jump down and turn in [QT314 Protecting the Herd].
+Run east until the [G78,49.6 road splits].
+Run north and accept [QA419 The Lost Pilot] (it has a 6.8 dps dagger/1h mace reward, and is probably worth it xp wise? - was not tested)
+Turn in [QT419 The Lost Pilot].\\Accept [QA417 A Pilot's Revenge].
+Complete [QC417 A Pilot's Revenge].
+Turn in [QT417 A Pilot's Revenge].
+Run back to the [G78,49.6 junction] and head south instead.
+
 -- Quest Chains of Darkshore:
 -- Buzzbox -> kill crawlers -> Auberdine -> kill Thresher -> NW coast -> Moonstalker Fang (together with rabid bears in north) -> Cliffspring River waterfall -> Grizzled Scalp in south (around lost master / expedition) -> Grove of the Ancients
 -- Bashal'Aran -> Bashal'Aran -> Kill Grells -> Kill Satyrs -> destroy seal @ Ameth'Aran -> Bashal'Aran
@@ -122,4 +150,4 @@ Take the southern boat to Menethil Harbor. Craft bandages until first aid is 40 
 -- For Love Eternal: Ameth'aran
 -- The Fall of Ameth'Aran: picked up by & done by Ameth'aran
 -- Note: There are 9 beached sea monsters after you completed Washed Ashore pt 1 and 2. Three north of Auberdine, and six south.
-]]
+]], 'Shiros Speedrun')
