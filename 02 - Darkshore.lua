@@ -79,18 +79,22 @@ Complete [QA957 Bashal'Aran].
 Read the [QC953,2 Fall of Ameth'Aran].
 Complete [QC983 For Love Eternal].
 Complete [QC958 Tools of the Highborne].
-Grind until [XP15-
+Grind to [XP15-5940].
 Turn in [QT953 The Fall of Ameth'Aran].
-Run back to Auberdine and turn in [QT985 How Big a Threat?]. \\(Notes: Deathwarp to Bashal'Aran is 5 seconds slower, and grabbing [11] beached turtle now loses 67 seconds total since coming FP side messes up turn-in routing + increased distance, and it doesn't lose xp until level 18.)
+-- Run back to Auberdine and turn in [QT985 How Big a Threat?]. \\(Notes: Deathwarp to Bashal'Aran is 5 seconds slower, and grabbing [11] beached turtle now loses 67 seconds total since coming FP side messes up turn-in routing + increased distance, and it doesn't lose xp until level 18.) -- This would be true if we didn't potentially end up having to grind a bunch for level 15 to take the optimal path in camp, by taking a bit worse of a path we get all the turn-in xp *before* we take the level 15 req quest (blackwoord corrupted)
+Go west and accept [QA4722 Beached Sea Turtle].
+[OC] Run up to along the coast to Auberdine.
+Turn in [QT4723 Beached Sea Creature].
+Turn in [QT4725 Beached Sea Turtle].
+Turn in [QT4722 Beached Sea Turtle].
+Turn in [QT963 For Love Eternal].
+Turn in [QT985 How Big a Threat?].
 [OC] Ignore RP, we will accept the follow up later.
 Turn in [QT4762 The Cliffspring River] and [QT958 Tools of the Highborne].\\Accept [QA4763 The Blackwood Corrupted].
 Go to Auberdine's [G37.78,44.03 Moonwell].
 Fill the *Empty Water Tube* to get [CI14339 Moonwell Water Tube].
 Fill the *Empty Cleansing Bowl* to get [CI12347 Filled Cleansing Bowl].
 Accept [QA4740 WANTED: Murkdeep!].
-Turn in [QT963 For Love Eternal].
-Turn in [QT4723 Beached Sea Creature].
-Turn in [QT4725 Beached Sea Turtle].
 Fly to [F Rut'theran Village].
 Turn in [QT6343 Return to Nessa].
 *Outside* of the Temple of Moon in Darnassus, accept [QA730 Trouble In Darkshore?].
