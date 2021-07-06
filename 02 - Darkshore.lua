@@ -97,7 +97,7 @@ Fill the *Empty Cleansing Bowl* to get [CI12347 Filled Cleansing Bowl].
 Accept [QA4740 WANTED: Murkdeep!].
 
 -- Second trip north
-[OC] The next parts can be kind of difficult for some classes as we've not picked up level 14 spells yet, and the quests are a bit higher than our current level (15).
+[OC] The next parts can be kind of difficult for some classes as we've not picked up level 14 spells yet, and the quests are higher than our level. For classes struggling soloing mobs above their level (we will fight mobs up to 4 above our level, which is still barely orange), it might be better to sacrifice pathing efficiency and come back to this later. (XXX: How hard this segment is needs to be tested)
 [OC] Note: do some grinding on the way to the next turn-ins.
 Head to the read crystal and turn in [QT4812 As Water Cascades].\\Accept [QA4813 The Fragments Within].
 Turn in [QT957 Bashal'Aran].
@@ -109,14 +109,29 @@ Some friendly furbolgs (that do nothing) and Xabraxxis, level 19 satyr, will spa
 [OC] The next quest can be pretty difficult at level 15. Tip is to kill the cubs and then reset her to deal only with the Den Mother.
 Complete [QC2139 Tharnariun's Hope].
 Go to the cave above Cliffspring River and complete [QC947 Cave Mushrooms].
-[OC] Next step depends on your XP. If you need more than 5280 xp to level 16, then consider either grinding in this area or going north and doing Tower of Althalaxx. Ideally however, you don't, in which case run back to Auberdine.
+Turn in [QT965 The Tower of Althalaxx].\\Accept follow-up [QA966 The Tower of Althalaxx].
+Complete [QC966 The Tower of Althalaxx].
+Turn in [QT966 The Tower of Althalaxx].\\Accept follow-up [QA967 The Tower of Althalaxx].
+Accept [QA4727 Beached Sea Turtle].
+Accept [QA2098 Gyromast's Retrieval].
+Get [QC2098,3 Bottom of Gelkak's Key] from the crabs.
+Get [QC2098,1 Top of Gelkak's Key] from the striders.
+Get [QC2098,2 Middle of Gelkak's Key] from the murlocs in the water.
+[OC] You should be level 16 by now, if not: heads up that the next mob is going to be level 20, which is red if you're not 16.
+Turn in [QT2098 Gyromast's Retrieval].\\Accept [QA2078 Gyromast's Revenge].
+Insert the key into the [G55.86,18.22 robot]. Lead it back to the quest NPC, then be prepared to kill it. Loot key and complete [QC2078 Gyromast's Revenge].
+Turn in [QT2078 Gyromast's Revenge].
+[OC] NOTE: *VERY IMPORTANT* to save the 5 Elixir of Water Breathing you received, we will make use of them in the run.
+Deathwarp to Bashal'Aran. (Saves 2m 40s)
+Follow the road until [G41.19,44.19].
+Then head east through the trees and jump down. [G39.97,43.88]
 Turn in [QT2139 Tharnariun's Hope].
 Accept [QA986 A Lost Master].
-[V][R] Vendor & Repair at [G38.16,41.18 Elisa].
+[V][R] Vendor & Repair at [G38.16,41.18 Elisa]. (Do NOT sell the elixirs!)
 Turn in [QT4763 The Blackwood Corrupted].
 Turn in [QT4813 The Fragments Within].
 Turn in [QT947 Cave Mushrooms].\\Accept [QA948 Onu].
-[OC] You should be level 16 now.
+Turn in [QT4727 Beached Sea Turtle].
 Fly to [F Rut'theran Village].
 Turn in [QT6343 Return to Nessa].
 *Outside* of the Temple of Moon in Darnassus, accept [QA730 Trouble In Darkshore?].
