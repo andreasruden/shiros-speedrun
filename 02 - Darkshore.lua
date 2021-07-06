@@ -3,8 +3,8 @@ Guidelime.registerGuide(
 
 [D Shiros 1-58 Speedrun for alliance (patch 2.3+)]
 [GA Alliance]
-[N 12-15 Darkshore]
-[NX 15-17 Loch Modan]
+[N 12-16 Darkshore]
+[NX 16-17 Loch Modan]
 
 -- XXX: List which quests we have coming into this zone, for checking against.
 You should have 2 quests: Grove of the Ancients, Flight to Auberdine.
@@ -61,7 +61,7 @@ In this general area (above Bashal'aran, but below the Cliffspring river) comple
 Turn in [QT1002 Buzzbox 323].\\Accept [QA1003 Buzzbox 525].
 Jump into the waterfall and fill the sampling tube to complete [QC4762 The Cliffspring River].
 Head west and accept [QA4725 Beached Sea Turtle].
-Deathwarp (die & resurrect at spirit healer) to Bashal'Aran. (Saves 92 seconds)
+Deathwarp (die & resurrect at spirit healer) to Bashal'Aran. (Saves 92 seconds) XXX: This could be a hearthstone given how much more we have to do
 Follow the road until [G41.19,44.19].
 Then head east through the trees and jump down. [G39.97,43.88]
 Turn in [QT2138 Cleansing of the Infected].\\Accept [QA2139 Tharnariun's Hope].
@@ -95,11 +95,33 @@ Go to Auberdine's [G37.78,44.03 Moonwell].
 Fill the *Empty Water Tube* to get [CI14339 Moonwell Water Tube].
 Fill the *Empty Cleansing Bowl* to get [CI12347 Filled Cleansing Bowl].
 Accept [QA4740 WANTED: Murkdeep!].
+
+-- Second trip north
+[OC] The next parts can be kind of difficult for some classes as we've not picked up level 14 spells yet, and the quests are a bit higher than our current level (15).
+[OC] Note: do some grinding on the way to the next turn-ins.
+Head to the read crystal and turn in [QT4812 As Water Cascades].\\Accept [QA4813 The Fragments Within].
+Turn in [QT957 Bashal'Aran].
+Loot [CI12342,1 Blackwood Grain Sample] at the [G50.64,34.95 barrel].
+Loot [CI12343,1 Blackwood Nut Sample] at the [G51.83,33.48 barrel].
+Kill your way through the camp and loot [CI12341,1 Blackwood Fruit Sample] at the [G52.86,33.42 barrel].
+Clear out the camp, then use the *Filled Cleansing Bowl* at the [G52.4,33.4 campfire].
+Some friendly furbolgs (that do nothing) and Xabraxxis, level 19 satyr, will spawn. After killing him loot the talisman *off the ground* to complete [QC4763 The Blackwood Corrupted].
+[OC] The next quest can be pretty difficult at level 15. Tip is to kill the cubs and then reset her to deal only with the Den Mother.
+Complete [QC2139 Tharnariun's Hope].
+Go to the cave above Cliffspring River and complete [QC947 Cave Mushrooms].
+[OC] Next step depends on your XP. If you need more than 5280 xp to level 16, then consider either grinding in this area or going north and doing Tower of Althalaxx. Ideally however, you don't, in which case run back to Auberdine.
+Turn in [QT2139 Tharnariun's Hope].
+Accept [QA986 A Lost Master].
+[V][R] Vendor & Repair at [G38.16,41.18 Elisa].
+Turn in [QT4763 The Blackwood Corrupted].
+Turn in [QT4813 The Fragments Within].
+Turn in [QT947 Cave Mushrooms].\\Accept [QA948 Onu].
+[OC] You should be level 16 now.
 Fly to [F Rut'theran Village].
 Turn in [QT6343 Return to Nessa].
 *Outside* of the Temple of Moon in Darnassus, accept [QA730 Trouble In Darkshore?].
 [T] Learn *only essential* skills at your trainer. We need to start saving for 30 mount!
-[OC] Gold check: You should have at least 1g 80s after buying skills.
+[OC] Gold check: You should have close to 3g after buying skills.
 Hearth to [H Auberdine].
 Take the southern boat to Menethil Harbor. Craft bandages until first aid is 40 while you wait.
 
@@ -140,7 +162,7 @@ Run back to the [G78,49.6 junction] and head south instead.
 -- How Big a Threat -> Scout camp south of Auberdine -> Auberdine (unlocks Thundris Windweaver) -> Kill @ South Camp -> Auberdine (unlocks A Lost Master?)
 -- Thundris Windweaver -> Auberdine -> Waterfall @ Cliffspring River bridge -> Auberdine (Fill @ moonwell) -> Do cleaning ritual close to Cliffspring River cave
 -- A Lost Master: Moonstalker Sires/Matriarches Very South (pretty bad quest) -> Auberdine -> Cave in south-east -> Escort Volcor -> Auberdine -> Breadcrumb to Astranaar
--- Cave Mushrooms -> NE cave (above river) -> Auberdine -> Grove of Ancients -> Very South -> Still in Twilight Camp -> Grove of Ancients -> Relics at Tower of Althalaxx
+-- Cave Mushrooms -> NE cave (above river) -> Auberdine -> Grove of Ancients -> Very South -> Still in Twilight Camp -> Grove of Ancients -> Relics at nagas just beyond Tower of Althalaxx
 -- Tower of Althalaxx (req 13) -> Tower of Althalaxx -> Kill fanatics for 4 Worn Parchments -> Ashenvale (Maestra's Post) -> 3 quests in Ashenvale (incl far east) -> back to Tower of Althalaxx -> Get Head of Athrikus (really nasty quest) -> Back to Post
 -- Gyromast's Retrieval (req 13) -> Accept very north, all done in this area too -> rewards 5 Elixir of Wather Breathing!
 -- The Absent Minded Prospector -> Accept (Trouble In Darkshore?, req 14) in Darnassus -> Auberdine -> Go South & do really nasty escort -> Auberdine -> Darnassus -> Menethil Harbor
