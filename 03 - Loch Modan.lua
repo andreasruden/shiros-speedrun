@@ -43,6 +43,13 @@ Turn in [QT418 Thelsamar Blood Sausages].
 -- Making the big Loch Modan round
 Turn in [QT436 Ironband's Excavation].\\Accept [QA297 Gathering Idols].
 Accept [QA298 Excavation Progress Report].
+Complete [QC297 Gathering Idols].
+Turn in [QT297 Gathering Idols].
+Go up the hills south of the excavation site, and then make your way over to the [G83.89,62.27 lodge].
+Accept [QA385 Crocolisk Hunting].
+Accept [QA257 A Hunter's Boast].
+Jump out of the lodge behind Vyrin (west) and kill the Buzzards to complete the timed quest [QC257 A Hunter's Boast].
+Turn in [QT257 A Hunter's Boast].\\Accept follow-up
 
 -- Loch Modan Chains:
 -- In Defense of the King's Lands: Troggs+Scouts in Stonesplinter.V. -> Back to bunker -> Thumpers+Seers in valley or northern island* -> Back to bunker -> Shaman+Bonesnapper in S.V. cave or northern island* -> Back to bunker -> Named mobs in cave
