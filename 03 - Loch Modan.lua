@@ -3,8 +3,8 @@ Guidelime.registerGuide(
 
 [D Shiros 1-58 Speedrun for alliance (patch 2.3+)]
 [GA Alliance]
-[N 15-17 Loch Modan]
-[NX 17-19 Darkshore]
+[N 16-17 Loch Modan]
+[NX 17-19 Redridge Mountains]
 
 -- Arriving in Thelsamar
 Accept [QA224 In Defense of King's Lands].
@@ -41,6 +41,8 @@ Turn in [QT418 Thelsamar Blood Sausages].
 [V] Vendor at the dwarf opposite the sausage turn-in.
 
 -- Making the big Loch Modan round
+Turn in [QT436 Ironband's Excavation].\\Accept [QA297 Gathering Idols].
+Accept [QA298 Excavation Progress Report].
 
 -- Loch Modan Chains:
 -- In Defense of the King's Lands: Troggs+Scouts in Stonesplinter.V. -> Back to bunker -> Thumpers+Seers in valley or northern island* -> Back to bunker -> Shaman+Bonesnapper in S.V. cave or northern island* -> Back to bunker -> Named mobs in cave
