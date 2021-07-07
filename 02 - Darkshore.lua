@@ -4,10 +4,11 @@ Guidelime.registerGuide(
 [D Shiros 1-58 Speedrun for alliance (patch 2.3+)]
 [GA Alliance]
 [N 12-15 Darkshore]
-[NX 15-17 Loch Modan]
+[NX 15-18 Loch Modan]
 
 -- XXX: List which quests we have coming into this zone, for checking against.
 You should have 2 quests: Grove of the Ancients, Flight to Auberdine.
+*HEADS UP*: Save any *Bear Meat*, *Chunk of Boar Meat*, *Small Spider Leg*, *Clam Meat*, and *Crawler Meat* for cooking.
 
 -- Initial quest-state setup
 Accept [QA3524 Washed Ashore].
@@ -57,6 +58,7 @@ Complete [QC955 Bashal'Aran].
 Turn in [QT955 Bashal'Aran].\\Accept follow-up [QA956 Bashal'Aran].
 Complete [QC956 Bashal'Aran].
 Turn in [QT956 Bashal'Aran].\\Accept follow-up [QA957 Bashal'Aran].
+This next quest is very difficult at this level, but we need to go to the cave above Cliffspring River and complete [QC947 Cave Mushrooms].
 In this general area (above Bashal'aran, but below the Cliffspring river) complete the three quests [QC1002 Buzzbox 323], [QC [QC2138 Cleansing of the Infected] and [QC2178 Easy Strider Living].
 Turn in [QT1002 Buzzbox 323].\\Accept [QA1003 Buzzbox 525].
 Jump into the waterfall and fill the sampling tube to complete [QC4762 The Cliffspring River].
@@ -69,6 +71,7 @@ Accept [QA965 The Tower of Althalaxx] in the upper floor of the house.
 Turn in [QT982 Deep Ocean, Vast Sea].
 [V][R] Vendor and repair at Elisa, the dwarf next to the turn-in.
 Turn in [QT2178 Easy Strider Living].
+Turn in [QT947 Cave Mushrooms].\\Accept [QA948 Onu].
 
 -- Making the first southern round
 Go south and complete [QC985 How Big a Threat?].
@@ -97,6 +100,7 @@ Fill the *Empty Cleansing Bowl* to get [CI12347 Filled Cleansing Bowl].
 Accept [QA4740 WANTED: Murkdeep!].
 Fly to [F Rut'theran Village].
 Turn in [QT6343 Return to Nessa].
+[OC] Put  *Bear Meat*, *Chunk of Boar Meat*, *Small Spider Leg*, *Clam Meat*, and *Crawler Meat* on the bank.
 *Outside* of the Temple of Moon in Darnassus, accept [QA730 Trouble In Darkshore?].
 [T] Learn *only essential* skills at your trainer. We need to start saving for 30 mount!
 [OC] Gold check: You should have close to 2g after buying skills.
@@ -119,7 +123,7 @@ Learn *Heavy Linen Bandage* from Nissa at the second level.
 Make 10 [CI2581,10 Heavy Linen Bandage] to skill first aid to 50.
 Learn First Aid (Journeyman) from Nissa, too.
 Accept the flight point in [P Ironforge].
-Accept [QA2041 Speak with Shoni] and [QA2039 Find Bingles].
+Accept [QA2039 Find Bingles].
 Run to Rudra and accept [QA314 Protecting the Herd].
 Backtrack the road you came from, then run around the mountain and follow the [G59.77,50.04 path up].
 Complete [QC314 Protecting the Herd].

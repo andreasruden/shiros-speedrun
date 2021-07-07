@@ -3,10 +3,11 @@ Guidelime.registerGuide(
 
 [D Shiros 1-58 Speedrun for alliance (patch 2.3+)]
 [GA Alliance]
-[N 15-17 Loch Modan]
-[NX 17-19 Darkshore]
+[N 15-18 Loch Modan]
+[NX 18-20 Darkshore]
 
 -- Arriving in Thelsamar
+*HEADS UP*: Save any *Bear Meat*, *Chunk of Boar Meat*, *Small Spider Leg*, *Clam Meat*, and *Crawler Meat* for cooking.
 Accept [QA224 In Defense of King's Lands].
 Inside the bunker, accept [QA267 The Trogg Threat].
 In [G30.79,70.22 Stonesplinter Valley], complete [QC224 In Defense of King's Lands].
@@ -20,13 +21,12 @@ Accept follow-up [QA263 In Defense of King's Lands].
 Get fligh point in [P Thelsamar].
 [OC] If you see the patrol, accept his quests.
 [V][R] Vendor & repair at [G34.08,46.69 Morhan].
-Accept [QA255 Mercenaries].
 In the inn, accept [QA418 Thelsamar Blood Sausages].
-Accept [QA256 WANTED: Chok'sul].
 In the house behind the wanted poster, accept [QA436 Ironband's Excavation].
 Accept [QA416 Rat Catching] and [QA1339 Mountaineer Stormpike's Task].
 
 -- Finish the low level quests in the north-west
+[OC] Remember: Save any *Chunk of Boar Meat*, *Bear Meat* and *Small Spider Leg* you find.
 [OC] On the way to the next objectives, kill mobs for [QC418 Thelsamar Blood Sausages].
 [G34.74,30.67]
 Turn in [QT1339 Mountaineer Stormpike's Task].
@@ -49,7 +49,44 @@ Go up the hills south of the excavation site, and then make your way over to the
 Accept [QA385 Crocolisk Hunting].
 Accept [QA257 A Hunter's Boast].
 Jump out of the lodge behind Vyrin (west) and kill the Buzzards to complete the timed quest [QC257 A Hunter's Boast].
-Turn in [QT257 A Hunter's Boast].\\Accept follow-up
+Turn in [QT257 A Hunter's Boast].\\Accept follow-up [QA258 A Hunter's Challenge].
+Go north and kill boars to complete [QC258 A Hunter's Challenge].
+[OC] [V] Vendor if needed, but don't sell the cooking materials.
+Turn in [QT258 A Hunter's Challenge].
+Accept [QA271 Vyrin's Revenge].
+Turn in [QT2039 Find Bingles].\\Accept [QA2038 Bingles' Missing Supplies].
+Complete [QC385 Crocolisk Hunting] [G54.84,37.84].
+Loot [QC2038,1 Bingles' Wrench] [G48.73,30.08].
+Loot [QC2038,4 Bingles' Blastencapper] [G54.21,26.61].
+Loot [QC2038,3 Bingles' Hammer] [G51.76,24.09].
+Complete [QC263 In Defense of the King's Lands].
+Loot [QC2038,2 Bingles' Screwdriver] [G48.38,20.50].
+[G45.91,20.04].
+[G42.46,18.16].
+Accept [QA250 A Dark Threat Looms].
+Turn in [QT250 A Dark Threat Looms].\\Accept follow-up [QA199 A Dark Threat Looms].
+Turn in [QT199 A Dark Threat Looms].\\Accept follow-up [QA161 A Dark Threat Looms].
+Turn in [QT2038 Bingles' Missing Supplies].
+Run south of the lake to the [G40.24,66.78 path heading up the mountain].
+Follow the path up and complete [QC271 Vyrin's Revenge].
+Turn in [QT298 Excavation Progress Report].\\Accept [QA301 Report to Ironforge].
+In the inn, from [G35.56,49.01 Drac] purchase *Recipe: Smoke Bear Meat*.
+Turn in [QT263 In Defense of the King's Lands].
+Accept [QA217 In Defense of the King's Lands].
+Go into Stonesplinter Valley, and head up the [G34.3,78.66 left path].
+Enter the [G35.38,83.76 first cave].
+[G34.25,86.22]
+Take the [G33.82,88.53 right path].
+[G33.37,90.94]
+[G33.93,91.21]
+Directly around the corner to the left you can find all three quest mobs. Complete [QC217 In Defense of the King's Lands].
+Turn in [QT217 In Defense of the King's Lands].
+[OC] Grind you way west to the lodge, especially boars & bears are a nice targets for meat drops.
+Turn in [QT385 Crocolisk Hunting].
+Turn in [QT271 Vyrin's Revenge].\\Accept follow-up [QA531 Vyrin's Revenge].
+Turn in [QT531 Vyrin's Revenge].
+Grind outside of lodge to [XP18], if you're not levl 18 yet.
+Hearth to [H Auberdine].
 
 -- Loch Modan Chains:
 -- In Defense of the King's Lands: Troggs+Scouts in Stonesplinter.V. -> Back to bunker -> Thumpers+Seers in valley or northern island* -> Back to bunker -> Shaman+Bonesnapper in S.V. cave or northern island* -> Back to bunker -> Named mobs in cave
