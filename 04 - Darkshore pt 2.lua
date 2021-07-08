@@ -6,6 +6,27 @@ Guidelime.registerGuide(
 [N 18-20 Darkshore]
 [NX 20-22 Redridge Mountains]
 
+-- Deathwarp (die & resurrect at spirit healer) to Bashal'Aran.
+-- Follow the road until [G41.19,44.19].
+-- Then head east through the trees and jump down. [G39.97,43.88]
+
+-- Making the first southern round
+Go south and complete [QC985 How Big a Threat?].
+Go west and accept [QA4722 Beached Sea Turtle].
+
+Turn in [QT4723 Beached Sea Creature].
+Turn in [QT4725 Beached Sea Turtle].
+Turn in [QT4722 Beached Sea Turtle].
+Turn in [QT985 How Big a Threat?].
+[OC] Ignore RP, we will accept the follow up later.
+If you did not manage the quest earlier, complete [QC947 Cave Mushrooms]. Then turn it in.
+Turn in [QT4762 The Cliffspring River].\\Accept [QA4763 The Blackwood Corrupted].
+Go to Auberdine's [G37.78,44.03 Moonwell].
+Fill the *Empty Water Tube* to get [CI14339 Moonwell Water Tube].
+Fill the *Empty Cleansing Bowl* to get [CI12347 Filled Cleansing Bowl].
+Accept [QA4740 WANTED: Murkdeep!].
+Take the southern boat to Menethil Harbor. Craft bandages until first aid is 40 while you wait.
+
 -- Second trip south in Darkshore (incl pt 1)
 Turn in [QT730 Trouble In Darkshore?].\\Accept [QA729 The Absent Minded Prospector].
 Accept [QA10752 Onward to Ashenvale].

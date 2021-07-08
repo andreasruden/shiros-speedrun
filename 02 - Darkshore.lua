@@ -7,74 +7,40 @@ Guidelime.registerGuide(
 [NX 15-18 Loch Modan]
 
 -- XXX: List which quests we have coming into this zone, for checking against.
-You should have 2 quests: Grove of the Ancients, Flight to Auberdine.
+You should have 2 quests: Grove of the Ancients (952), Flight to Auberdine (6342).
 *HEADS UP*: Save any *Bear Meat*, *Chunk of Boar Meat*, *Small Spider Leg*, *Clam Meat*, and *Crawler Meat* for cooking.
 
 -- Initial quest-state setup
 Accept [QA3524 Washed Ashore].
-Turn in [QT6342 Flight to Aubderine].\\Accept [QA6343 Return to Nessa].
+Turn in [QT6342 Flight to Aubderine]. Skip follow-up.
 Set hearthstone in [S Auberdine].
 Accept [QA963 For Love Eternal].
 Accept [QA983 Buzzbox 827] in the room above the innkeeper.
-Accept [QA947 Cave Mushrooms].
-Accept [QA4811 The Red Crystal] when you see the wandering sentinel.
-Accept [QA2118 Plagued Lands].
-Accept [QA984 How Big a Threat?].
 [OC] If you have 6 *Darkshore Grouper*: Accept [QA1141 The Family and the Fishing Pole], and turn in [QT1141 The Family and the Fishing Pole]. Note: It has no follow-up, and we're assuming you skip it!
-[OC] Look out for striders to kill on the way, we will need 5 *Strider Meat* for a cooking quest.
-[OC] Get skinning to level 65+ in the next couple of steps (before coast). (At 60 you can skin up to level 12 mobs, at 65 up to 13, etc)
-Go east to the Red Crystal to complete [QC4811 The Red Crystal].
-Run south-west to the furbolg camp to complete [QC984 How Big a Threat?].
-Capture a [G38.68,58.82 Rabid Thistle Bear] around this area, using Tharnarium's Hope.
-Head north-west and loot the big, dead dinosaur to complete [QC3524 Washed Ashore].
-From here follow the coast north, killing crawlers to complete [QC983 Buzzbox 827]. (There's some north of Auberdine too)
+[OC] Grind crawlers on the way to the next objective.
+Loot the big, dead dinosaur to complete [QC3524 Washed Ashore].
+Complete [QC983 Buzzbox 827] (there's more crawlers in water + coast north of auberdine).
 Turn in [QT983 Buzzbox 827].\\Accept follow-up [QA1001 Buzzbox 411].
 Turn in [QT3524 Washed Ashore].\\Accept follow-up [QA3524 Washed Ashore].
-Turn in [QT4811 The Red Crystal].\\Accept [QA4812 As Water Cascades].
-Deliver the bear at [G38.8,43.4 Tharnariun] to complete [QC2118 Plagued Lands].
-Turn in [QT2118 Plagued Lands].\\Accept [QA2138 Cleansing of the Infected].
-Turn in [QT984 How Big a Threat?].\\Accept [QA985 How Big a Threat?] and [QA4761 Thundris Windweaver].
-Accept [QA2178 Easy Strider Living].
-Turn in [QT4761 Thundris Windweaver].\\Accept [QA954 Bashal'Aran], [QA958 Tools of the Highborne] and [QA4762 The Cliffspring River].
-[OC] If you don't have a full array of bags at this point, you should buy 6 slots from [G37.48,40.48 Dalmond].
 Swim west to complete [QC3524 Washed Ashore].
 Turn in [QT3524 Washed Ashore] to unlock all the Sea Monster quests.
-If you're not level 13 yet, grind to [XP13].
-[OC] Consider [V] vendoring if you need bag space, lots of junk drops ahead. (Don't sell Strider Meat!)
-Accept [QA982 Deep Ocean, Vast Sea].
+Accept [QA947 Cave Mushrooms].
+Accept [QA4811 The Red Crystal].
+Accept [QA2118 Plagued Lands].
+Accept [QA984 How Big a Threat?].
+Accept [QA2178 Easy Strider Living].
+Accept [QA954 Bashal'Aran] and [QA958 Tools of the Highborne].
+[OC] If you don't have a full array of bags at this point, you should buy 6 slots from [G37.48,40.48 Dalmond].
 
--- Making the first northern round
-Jump into the water and kill Threshers on the way north to complete [QC1001 Buzzbox 411].
-Grind towards [G41,31.7].
-Accept [QA4723 Beached Sea Creature].
-Enter the boat's [G38.24,29.40 south-western window], and swim down to your left.
-Loot [QC982,1 Silver Dawning's Lockbox].
-Enter the [G40.29,27.63 broken part] of the boat at the sea-floor, then swim left.
-Loot [QC982,2 Mist Veil's Lockbox].
-Turn in [QT1001 Buzzbox 411].\\Accept [QA1002 Buzzbox 323].
-[OC] Get skinning to 70 on the way to the next objective.
+-- Round around Auberdine (Bashal'aran and Ameth'aran)
+[OC] Throughout Darkshore, kill all the level-appropriate mobs you come accross. And don't forget to skin them too!
 Turn in [QT954 Bashal'Aran].\\Accept follow-up [QA955 Bashal'Aran].
 Complete [QC955 Bashal'Aran].
 Turn in [QT955 Bashal'Aran].\\Accept follow-up [QA956 Bashal'Aran].
 Complete [QC956 Bashal'Aran].
 Turn in [QT956 Bashal'Aran].\\Accept follow-up [QA957 Bashal'Aran].
-This next quest is very difficult at this level, but we need to go to the cave above Cliffspring River and complete [QC947 Cave Mushrooms].
-In this general area (above Bashal'aran, but below the Cliffspring river) complete the three quests [QC1002 Buzzbox 323], [QC [QC2138 Cleansing of the Infected] and [QC2178 Easy Strider Living].
-Turn in [QT1002 Buzzbox 323].\\Accept [QA1003 Buzzbox 525].
-Jump into the waterfall and fill the sampling tube to complete [QC4762 The Cliffspring River].
-Head west and accept [QA4725 Beached Sea Turtle].
-Deathwarp (die & resurrect at spirit healer) to Bashal'Aran. (Saves 92 seconds) XXX: This could be a hearthstone given how much more we have to do
-Follow the road until [G41.19,44.19].
-Then head east through the trees and jump down. [G39.97,43.88]
-Turn in [QT2138 Cleansing of the Infected].\\Accept [QA2139 Tharnariun's Hope].
-Accept [QA965 The Tower of Althalaxx] in the upper floor of the house.
-Turn in [QT982 Deep Ocean, Vast Sea].
-[V][R] Vendor and repair at Elisa, the dwarf next to the turn-in.
-Turn in [QT2178 Easy Strider Living].
-Turn in [QT947 Cave Mushrooms].\\Accept [QA948 Onu].
-
--- Making the first southern round
-Go south and complete [QC985 How Big a Threat?].
+Go south-east to the Red Crystal to complete [QC4811 The Red Crystal].
+Run south-west to the furbolg camp to complete [QC984 How Big a Threat?].
 Accept [QA953 The Fall of Ameth'Aran].
 [OC] If you spot Anaya while doing the next few steps, kill her for [QC983 For Love Eternal].
 Read the [QC953,1 Lay of Ameth'Aran].
@@ -82,30 +48,58 @@ Complete [QA957 Bashal'Aran].
 Read the [QC953,2 Fall of Ameth'Aran].
 Complete [QC983 For Love Eternal].
 Complete [QC958 Tools of the Highborne].
-Grind to [XP15-5940].
 Turn in [QT953 The Fall of Ameth'Aran].
--- Run back to Auberdine and turn in [QT985 How Big a Threat?]. \\(Notes: Deathwarp to Bashal'Aran is 5 seconds slower, and grabbing [11] beached turtle now loses 67 seconds total since coming FP side messes up turn-in routing + increased distance, and it doesn't lose xp until level 18.) -- This would be true if we didn't potentially end up having to grind a bunch for level 15 to take the optimal path in camp, by taking a bit worse of a path we get all the turn-in xp *before* we take the level 15 req quest (blackwoord corrupted)
-Go west and accept [QA4722 Beached Sea Turtle].
-[OC] Run up to along the coast to Auberdine.
-Turn in [QT4723 Beached Sea Creature].
-Turn in [QT4725 Beached Sea Turtle].
-Turn in [QT4722 Beached Sea Turtle].
+Capture a [G38.68,58.82 Rabid Thistle Bear] around this area, using Tharnarium's Hope.
+Accept [QA4727 Beached Sea Turtle].
+Kill the [G34.42,59.09 threshers] in this area.
+Head back to the coast and run up to Auberdine.
+Turn in [QT4811 The Red Crystal].\\Accept [QA4812 As Water Cascades].
+Deliver the bear to [G38.8,43.4 Tharnariun] to complete [QC2118 Plagued Lands].
+Turn in [QT2118 Plagued Lands].\\Accept [QA2138 Cleansing of the Infected].
+Turn in [QT984 How Big a Threat?].\\Accept [QA985 How Big a Threat?] and [QA4761 Thundris Windweaver].
+Accept [QA965 The Tower of Althalaxx] in the upper floor of the house.
+Accept [QA982 Deep Ocean, Vast Sea].
+Turn in [QT958 Tools of the Highborne] and [QT4761 Thundris Windweaver].\\Accept [QA4762 The Cliffspring River].
 Turn in [QT963 For Love Eternal].
-Turn in [QT985 How Big a Threat?].
-[OC] Ignore RP, we will accept the follow up later.
-Turn in [QT4762 The Cliffspring River] and [QT958 Tools of the Highborne].\\Accept [QA4763 The Blackwood Corrupted].
-Go to Auberdine's [G37.78,44.03 Moonwell].
-Fill the *Empty Water Tube* to get [CI14339 Moonwell Water Tube].
-Fill the *Empty Cleansing Bowl* to get [CI12347 Filled Cleansing Bowl].
-Accept [QA4740 WANTED: Murkdeep!].
+You should be level 14, if not grind to [XP14].
+Accept [QA6343 Return to Nessa].
+Turn in [QT4727 Beached Sea Turtle].
 Fly to [F Rut'theran Village].
 Turn in [QT6343 Return to Nessa].
-[OC] Put  *Bear Meat*, *Chunk of Boar Meat*, *Small Spider Leg*, *Clam Meat*, and *Crawler Meat* on the bank.
+[OC] Put *Bear Meat*, *Chunk of Boar Meat*, *Small Spider Leg*, *Clam Meat*, and *Crawler Meat* on the bank.
 *Outside* of the Temple of Moon in Darnassus, accept [QA730 Trouble In Darkshore?].
-[T] Learn *only essential* skills at your trainer. We need to start saving for 30 mount!
-[OC] Gold check: You should have close to 2g after buying skills.
+[T] Learn *only essential* skills at your trainer. We need to start saving for mount!
 Hearth to [H Auberdine].
-Take the southern boat to Menethil Harbor. Craft bandages until first aid is 40 while you wait.
+Turn in [QC730 Trouble In Darkshore?].\\Accept [QA729 The Absent Minded Prospector].
+
+-- Making the first round deep North
+Finish [QC1001 Buzzbox 411] on the way north.
+Enter the boat's [G38.24,29.40 south-western window], and swim down to your left.
+Loot [QC982,1 Silver Dawning's Lockbox].
+Enter the [G40.29,27.63 broken part] of the boat at the sea-floor, then swim left.
+Loot [QC982,2 Mist Veil's Lockbox].
+Accept [QA4723 Beached Sea Creature].
+Turn in [QT1001 Buzzbox 411].\\Accept [QA1002 Buzzbox 323].
+Get skinning to 70 by grinding the Lv.11-13 mobs [G43.4,29.5 close to the coast]. Also kill any Moonstalker you see.
+While leveling skinning, grind up and accept [QA4725 Beached Sea Turtle].
+In the northern area (Bashal'aran and up, ending around Cliffspring River) complete the three quests [QC1002 Buzzbox 323], [QC2138 Cleansing of the Infected] and [QC2178 Easy Strider Living].
+Turn in [QT1002 Buzzbox 323].\\Accept [QA1003 Buzzbox 525].
+Jump into the waterfall and fill the sampling tube to complete [QC4762 The Cliffspring River].
+Turn in [QT965 The Tower of Althalaxx].\\Accept follow-up [QA966 The Tower of Althalaxx].
+Complete [QA966 The Tower of Althalaxx].
+Turn in [QT966 The Tower of Althalaxx].\\Accept follow-up [QA967 The Tower of Althalaxx].
+If not level 15, grind to [XP15].
+Go to the cave above Cliffspring River and complete [QC947 Cave Mushrooms]. Note: Head right after entering the cave, chance for easy death cap.
+Turn in [QT957 Bashal'Aran].
+[OC] Run back to Auberdine.
+Turn in [QT2138 Cleansing of the Infected].\\Accept [QA2139 Tharnariun's Hope].
+Turn in [QT982 Deep Ocean, Vast Sea].
+[V][R] Vendor and repair at Elisa, the dwarf next to the turn-in. But don't sell Strider Meat.
+Turn in [QT2178 Easy Strider Living].
+Turn in [QC4762 The Cliffspring River].\\Accept [QA4763 The Blackwood Corrupted].
+Turn in [QT947 Cave Mushrooms].\\Accept [QA948 Onu].
+Turn in [QT4723 Beached Sea Creature].
+Take the boat to Menethil Harbor. Craft Linen Bandage to level first aid to 40 while waiting.
 
 -- To Loch Modan
 When arriving in Menethil, accept the flight point [P Menethil Harbor].
