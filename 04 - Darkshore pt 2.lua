@@ -28,6 +28,9 @@ Turn in [QT729 The Absent Minded Prospector].
 Accept [QA731 The Absent Minded Prospector].
 Complete [QC731 The Absent Minded Prospector].
 Accept [QA4730 Beached Sea Creature].
+Accept [QA4731 Beached Sea Turtle].
+Accept [QA4732 Beached Sea Turtle].
+Accept [QA4733 Beached Sea Creature].
 Complete [QC1003 Buzzbox 525] [G38.86,81.20 north of the glaive].
 Turn in [QT1003 Buzzbox 525].
 Turn in [QT950 Return to Onu].\\Accept [QA951 Mathystra Relics].
@@ -43,7 +46,7 @@ Turn in [QT945 Therylune's Escape].
 Run to Astranaar and get the [F Astranaar] flightpoint [G34.42,48.07].
 Turn in [QT10752 Onward to Ashenvale]. Note: This should just be turned in when we go to quest here, unnecessary running
 Fly to [F Auberdine].
-Turn in [QT4728 Beached Sea Creature] and [QT4730 Beached Sea Creature].
+Turn in [QT4728 Beached Sea Creature], [QT4730 Beached Sea Creature], [QT4731 Beached Sea Turtle], [QT4732 Beached Sea Turtle] and [QT4733 Beached Sea Creature].
 Turn in [QT4740 WANTED: Murkdeep!]
 Turn in [QT731 The Absent Minded Prospector].\\Accept follow-up [QA741 The Absent Minded Prospector].
 
