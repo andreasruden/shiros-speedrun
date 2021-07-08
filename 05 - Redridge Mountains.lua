@@ -32,7 +32,7 @@ Complete [QC255 Mercenaries].
 [OC] Not sure if this next quest is worth doing, lots of running for mediocre xp reward. Needs testing.
 Run west along the Stonewrought Dam and turn in [QT468 Report to Mountaineer Rockgar].\\Accept [QA455 The Algaz Gauntlet]. XXX: Does not seem worth doing. Could use testing.
 [QC455,1 Traverse Dun Algaz].
-Run back and kill the mobs to finish the quest [QC455 The Algaz Gauntlet].
+Run back and kill the mobs to finish the quest [QC455 The Algaz Gauntlet]. XXX: This quest is probably not worth doing from this direction, what about from Wetlands direction?
 Turn in [QT255 Mercenaries] and [QT256 WANTED: Chok'sul].
 Fly to [F Ironforge].
 Accept [QA2041 Speak with Shoni].
@@ -60,7 +60,7 @@ Accept the Darkshire FP [P Darkshire].
 Buy a [CI4371,1 Bronze Tube] from [G78.05,48.28 Herble]. (If he's out you're willing to use AH, you can buy one from AH later)
 If you have a Bronze Tube. Accept [QA174 Look to the Stars] and then turn it in. Skip follow up.
 [OC] Turn in [QT165 The Hermit] if you pass him.
-[OC] Also kill pygmy spiders for [QC245 Eight-Legged Menaces].
+[OC] Also kill spiders for [QC245 Eight-Legged Menaces] and 6 *Goey Spider Legs*.
 Head north and grind west, completing [QC226 Wolves at our Heels].
 Make sure you have [CI1015,10 Lean Wolf Flank] before moving on.
 Turn in [QT165 The Hermit].\\Accept [QA148 Supplies from Darkshire].
@@ -69,13 +69,58 @@ Turn in [QT164 Deliveries to Sven].\\Accept [QA95 Sven's Revenge].
 Finish up [QC226 Wolves at our Heels]. (Some are on the way to Raven Hill)
 Also, make sure you have [CI2251,6 Goey Spider Leg] before moving on.
 Turn in [QT163 Raven Hill].\\Accept [QA5 Jitters' Growling Cut].
-Run to Sentinel Hill and fly to [F Darkshire].
+Run to Sentinel Hill and fly to [F Darkshire]. XXX: Do we have to turn in eight-leged menace now? It loses xp at 27
 Turn in [QT148 Supplies from Darkshire]. Skip follow-up.
 Turn in [QT5 Jitters' Growling Cut] to the chef.\\Accept [QA93 Dusky Crab Cakes] and [QA90 Seasoned Wolf Kabobs] .
 Turn in [QT90 Seasoned Wolf Kabobs] and [QT93 Dusky Crab Cakes]. Skip follow-up.
 
 -- Redridge Mountains
 [OC] Run north to Redridge Mountains.
+[OC] Kill all the spiders and boars during the next step. Need Crisp Spider Meat, Great Goretusk Snout.
 Accept [QA244 Encroaching Gnolls].
+Turn in [QT244 Encroaching Gnolls].\\Accept [QA246 Assessing the Threat].
+Get FP [P Lakeshire].
+Accept [QA20 Blackrock Menace].
+Accept [QA125 The Lost Tools].
+Accept [QA127 Selling Fish] and [QA150 Murloc Poachers].
+Accept [QA129 A Free Lunch].
+Accept [QA92 Redridge Goulash].
+Accept [QA3741 Hilary's Necklace].
+[OC] Kill spiders and boars during the next step.
+Turn in [QT129 A Free Lunch].\\Accept [QA130 Visit the Herbalist].
+Collect [QC92,1 Great Goretusk Snout]. [G32.03,70.05]
+[OC] There's some gnolls you can kill around here too, while looking for spiders. For [QC246 Assessing the Threat].
+[OC] There's also more spiders on the road closer to Duskwood.
+Finish collecting [QC92,3 Crisp Spider Meat]. [G18.48,73.67]
+Finish collecting [QC92,1 Great Goretusk Snout]. [G32.03,70.05]
+Head east and complete [QC246 Assessing the Threat].
+Go clear out all the Condors at [G62,76.63].
+[OC] Save any Clam Meat you find. We need those for cooking.
+Kill murlocs at [GG48.49,71.42 this camp] to complete [QC150 Murloc Poachers] and [QC127 Selling Fish].
+Go clear out all the Condors at [G62,76.63].
+Complete [QC20 Blackrock Menace] at the [G74.2,81.3 SE cave].
+Finish collecting [QC92,2 Tough Condor Meat]. [G62,76.63]
+Complete [QC125 The Lost Tools].
+Complete [QC3741 Hilary's Necklace].
+[OC] When you [V] vendor don't sell the Murloc Fins or the ingredients for the Goulash.
+Turn in [QT20 Blackrock Menace].
+Turn in [QT125 The Lost Tools].
+Turn in [QT130 Visit the Herbalist].\\Accept [QA131 Delivering Daffodils].
+Turn in [QT92 Redridge Goulash].
+Turn in [QT131 Delivering Daffodils].
+Turn in [QT127 Selling Fish] and [QT150 Murloc Poachers].
+Turn in [QT3741 Hilary's Necklace].
+Swim across and turn in [QT246 Assessing the Threat].
+Hearth to [H Auberdine].
+
+-- Redridge chains:
+-- A Free Lunch: 2 run-arounds in Lakeshire, pretty meh xp though
+-- The Price of Shoes: Goldshire -> Lakeshire -> kill Whelps + gnolls above Lakeshire -> Kill Yowler north of Lakeshire
+-- Blackrock Menace: 2 follow-ups. Kill Tharil'zun (level 25 mob) and gather Midnight Orbs (both in Stonewatch)
+
+-- Second visit we will do at 25+, and complete:
+-- An Unwelcome Guest
+-- Tharil'zun, Midnight Orbs and Gath'llzogg
+-- Solomon's Law and Lt Fangore
 
 ]], 'Shiros Speedrun')
