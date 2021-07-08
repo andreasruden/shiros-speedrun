@@ -70,6 +70,7 @@ Turn in [QT6343 Return to Nessa].
 *Outside* of the Temple of Moon in Darnassus, accept [QA730 Trouble In Darkshore?].
 [T] Learn *only essential* skills at your trainer. We need to start saving for mount!
 Hearth to [H Auberdine].
+In the moonwell, fill the Moonwell Water Tube to complete [QC4812 As Water Cascades].
 Turn in [QC730 Trouble In Darkshore?].\\Accept [QA729 The Absent Minded Prospector].
 
 -- Making the first round deep North
@@ -91,13 +92,17 @@ Turn in [QT966 The Tower of Althalaxx].\\Accept follow-up [QA967 The Tower of Al
 If not level 15, grind to [XP15].
 Go to the cave above Cliffspring River and complete [QC947 Cave Mushrooms]. Note: Head right after entering the cave, chance for easy death cap.
 Turn in [QT957 Bashal'Aran].
+At the red crystal, turn in [QT4812 As Water Cascades].\\Accept [QA4813 The Fragments Within].
+Run south and complete [QC985 How Big a Threat?].
 [OC] Run back to Auberdine.
+Turn in [QT985 How Big a Threat?]. Skip follow-up since it's blocked by RP.
 Turn in [QT2138 Cleansing of the Infected].\\Accept [QA2139 Tharnariun's Hope].
 Turn in [QT982 Deep Ocean, Vast Sea].
 [V][R] Vendor and repair at Elisa, the dwarf next to the turn-in. But don't sell Strider Meat.
 Turn in [QT2178 Easy Strider Living].
 Turn in [QC4762 The Cliffspring River].\\Accept [QA4763 The Blackwood Corrupted].
 Turn in [QT947 Cave Mushrooms].\\Accept [QA948 Onu].
+Turn in [QT4813 The Fragments Within].
 Turn in [QT4723 Beached Sea Creature].
 Take the boat to Menethil Harbor. Craft Linen Bandage to level first aid to 40 while waiting.
 

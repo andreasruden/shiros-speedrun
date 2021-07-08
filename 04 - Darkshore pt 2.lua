@@ -11,8 +11,8 @@ Guidelime.registerGuide(
 -- Then head east through the trees and jump down. [G39.97,43.88]
 
 -- Making the first southern round
-Go south and complete [QC985 How Big a Threat?].
-Go west and accept [QA4722 Beached Sea Turtle].
+Accept [QA986 A Lost Master].
+
 
 Turn in [QT4723 Beached Sea Creature].
 Turn in [QT4725 Beached Sea Turtle].
