@@ -193,7 +193,7 @@ Turn in [QT2499 Oakenscowl].
 [G42.1,50.05] Learn *Journeyman Skinning* from Radnaal.
 Accept [QA6344 Nessa Shadowsong].
 [OC] If you're not speed-running, then consider using the AH to purchase 6 [CI12238,6 Darkshore Grouper], if you find them at a reasonable price.
-Turn in [QT940 Teldrassil] and [QT935 Crown of the Earth] up the tree.\\Accept [QA952 Grove of the Ancients].
+Turn in [QT940 Teldrassil] and [QT935 Crown of the Earth] up the tree.\\Accept [QA952 Grove of the Ancients]. Note: We will carry this item for 6 levels, and only get 530 XP from it. It has no follow-up so you can skip it if you don't like that.
 [T] If you're level 12 learn skills. Might also want to pick up weapon specializations from Darnassus.
 Turn in [QT6344 Nessa Shadowsong].\\Accept [QA6341 The Bounty of Teldrassil].
 Turn in [QT6341 The Bounty of Teldrassil].\\Accept [QA6342 Flight to Auberdine].

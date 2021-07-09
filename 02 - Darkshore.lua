@@ -12,7 +12,7 @@ You should have 2 quests: Grove of the Ancients (952), Flight to Auberdine (6342
 
 -- Initial quest-state setup
 Accept [QA3524 Washed Ashore].
-Turn in [QT6342 Flight to Aubderine]. Skip follow-up.
+Turn in [QT6342 Flight to Aubderine]. Skip follow-up for now.
 Set hearthstone in [S Auberdine].
 Accept [QA963 For Love Eternal].
 Accept [QA983 Buzzbox 827] in the room above the innkeeper.
@@ -33,7 +33,7 @@ Accept [QA954 Bashal'Aran] and [QA958 Tools of the Highborne].
 [OC] If you don't have a full array of bags at this point, you should buy 6 slots from [G37.48,40.48 Dalmond].
 
 -- Round around Auberdine (Bashal'aran and Ameth'aran)
-[OC] Throughout Darkshore, kill all the level-appropriate mobs you come accross. And don't forget to skin them too!
+[OC] Throughout Darkshore pt 1, kill all the level-appropriate mobs you come accross. And don't forget to skin them too!
 Turn in [QT954 Bashal'Aran].\\Accept follow-up [QA955 Bashal'Aran].
 Complete [QC955 Bashal'Aran].
 Turn in [QT955 Bashal'Aran].\\Accept follow-up [QA956 Bashal'Aran].
@@ -71,7 +71,7 @@ Turn in [QT6343 Return to Nessa].
 [T] Learn *only essential* skills at your trainer. We need to start saving for mount!
 Hearth to [H Auberdine].
 In the moonwell, fill the Moonwell Water Tube to complete [QC4812 As Water Cascades].
-Turn in [QC730 Trouble In Darkshore?].\\Accept [QA729 The Absent Minded Prospector].
+Turn in [QC730 Trouble In Darkshore?]. Skip follow-up for now.
 
 -- Making the first round deep North
 Finish [QC1001 Buzzbox 411] on the way north.
@@ -96,12 +96,12 @@ At the red crystal, turn in [QT4812 As Water Cascades].\\Accept [QA4813 The Frag
 Run south and complete [QC985 How Big a Threat?].
 [OC] Run back to Auberdine.
 Turn in [QT985 How Big a Threat?]. Skip follow-up since it's blocked by RP.
-Turn in [QT2138 Cleansing of the Infected].\\Accept [QA2139 Tharnariun's Hope].
+Turn in [QT2138 Cleansing of the Infected]. Skip follow-up for now.
 Turn in [QT982 Deep Ocean, Vast Sea].
 [V][R] Vendor and repair at Elisa, the dwarf next to the turn-in. But don't sell Strider Meat.
 Turn in [QT2178 Easy Strider Living].
-Turn in [QC4762 The Cliffspring River].\\Accept [QA4763 The Blackwood Corrupted].
-Turn in [QT947 Cave Mushrooms].\\Accept [QA948 Onu].
+Turn in [QC4762 The Cliffspring River]. Skip follow-up for now.
+Turn in [QT947 Cave Mushrooms].
 Turn in [QT4813 The Fragments Within].
 Turn in [QT4723 Beached Sea Creature].
 Take the boat to Menethil Harbor. Craft Linen Bandage to level first aid to 40 while waiting.
