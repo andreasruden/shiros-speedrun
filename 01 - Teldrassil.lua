@@ -6,8 +6,15 @@ Guidelime.registerGuide(
 [N 1-12 Teldrassil]
 [NX 12-15 Darkshore]
 
-*Some speedrun tips*:
-*Speedrunning is best done with a class that can kill while moving*. Always try to strafe towards your next objective while killing. And always look to kill/grind while headed somewhere.
+[OC] *Some speedrun tips*:
+[OC] *Speedrunning is best done with a class that can kill while moving*. Always try to run towards your next objective while killing. And always look to kill/grind while headed somewhere.
+[OC] *Melee classes*: By strafing you can kill while moving at full speed.
+[OC] *Hunter specific*: Get an auto-shot timer addon. To kill while moving run straight, then simply spin around for an auto shot + instant shot (e.g. arcane shot or serpent sting).
+[OC] *Hunter specific [when not on the move]*: Before pet, when a mob reaches melee start auto-shooting another and melee weaving that first mob to min-max kill speed. Can be easily done with a macro:\\*/targetlasttarget\\/startattack\\/use Auto Shot*
+
+[OC] Note: In this guide we will get skinning & cooking for some extra money towards mount. For hunter which can get up to 38% inc. MS, or druid (40%), this is probably not a time save.
+
+XXX: Add food+water buying. Arrow purchasing. Hunter quests.
 
 Accept [QA456 The Balance of Nature].
 Accept [QA458 The Woodland Protector].
@@ -26,7 +33,7 @@ Collect [QC3521,1 Hyacinth Mushroom] and [QC3521,2 Moonpetal Lily].
 Complete [QC457 The Balance of Nature] by killing mobs around [G60.3,34.7].
 Kill spiders outside the cave for the [QC3521,3 Webwood Ichor].
 Complete [QC916 Webwood Venom].
-Deathwarp back. (Die & resurrect at spirit healer)
+Deathwarp back. (Die & resurrect at spirit healer). Pull mobs and spam /sit to die faster.
 Turn in [QT457 The Balance of Nature].
 [A Rogue]Accept [QA3118 Encrypted Sigil].
 [A Rogue]Turn in [QC3118 Encrypted Sigil] and [T] train level 2 & 4 skills.
