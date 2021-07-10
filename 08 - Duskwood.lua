@@ -16,7 +16,7 @@ Accept [QA173 Worgen in the Woods].
 Accept [QA66 The Legend of Stalvan]. -- The Totem of Infliction, Ghost Hair Thread
 -- From the chef, Return to Jitters
 Accept [QA56 The Night Watch].
-Turn in [QT66 The Legend of Stalvan]. Skip follow-up.
+Turn in [QT66 The Legend of Stalvan].\\Accept [QA67 The Legend of Stalvan].
 Behind the inn run up the mountain [G71.8991,43.0247,1].
 Complete [QC173 Worgen in the Woods]. [G64.34,37.55]
 Jump [G68.109,45.055 over here] to get back to Darkshire.
@@ -46,12 +46,12 @@ Turn in [QT157 Deliver the Thread].\\Accept [QA158 Zombie Juice].
 Accept [QA225 The Weathered Grave].
 Turn in [QT230 Sven's Camp].\\Accept [QA262 The Shadowy Figure].
 Run into Westfall. Kill the Dust Devil around [G63.2,51.9].
--- If we wanted to continue Legend of Stalvan we'd run to Moonbrook here. But 1,700 xp with no kill xp on the way + shit follow up is not worth it.
-Fly to [F Darkshire].
+Turn in [QT67 The Legend of Stalvan].\\Accept follow-up [QA68 The Legend of Stalvan].
+Run to Sentinel Hill and fly to [F Darkshire].
 Turn in [QT262 The Shadowy Figure].\\Accept [QA265 The Shadowy Search Continues].
 Turn in [QT158 Zombie Juice].\\Accept [QA156 Gather Rot Blossoms].
 Turn in [QT57 The Night Watch].\\Accept follow-up [QA58 The Night Watch].
-Turn in [QT265 The Shadowy Search Continues].\\Accept [QA266 Inquire at the Inn].
+Turn in [QT265 The Shadowy Search Continues] and [QT68 The Legend of Stalvan].\\Accept [QA266 Inquire at the Inn] and [QA69 The Legend of Stalvan].
 Turn in [QT225 The Weathered Grave].\\Accept [QA227 Morgan Ladimore].
 Turn in [QT227 Morgan Ladimore].\\Accept [QA228 Mor'Ladim].
 [OC] Destroy the item [The Story of Morgan Ladimore].
@@ -74,9 +74,34 @@ In the back of the cave, kill ZZarc' Vul to complete [QC181 Look To The Stars].
 Complete [QC134 Ogre Thieves].
 Turn in [QT323 Proving Your Worth].\\Accept [QA269 Seeking Wisdom].
 Turn in [QT134 Ogre Thieves].\\Accept [QA160 Note to the Mayor].
-Finish collecting [QC101,2 Vial of Spider Venom]. [G22,28]
-If you didn't get the debris, kill the Dust Devil around [G63.2,51.9] in Westfall.
-Fly to [F Stormwind].
+Finish collecting [QC101,2 Vial of Spider Venom]. [G32.2,34.8]
+If not Lv.28 yet, grind to [XP28].
+Run north into Elwynn Forest, head up to Goldshire and turn in [QT69 The Legend of Stalvan].\\Accept [QA70 The Legend of Stalvan].
+Walk upstairs in the inn, to the room furthest in, and complete [QC70 The Legend of Stalvan].
+[OC] [T] Can train skills while in stormwind anyway.
+Run to stormwind, turn in [QT70 The Legend of Stalvan].\\Accept follow-up [QA72 The Legend of Stalvan].
+Turn in [QT72 The Legend of Stalvan].\\Accept follow-up [QA74 The Legend of Stalvan].
+Turn in [QT269 Seeking Wisdom].\\Accept [QT270 The Doomed Fleet].
+Accept [QA1274 The Missing Diplomat].
+Turn in [QT1274 The Missing Diplomat].\\Accept follow-up [QA1241 The Missing Diplomat].
+Turn in [QT1241 The Missing Diplomat].\\Accept follow-up [QA1242 The Missing Diplomat].
+Turn in [QT1242 The Missing Diplomat].\\Accept follow-up [QA1243 The Missing Diplomat].
+[OC] In the next-step, classes with no movement speed increase can save roughly 40 seconds by flying to Lakeshire and backtracking. For hunter, etc, this is a slow-down.
+Run to Eastvale Logging camp and turn in [QT74 The Legend of Stalvan].\\Accept [QA75 The Legend of Stalvan].
+Go upstair and complete [QC75 The Legend of Stalvan].
+Turn in [QT75 The Legend of Stalvan].\\Accept [QA78 The Legend of Stalvan].
+Run south to Darkshire and turn in [QT1243 The Missing Diplomat].\\Accept follow-up [QA1244 The Missing Diplomat].
+Turn in [QT101 The Totem of Infliction].
+Turn in [QT78 The Legend of Stalvan].\\Accept [QA79 The Legend of Stalvan].
+Turn in [QT58 The Night Watch] and [QT79 The Legend of Stalvan].\\Accept [QA80 The Legend of Stalvan].
+If you completed it, turn in [QT228 Mor'Ladim].\\Accept [QA229 The Daughter Who Lived].
+Turn in [QT229 The Daughter Who Lived].\\Accept [QA231 A Daughter's Love].
+Turn in [QT80 The Legend of Stalvan].\\Accept [QA97 The Legend of Stalvan].
+Turn in [QT160 Note to the Mayor].\\Accept [QA251 Translate Abercrombie's Note].
+Turn in [QT251 Translate Abercrombie's Note].\\Accept [QA401 Wait for Sirra to Finish].
+Turn in [QT401 Wait for Sirra to Finish]. Accept [QA252 Translation to Ello].
+Turn in [QT252 Translation to Ello].\\Accept [QA253 Bride of the Embalmer].
+Turn in [QT97 The Legend of Stalvan].\\Accept [QA98 The Legend of Stalvan].
 
 Turn in [QT181 Look To The Stars].
 
