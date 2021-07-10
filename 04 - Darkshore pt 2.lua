@@ -88,7 +88,7 @@ Turn in [QT741 The Absent Minded Prospector] (outside of the temple again).\\Acc
 Hearth to [H Auberdine] or fly if on cooldown.
 [OC] While waiting for the boat do some cooking. First cook the Chunk of Boar Meat (yellow at 45), then the Small Spider Legs (yellow at 50). Learn *Recipe: Smoked Bear Meat*, and cook as many as you have, up to skill 75.
 [OC] On the actual boat make some Heavy Linen Bandages.
-In the menethil harbor inn, turn in [QT942 The Absent Minded Prospector]. Skip follow-up for now.
+In the menethil harbor inn's upper floor, turn in [QT942 The Absent Minded Prospector].\\Accept [QA943 The Absent Minded Prospector].
 Accept [QA1132 Fiora Longears].
 Fly to [F Ironforge].
 

@@ -4,9 +4,9 @@ Guidelime.registerGuide(
 [D Shiros 1-58 Speedrun for alliance (patch 2.3+)]
 [GA Alliance]
 [N 22-25 Ashenvale]
-[NX X-X XXX]
+[NX 25-27 Wetlands]
 
-[OC] Quest check: Darkshore: The Tower of Althalaxx (967), Therylune's Escape (945), Mathystra Relics (951). Wetlands: Fiora Longears (1132) XXX: What else?
+[OC] Quest check: Darkshore: The Absent Minded Prospector (943), The Tower of Althalaxx (967), Therylune's Escape (945), Mathystra Relics (951). Wetlands: Fiora Longears (1132) XXX: What else?
 
 *HEADS UP*: Save any *Bear Meat*, *Clam Meat*, and *Crawler Meat* for cooking.
 

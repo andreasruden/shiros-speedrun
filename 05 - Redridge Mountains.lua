@@ -6,7 +6,7 @@ Guidelime.registerGuide(
 [N 20-22 Redridge Mountains]
 [NX 22-25 Ashenvale]
 
-[OC] Quest check: Darkshore: The Tower of Althalaxx (967), Therylune's Escape (945), Mathystra Relics (951). And then, Stormpike's Order, Report to Ironforge, A Dark Threat Looms. Wetlands: Fiora Longears (1132) XXX: Quest ids + categories
+[OC] Quest check: Darkshore: The Absent Minded Prospector (943), The Tower of Althalaxx (967), Therylune's Escape (945), Mathystra Relics (951). And then, Stormpike's Order, Report to Ironforge, A Dark Threat Looms. Wetlands: Fiora Longears (1132) XXX: Quest ids + categories
 [OC] In patch 2.3 they made it so that starting at level 20, you will need less experience per level than in vanilla. This guide assumes we're at that patch's values.
 
 *HEADS UP*: Save any *Bear Meat*, *Clam Meat*, and *Crawler Meat* for cooking.
@@ -30,12 +30,11 @@ Accept [QA309 Protecting the Shipment].
 Escort Miran to complete [QC309 Protecting the Shipment].
 Turn in [QT309 Protecting the Shipment].
 Grind *Bear Meat* to the [G68,42.7 east of the lake] to get enough for cooking 80 (recipe stays orange).
-Grind you way north and complete [QC256 WANTED: Chok'sul]. He's in the middle cave of the 3 caves. In the deepest room.
+Grind your way north and complete [QC256 WANTED: Chok'sul]. He's in the middle cave of the 3 caves. In the deepest room.
 Complete [QC255 Mercenaries].
-[OC] Not sure if this next quest is worth doing, lots of running for mediocre xp reward. Needs testing.
-Run west along the Stonewrought Dam and turn in [QT468 Report to Mountaineer Rockgar].\\Accept [QA455 The Algaz Gauntlet]. XXX: Does not seem worth doing. Could use testing.
-[QC455,1 Traverse Dun Algaz].
-Run back and kill the mobs to finish the quest [QC455 The Algaz Gauntlet]. XXX: This quest is probably not worth doing from this direction, what about from Wetlands direction?
+Run west along the Stonewrought Dam and turn in [QT468 Report to Mountaineer Rockgar].\\Accept [QA455 The Algaz Gauntlet].
+[OC] We lose 44 seconds in running time compared to killing the mobs from Menethil side, but we get ~double xp per kill.
+Run in and do the kill objectives but no the traverse. Finish [QC455,2 Dragonmaw Scout] and [QC455,3 Dragonmaw Grunt].
 Turn in [QT255 Mercenaries] and [QT256 WANTED: Chok'sul].
 Fly to [F Ironforge].
 Accept [QA2041 Speak with Shoni].
