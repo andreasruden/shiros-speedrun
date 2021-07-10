@@ -72,8 +72,9 @@ Turn in [QT464 War Banners].\\Accept [QA465 Nek'rosh's Gambit].
 Turn in [QT306 In Search of The Excavation Team].
 [OC] You should be level 26 by now.
 
--- To Ironforge
+-- Ironforge & Stormwind
 Fly to [F Ironforge].
+Skip this step if you lack wool to get to FA 115. Otherwise learn *Heavy Wool Bandage* at [G55.1,58.2 Nissa].
 Learn the *Crab Cake* recipe [G59.56,37.61]. Buy *Mild Spices* downstairs.
 Turn in [QT1072 An Old Colleague]. Skip follow-up.
 Take the tram. Cook Boiled Clams, then Crab Cakes while waiting.
