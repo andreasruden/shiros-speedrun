@@ -6,7 +6,7 @@ Guidelime.registerGuide(
 [N 22-25 Ashenvale]
 [NX 25-27 Wetlands]
 
-[OC] Quest check: Darkshore: The Absent Minded Prospector (943), The Tower of Althalaxx (967), Therylune's Escape (945), Mathystra Relics (951). Wetlands: Fiora Longears (1132) XXX: What else?
+[OC] Quest check: Darkshore: The Absent Minded Prospector (943), The Tower of Althalaxx (967), Therylune's Escape (945), Mathystra Relics (951). Redridge: An Unwelcome Guest (34). Wetlands: Fiora Longears (1132) XXX: What else?
 
 *HEADS UP*: Save *Bear Meat*, *Boar Ribs*, *Clam Meat*, *Crawler Meat* and *Crawler Leg* for cooking.
 

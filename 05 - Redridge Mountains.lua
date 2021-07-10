@@ -72,7 +72,9 @@ Turn in [QT164 Deliveries to Sven].\\Accept [QA95 Sven's Revenge].
 Finish up [QC226 Wolves at our Heels]. (Some are on the way to Raven Hill)
 Also, make sure you have [CI2251,6 Goey Spider Leg] before moving on.
 Turn in [QT163 Raven Hill].\\Accept [QA5 Jitters' Growling Cut].
-Run to Sentinel Hill and fly to [F Darkshire]. XXX: Do we have to turn in eight-leged menace now? It loses xp at 27
+Turn in [QT245 Eight-Legged Menaces].
+Run south into STV and get the flight-point at [P Rebel Camp].
+Fly to [F Darkshire].
 Turn in [QT148 Supplies from Darkshire]. Skip follow-up.
 Turn in [QT5 Jitters' Growling Cut] to the chef.\\Accept [QA93 Dusky Crab Cakes] and [QA90 Seasoned Wolf Kabobs] .
 Turn in [QT90 Seasoned Wolf Kabobs] and [QT93 Dusky Crab Cakes]. Skip follow-up.
@@ -108,7 +110,9 @@ Complete [QC3741 Hilary's Necklace].
 [OC] When you [V] vendor don't sell the Murloc Fins or the ingredients for the Goulash.
 Turn in [QT20 Blackrock Menace].
 Turn in [QT125 The Lost Tools].
-Turn in [QT130 Visit the Herbalist].\\Accept [QA131 Delivering Daffodils].
+Turn in [QT130 Visit the Herbalist].\\Accept [QA131 Delivering Daffodils] and [QA34 An Unwelcome Guest].
+Complete [QC34 An Unwelcome Guest].
+Turn in [QT34 An Unwelcome Guest].
 Turn in [QT92 Redridge Goulash].
 Turn in [QT131 Delivering Daffodils].
 Turn in [QT127 Selling Fish] and [QT150 Murloc Poachers].
@@ -120,10 +124,5 @@ Hearth to [H Auberdine].
 -- A Free Lunch: 2 run-arounds in Lakeshire, pretty meh xp though
 -- The Price of Shoes: Goldshire -> Lakeshire -> kill Whelps + gnolls above Lakeshire -> Kill Yowler north of Lakeshire
 -- Blackrock Menace: 2 follow-ups. Kill Tharil'zun (level 25 mob) and gather Midnight Orbs (both in Stonewatch)
-
--- Second visit we will do at 25+, and complete:
--- An Unwelcome Guest
--- Tharil'zun, Midnight Orbs and Gath'llzogg
--- Solomon's Law and Lt Fangore
 
 ]], 'Shiros Speedrun')

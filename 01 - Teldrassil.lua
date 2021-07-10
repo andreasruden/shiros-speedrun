@@ -12,7 +12,7 @@ Guidelime.registerGuide(
 [OC] *Hunter specific*: Get an auto-shot timer addon. To kill while moving run straight, then simply spin around for an auto shot + instant shot (e.g. arcane shot or serpent sting).
 [OC] *Hunter specific [when not on the move]*: Before pet, when a mob reaches melee start auto-shooting another and melee weaving that first mob to min-max kill speed. Can be easily done with a macro:\\*/targetlasttarget\\/startattack\\/use Auto Shot*
 
-[OC] Note: In this guide we will get skinning & cooking for some extra money towards mount. For hunter which can get up to 38% inc. MS, or druid (40%), this is probably not a time save.
+[OC] Note: This guide learns skinning and cooking for a bit of a quicker mount. For classes with good MS increase, hunter (up to 38%), druid (40%), shaman (40%), these instructions can be skipped for a net-gain in total speed. Same for classes with "free" mounts (paladin, warlock).
 
 XXX: Add food+water buying. Arrow purchasing. Hunter quests.
 

@@ -8,7 +8,7 @@ Guidelime.registerGuide(
 
 *HEADS UP*: Save *Bear Meat*, *Boar Ribs*, *Clam Meat*, *Crawler Meat*, *Crawler Leg* and *Raptor Egg* for cooking.
 
-[OC] Questcheck. Loch Modan: A Dark Threat Looms (161). Wetlands: The Algaz Gauntlet (455). XXX: Any more?
+[OC] Questcheck. Loch Modan: A Dark Threat Looms (161). Redridge: An Unwelcome Guest (34). Wetlands: The Algaz Gauntlet (455). XXX: Any more?
 
 [OC] Optional: If bagspace is a problem, you can pop by ironforge to cook the crawler meat, train skills and turn in An Old Colleague. (Guide does this after Wetlands)
 
@@ -82,7 +82,8 @@ In stormwind, at [G72.94, 38.45 the cooking trainer], get cooking to 130. Kendor
 After that buy and learn *Recipe: Curiously Tasty Omelet* from Kendor.
 Turn in [QT1075 A Scroll from Mauren] and [QT1078 Retrieval for Mauren].\\Accept [QA1076 Devils in Westfall]. -- XXX: Do we end up doing this?
 In the cellar of The Slaughtered Lamb, accept [QA335 A Noble Brew].
-Fly to [F Lakeshire].
+If you're not speed-running and can use AH, buy a Bronze Tube if you didn't finish Look to the Stars.
+Fly to [F Darkshire].
 
 -- XXX: For next visit to Wetlands
 -- Should we do this round later at 28+ to be able to do https://tbc.wowhead.com/quest=631/the-thandol-span ?
