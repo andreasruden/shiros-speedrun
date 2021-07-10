@@ -122,6 +122,7 @@ Run back to Astranaar and turn in [QT1054 Culling the Threat].
 Fly to [F Auberdine].
 Turn in [QT994 Escape through Force].
 Accept [QA990 Trek to Ashenvale] from the NE woman that spawns upon turn-in. (XXX: Is this how it works?)
+[OC] Can [T] learn skills in Darnassus if you want to save a bit of money or if Ironforge does not have your trainer.
 Take the boat to Menethil Harbor. Level cooking to at least 80 and then make bandages up to 115 while waiting.
 
 ]], 'Shiros Speedrun')
