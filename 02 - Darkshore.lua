@@ -8,7 +8,7 @@ Guidelime.registerGuide(
 
 -- XXX: List which quests we have coming into this zone, for checking against.
 You should have 2 quests: Grove of the Ancients (952), Flight to Auberdine (6342).
-*HEADS UP*: Save any *Bear Meat*, *Chunk of Boar Meat*, *Small Spider Leg*, *Clam Meat*, and *Crawler Meat* for cooking.
+*HEADS UP*: Save any *Bear Meat*, *Boar Ribs*, *Chunk of Boar Meat*, *Small Spider Leg*, *Clam Meat*, *Crawler Meat* and *Crawler Leg* for cooking.
 
 -- Initial quest-state setup
 Accept [QA3524 Washed Ashore].
@@ -66,7 +66,7 @@ Accept [QA6343 Return to Nessa].
 Turn in [QT4727 Beached Sea Turtle].
 Fly to [F Rut'theran Village].
 Turn in [QT6343 Return to Nessa].
-[OC] Put *Bear Meat*, *Chunk of Boar Meat*, *Small Spider Leg*, *Clam Meat*, and *Crawler Meat* on the bank.
+[OC] Put all the cooking materials on the bank.
 *Outside* of the Temple of Moon in Darnassus, accept [QA730 Trouble In Darkshore?].
 [T] Learn *only essential* skills at your trainer. We need to start saving for mount!
 Hearth to [H Auberdine].

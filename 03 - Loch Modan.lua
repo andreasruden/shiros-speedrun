@@ -6,8 +6,9 @@ Guidelime.registerGuide(
 [N 15-18 Loch Modan]
 [NX 18-20 Darkshore]
 
+*HEADS UP*: Save *Bear Meat*, *Boar Ribs*, *Chunk of Boar Meat*, *Small Spider Leg*, *Clam Meat*, *Crawler Meat* and *Crawler Leg* for cooking.
+
 -- Arriving in Thelsamar
-*HEADS UP*: Save any *Bear Meat*, *Chunk of Boar Meat*, *Small Spider Leg*, *Clam Meat*, and *Crawler Meat* for cooking.
 Accept [QA224 In Defense of King's Lands].
 Inside the bunker, accept [QA267 The Trogg Threat].
 In [G30.79,70.22 Stonesplinter Valley], complete [QC224 In Defense of King's Lands].

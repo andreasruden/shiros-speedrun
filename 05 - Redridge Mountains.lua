@@ -9,12 +9,12 @@ Guidelime.registerGuide(
 [OC] Quest check: Darkshore: The Absent Minded Prospector (943), The Tower of Althalaxx (967), Therylune's Escape (945), Mathystra Relics (951). And then, Stormpike's Order, Report to Ironforge, A Dark Threat Looms. Wetlands: Fiora Longears (1132) XXX: Quest ids + categories
 [OC] In patch 2.3 they made it so that starting at level 20, you will need less experience per level than in vanilla. This guide assumes we're at that patch's values.
 
-*HEADS UP*: Save any *Bear Meat*, *Clam Meat*, and *Crawler Meat* for cooking.
+*HEADS UP*: Save *Bear Meat*, *Boar Ribs*, *Clam Meat*, *Crawler Meat* and *Crawler Leg* for cooking.
 
 -- Ironforge
 Level first-aid up to 80, then learn *Wool Bandages* at [G55.14,57.33 Nissa] (upstairs).
 [OC] Sell Linen Cloth from now on.
-If you did not get cooking to 50 while waiting for the boat, do so now. Then learn Cooking (Journeyman) at [G59.44,37.76 Daryl].
+If you did not get cooking to 50 while waiting for the boat, do so now. Then learn Cooking (Journeyman) at [G59.44,37.76 Daryl]. Also at him, learn *Boiled Clams*.
 Turn in [QT301 Report to Ironforge].\\Accept [QA302 Powder to Ironband].
 If you got the rare drop Book: The Powers Below, accept the quest and turn in [QT968 The Powers Below].
 
@@ -29,7 +29,7 @@ Turn in [QT273 Resupplying the Excavation].\\Accept [QA454 After the Ambush].
 Accept [QA309 Protecting the Shipment].
 Escort Miran to complete [QC309 Protecting the Shipment].
 Turn in [QT309 Protecting the Shipment].
-Grind *Bear Meat* to the [G68,42.7 east of the lake] to get enough for cooking 80 (recipe stays orange).
+Get some *Bear Meat* [G68,42.7 east of the lake].
 Grind your way north and complete [QC256 WANTED: Chok'sul]. He's in the middle cave of the 3 caves. In the deepest room.
 Complete [QC255 Mercenaries].
 Run west along the Stonewrought Dam and turn in [QT468 Report to Mountaineer Rockgar].\\Accept [QA455 The Algaz Gauntlet].
@@ -44,6 +44,7 @@ Take the [G76.43,51.09 tram] to Stormwind. Cook Bear Meat while waiting.
 -- Stormwind
 Turn in [QT2041 Speak with Shoni].
 Turn in [QT1338 Stormpike's Order].
+[OC] Tinkmaster Overspark is not worth the 200 xp it gives.
 Accept [QA3765 The Corruption Abroad].
 Accept [QA1078 Retrieval for Mauren].
 [OC] Train weapon skills opposite of AH entrance, if desired.

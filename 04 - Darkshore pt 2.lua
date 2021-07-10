@@ -7,7 +7,7 @@ Guidelime.registerGuide(
 [NX 20-22 Redridge Mountains]
 
 You should have the quests: Buzzbox 525 (1003), The Toer of Althalaxx (967), and possibly Grove of the Ancients (952)
-*HEADS UP*: Save any *Bear Meat*, *Chunk of Boar Meat*, *Small Spider Leg*, *Clam Meat*, and *Crawler Meat* for cooking.
+*HEADS UP*: Save *Bear Meat*, *Boar Ribs*, *Chunk of Boar Meat*, *Small Spider Leg*, *Clam Meat*, *Crawler Meat* and *Crawler Claw* for cooking.
 
 -- Deathwarp (die & resurrect at spirit healer) to Bashal'Aran.
 -- Follow the road until [G41.19,44.19].
@@ -78,11 +78,11 @@ Then head east through the trees and jump down. [G39.97,43.88]
 Turn in [QT2139 Tharnariun's Hope].
 Turn in [QT986 A Lost Master]. Skip follow-up for now.
 [V][R] Vendor & Repair at [G38.16,41.18 Elisa]. (Do NOT sell the elixirs!)
-From [G37.47,40.5 Dalmond], purchase a Flint and Tiner and 10 Simple Wood.
+From [G37.47,40.5 Dalmond], purchase a Flint and Tiner and a stack of Simple Wood (20).
 Turn in [QT4763 The Blackwood Corrupted].
 Turn in [QT4727 Beached Sea Turtle].
 Fly to [F Darnassus].
-[OC] Withdraw *Chunk of Boar Meat*, *Small Spider Leg* and *Bear Meat* from the bank.
+[OC] Withdraw all the cooking materials from the bank.
 [T] Train only *essential* level 20 skills, we need to mega save for mount.
 Turn in [QT741 The Absent Minded Prospector] (outside of the temple again).\\Accept follow-up [QA942 The Absent Minded Prospector].
 Hearth to [H Auberdine] or fly if on cooldown.
