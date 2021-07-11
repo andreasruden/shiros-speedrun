@@ -66,7 +66,7 @@ Loot [QC2038,2 Bingles' Screwdriver] [G48.38,20.50].
 [G42.46,18.16].
 Accept [QA250 A Dark Threat Looms].
 Turn in [QT250 A Dark Threat Looms].\\Accept follow-up [QA199 A Dark Threat Looms].
-Turn in [QT199 A Dark Threat Looms].\\Accept follow-up [QA161 A Dark Threat Looms].
+Turn in [QT199 A Dark Threat Looms]. Skip follow-up unless you wanna carry an item for 12 levels for 140 xp :-).
 Turn in [QT2038 Bingles' Missing Supplies].
 Run south of the lake to the [G40.24,66.78 path heading up the mountain].
 Follow the path up and complete [QC271 Vyrin's Revenge].

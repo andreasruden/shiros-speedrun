@@ -125,12 +125,15 @@ Turn in [QT1244 The Missing Diplomat].\\Accept follow-up [QA1245 The Missing Dip
 Turn in [QT253 Bride of the Embalmer].
 Turn in [QT98 The Legend of Stalvan].
 Fly to [F Stormwind].
+If you are a class without movement speed increase (priest, warrior, warlock, mage, paladin; 15% cuts it very close), you should buy a [CI2459,1 Swiftness Potion] from the AH. (Or skip the quest where it's needed)
 Turn in [QT1245 The Missing Diplomat].\\Accept follow-up [QA1246 The Missing Diplomat].
+Turn in [QT1076 Devils in Westfall] if completed, else abandon it.
+Turn in [QT335 A Noble Brew].\\Accept follow-up [QA336 A Noble Brew].
 Turn in [QT1246 The Missing Diplomat].\\Accept follow-up [QA1447 The Missing Diplomat].
 Complete [QC1447 The Missing Diplomat].
 Turn in [QT1447 The Missing Diplomat].\\Accept follow-up [QA1247 The Missing Diplomat].
+Turn in [QT336 A Noble Brew].
 Turn in [QT1247 The Missing Diplomat].\\Accept follow-up [QA1248 The Missing Diplomat].
-Turn in [QT1076 Devils in Westfall] if completed, else abandon it.
 Hearthstone to [H Wetlands].
 
 ]], 'Shiros Speedrun')

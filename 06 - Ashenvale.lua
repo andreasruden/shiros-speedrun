@@ -103,7 +103,7 @@ Complete [QC1078 Retrieval for Mauren] and [QC1057 Reclaiming the Charred Vale].
 Run to Desolace and get the FP in [P Nijel's Point].
 Fly to [F Stonetalon Peak].
 Turn in [QT1057 Reclaiming the Charred Vale].\\Accept follow-up [QA1059 Reclaiming the Charred Vale].
-Heart to [H Astranaar] or fly there. -- Hearthing on next step from Maestra's Post is only 2 seconds saved, but 3 silver lost
+Fly to [F Astranaar].
 
 -- Finishing up pt.1 of Ashenvale
 Turn in [QT1034 The Ruins of Stardust]. Skip follow-up for now.
@@ -119,6 +119,7 @@ Accept [QA976 Supplies to Auberdine].
 Complete [QC976 Supplies to Auberdine].
 Turn in [QT976 Supplies to Auberdine].
 Run back to Astranaar and turn in [QT1054 Culling the Threat].
+If not level 25, grind to [XP25].
 Fly to [F Auberdine].
 Turn in [QT994 Escape through Force].
 Accept [QA990 Trek to Ashenvale] from the NE woman that spawns upon turn-in. (XXX: Is this how it works?)
