@@ -3,8 +3,13 @@ Guidelime.registerGuide(
 
 [D Shiros 1-58 Speedrun for alliance (patch 2.3+)]
 [GA Alliance]
-[N 26-X Duskwood]
+[N 26-29 Duskwood]
 [NX X-X X]
+
+XXX: Would we be better off setting Hearthstone in here than leaving it in Wetlands?
+XXX: Add vendor/repair/ammo.
+XXX: Test that flying is better than running between raven hill/darkshire with 38%.
+XXX: Devils in Westfall give almost no XP, might be better dropping
 
 *HEADS UP*: Save *Raptor Egg* for cooking.
 
@@ -86,6 +91,7 @@ Accept [QA1274 The Missing Diplomat].
 Turn in [QT1274 The Missing Diplomat].\\Accept follow-up [QA1241 The Missing Diplomat].
 Turn in [QT1241 The Missing Diplomat].\\Accept follow-up [QA1242 The Missing Diplomat].
 Turn in [QT1242 The Missing Diplomat].\\Accept follow-up [QA1243 The Missing Diplomat].
+Turn in [QT1076 Devils in Westfall] if completed.
 [OC] In the next-step, classes with no movement speed increase can save roughly 40 seconds by flying to Lakeshire and backtracking. For hunter, etc, this is a slow-down.
 Run to Eastvale Logging camp and turn in [QT74 The Legend of Stalvan].\\Accept [QA75 The Legend of Stalvan].
 Go upstair and complete [QC75 The Legend of Stalvan].
@@ -102,9 +108,29 @@ Turn in [QT251 Translate Abercrombie's Note].\\Accept [QA401 Wait for Sirra to F
 Turn in [QT401 Wait for Sirra to Finish]. Accept [QA252 Translation to Ello].
 Turn in [QT252 Translation to Ello].\\Accept [QA253 Bride of the Embalmer].
 Turn in [QT97 The Legend of Stalvan].\\Accept [QA98 The Legend of Stalvan].
-
 Turn in [QT181 Look To The Stars].
 
--- 41 + 65
+-- Fourth Round
+Fly to [F Sentinel Hill].
+Turn in [QT231 A Daughter's Love].
+Interact with the [G28.78,30.77 grave] and use [QT254 Digging Through the Dirt] to spawn Eliza.
+Kill her to get the heart and complete [QC253 Bride of the Embalmer].
+Complete [QC1244 The Missing Diplomat].
+If you didn't get the debris, now's the last chance to kill the Dust Devil [G63.2,51.9].
+Fly back to [F Darkshire].
+Run up to the Manor [G75.8,40.4 here].
+Loot [QC335,1 Tear of Tilloa].
+Complete [QC98 The Legend of Stalvan].
+Turn in [QT1244 The Missing Diplomat].\\Accept follow-up [QA1245 The Missing Diplomat].
+Turn in [QT253 Bride of the Embalmer].
+Turn in [QT98 The Legend of Stalvan].
+Fly to [F Stormwind].
+Turn in [QT1245 The Missing Diplomat].\\Accept follow-up [QA1246 The Missing Diplomat].
+Turn in [QT1246 The Missing Diplomat].\\Accept follow-up [QA1447 The Missing Diplomat].
+Complete [QC1447 The Missing Diplomat].
+Turn in [QT1447 The Missing Diplomat].\\Accept follow-up [QA1247 The Missing Diplomat].
+Turn in [QT1247 The Missing Diplomat].\\Accept follow-up [QA1248 The Missing Diplomat].
+Turn in [QT1076 Devils in Westfall] if completed, else abandon it.
+Hearthstone to [H Wetlands].
 
 ]], 'Shiros Speedrun')
