@@ -6,7 +6,7 @@ Guidelime.registerGuide(
 [N 22-25 Ashenvale]
 [NX 25-27 Wetlands]
 
-[OC] Quest check: Darkshore: The Absent Minded Prospector (943), The Tower of Althalaxx (967), Therylune's Escape (945), Mathystra Relics (951). Redridge: An Unwelcome Guest (34). Wetlands: Fiora Longears (1132) XXX: What else?
+[OC] Quest check: Darkshore: The Absent Minded Prospector (943), The Tower of Althalaxx (967), Therylune's Escape (945), Mathystra Relics (951). Wetlands: Fiora Longears (1132) XXX: What else?
 
 *HEADS UP*: Save *Bear Meat*, *Boar Ribs*, *Clam Meat*, *Crawler Meat* and *Crawler Leg* for cooking.
 
@@ -63,6 +63,7 @@ Turn in [QT1009 Ruuzel].
 Hearth to [H Astranaar].
 Turn in [QT991 Raene's Cleansing].\\Accept [QA1025 An Aggressive Defense] and [QA1024 Raene's Cleansing].
 Turn in [QT1008 The Zoram Strand].\\Accept [QA1134 Pridewings of Stonetalon].
+[OC] The biggest building has arrows (right from entering) and repair (left).
 
 -- Around Astranaar
 [G41.3,50.97]
@@ -78,7 +79,7 @@ Complete [QC1033 Elune's Tear].
 Turn in [QT1024 Raene's Cleansing].\\Accept follow-up [QA1026 Raene's Cleansing].
 Complete [QC1025 An Aggressive Defense].
 Accept [QA1016 Elemental Bracers].
-Complete [QC1016 Elemental Bracers]. XXX: Elixir of Water Breathing?
+Collect 5 bracers and then use the scroll to complete [QC1016 Elemental Bracers]. XXX: Elixir of Water Breathing?
 Turn in [QT1016 Elemental Bracers].--\\Accept [QA1017 Mage Summoner]. -- Waste of time, unless we need ratchet FP before we're in BB
 Turn in [QT1033 Elune's Tear].\\Accept [QA1034 The Ruins of Stardust].
 Turn in [QT1025 An Aggressive Defense].

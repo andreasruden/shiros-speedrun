@@ -3,7 +3,7 @@ Guidelime.registerGuide(
 
 [D Shiros 1-58 Speedrun for alliance (patch 2.3+)]
 [GA Alliance]
-[N 25-26 Wetlands]
+[N 25-27 Wetlands]
 [NX X-X X]
 
 *HEADS UP*: Save *Bear Meat*, *Boar Ribs*, *Clam Meat*, *Crawler Meat*, *Crawler Leg* and *Raptor Egg* for cooking.
@@ -11,19 +11,21 @@ Guidelime.registerGuide(
 [OC] Questcheck. Loch Modan: A Dark Threat Looms (161). Redridge: An Unwelcome Guest (34). Wetlands: The Algaz Gauntlet (455). XXX: Any more?
 
 -- Stormwind
+Accept [QA484 Young Crocolisk Skins]. -- (XXX: On private servers you need honored with IF to get this, is that correct? We do have that though because of Loch Modan)
 Accept [QA279 Claws from the Deep].
 Accept [QA288 The Third Fleet] and [QA463 The Greenwarden].
 Set hearthstone in [S Menethil Harbor].
 Buy a [CI2594,1 Flagon of Mead] from the inkeeper.
 Turn in [QT288 The Third Fleet].\\Accept [QA289 The Cursed Crew].
 Fly to [F Ironforge].
+Learn Skinning (Expert) from [G39.894,32.547,1 Balthus].
+Turn in [QT1072 An Old Colleague]. Skip follow-up.
 Take the tram to stormwind. Cook bear meat/clam meat while waiting, or make bandages.
 Turn in [QT1075 A Scroll from Mauren] and [QT1078 Retrieval for Mauren].\\Accept [QA1076 Devils in Westfall]. -- XXX: Do we end up doing this?
 In the cellar of The Slaughtered Lamb, accept [QA335 A Noble Brew].
-Hearth back to [H Wetlands].
+Hearth back to [H Menethil Harbor].
 
 -- Accepting quests
-Accept [QA484 Young Crocolisk Skins]. -- (XXX: On private servers you need honored with IF to get this, is that correct? We do have that though because of Loch Modan)
 [R][V] Repair/vendor/arrows at [11.29,58.47 Naela].
 Accept [QA470 Digging Through the Oooze].
 Accept [QA473 Report to Captain Stoutfist].
@@ -34,7 +36,7 @@ Accept [QA305 In Search of the Excavation Team].
 Kill all the young crocolisk in this area [G19.2,47.6]. Then continue onwards.
 Kill Gobblr and loot [QC279,2 Gobbler's Head].
 Complete [QC279 Claws from the Deep].
-[OC] This next quest is quite challenging at our level. Range pull one mob at a time and be careful.
+[OC] Warning: This next quest is quite challenging at our level. Range pull one mob at a time and be careful.
 [G14.289,30.948]
 Enter the bottom hole of the ship and get [QC289,3 Snellig's Snuffbox].
 Complete the rest of the quest [QC289 The Cursed Crew].
@@ -80,15 +82,14 @@ Turn in [QT470 Digging Through the Oooze].
 Turn in [QT455 The Algaz Gauntlet].
 Turn in [QT464 War Banners].\\Accept [QA465 Nek'rosh's Gambit].
 Turn in [QT306 In Search of The Excavation Team].
-[OC] You should be level 26 by now.
+[OC] You should be level 27 by now.
 
 -- Ironforge & Stormwind
 Fly to [F Ironforge].
 Skip this step if you lack wool to get to FA 115. Otherwise learn *Heavy Wool Bandage* at [G55.1,58.2 Nissa].
 Learn the *Crab Cake* recipe [G59.56,37.61]. Buy *Mild Spices* downstairs.
-Turn in [QT1072 An Old Colleague]. Skip follow-up.
 Take the tram. Cook Boiled Clams, then Crab Cakes while waiting.
-In stormwind, at [G72.94, 38.45 the cooking trainer], get cooking to 130. Kendor sells Cooked Crab Claw (yellow at 125, green at 145). The trainer downstairs has Dry Pork Ribs (yellow at 120, green at 140).
+In stormwind, at [G72.94, 38.45 the cooking trainer], try to get cooking to 130. Kendor sells Cooked Crab Claw (yellow at 125, green at 145). The trainer downstairs has Dry Pork Ribs (yellow at 120, green at 140).
 After that buy and learn *Recipe: Curiously Tasty Omelet* from Kendor.
 If you're not speed-running and can use AH, buy a Bronze Tube if you didn't finish Look to the Stars.
 Fly to [F Darkshire].

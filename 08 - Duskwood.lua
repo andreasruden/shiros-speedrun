@@ -3,7 +3,7 @@ Guidelime.registerGuide(
 
 [D Shiros 1-58 Speedrun for alliance (patch 2.3+)]
 [GA Alliance]
-[N 26-29 Duskwood]
+[N 27-29 Duskwood]
 [NX X-X X]
 
 XXX: Would we be better off setting Hearthstone in here than leaving it in Wetlands?
