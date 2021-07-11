@@ -3,13 +3,14 @@ Guidelime.registerGuide(
 
 [D Shiros 1-58 Speedrun for alliance (patch 2.3+)]
 [GA Alliance]
-[N 27-29 Duskwood]
+[N 27-30 Duskwood]
 [NX X-X X]
 
 XXX: Would we be better off setting Hearthstone in here than leaving it in Wetlands?
 XXX: Add vendor/repair/ammo.
 XXX: Test that flying is better than running between raven hill/darkshire with 38%.
 XXX: Devils in Westfall give almost no XP, might be better dropping
+XXX: Is flying to sentinel hill actually quicker than running for a hunter?
 
 *HEADS UP*: Save *Raptor Egg* for cooking.
 
@@ -18,8 +19,8 @@ XXX: Devils in Westfall give almost no XP, might be better dropping
 Turn in [QT174 Look To The Stars].
 Accept [QA175 Look To The Stars].
 Accept [QA173 Worgen in the Woods].
-Accept [QA66 The Legend of Stalvan]. -- The Totem of Infliction, Ghost Hair Thread
--- From the chef, Return to Jitters
+Accept [QA66 The Legend of Stalvan], [QA101 The Totem of Infliction] and [QA149 Ghost Hair Thread].
+From the chef, accept [QA240 Return to Jitters].
 Accept [QA56 The Night Watch].
 Turn in [QT66 The Legend of Stalvan].\\Accept [QA67 The Legend of Stalvan].
 Behind the inn run up the mountain [G71.8991,43.0247,1].
@@ -27,15 +28,16 @@ Complete [QC173 Worgen in the Woods]. [G64.34,37.55]
 Jump [G68.109,45.055 over here] to get back to Darkshire.
 Turn in [QT173 Worgen in the Woods].\\Accept follow-up [QA221 Worgen in the Woods].
 Run up [G71.1073,45.9099,1 here].
-Complete [QC221 Worgen in the Woods]. [G63.7026,51.0763,1]
+Complete [QC221 Worgen in the Woods]. [G63.7026,51.0763,1] (NW of here there's a camp too)
 Run back [G69.007,48.827,4]
 Turn in [QT221 Worgen in the Woods].\\Accept follow-up [QA222 Worgen in the Woods].
 [OC] Grind for [QC101 The Totem of Infliction] while on the way.
 Turn in [QT149 Ghost Hair Thread] and [QT175 Look to the Stars].\\Accept [QA177 Look to the Stars] and [QA154 Return the Comb].
 Grind further south and complete [QC177 Look To The Stars]. [G79.51,70.35]
 In this area, also complete [QC56 The Night Watch].
-Jump over the mountain [G72.94,74.34 west] to complete [QC222 Worgen in the Woods].
-Run back to Darkshire and turn in [QT56 The Night Watch].\\Accept follow-up [QA57 The Night Watch].
+-- The Scythe of Elune (1043) is in this cave (Mound of Dirt), but I don't think there's any sensible way to have that quest line (it starts at 25 in Ashenvale)
+Jump over the mountain [G72.94,74.34 west] to complete [QC222 Worgen in the Woods]. (Tainted Ones are in the cave)
+Run back to Darkshire, and turn in [QT56 The Night Watch].\\Accept follow-up [QA57 The Night Watch].
 Turn in [QT154 Return the Comb].\\Accept [QA157 Deliver the Thread].
 Turn in [QT222 Worgen in the Woods].\\Accept follow-up [QA223 Worgen in the Woods].
 Turn in [QT223 Worgen in the Woods].
@@ -43,6 +45,7 @@ Turn in [QT177 Look To The Stars].\\Accept follow-up [QA181 Look To The Stars].
 
 -- Second round
 [OC] Flying to Rebel Camp saves 20 secons over running. But I'm choosing to value the 6 silver more.
+[V][R] Vendor/repair at [G73.912,48.746 Morg] (arrows in the inn).
 Turn in [QT95 Sven's Revenge].\\Accept [QA230 Sven's Camp].
 Turn in [QT240 Return to Jitters].
 Complete [QC57 The Night Watch]. [G16,46]
@@ -71,27 +74,28 @@ If you didn't get the debris, kill the Dust Devil around [G63.2,51.9].
 Turn in [QT453 Finding the Shadowy Figure].\\Accept [QA268 Return to Sven].
 Grind north and turn in [QT268 Return to Sven].\\Accept [QA323 Proving Your Worth].
 If you can, kill Mor'Ladim for [QC228 Mor'Ladim]. He's still elite in TBC. If you can't, skip this step, it's not worth grouping up for.
-Complete [QC323 Proving Your Worth].
+Complete [QC323 Proving Your Worth] (Warders are underground in the catacombs).
 Turn in [QT159 Juice Delivery].\\Accept [QA133 Ghoulish Effigy].
 Complete [QC58 The Night Watch], [QC133 Ghoulish Effigy] and gather [QC101,1 Ghoul Fang].
 Turn in [QT133 Ghoulish Effigy].\\Accept [QA134 Ogre Thieves].
+Complete [QC134 Ogre Thieves]. The crate is to the right of the cave entrance.
 In the back of the cave, kill ZZarc' Vul to complete [QC181 Look To The Stars].
-Complete [QC134 Ogre Thieves].
 Turn in [QT323 Proving Your Worth].\\Accept [QA269 Seeking Wisdom].
 Turn in [QT134 Ogre Thieves].\\Accept [QA160 Note to the Mayor].
 Finish collecting [QC101,2 Vial of Spider Venom]. [G32.2,34.8]
 If not Lv.28 yet, grind to [XP28].
 Run north into Elwynn Forest, head up to Goldshire and turn in [QT69 The Legend of Stalvan].\\Accept [QA70 The Legend of Stalvan].
 Walk upstairs in the inn, to the room furthest in, and complete [QC70 The Legend of Stalvan].
-[OC] [T] Can train skills while in stormwind anyway.
-Run to stormwind, turn in [QT70 The Legend of Stalvan].\\Accept follow-up [QA72 The Legend of Stalvan].
+[OC] Run to stormwind. [T] Can train skills while in stormwind anyway.
+[OC] It is possible to turn in A Donation of Wool and A Donation of Silk (60 each) at this point, if one has the materials.
+Turn in [QT1076 Devils in Westfall] if completed.
+Turn in [QT70 The Legend of Stalvan].\\Accept follow-up [QA72 The Legend of Stalvan].
 Turn in [QT72 The Legend of Stalvan].\\Accept follow-up [QA74 The Legend of Stalvan].
 Turn in [QT269 Seeking Wisdom].\\Accept [QT270 The Doomed Fleet].
 Accept [QA1274 The Missing Diplomat].
 Turn in [QT1274 The Missing Diplomat].\\Accept follow-up [QA1241 The Missing Diplomat].
 Turn in [QT1241 The Missing Diplomat].\\Accept follow-up [QA1242 The Missing Diplomat].
 Turn in [QT1242 The Missing Diplomat].\\Accept follow-up [QA1243 The Missing Diplomat].
-Turn in [QT1076 Devils in Westfall] if completed.
 [OC] In the next-step, classes with no movement speed increase can save roughly 40 seconds by flying to Lakeshire and backtracking. For hunter, etc, this is a slow-down.
 Run to Eastvale Logging camp and turn in [QT74 The Legend of Stalvan].\\Accept [QA75 The Legend of Stalvan].
 Go upstair and complete [QC75 The Legend of Stalvan].
@@ -125,8 +129,9 @@ Turn in [QT1244 The Missing Diplomat].\\Accept follow-up [QA1245 The Missing Dip
 Turn in [QT253 Bride of the Embalmer].
 Turn in [QT98 The Legend of Stalvan].
 Fly to [F Stormwind].
-If you are a class without movement speed increase (priest, warrior, warlock, mage, paladin; 15% cuts it very close), you should buy a [CI2459,1 Swiftness Potion] from the AH. (Or skip the quest where it's needed)
+If you are a class without movement speed increase (priest, warrior, warlock, mage, paladin; 15% cuts it very close), you should buy a [CI2459,1 Swiftness Potion] from the AH for an upcoming quest. (Or skip the quest)
 Turn in [QT1245 The Missing Diplomat].\\Accept follow-up [QA1246 The Missing Diplomat].
+[OC] Running past option to do donation of wool/silk again.
 Turn in [QT1076 Devils in Westfall] if completed, else abandon it.
 Turn in [QT335 A Noble Brew].\\Accept follow-up [QA336 A Noble Brew].
 Turn in [QT1246 The Missing Diplomat].\\Accept follow-up [QA1447 The Missing Diplomat].

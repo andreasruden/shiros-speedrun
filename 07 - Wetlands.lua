@@ -66,7 +66,7 @@ Turn in [QT294 Ormer's Revenge].
 Complete [QC464 War Banners].
 Accept [QA469 Daily Delivery].
 Turn in [QT463 The Greenwarden].\\Accept [QA276 Tramping Paws].
-Complete [QC276 Tramping Paws]. [G62.62,69.38]
+Complete [QC276 Tramping Paws]. [G62.62,69.38] XXX: Should we turn this in despite the awkward pathing? It basically loses all xp by the time we do. Same goes for the Fire Taboo follow-up. Maybe we should pick up Blisters on the Land and have that available as we run through the zone in Wetlands pt. 2.
 Loot [QC335,2 Musquash Root].
 Run to [53.83,70.34] to complete [QC455,1 Traverse Dun Algaz].
 Hearth to [H Menethil Harbor].

@@ -3,7 +3,7 @@ Guidelime.registerGuide(
 
 [D Shiros 1-58 Speedrun for alliance (patch 2.3+)]
 [GA Alliance]
-[N 29-31 Wetlands]
+[N 30-31 Wetlands]
 [NX X-X X]
 
 *HEADS UP*: Save *Raptor Egg* for cooking.
@@ -25,9 +25,9 @@ Turn in [QT285 Search More Hovels].\\Accept [QA286 Return the Statuette].
 On top of the boat, kill the captain to complete [QC290 Lifting the Curse].
 Jump in the water, swim down and enter the NW side of the boat at the sea bottom. Turn in [QT290 Lifting the Curse].\\Accept [QA292 The Eye of Paleth].
 Complete [QC471 Apprentice's Duties] in the waters along the [G20.46,23.96 north-western shore].
-Grind south-east to [G48.957,44.221,2].
+Run south-east to [G48.957,44.221,2].
 Turn in [QT465 Nek'rosh's Gambit].\\Accept [QA474 Defeat Nek'rosh].
-Grind east and complete [QC474 Defeat Nek'rosh]. The pulls at his camp can be kinda tricky, so be careful.
+Grind east and complete [QC474 Defeat Nek'rosh].
 Jump out behind the camp, then grind north and turn in [QT276 Tramping Paws].\\Accept [QA277 Fire Taboo].
 Kill the gnolls to the west-northwest to complete [QC277 Fire Taboo].
 Turn in [QT277 Fire Taboo].\\Accept [QA275 Blisters on The Land].
