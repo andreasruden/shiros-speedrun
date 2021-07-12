@@ -6,6 +6,8 @@ Guidelime.registerGuide(
 [N 30-31 Wetlands]
 [NX X-X X]
 
+XXX: Given we end up out leveling some of the mobs & quests, we should maybe figure out if we can get 28 in Wetlands pt.1 to finish it all up in one go.
+
 *HEADS UP*: Save *Raptor Egg* for cooking.
 
 [OC] Questcheck. Ashenvale (even needed?): Trek to Ashenvale, Raene's Cleansing. Darkshore: The Tower of Althalaxx (1140). Duskwood: The Doomed Fleet (270). Stormwind: A Noble Brew (335), The Missing Diplomat (1248). Wetlands: Apprentice's Duties (471), Reclaiming Goods (281), War Banners (464), Lifting the Curse (290)
