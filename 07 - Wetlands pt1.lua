@@ -4,7 +4,7 @@ Guidelime.registerGuide(
 [D Shiros 1-58 Speedrun for alliance (patch 2.3+)]
 [GA Alliance]
 [N 25-27 Wetlands]
-[NX X-X X]
+[NX 27-29 Ashenvale]
 
 *HEADS UP*: Save *Bear Meat*, *Boar Ribs*, *Clam Meat*, *Crawler Meat*, *Crawler Leg* and *Raptor Egg* for cooking.
 

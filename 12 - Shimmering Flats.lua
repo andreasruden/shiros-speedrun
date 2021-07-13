@@ -4,7 +4,7 @@ Guidelime.registerGuide(
 [D Shiros 1-58 Speedrun for alliance (patch 2.3+)]
 [GA Alliance]
 [N 33-34 Shimmering Flats]
-[NX X-X X]
+[NX 34-36 Stranglethorn Vale]
 
 [OC] Questcheck.\\*Alterac Mountains:* Crushridge Bounty (500), Noble Deaths (512), Dark Council (537).\\*Hillsbrad Foothills:* Hints of a New Plague? (659)\\*Stormwind City*: Malin's Request (690), The Missing Diplomat (1264), James Hyal (1301).
 

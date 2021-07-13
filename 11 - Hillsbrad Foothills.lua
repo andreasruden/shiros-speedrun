@@ -3,8 +3,8 @@ Guidelime.registerGuide(
 
 [D Shiros 1-58 Speedrun for alliance (patch 2.3+)]
 [GA Alliance]
-[N 31-32 Hillsbrad Foothills]
-[NX 32-33 Stranglethorn Vale]
+[N 32-33 Hillsbrad Foothills]
+[NX 33-34 Shimmering Flats]
 
 [OC] As of patch 2.3+, quests Lv.30 or higher are rewarding increased xp.
 

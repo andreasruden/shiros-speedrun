@@ -3,8 +3,8 @@ Guidelime.registerGuide(
 
 [D Shiros 1-58 Speedrun for alliance (patch 2.3+)]
 [GA Alliance]
-[N 30-31 Wetlands]
-[NX X-X X]
+[N 29-30 Wetlands]
+[NX 30-32 Duskwood]
 
 XXX: Given we end up out leveling some of the mobs & quests, we should maybe figure out if we can get 28 in Wetlands pt.1 to finish it all up in one go.
 
