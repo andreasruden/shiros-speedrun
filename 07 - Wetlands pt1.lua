@@ -83,15 +83,7 @@ Turn in [QT455 The Algaz Gauntlet].
 Turn in [QT464 War Banners].\\Accept [QA465 Nek'rosh's Gambit].
 Turn in [QT306 In Search of The Excavation Team].
 [OC] You should be level 27 by now.
-
--- Ironforge & Stormwind
-Fly to [F Ironforge].
-Skip this step if you lack wool to get to FA 115. Otherwise learn *Heavy Wool Bandage* at [G55.1,58.2 Nissa].
-Learn the *Crab Cake* recipe [G59.56,37.61]. Buy *Mild Spices* downstairs.
-Take the tram. Cook Boiled Clams, then Crab Cakes while waiting.
-In stormwind, at [G72.94, 38.45 the cooking trainer], try to get cooking to 130. Kendor sells Cooked Crab Claw (yellow at 125, green at 145). The trainer downstairs has Dry Pork Ribs (yellow at 120, green at 140).
-After that buy and learn *Recipe: Curiously Tasty Omelet* from Kendor.
-If you're not speed-running and can use AH, buy a Bronze Tube if you didn't finish Look to the Stars.
-Fly to [F Darkshire].
+Take the boat to Darkshore. Cook/first aid while waiting.
+Fly to [F Astranaar].
 
 ]], 'Shiros Speedrun')

@@ -139,6 +139,6 @@ Complete [QC1447 The Missing Diplomat].
 Turn in [QT1447 The Missing Diplomat].\\Accept follow-up [QA1247 The Missing Diplomat].
 Turn in [QT336 A Noble Brew].
 Turn in [QT1247 The Missing Diplomat].\\Accept follow-up [QA1248 The Missing Diplomat].
-Hearthstone to [H Wetlands].
+Hearthstone to [H Southshore].
 
 ]], 'Shiros Speedrun')

@@ -11,10 +11,10 @@ Guidelime.registerGuide(
 -- Southshore
 -- Bartolo's Yeti Fur Cloak (Shit quest, skip)
 -- Crushridge Bounty (XXX: do later at like 36-37, together with Noble Deaths? or do we squeeze it in here to have Crushridge Warmongers available?)
+-- XXX: This order is not correct. Before we took the gryphone here, now we hearthstone here!!
 Accept [QA505 Syndicate Assassins].
 Accept [QA569 Hints of a New Plague?]
 Accept [QA9435 Missing Crystals].
-Set hearthstone in [S Southshore].
 Accept [QA536 Down the Coast].
 From the chef, [QA555 Soothing Turtle Bisque].
 Accept [QA564 Costly Menace].

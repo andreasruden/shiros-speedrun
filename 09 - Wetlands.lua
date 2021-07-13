@@ -6,8 +6,6 @@ Guidelime.registerGuide(
 [N 29-30 Wetlands]
 [NX 30-32 Duskwood]
 
-XXX: Given we end up out leveling some of the mobs & quests, we should maybe figure out if we can get 28 in Wetlands pt.1 to finish it all up in one go.
-
 *HEADS UP*: Save *Raptor Egg* for cooking.
 
 [OC] Questcheck. Ashenvale (even needed?): Trek to Ashenvale, Raene's Cleansing. Darkshore: The Tower of Althalaxx (1140). Duskwood: The Doomed Fleet (270). Stormwind: A Noble Brew (335), The Missing Diplomat (1248). Wetlands: Apprentice's Duties (471), Reclaiming Goods (281), War Banners (464), Lifting the Curse (290)
@@ -59,16 +57,25 @@ Follow the road to Refuge Point and turn in [QT634 Plea To The Alliance].
 Get the FP [P Refuge Point].
 [OC] Follow the road all the way to southshore, watch out for patrolling elites.
 In the cellar of the inn, turn in [QT647 MacKreel's Moonshine].
+Set hearthstone in [S Southshore].
 Accept [QA637 Sully Balloo's Letter] from the Waterlogged Envelope.
 Get the FP [P Southshore].
 Fly to [F Menethil Harbor].
 
 -- Turn in
-Accept [QA1302 James Hyal]. -- XXX: This has an even earlier breadcrumb in Stormwind, that we might end up wanting instead (1301)
 Turn in [QT286 Return the Statuette].
 Turn in [QT292 The Eye of Paleth].\\Accept [QA293 Cleansing the Eye].
 Turn in [QT474 Defeat Nek'rosh].
 Turn in [QT471 Apprentice's Duties].
-[OC] Optional: Fly to Ironforge and learn Lv.30 skills.
+
+-- Ironforge & Stormwind
+Fly to [F Ironforge].
+Skip this step if you lack wool to get to FA 115. Otherwise learn *Heavy Wool Bandage* at [G55.1,58.2 Nissa].
+Learn the *Crab Cake* recipe [G59.56,37.61]. Buy *Mild Spices* downstairs.
+Take the tram. Cook Boiled Clams, then Crab Cakes while waiting.
+In stormwind, at [G72.94, 38.45 the cooking trainer], try to get cooking to 130. Kendor sells Cooked Crab Claw (yellow at 125, green at 145). The trainer downstairs has Dry Pork Ribs (yellow at 120, green at 140).
+After that buy and learn *Recipe: Curiously Tasty Omelet* from Kendor.
+If you're not speed-running and can use AH, buy a Bronze Tube if you didn't finish Look to the Stars.
+Fly to [F Darkshire].
 
 ]], 'Shiros Speedrun')
