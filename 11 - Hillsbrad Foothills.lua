@@ -66,6 +66,9 @@ Fly to [F Sentinel Hill].
 Turn in [QT325 Armed and Ready].\\Accept [QA55 Morbent Fel].
 Equip the off-hand early to let 30 sec CD reset. Use on Morbent and kill him to complete [QC55 Morbent Fel].
 Turn in [QT55 Morbent Fel].
+
+XXX: Here is an okay time to grind for mount for those who want to. (Ideally we're one level higher, but there's a long run section coming up which it would be nice to get mount before, if you're gonna grind anyway.)
+
 Hearth to [H Southshore].
 
 ]], 'Shiros Speedrun')
