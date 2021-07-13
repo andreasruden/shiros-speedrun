@@ -43,7 +43,6 @@ Turn in [QT945 Therylune's Escape].
 Run to Astranaar and get the [F Astranaar] flightpoint [G34.42,48.07].
 Turn in [QT1133 Journey to Astranaar].
 Accept [QA1008 The Zoram Strand].
-Accept [QA9533 A Helping Hand].
 Accept [QA1070 On Guard in Stonetalon].
 Accept [QA1056 Journey to Stonetalon Peak].
 Turn in [QT10752 Onward to Ashenvale].\\Accept [QA991 Raene's Cleansing] and [QA1054 Culling the Threat].
@@ -80,7 +79,7 @@ Turn in [QT1024 Raene's Cleansing].\\Accept follow-up [QA1026 Raene's Cleansing]
 Complete [QC1025 An Aggressive Defense].
 Accept [QA1016 Elemental Bracers].
 Collect 5 bracers and then use the scroll to complete [QC1016 Elemental Bracers]. XXX: Elixir of Water Breathing?
-Turn in [QT1016 Elemental Bracers].--\\Accept [QA1017 Mage Summoner]. -- Waste of time, unless we need ratchet FP before we're in BB
+Turn in [QT1016 Elemental Bracers].\\Accept [QA1017 Mage Summoner].
 Turn in [QT1033 Elune's Tear].\\Accept [QA1034 The Ruins of Stardust].
 Turn in [QT1025 An Aggressive Defense].
 
@@ -93,7 +92,7 @@ Turn in [QT1070 On Guard in Stonetalon].\\Accept follow-up [QA1085 On Guard in S
 Turn in [QT1085 On Guard in Stonetalon].\\Accept [QA1071 A Gnome's Respite].
 Complete [QC1093 Super Reaper 6000].
 Complete [QC1071 A Gnome's Respite].
-Turn in [QT1093 Super Reaper 6000]. Skip Further Instructions.--\\Accept [QA1094 Further Instructions].  -- Waste of time, unless we need ratchet FP before we're in BB
+Turn in [QT1093 Super Reaper 6000].\\Accept [QA1094 Further Instructions].  -- Waste of time, unless we need ratchet FP before we're in BB
 Turn in [QT1071 A Gnome's Respite].\\Accept [QA1072 An Old Colleague] and [QA1075 A Scroll from Mauren].
 [OC] We're skipping Gerenzo's Orders in the cave, because it's just too difficult.
 Grind you way north and finish up [QC1134 Pridewings of Stonetalon] [G53.86,39.71].
@@ -108,7 +107,7 @@ Fly to [F Astranaar].
 
 -- Finishing up pt.1 of Ashenvale
 Turn in [QT1034 The Ruins of Stardust]. Skip follow-up for now.
-Turn in [QA1134 Pridewings of Stonetalon].\\Accept [QA4581 Kayneth Stillwind].
+Turn in [QA1134 Pridewings of Stonetalon].
 Complete [QC973 The Tower of Althalaxx].
 Run north to the furbolg camp and complete [QC1054 Culling the Threat].
 [G37.48,32.3]

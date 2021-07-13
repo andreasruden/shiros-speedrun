@@ -66,6 +66,6 @@ Fly to [F Sentinel Hill].
 Turn in [QT325 Armed and Ready].\\Accept [QA55 Morbent Fel].
 Equip the off-hand early to let 30 sec CD reset. Use on Morbent and kill him to complete [QC55 Morbent Fel].
 Turn in [QT55 Morbent Fel].
-Run back to Sentinel Hill and fly to [F Rebel Camp]. -- XXX: Quicker than just running straight to rebel camp?
+Hearth to [H Southshore].
 
 ]], 'Shiros Speedrun')
