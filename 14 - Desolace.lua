@@ -4,7 +4,7 @@ Guidelime.registerGuide(
 [D Shiros 1-58 Speedrun for alliance (patch 2.3+)]
 [GA Alliance]
 [N 36-37 Desolace]
-[NX X-X X]
+[NX 37-39 Dustwallow Marsh]
 
 -- XXX: Look over Hearthstone usage in this route.
 
