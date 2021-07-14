@@ -44,6 +44,7 @@ Turn in [QT1104 Salt Flat Venom].\\Accept [QA1106 Martek the Exiled].
 Turn in [QT1110 Rocket Car Parts].\\Accept [QA1111 Wharfmaster Dizzywig] and [QA5762 Hemet Nesingwary Jr.]
 Get FP in [P Tanaris].
 Fly to [F Ratchet].
+Turn in [QA1039 The Barrens Port].\\Accept [QA1040 Passage to Booty Bay].
 Turn in [QT1178 Goblin Sponsorship].\\Accept follow-up [QA1180 Goblin Sponsorship].
 Turn in [QT1111 Wharfmaster Dizzywig].\\Accept [QA1112 Parts for Kravel]. -- XXX: If not turning it in now, we can probably accept it later.
 Take the boat to Booty Bay.

@@ -51,7 +51,16 @@ Turn in [QT9518 Agents of Destruction].
 Turn in [QT9516 Destroy the Legion].
 Turn in [QT6441 Satyr Horns].
 Turn in [QT9517 A Shameful Waste] and [QT9526 Reclaiming Felfire Hill].
-Fly to Astranaar, and turn in [QT1027 Raene's Cleansing].\\Accept [QA1028 Raene's Cleansing].
+
+-- To Ratchet
+Turn in [QT9521 Report from the Northern Front].
+If you stand [G47.224599,5.450017,1 here], you can jump up on the fence and get into barrens without aggroing any guards.
+Avoid the guards by hugging the mountain. Then run south up onto the fisrt big mountain and complete [QT1017 Mage Summoner].
+Continue to ratchet. Turn in [QT1094 Further Instructions].
+Get FP in [P Ratchet].
+Fly to [F Astranaar].
+Turn in [QT1017 Mage Summoner].
+Turn in [QT1027 Raene's Cleansing].\\Accept [QA1028 Raene's Cleansing].
 The path up is at [G55.97,51.18].
 Complete [QC1028 Raene's Cleansing].
 Turn in [QT1028 Raene's Cleansing]. Skip the follow-up. Keep the fancy furbolg rod if you care :-).
@@ -65,17 +74,6 @@ Turn in [QT1037 Velinde Starsong].\\Accept [QA1038 Velinde's Effects].
 Run up at [G56.25,78.94,4].
 Loot her locker to complete [QC1038 Velinde's Effects].
 Turn in [QT1038 Velinde's Effects].\\Accept [QA1039 The Barrens Port].
-Fly back to [F Astranaar].
-
--- To Ratchet
-Turn in [QT9521 Report from the Northern Front].
-If you stand [G47.224599,5.450017,1 here], you can jump up on the fence and get into barrens without aggroing any guards.
-Avoid the guards by hugging the mountain. Then run south up onto the fisrt big mountain and complete [QT1017 Mage Summoner].
-Continue to ratchet. Turn in [QT1039 The Barrens Port].\\Accept [QA1040 Passage to Booty Bay].
-Turn in [QT1094 Further Instructions]. Skip follow-up.
-[OC] Turning in mage summoner takes 5 minutes with 40% movement speed. It gives 2550xp. Is this worth it?
-Fly to [F Astranaar].
-Turn in [QT1017 Mage Summoner].
 Hearthstone to [H Wetlands].
 
 ]], 'Shiros Speedrun')
