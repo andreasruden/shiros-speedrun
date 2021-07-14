@@ -44,12 +44,13 @@ Turn in [QT9435 Missing Crystals].
 Turn in [QT562 Stormwind Ho!].\\Accept [QA563 Reassignment].
 At the chef, turn in [QT555 Soothing Turtle Bisque].
 Turn in [QT505 Syndicate Assassins] and [QT510 Foreboding Plans].\\Accept [QA512 Noble Deaths].
-You should be well into Lv.32 by now, but if not grind the beaches until [XP32-11850].
+You should be Lv.33 by now, but if not grind the beaches until [XP33-11850]. -- XXX: Changed Lv from 32 to 33, double check that this value is still corect (i.e. no xp reductions)
 
 -- IF
 Fly to [F Ironforge].
 [OC] Possible to turn in donation of wool/silk here.
 Learn new bandages for FA, if you can [G54.92,58.43] (115 for heavy wool, 150 for silk).
+Accept [QA1453 Reclaimers' Business in Desolace].
 Turn in [QT637 Sully Balloo's Letter].\\Accept [QA683 Sara Balloo's Plea].
 Turn in [QT683 Sara Balloo's Plea].\\Accept [QA686 A King's Tribute].
 Turn in [QT686 A King's Tribute].\\Accept follow-up [QA689 A King's Tribute].
@@ -61,6 +62,7 @@ Turn in [QT563 Reassignment].
 [OC] Passing by The Perenolde Tiara quest XXX: Do we wanna do this? Probably not.
 Turn in [QT293 Cleansing the Eye].
 Accept [QA690 Malin's Request].
+Accept [QA1260 Morgan Stern].
 Accept [QA1301 James Hyal].
 Fly to [F Sentinel Hill].
 Turn in [QT325 Armed and Ready].\\Accept [QA55 Morbent Fel].

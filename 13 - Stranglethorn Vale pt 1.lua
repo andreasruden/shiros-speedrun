@@ -4,7 +4,7 @@ Guidelime.registerGuide(
 [D Shiros 1-58 Speedrun for alliance (patch 2.3+)]
 [GA Alliance]
 [N 34-36 Stranglethorn Vale]
-[NX X-X X]
+[NX 36-37 Desolace]
 
 [OC] Save Stranglethorn pages you find.
 
@@ -93,6 +93,6 @@ Turn in [QT201 Investigate the Camp] and [QT210 Krazek's Cookery].
 Turn in [QT189 Bloodscalp Ears] and [QT213 Hostile Takeover].
 Turn in [QT578 The Stone of the Tides].\\Accept [QA601 Water Elementals].
 Turn in [QT1182 Goblin Sponsorship].\\Accept follow-up [QA1183 Goblin Sponsorship].
-Hearthstone to [H Southshore].
+Take the boat to Ratchet.
 
 ]], 'Shiros Speedrun')

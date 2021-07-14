@@ -18,6 +18,7 @@ Turn in [QT525 Further Mysteries].\\Accept [QA537 Dark Council].
 -- Turn in [QT681 Northfold Manor].
 
 Fly to [F Menethil Harbor].
+Set hearthstone in [S Menethil Harbor].
 Turn in [QT1301 James Hyal].\\Accept follow-up [QA1302 James Hyal].
 Take the boat to Dustwallow Marsh.
 Get the FP [P Theramore].
@@ -42,6 +43,7 @@ Turn in [QT1176 Load Lightening].\\Accept [QA1178 Goblin Sponsorship].
 Turn in [QT1105 Hardened Shells].\\Accept [QA1107 Encrusted Tail Fins].
 Turn in [QT1104 Salt Flat Venom].\\Accept [QA1106 Martek the Exiled].
 Turn in [QT1110 Rocket Car Parts].\\Accept [QA1111 Wharfmaster Dizzywig] and [QA5762 Hemet Nesingwary Jr.]
+Set hearthstone in [S Tanaris].
 Get FP in [P Tanaris].
 Fly to [F Ratchet].
 Turn in [QA1039 The Barrens Port].\\Accept [QA1040 Passage to Booty Bay].
