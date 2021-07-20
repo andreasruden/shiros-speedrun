@@ -58,7 +58,7 @@ Turn in [QC186 Tiger Mastery].\\Accept follow-up [QA187 Tiger Mastery].
 Accept [QA194 Raptor Mastery].
 
 -- Rebel Camp
-Turn in [QT203 The Second Rebellion] and [QT204 Bad Medicine].--\\Accept [QA574 Special Forces].
+Turn in [QT203 The Second Rebellion] and [QT204 Bad Medicine].\\Accept [QA574 Special Forces].
 Accept [QA207 Kurzen's Mystery].
 
 -- North-west
@@ -72,27 +72,44 @@ Complete [QC605 Singing Blue Shards]. [26,18]
 Read [QC207,2 The First Troll Legend].
 Complete [QC189 Bloodscalp Ears]. [G30,19]
 Read [QC207,2 The Second Troll Legend].
+-- NOTE: Note possible with current pathing, but Pearl Diving (705) is also done here. It's just picked up in Badlands, which is too much time loss at this point.
 Complete [QC1107 Encrusted Tail Fins].
 Complete [QC578 The Stone of the Tides]. [G21.46,21.88]
 
 -- Nesingwary
 Run back to Nesingwary and turn in [QT194 Raptor Mastery].\\Accept follow-up [QA195 Raptor Mastery].
 Turn in [QT187 Tiger Mastery].\\Accept follow-up [QA188 Tiger Mastery].
-Turn in [QT191 Panther Mastery].\\Accept follow-up [QT192 Panther Mastery].
+Turn in [QT191 Panther Mastery].
 Complete [QC575 Supply and Demand].
 
 -- Rebel Camp
-Turn in [QT207 Kurzen's Mystery]. -- Accept [QA205 Troll Witchery].
+Turn in [QT207 Kurzen's Mystery].\\Accept [QA205 Troll Witchery].
 Accept [QA210 Krazek's Cookery].
 
 -- Booty Bay
 Fly to [F Booty Bay].
-Turn in [QT575 Supply and Demand]. -- Accept [QA577 Some Assembly Required].
-Go to the inn and turn in [QT605 Singing Blue Shards]. -- Venture Company Mining
+Turn in [QT575 Supply and Demand].\\Accept [QA577 Some Assembly Required].
+Go to the inn and turn in [QT605 Singing Blue Shards].\\Accept [QA600 Venture Company Mining].
 Turn in [QT201 Investigate the Camp] and [QT210 Krazek's Cookery].
 Turn in [QT189 Bloodscalp Ears] and [QT213 Hostile Takeover].
 Turn in [QT578 The Stone of the Tides].\\Accept [QA601 Water Elementals].
 Turn in [QT1182 Goblin Sponsorship].\\Accept follow-up [QA1183 Goblin Sponsorship].
+
+-- Back North
+Fly back to [F Rebel Camp].
+Complete [QC574 Special Forces].
+Complete [QC577 Some Assembly Required].
+Complete [QC195 Raptor Mastery]. [G38.5,20.7]
+Complete [QC188 Tiger Mastery].
+Complete [QC601 Water Elementals]. XXX: This should be done last time. Then we could have turned in Magical Analysis during Alterac and gotten https://tbc.wowhead.com/quest=603/ansirems-key
+Turn in [QT195 Raptor Mastery].
+Turn in [QT188 Tiger Mastery].
+Turn in [QT574 Special Forces].
+
+-- Booty Bay
+Fly to [F Booty Bay].
+Turn in [QT577 Some Assembly Required].\\Accept [QA628 Excelsior].
+Turn in [QT601 Water Elementals].\\Accept [QA602 Magical Analysis].
 Take the boat to Ratchet.
 
 ]], 'Shiros Speedrun')
