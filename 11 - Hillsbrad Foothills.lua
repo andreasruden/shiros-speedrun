@@ -10,7 +10,7 @@ Guidelime.registerGuide(
 
 -- Southshore
 -- Bartolo's Yeti Fur Cloak (Shit quest, skip)
--- Crushridge Bounty (XXX: do later at like 36-37, together with Noble Deaths? or do we squeeze it in here to have Crushridge Warmongers available?)
+Accept [QA500 Crushridge Bounty].
 -- XXX: This order is not correct. Before we took the gryphone here, now we hearthstone here!!
 Accept [QA505 Syndicate Assassins].
 Accept [QA569 Hints of a New Plague?]
@@ -36,13 +36,15 @@ Go back to the river and keep grinding turtles north until you complete [QC555 S
 From the river, go to [G67.19,8.96 in Hillsbrad Foothills] (66,69 if zone is Alterac Mountains).
 From here run up to Sofera's Naze and from the document on the table accept [QA510 Foreboding Plans] and [QA511 Encrypted Letter].
 Finish up [QC505 Syndicate Assassins] [G58.3,67.9].
-Continue heading west to complete [QC564 Costly Menace].
+If you are strong enough, complete [QA500 Crushridge Bounty].
+Head out of the ogre area and continue heading west to complete [QC564 Costly Menace].
 Run back to southshore to turn in [QT564 Costly Menace].
 Turn in [QT511 Encrypted Letter].\\Accept [QA514 Letter to Stormpike].
 Purchase [CI3713,1 Soothing Spices] from [G48.93,55.03 Micha].
 Turn in [QT9435 Missing Crystals].
 Turn in [QT562 Stormwind Ho!].\\Accept [QA563 Reassignment].
 At the chef, turn in [QT555 Soothing Turtle Bisque].
+If you completed it, turn in [QC500 Crushridge Bounty].
 Turn in [QT505 Syndicate Assassins] and [QT510 Foreboding Plans].\\Accept [QA512 Noble Deaths].
 You should be Lv.33 by now, but if not grind the beaches until [XP33-11850]. -- XXX: Changed Lv from 32 to 33, double check that this value is still corect (i.e. no xp reductions)
 

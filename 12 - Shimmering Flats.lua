@@ -11,11 +11,11 @@ Guidelime.registerGuide(
 Turn in [QT525 Further Mysteries].\\Accept [QA537 Dark Council].
 
 -- Peak into Arathi
--- Fly to [F Arathi].
--- Turn in [QT690 Malin's Request].
--- Accept [QA681 Northfold Manor].
--- Complete [QC681 Northfold Manor].
--- Turn in [QT681 Northfold Manor].
+Fly to [F Arathi].
+Turn in [QT690 Malin's Request].
+Accept [QA681 Northfold Manor].
+Complete [QC681 Northfold Manor].
+Turn in [QT681 Northfold Manor].
 
 Fly to [F Menethil Harbor].
 Set hearthstone in [S Menethil Harbor].

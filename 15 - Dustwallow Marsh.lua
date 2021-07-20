@@ -139,7 +139,7 @@ Turn in [QT11217 Catch a Dragon by the Tail].
 Turn in [QT11160 Banner of the Stonemaul], [QT11161 The Essence of Enmity] and [QC11162 Challenge to the Black Flight].
 
 -- Theramore finish up
-Hearh to [H Theramore] or fly there.
+Fly to [F Theramore]. -- XXX: The turn in order might be wrong, was hearth before
 Turn in [QT1204 Mudrock Soup and Bugs].\\Accept [QA1258 ... and Bugs].
 Turn in [QT11141 Jaina Must Know].\\Accept [QA11142 Survey Alcaz Island]. -- XXX: Could save one run up the tower by turning in the diplomat chain here too.
 Turn in [QT11151 Justice for the Hyals].\\Accept [QA11152 Peace at Last].
