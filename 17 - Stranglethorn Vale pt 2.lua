@@ -98,6 +98,23 @@ Fly to [F Booty Bay].
 Turn in [QT613 Cracking Maury's Foot] (in the first building outside of the inn).
 
 -- Pirate's Finale
+If not already obtained, get the [CI4098,1 Carefully Folded Note]. [G34.3,73.7]
+From the Carefully Folded Note accept [QA594 Message in a Bottle].
+Kill [QC608,2 Captain Keelhaul] on the western-most ship.
+Check for Cortello's Riddle in the lowest level of the ship.
+Kill [QC608,3 Fleet Master Firallon] on the middle ship.
+Check for Cortello's Riddle in the lowest level of the ship.
+Kill [QC608,1 Captain Stillwater] on the eastern ship.
+Check for Cortello's Riddle in the middle *and* lowest level of the ship.
+If [QC576 Keep An Eye Out] is not complted, try killing [G32.9,88.3 Brutus] by the ship's stearing wheel.
+If you're close to finishing, finish up [QC587 Up to Snuff]. Otherwise abandon it (2.3k turn-in).
+Turn in [QT594 Message in a Bottle].\\Accept follow-up [QA630 Message in a Bottle].
+Complete [QC630 Message in a Bottle].
+Turn in [QT630 Message in a Bottle].
+Hearthstone to [H Booty Bay] or run back.
+Turn in [QT587 Up to Snuff].
+Turn in [QT595 The Bloodsail Buccaneers].
+Turn in [QT576 Keep An Eye Out].
 
 -- Stormwind/Dustwallow
 Fly to [F Stormwind].
