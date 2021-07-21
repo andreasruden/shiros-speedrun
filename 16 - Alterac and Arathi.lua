@@ -13,6 +13,7 @@ Set hearthstone in [S Southshore].
 Accept [QA504 Crushridge Warmongers].
 Accept [QA512 Noble Deaths] and [QA537 Dark Council].
 Head north [G55, 11].
+-- XXX: Pathing here is wrong, since we added magical analysis
 If not completed before, complete [QC500 Crushridge Bounty].
 Else, complete [QC504 Crushridge Warmongers].
 Backtrack a bit, then head west to turn in [QT602 Magical Analysis].\\Accept [QA603 Ansirem's Key].

@@ -6,10 +6,13 @@ Guidelime.registerGuide(
 [N 42-43 Stranglethorn Vale]
 [NX X-X X]
 
-XXX: We need [QA205 Troll Witchery] [QA202 Colonel Kurzen] (rebel camp) [QA192 Panther Mastery] [QA196 Raptor Mastery] (nessingwary) from last time.
+XXX: Are these done -> Complete [QC196 Raptor Mastery] [QA202 Colonel Kurzen] and [QC192 Panther Mastery] on the coast south of Grom'Gol.
+
+XXX: We need [QA205 Troll Witchery] (rebel camp) [QA192 Panther Mastery] [QA196 Raptor Mastery] (nessingwary) from last time.
+XXX: We should pop into Badlands for a bit of questing before STV, to grab https://tbc.wowhead.com/quest=735/the-star-the-hand-and-the-heart and pearl diving.
 
 -- Booty Bay
--- Tran'rek
+Accpet [QA2864 Tran'rek].
 Accept [QA209 Skullsplitter Tusks].
 Turn in [QT669 Sunken Treasure]. -- \\Accept [QA670 Sunken Treasure].
 Run down the stairs and turn in [QT603 Ansirem's Key].\\Accept [QA610 "Pretty Boy" Duncan].
@@ -47,7 +50,7 @@ On the way out of BB run the upper route and accept [QA576 Keep An Eye Out] from
 [OC] Loot the bottles on the beach as you enter the area, to give them time to respawn.
 Go to the beach east of BB and complete [QC604 The Bloodsail Buccaneers].
 Loot bottles on the to obtain [CI4098,1 Carefully Folded Note]. Do not accept the quest yet. If you did not find the item, skip this step for now. There's a second chance.
-Complete [QC614 The Captain's Chest].
+Complete [QC614 The Captain's Chest]. Skip if you can't solo it.
 Obtain [QC609,3 Chucky's Huge Ring]. Also clear the entire camp for Mixture progress.
 Obtain [QC609,2 Jon-Jon's Golden Spyglass].
 Obtain [QC609,1 Maury's Clubbed Foot].
@@ -63,8 +66,45 @@ Complete [QC611 The Curse of the Tides]. This quest is weird, on retail the gobl
 Hearth to [H Booty Bay].
 
 -- Booty Bay
+Turn in [QT600 Venture Company Mining] and [QT621 Zanzil's Secret].
+Head up the inn. Turn in [QT209 Skullsplitter Tusks].
+Turn in [QT604 The Bloodsail Buccaneers].\\Accept follow-up [QA608 The Bloodsail Buccaneers]
+Turn in [QA611 The Curse of the Tides].
+[OC] If you don't have all the pages, then consider having an alt mail the rest. Bring them with you. It'll be tight on space :-).
+Jump down and turn in [QT609 Voodoo Dues] in the house.\\Accept [QA613 Cracking Maury's Foot].
+If completed, turn in [QT614 The Captain's Chest] at end of the docks.
+Walk upstairs towards the FP. Turn in [QT628 Excelsior].
 
--- Going to the middle
-Complete [QC196 Raptor Mastery] and [QC192 Panther Mastery] on the coast south of Grom'Gol.
+-- Finishing the North
+Fly to [F Rebel Camp].
+Turn in [QT205 Troll Witchery].\\Accept [QA206 Mai'Zoth].
+In the Kurzen Cave, complete [QC202 Colonel Kurzen].
+Complete [QC193 Panther Mastery].
+Head into the ogre cave and complete [QC206 Mai'Zoth].
+If not finished, complete [QT613 Cracking Maury's Foot].
+At Nessingwary, turn in [QT197 Raptor Mastery].
+Turn in [QT193 Panther Mastery].
+If you've got the pages, accept [QA338 The Green Hills of Stranglethorn]. If not, skip this. The guide assumes this is *NOT* completed.
+Then complete the chapters (quests from Barnil) and turn in [QT338 The Green Hills of Stranglethorn].
+Accept [QA208 Big Game Hunter] if you can find a group quickly or you're strong enough to solo. Otherwise skip.
+Complete [QC208 Big Game Hunter].
+Turn in [QT208 Big Game Hunter].
+At Rebel Camp, turn in [QT206 Mai'Zoth].
+Turn in [QT202 Colonel Kurzen].
+
+-- Booty Bay
+-- XXX: Can we do this turn-in on the way later sometime and still get full xp? Right now it's a bit awkward to fly BB and then back.
+Fly to [F Booty Bay].
+Turn in [QT613 Cracking Maury's Foot] (in the first building outside of the inn).
+
+-- Pirate's Finale
+
+-- Stormwind/Dustwallow
+Fly to [F Stormwind].
+Speak with [G39.77,81.49 Archage Malin] by the Mage Quarter's tower to TP to dustwallow.
+-- XXX: Skipping Vital Supplies, which is a breadcrumb to Blasted Lands
+Turn in [QT11223 Return to Jaina]. (Disables this teleport, but it doesn't work at high-level anyway.)
+Turn in [QT623 Akiris by the Bundle].
+Fly to [F Tanaris].
 
 ]], 'Shiros Speedrun')
