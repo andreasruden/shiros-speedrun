@@ -12,7 +12,8 @@ Guidelime.registerGuide(
 Turn in [QT1180 Goblin Sponsorship].\\Accept follow-up [QA1181 Goblin Sponsorship].
 Turn in [QT1040 Passage to Booty Bay].\\Accept [QA1041 The Caravan Road].
 Head into the inn and accept [QA605 Singing Blue Shards].
-Run upstairs and accept [QA198 Supplies to Private Thorsen], [QA201 Investige the Camp] and [QA616 The Haunted Isle].
+Run upstairs and turn in [QA1115 The Rumormonger].
+Accept [QA1116 Dream Dust in the Swamp], [QA198 Supplies to Private Thorsen], [QA201 Investige the Camp] and [QA616 The Haunted Isle].
 Accept [QA189 Bloodscalp Ears] and [QA213 Hostile Takeover].
 Turn in [QT1181 Goblin Sponsorship].\\Accept follow-up [QA1182 Goblin Sponsorship].
 Turn in [QT616 The Haunted Isle].\\Accept [QA578 The Stone of the Tides].
@@ -72,7 +73,7 @@ Complete [QC605 Singing Blue Shards]. [26,18]
 Read [QC207,2 The First Troll Legend].
 Complete [QC189 Bloodscalp Ears]. [G30,19]
 Read [QC207,2 The Second Troll Legend].
--- NOTE: Note possible with current pathing, but Pearl Diving (705) is also done here. It's just picked up in Badlands, which is too much time loss at this point.
+-- NOTE: Not possible with current pathing, but Pearl Diving (705) is also doable here. It's picked up in Badlands. Any way to fit it?
 Complete [QC1107 Encrusted Tail Fins].
 Complete [QC578 The Stone of the Tides]. [G21.46,21.88]
 

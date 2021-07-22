@@ -48,7 +48,11 @@ Get FP in [P Tanaris].
 Fly to [F Ratchet].
 Turn in [QA1039 The Barrens Port].\\Accept [QA1040 Passage to Booty Bay].
 Turn in [QT1178 Goblin Sponsorship].\\Accept follow-up [QA1180 Goblin Sponsorship].
-Turn in [QT1111 Wharfmaster Dizzywig].\\Accept [QA1112 Parts for Kravel]. -- XXX: If not turning it in now, we can probably accept it later.
+Turn in [QT1111 Wharfmaster Dizzywig].\\Accept [QA1112 Parts for Kravel].
+Hearthstone to [H Tanaris]. -- XXX: Is this usage okay? Or do we need it soon?
+Turn in [QT1112 Parts for Kravel].\\Accept [QA1114 Delivery to the Gnomes].
+Turn in [QT1114 Delivery to the Gnomes].\\Accept [QA1115 The Rumormonger].
+Fly to [F Ratchet].
 Take the boat to Booty Bay.
 
 ]], 'Shiros Speedrun')

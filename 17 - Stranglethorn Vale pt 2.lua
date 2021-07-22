@@ -4,7 +4,7 @@ Guidelime.registerGuide(
 [D Shiros 1-58 Speedrun for alliance (patch 2.3+)]
 [GA Alliance]
 [N 42-43 Stranglethorn Vale]
-[NX X-X X]
+[NX 44-45 Tanaris]
 
 XXX: Are these done -> Complete [QC196 Raptor Mastery] [QA202 Colonel Kurzen] and [QC192 Panther Mastery] on the coast south of Grom'Gol.
 
@@ -17,7 +17,7 @@ Accept [QA209 Skullsplitter Tusks].
 Turn in [QT669 Sunken Treasure]. -- \\Accept [QA670 Sunken Treasure].
 Run down the stairs and turn in [QT603 Ansirem's Key].\\Accept [QA610 "Pretty Boy" Duncan].
 Accept [QA580 Whiskey Slim's Lost Grog].
-Accept [QA621 Zanzil's Secret].
+Turn in [QT1116 Dream Dust in the Swamp].\\Accept [QA1117 Rumors for Kravel] and [QA621 Zanzil's Secret].
 Accept [QA617 Akiris by the Bundle].
 Accept [QA348 Stranglethorn Fever].
 Accept [QA606 Scaring Shaky] and [QA2872 Stoley's Debt].
@@ -106,6 +106,7 @@ Kill [QC608,3 Fleet Master Firallon] on the middle ship.
 Check for Cortello's Riddle in the lowest level of the ship.
 Kill [QC608,1 Captain Stillwater] on the eastern ship.
 Check for Cortello's Riddle in the middle *and* lowest level of the ship.
+From the item, accept [QA624 Cortello's Riddle].
 If [QC576 Keep An Eye Out] is not complted, try killing [G32.9,88.3 Brutus] by the ship's stearing wheel.
 If you're close to finishing, finish up [QC587 Up to Snuff]. Otherwise abandon it (2.3k turn-in).
 Turn in [QT594 Message in a Bottle].\\Accept follow-up [QA630 Message in a Bottle].
@@ -116,12 +117,19 @@ Turn in [QT587 Up to Snuff].
 Turn in [QT595 The Bloodsail Buccaneers].
 Turn in [QT576 Keep An Eye Out].
 
--- Stormwind/Dustwallow
-Fly to [F Stormwind].
+-- Swamp of Sorrows
+Fly to [F Nethergarde Keep].
+Run up into Swamp of Sorrows and turn in [QT624 Cortello's Riddle].\\Accept follow-up [QA625 Cortello's Riddle].
+
+-- Dustwallow Marsh (via Stormwind)
+Run back to Nethergarde Keep and fly to [F Stormwind].
 Speak with [G39.77,81.49 Archage Malin] by the Mage Quarter's tower to TP to dustwallow.
 -- XXX: Skipping Vital Supplies, which is a breadcrumb to Blasted Lands
 Turn in [QT11223 Return to Jaina]. (Disables this teleport, but it doesn't work at high-level anyway.)
 Turn in [QT623 Akiris by the Bundle].
-Fly to [F Tanaris].
+Turn in [QT1258 ... and Bugs].
+Fly to [F Mudsprocket].
+In the cave of the area where we killed Goreclaw, turn in [QT624 Cortello's Riddle].\\Accept follow-up [QA626 Cortello's Riddle].
+Run back to Mudsprocket and fly to [F Tanaris].
 
 ]], 'Shiros Speedrun')

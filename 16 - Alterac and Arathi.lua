@@ -122,7 +122,7 @@ Complete [QC1108 Indurium] and [QC739 Murdaloc].
 Turn in [QT687 Theldurin the Lost].\\Accept [QA692 The Lost Fragments].
 Complete [QC692 The Lost Fragments] just behind the NPC.
 Turn in [QT692 The Lost Fragments].\\Accept [QA656 Summoning the Princess].
-Turn in [QT1108 Indurium].\\Accept [QA1137 New for Fizzle].
+Turn in [QT1108 Indurium].\\Accept [QA1137 News for Fizzle].
 Complete [QC732 Tremors of the Earth]. Spawns at (62,66).
 Turn in [QT732 Tremors of the Earth].
 
@@ -135,6 +135,7 @@ Fly to [F Stormwind]. -- XXX: 5m 33s. Tram better?
 Turn in [QT11222 Warn Bolvar!]\\Accept [QA11223 Return to Jaina].
 [OC] Return to Jaina can be used as a free TP to dustwallow, but not once it's gone gray.
 Turn in [QT697 Malin's Request].
-Fly to [F Booty Bay].
+Accept [QA1477 Vital Supplies] at the top of the Mage Tower.
+Fly to [F Darkshire].
 
 ]], 'Shiros Speedrun')
