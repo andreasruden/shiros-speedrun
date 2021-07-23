@@ -77,6 +77,12 @@ Head south to complete [QC1466 Reagents for Reclaimers Inc.]
 [OC] For roundup: put device down and get some distance to not get overwhelemd.
 Complete [QC261 Down the Scarlet Path] and [QC6134 Ghost-o-plasm Round Up].
 Turn in [QT6134 Ghost-o-plasm Round Up].
+
+-- Feralas
+Run south towards [G41.2,92.4 Feralas].
+In Ferals, die from a bear/gorilla once you've run past the [G41.45765,8.98459,2 tree]. Or die by the harpies. Don't die more to the east or you end up by Dire Maul. Spirit Ress in Feathermoon.
+Get the FP [P Feathermoon].
+
 Hearth to [H Nijel's Point].
 Turn in [QT261 Down the Scarlet Path].\\Accept follow-up [QA1052 Down the Scarlet Path].
 Turn in [QT1466 Reagents for Reclaimers Inc.] and [QT1456 The Karnitol Shipwreck].\\Accept follow-ups [QA1467 Reagents for Reclaimers Inc.] and [QA1457 The Karnitol Shipwreck].

@@ -84,6 +84,7 @@ Accept [QA11169 The Grimtotem Weapon] and [QA11173 The Reagent Thief].
 Turn in [QT11169 The Grimtotem Weapon] and [QT11173 The Reagent Thief].
 Accept [QA11172 The Zeppelin Crash].
 Turn in [QT11172 The Zeppelin Crash].\\Accept [QA11207 Secure the Cargo!] and [QA11174 Corrosion Prevention].
+Loot the crate in the rubble to complete [QC1187 Razzeric's Tweaking].
 [OC] Around this area there's power fragments that energize you, when energized use the item to dissolve a slime.
 Go around looting boxes and dissolving slimes to complete [QC11207 Secure the Cargo!] and [QC11174 Corrosion Prevention].
 Turn in [QT11207 Secure the Cargo!] and [QT11174 Corrosion Prevention].\\Accept [QA11208 Delivery for Drazzit].
