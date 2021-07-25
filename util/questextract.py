@@ -38,14 +38,15 @@ def find_questgiver(row, cur):
 def patch_zoneorsort(quest):
     special = {-261:'Hunter', -262:'Priest', -162:'Rogue', -141:'Paladin', -81:'Warrior', -161:'Mage', -61:'Warlock', -263:'Druid', -82:'Shaman', -284:'Special', -101:'Fishing', -304:'Cooking', -324:'First Aid', -264:'Tailoring', -181:'Alchemy', -201:'Engineering', -24:'Herbalism', -182:'Leatherworking', -121:'Blacksmithing', -221:'Treasure Map', -25:'Battlegrounds', -22:'Seasonal', -364:'Darkmoon Faire', -1:'Epic', -365:'Ahn\'Qiraj War', -366:'Lunar Festival', -368:'Invasion', -367:'Reputation', -369:'Midsummer', -370:'Brewfest', 0:'Unused', -344:'Unused'}
     if quest.zoneorsort in areatable:
-        quest.questlogsort = areatable[quest.zoneorsort]
+        quest.zone = areatable[quest.zoneorsort]
     elif quest.zoneorsort in special:
-        quest.questlogsort = special[quest.zoneorsort]
+        quest.zone = special[quest.zoneorsort]
     else:
         print('%d has non-existant zoneorsort %d' % (quest.id, quest.zoneorsort))
+    delattr(quest, 'zoneorsort')
 
 def build_quest_db(conn):
-    quests = []
+    quests = {}
     cur = conn.cursor()
     cur2 = conn.cursor()
     cur.execute('SELECT * FROM quest_template')
@@ -77,7 +78,7 @@ def build_quest_db(conn):
         quest.x = float(x)
         quest.y = float(y)
         quest.z = float(z)
-        quests.append(quest)
+        quests[quest.id] = quest
     return quests
 
 def patch_areas(quests):
@@ -86,32 +87,37 @@ def patch_areas(quests):
     try:
         with open('areaanswers.txt', 'r') as f:
             for answer in f:
-                id, zone = answer.split(' ', 1)
-                answers[int(id)] = zone
+                id, hostilemask, zone = answer.split(' ', 2)
+                answers[int(id)] = (int(hostilemask), zone.strip())
     except OSError:
         # Write file with map, x, y, z
         writtenids = set()
         with open('areaqueries.txt', 'w') as f:
-            for quest in quests:
+            for key in quests:
+                quest = quests[key]
                 if quest.acceptid == 0 or quest.acceptid in writtenids:
                     continue
                 f.write('%d %d %d %f %f %f\n' % (quest.acceptid, quest.acceptfaction, quest.acceptmap, quest.x, quest.y, quest.z))
                 writtenids.add(quest.acceptid)
         return
     # Add the zones
-    for quest in quests:
+    for key in quests:
+        quest = quests[key]
         if quest.acceptid == 0:
             continue
-        quest.zone = answers[quest.acceptid]
+        hostilemask, zone = answers[quest.acceptid]
+        quest.accepthostilemask = hostilemask
+        quest.acceptzone = zone
 
 def write_to_json(quests):
-    pass
+    with open('quests.json', 'w') as f:
+        json.dump(quests, f, indent=4, default=lambda quest: quest.__dict__)
 
 def read_area_table():
     with open('areatable.txt') as f:
         for row in f:
             id, name = row.split(' ', 1)
-            areatable[int(id)] = name
+            areatable[int(id)] = name.strip()
 
 def main():
     if len(sys.argv) != 4:
