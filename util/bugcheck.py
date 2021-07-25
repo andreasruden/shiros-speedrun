@@ -1,7 +1,8 @@
 import glob
 import json
-import sys
 import os
+import re
+import sys
 
 FACTION_ALLIANCE = 0x2
 FACTION_HORDE = 0x4
@@ -57,10 +58,11 @@ def is_preceeded_by(line, n, text):
 def process_line(line, route, linenum):
     n = 0
     while True:
-        #try:
-        (quest, n, start) = find_next_quest_with_start(line, n)
-        #except:
-            #error(linenum, 'Invalid quest formatting')
+        check_hearthstone(line, route, linenum)
+        try:
+            (quest, n, start) = find_next_quest_with_start(line, n)
+        except:
+            error(linenum, 'Invalid quest formatting')
         if quest == None:
             return
         if quest.op not in ['A', 'C', 'T']:
@@ -77,7 +79,7 @@ def process_line(line, route, linenum):
             warning(linenum, quest.id, 'Has already been accepted')
         elif quest.op != 'T' and quest.id in route.completed:
             warning(linenum, quest.id, 'Has already been completed')
-        elif quest.id in route.finished:
+        elif quest.id in route.finished and not '!OptionalFinish' in line:
             warning(linenum, quest.id, 'Has already been turned in')
 
         if quest.op == 'A':
@@ -88,6 +90,9 @@ def process_line(line, route, linenum):
             route.accepted.remove(quest.id)
             route.completed.append(quest.id)
         elif quest.op == 'T':
+            if quest.id not in route.accepted and quest.id not in route.completed:
+                if '!FinishWithoutAccept' not in line and '!OptionalFinish' not in line:
+                    error(linenum, 'Trying to turn in quest %s which is not in our quest log' % quest.id)
             if quest.id in route.accepted:
                 route.accepted.remove(quest.id)
             if quest.id in route.completed:
@@ -178,6 +183,17 @@ def process_file(file, route):
     # print('Questlog: ')
     # print_questlog(route)
     print()
+
+def check_hearthstone(line, route, linenum):
+    # Set Hearthstone
+    match = re.search(r'\[S (.*)\]', line)
+    if match:
+        route.hearthstone = match.group(1)
+    # Use Hearthstone
+    match = re.search(r'\[H (.*)\]', line)
+    if match:
+        if route.hearthstone != match.group(1):
+            error(linenum, 'Trying to use hearthstone to go to %s, but it is bound to %s' % (match.group(1), route.hearthstone))
 
 def scan_files():
     route = Route() # {'accepted':[], 'completed':[], 'finished':[]}
