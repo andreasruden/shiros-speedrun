@@ -6,10 +6,10 @@ Guidelime.registerGuide(
 [N 42-43 Stranglethorn Vale]
 [NX 44-45 Tanaris]
 
-XXX: Are these done -> Complete [QC196 Raptor Mastery] [QA202 Colonel Kurzen] and [QC192 Panther Mastery] on the coast south of Grom'Gol.
+-- XXX: Are these done -> Complete [QC196 Raptor Mastery] [QA202 Colonel Kurzen] and [QC192 Panther Mastery] on the coast south of Grom'Gol.
 
-XXX: We need [QA205 Troll Witchery] (rebel camp) [QA192 Panther Mastery] [QA196 Raptor Mastery] (nessingwary) from last time.
-XXX: We should pop into Badlands for a bit of questing before STV, to grab https://tbc.wowhead.com/quest=735/the-star-the-hand-and-the-heart and pearl diving.
+XXX: We need [QA205 Troll Witchery] [QA202 Colonel Kurzen] (rebel camp) [QA193 Panther Mastery] [QA197 Raptor Mastery] (nessingwary) from last time.
+-- XXX: We should pop into Badlands for a bit of questing before STV, to grab https://tbc.wowhead.com/quest=735/the-star-the-hand-and-the-heart and pearl diving.
 
 -- Booty Bay
 Accpet [QA2864 Tran'rek].

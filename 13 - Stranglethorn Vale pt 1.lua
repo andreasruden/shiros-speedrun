@@ -55,7 +55,7 @@ Finish [QC213 Hostile Takeover].
 -- Nesingwary
 [OC] On the way back, kill some crocolisks.
 Turn in [QT190 Panther Mastery].\\Accept follow-up [QA191 Panther Mastery].
-Turn in [QC186 Tiger Mastery].\\Accept follow-up [QA187 Tiger Mastery].
+Turn in [QT186 Tiger Mastery].\\Accept follow-up [QA187 Tiger Mastery].
 Accept [QA194 Raptor Mastery].
 
 -- Rebel Camp

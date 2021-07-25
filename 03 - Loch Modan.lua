@@ -17,7 +17,7 @@ Turn in [QT224 In Defense of King's Lands].
 Accept [QA237 In Defense of King's Lands].
 Turn in [QT267 The Trogg Threat].
 Complete [QC237 In Defense of King's Lands] in [G28.9,83.9 Stonesplinter Valley].
-Turn in [QC237 In Defense of King's Lands].
+Turn in [QT237 In Defense of King's Lands].
 Accept follow-up [QA263 In Defense of King's Lands].
 Get fligh point in [P Thelsamar].
 [OC] If you see the patrol, accept his quests.

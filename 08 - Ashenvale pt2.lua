@@ -38,7 +38,7 @@ Open the [G54.40,35.38 chest] to complete [QC1026 Raene's Cleansing].
 [52.941870,36.52751,1]
 Run through the cave-like tunnel. In the camp, on the table, read the book to complete [QC1022 The Howling Vale].
 [OC] Been trying to find a way through the mountain to the moonwell, but can't seem to get up anywhere (XXX).
-Run around the mountain and turn in [QT1026 Raene's Cleansing].\\Accept [QA1026 Raene's Cleansing].
+Run around the mountain and turn in [QT1026 Raene's Cleansing].\\Accept [QA1027 Raene's Cleansing].
 On the table, loot the bottle to complete [QC1011 Forsaken Diseases] and complete [QC1027 Raene's Cleansing].
 Complete [QC9516 Destroy the Legion] and [QC9526 Reclaiming Felfire Hill]. If your class is not strong enough to do this efficiently while under-leveled, skip these quests.
 Complete [QC9517,1 Warsong Lumber], [QC1140,1 Free the Highborne soul in Satyrnaar] and [QC9518 Agents of Destruction].
@@ -55,7 +55,7 @@ Turn in [QT9517 A Shameful Waste] and [QT9526 Reclaiming Felfire Hill].
 -- To Ratchet
 Turn in [QT9521 Report from the Northern Front].
 If you stand [G47.224599,5.450017,1 here], you can jump up on the fence and get into barrens without aggroing any guards.
-Avoid the guards by hugging the mountain. Then run south up onto the fisrt big mountain and complete [QT1017 Mage Summoner].
+Avoid the guards by hugging the mountain. Then run south up onto the first big mountain and complete [QC1017 Mage Summoner].
 Continue to ratchet. Turn in [QT1094 Further Instructions].
 Get FP in [P Ratchet].
 Fly to [F Astranaar].

@@ -41,7 +41,7 @@ Obtain [QC651,2 Cresting Key].
 Complete [QC691 Worth Its Weight in Gold]. [G68,75]
 Turn in [QT691 Hints of a New Plague?]\\Accept follow-up [QA658 Hints of a New Plague?].
 Find the courier along the road to complete [QC658 Hints of a New Plague?].
-Turn in [QC658 Hints of a New Plague?]\\Accept follow-up [QA657 Hints of a New Plague?]
+Turn in [QT658 Hints of a New Plague?]\\Accept follow-up [QA657 Hints of a New Plague?]
 Turn in [QA657 Hints of a New Plague?]\\Accept follow-up escort [QA660 Hints of a New Plague?]
 Complete escort [QC660 Hints of a New Plague?].
 Turn in [QT660 Hints of a New Plague?]\\Accept follow-up [QA661 Hints of a New Plague?]

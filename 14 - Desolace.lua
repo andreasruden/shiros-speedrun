@@ -12,7 +12,7 @@ Guidelime.registerGuide(
 Fly to [F Tanaris].
 Turn in [QT1112 Parts for Kravel].\\Accept [QA1114 Delivery to the Gnomes].
 Turn in [QT1114 Delivery to the Gnomes].
-Accept [QA 1115 The Rumormonger].
+Accept [QA1115 The Rumormonger].
 Turn in [QT1107 Encrusted Tail Fins].
 Turn in [QT1183 Goblin Sponsorship].\\Accept [QA1186 The Eighteenth Pilot].
 Turn in [QT1186 The Eighteenth Pilot].\\Accept [QA1187 Razzeric's Tweaking].
@@ -62,7 +62,7 @@ Time to escort Dalinda out. Accept [QA1440 Return to Vahlarriel].
 Turn in [QT5501 Bone Collector].
 Finish collecting [QC1459,1 Scorpashi Venom]. [G70,30]
 Turn in [QT1440 Return to Vahlarriel].
-Turn in [QT1455 The Karnitol Shipwreck] and [QT1459 Reagents for Reclaimers Inc.]\\Accept follow-ups [QA1456 The Karnitol Shipwreck] and [QT1466 Reagents for Reclaimers Inc.]
+Turn in [QT1455 The Karnitol Shipwreck] and [QT1459 Reagents for Reclaimers Inc.]\\Accept follow-ups [QA1456 The Karnitol Shipwreck] and [QA1466 Reagents for Reclaimers Inc.]
 
 -- NW island
 Turn in [QT5741 Sceptre of Light].\\Accept [QA6027 Book of the Ancients].

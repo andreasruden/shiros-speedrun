@@ -34,7 +34,7 @@ Complete [QC944 The Master's Glaive] (use the phial in your inventory, place a b
 Accept [QA949 The Twilight Camp].
 Turn in [QT949 The Twilight Camp].\\Accept [QA950 Return to Onu].
 Accept [QA945 Therylune's Escape].
-Complete [QA945 Therylune's Escape].
+Complete [QC945 Therylune's Escape].
 [OC] If there are respwns in the Twilight Camp, murder them as well. If the book still doesn't drop, move on.
 Turn in [QT729 The Absent Minded Prospector].
 [OC] This next escort quest really sucks, so read these tips carefully before accepting the quest. First of, always let Remtravel aggro, or he will ignore you fighting something and run ahead. But after he aggros, you need to quickly pull aggro because he's squishy. There are 3 mob spawn points. First one is when he walks up the small wooden ramp, single spawn that aggros you for some reason. Then after he searches the tent, 2 more mobs spawn. The last spawn is after he's done his route and is on the way back. On the "hill" to the left of the second wooden ramp (36,86) there will spawn one caster + one melee mob. The caster hits *very* hard, so immediately pull aggro on it. Oh, and lastly, some of the stone guys in this area respawn very quickly (especially the guys around the second ramp). Good luck :-). If you fail, respawn time is like 5 minutes, so grind some Grizzled Thistle Bear NW of quest NPC while waiting.

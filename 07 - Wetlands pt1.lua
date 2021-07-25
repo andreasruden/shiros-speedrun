@@ -51,8 +51,8 @@ Following the same waters east as before, complete [QC484 Young Crocolisk Skins]
 Turn in [QT294 Ormer's Revenge].\\Accept follow-up [QA295 Ormer's Revenge].
 Accept [QA299 Uncovering the Past].
 Complete [QC299 Uncovering the Past]. Random spawns. If unlucky, one can hide by Sarltooth or on the wooden platform below him. If that happens, get it together with Sarltooth quest.
-Finish up [QC294 Ormer's Revenge].
-Turn in [QC295 Ormer's Revenge].\\Accept follow-up [QA296 Ormer's Revenge].
+Finish up [QC295 Ormer's Revenge].
+Turn in [QT295 Ormer's Revenge].\\Accept follow-up [QA296 Ormer's Revenge].
 Turn in [QT299 Uncovering the Past].\\Accept [QA306 In Search of The Excavation Team].
 Loot [QC943,2 Flagongut's Fossil].
 [OC] If you can't solo Sarltooth (Lv. 29 raptor) just skip the quest.
@@ -61,8 +61,8 @@ Loot [QC943,2 Flagongut's Fossil].
 [G32.1954,49.5278,1]
 [G32.1733,49.8382,1]
 [G31.8956,50.1608,1]
-Complete [QC294 Ormer's Revenge].
-Turn in [QT294 Ormer's Revenge].
+Complete [QC296 Ormer's Revenge].
+Turn in [QT296 Ormer's Revenge].
 Complete [QC464 War Banners].
 Accept [QA469 Daily Delivery].
 Turn in [QT463 The Greenwarden].\\Accept [QA276 Tramping Paws].

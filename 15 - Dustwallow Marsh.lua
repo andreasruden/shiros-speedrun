@@ -38,7 +38,7 @@ Turn in [QT11177 The Hermit of Swamplight Manor].\\Accept [QA1218 Marsh Frog Leg
 Accept [QA11180 What's Haunting Witch Hill?]
 Complete [QC1218 Marsh Frog Legs] and [QC11180 What's Haunting Witch Hill?] around the hut.
 Turn in [QT1218 Marsh Frog Legs].\\Accept [QA1206 Jarl Needs Eyes].
-Turn in [QC11180 What's Haunting Witch Hill?].\\Accept [QA11181 The Witch's Bane].
+Turn in [QT11180 What's Haunting Witch Hill?].\\Accept [QA11181 The Witch's Bane].
 Accept [QA1219 The Orc Report].
 [OC] Go through marsh rather than road. Loot Witchbanes during next two steps.
 Accept [QA11146 Raptor Captor].
@@ -127,7 +127,7 @@ Grind your way over to Tabetha and turn in [QT11149 Tabetha's Assistance].\\Acce
 Accept [QA11156 Direhorn Raiders].
 Complete [QC11150 Raze Direhorn Post!] and [QC11156 Direhorn Raiders].
 Turn in [QT11156 Direhorn Raiders].
-Turn in [QC11150 Raze Direhorn Post!]\\Accept [QA11151 Justice for the Hyals].
+Turn in [QT11150 Raze Direhorn Post!]\\Accept [QA11151 Justice for the Hyals].
 
 -- Finish up at Mudsprocket
 Complete [QC11159 Spirits of Stonemaul Hold].
@@ -137,7 +137,7 @@ Complete [QC11160 Banner of the Stonemaul] inside the cave (keep to the left) an
 On the way to Onyxia's Lair, complete [QC11217 Catch a Dragon by the Tail]. [G46.7,77.2]
 Complete [QC11162 Challenge to the Black Flight].
 Turn in [QT11217 Catch a Dragon by the Tail].
-Turn in [QT11160 Banner of the Stonemaul], [QT11161 The Essence of Enmity] and [QC11162 Challenge to the Black Flight].
+Turn in [QT11160 Banner of the Stonemaul], [QT11161 The Essence of Enmity] and [QT11162 Challenge to the Black Flight].
 
 -- Theramore finish up
 Fly to [F Theramore]. -- XXX: The turn in order might be wrong, was hearth before

@@ -21,9 +21,9 @@ Accept [QA983 Buzzbox 827] in the room above the innkeeper.
 Loot the big, dead dinosaur to complete [QC3524 Washed Ashore].
 Complete [QC983 Buzzbox 827] (there's more crawlers in water + coast north of auberdine).
 Turn in [QT983 Buzzbox 827].\\Accept follow-up [QA1001 Buzzbox 411].
-Turn in [QT3524 Washed Ashore].\\Accept follow-up [QA3524 Washed Ashore].
-Swim west to complete [QC3524 Washed Ashore].
-Turn in [QT3524 Washed Ashore] to unlock all the Sea Monster quests.
+Turn in [QT3524 Washed Ashore].\\Accept follow-up [QA4681 Washed Ashore].
+Swim west to complete [QC4681 Washed Ashore].
+Turn in [QT4681 Washed Ashore] to unlock all the Sea Monster quests.
 Accept [QA947 Cave Mushrooms].
 Accept [QA4811 The Red Crystal].
 Accept [QA2118 Plagued Lands].
@@ -42,11 +42,11 @@ Turn in [QT956 Bashal'Aran].\\Accept follow-up [QA957 Bashal'Aran].
 Go south-east to the Red Crystal to complete [QC4811 The Red Crystal].
 Run south-west to the furbolg camp to complete [QC984 How Big a Threat?].
 Accept [QA953 The Fall of Ameth'Aran].
-[OC] If you spot Anaya while doing the next few steps, kill her for [QC983 For Love Eternal].
+[OC] If you spot Anaya while doing the next few steps, kill her for [QC963 For Love Eternal].
 Read the [QC953,1 Lay of Ameth'Aran].
-Complete [QA957 Bashal'Aran].
+Complete [QC957 Bashal'Aran].
 Read the [QC953,2 Fall of Ameth'Aran].
-Complete [QC983 For Love Eternal].
+Complete [QC963 For Love Eternal].
 Complete [QC958 Tools of the Highborne].
 Turn in [QT953 The Fall of Ameth'Aran].
 Capture a [G38.68,58.82 Rabid Thistle Bear] around this area, using Tharnarium's Hope.
@@ -71,7 +71,7 @@ Turn in [QT6343 Return to Nessa].
 [T] Learn *only essential* skills at your trainer. We need to start saving for mount!
 Hearth to [H Auberdine].
 In the moonwell, fill the Moonwell Water Tube to complete [QC4812 As Water Cascades].
-Turn in [QC730 Trouble In Darkshore?]. Skip follow-up for now.
+Turn in [QT730 Trouble In Darkshore?]. Skip follow-up for now.
 
 -- Making the first round deep North
 Finish [QC1001 Buzzbox 411] on the way north.
@@ -87,7 +87,7 @@ In the northern area (Bashal'aran and up, ending around Cliffspring River) compl
 Turn in [QT1002 Buzzbox 323].\\Accept [QA1003 Buzzbox 525].
 Jump into the waterfall and fill the sampling tube to complete [QC4762 The Cliffspring River].
 Turn in [QT965 The Tower of Althalaxx].\\Accept follow-up [QA966 The Tower of Althalaxx].
-Complete [QA966 The Tower of Althalaxx].
+Complete [QC966 The Tower of Althalaxx].
 Turn in [QT966 The Tower of Althalaxx].\\Accept follow-up [QA967 The Tower of Althalaxx].
 If not level 15, grind to [XP15].
 Go to the cave above Cliffspring River and complete [QC947 Cave Mushrooms]. Note: Head right after entering the cave, chance for easy death cap.
@@ -100,7 +100,7 @@ Turn in [QT2138 Cleansing of the Infected]. Skip follow-up for now.
 Turn in [QT982 Deep Ocean, Vast Sea].
 [V][R] Vendor and repair at Elisa, the dwarf next to the turn-in. But don't sell Strider Meat.
 Turn in [QT2178 Easy Strider Living].
-Turn in [QC4762 The Cliffspring River]. Skip follow-up for now.
+Turn in [QT4762 The Cliffspring River]. Skip follow-up for now.
 Turn in [QT947 Cave Mushrooms].
 Turn in [QT4813 The Fragments Within].
 Turn in [QT4723 Beached Sea Creature].

@@ -56,11 +56,11 @@ Accept [QA1007 The Ancient Statuette].
 [OC] While doing the next objectives, also kill nagas for [QC1008 The Zoram Strand].
 Loot the [G14.20,20.64 statuette] to complete [QC1007 The Ancient Statuette].
 Turn in [QT1007 The Ancient Statuette].\\Accept [QA1009 Ruuzel].
-Head over to the island and kill [QA1009 Ruuzel], who patrols around with an escort.
+Head over to the island and kill [QC1009 Ruuzel], who patrols around with an escort.
 Finish [QC1008 The Zoram Strand] on the way back to the turn in.
 Turn in [QT1009 Ruuzel].
 Hearth to [H Astranaar].
-Turn in [QT991 Raene's Cleansing].\\Accept [QA1025 An Aggressive Defense] and [QA1024 Raene's Cleansing].
+Turn in [QT1023 Raene's Cleansing].\\Accept [QA1025 An Aggressive Defense] and [QA1024 Raene's Cleansing].
 Turn in [QT1008 The Zoram Strand].\\Accept [QA1134 Pridewings of Stonetalon].
 [OC] The biggest building has arrows (right from entering) and repair (left).
 
@@ -107,7 +107,7 @@ Fly to [F Astranaar].
 
 -- Finishing up pt.1 of Ashenvale
 Turn in [QT1034 The Ruins of Stardust]. Skip follow-up for now.
-Turn in [QA1134 Pridewings of Stonetalon].
+Turn in [QT1134 Pridewings of Stonetalon].
 Complete [QC973 The Tower of Althalaxx].
 Run north to the furbolg camp and complete [QC1054 Culling the Threat].
 [G37.48,32.3]

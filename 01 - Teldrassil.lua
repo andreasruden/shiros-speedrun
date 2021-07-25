@@ -18,10 +18,10 @@ XXX: Add food+water buying. Arrow purchasing. Hunter quests.
 
 Accept [QA456 The Balance of Nature].
 Accept [QA458 The Woodland Protector].
-Turn in [QT458 The Woodland Protector].\\Accept [QT459 The Woodland Protector]
-Complete [QA456 The Balance of Nature] and [QA459 The Woodland Protector].
-Turn in [QA459 The Woodland Protector].
-Turn in [QA456 The Balance of Nature].\\Accept [QA457 The Balance of Nature].
+Turn in [QT458 The Woodland Protector].\\Accept [QA459 The Woodland Protector]
+Complete [QC456 The Balance of Nature] and [QC459 The Woodland Protector].
+Turn in [QT459 The Woodland Protector].
+Turn in [QT456 The Balance of Nature].\\Accept [QA457 The Balance of Nature].
 Accept [QA4495 A Good Friend].
 [OC][V]Vendor at [G59.3,41,1 Keina].
 Accept [QA916 Webwood Venom].
@@ -41,7 +41,7 @@ Turn in [QT457 The Balance of Nature].
 [OC][V][R]Vendor at [G59.3,41,1 Keina].
 Turn in [QT3521 Iverron's Antidote].\\Accept [QA3522 Iverron's Antidote].
 Turn in [QT916 Webwood Venom].\\Accept [QA917 Webwood Egg].
-Turn in [QC3522 Iverron's Antidote].
+Turn in [QT3522 Iverron's Antidote].
 Complete [QC917 Webwood Egg].
 Deathwarp back.
 Turn in [QT917 Webwood Egg].\\Accept [QA920 Tenaron's Summons].
@@ -58,7 +58,7 @@ Accept [QA997 Denalan's Earth].
 Accept [QA475 A Troubling Breeze].
 Learn *First Aid* from Byancie [G55.3,56.8].
 Accept [QA932 Twisted Hatred] and [QA2438 The Emerald Dreamcatcher].
-Turn in [QC2159 Dolanaar Delivery]. Set hearthstone in [S Dolanaar].
+Turn in [QT2159 Dolanaar Delivery]. Set hearthstone in [S Dolanaar].
 Turn in [QT928 Crown of the Earth].\\Accept follow-up [QA929 Crown of the Earth].
 Learn *Cooking* from [G57.08, 61.28 Zarrin]. Cooking is essential in getting our mount.
 Accept [QA4161 Recipe of the Kaldorei].
@@ -68,7 +68,7 @@ Accept [QA4161 Recipe of the Kaldorei].
 [O] During the next steps kill *Nightsaber*, *Webwood Lurker*, and *Strigid Owl* as you encounter them, for [QC488].
 [G59.6,61.4]
 [G63.2,63.7]
-Turn in [QC997 Denalan's Earth].
+Turn in [QT997 Denalan's Earth].
 Accept [QA918 Timberling Seeds] and [QA919 Timberling Sprouts].
 Complete [QC919 Timberling Sprouts].
 Complete [QC918 Timberling Seeds].
@@ -117,7 +117,7 @@ Accept [QA487 The Road to Darnassus] from Moon Priestess Amara, who patrols betw
 [G40.77,61.98]
 At the [G42.38,67.10 Moonwell] fill your flask for [QC933 Crown of the Earth].
 [OC] Note: It's a good idea to do some extra nightsaber & critter skinning around here, or you might end up waiting for respawns later.
-Backtrack to complete [Q487 The Road to Darnassus].
+Backtrack to complete [QC487 The Road to Darnassus].
 Go to [G44.5,57.7 Barrow Den].
 Follow the tunnel until you reach the [G43.6, 60.0 two bridges].
 Loot [QC483,2 Black Feather Quill] from the right bridge.
@@ -145,7 +145,6 @@ Turn in [QT2561 Druid of the Claw] back at Oben Rageclaw.
 [A Rogue]Grind to [XP10-3310] (630 less if you've not turned in *Seek Redemption!* yet).
 Deathwarp to Dolanaar.
 Turn in [QT933 Crown of the Earth].\\Accept follow-up [QA934 Crown of the Earth].
-Turn in [QT2561 Druid of the Claw].
 Turn in [QT483 The Relics of Wakening].\\Accept [QA486 Ursal the Mauler].
 [OC] If not already turned in, turn in [QT489 Seek Redemption!].
 Turn in [QT487 The Road to Darnassus].

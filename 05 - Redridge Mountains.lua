@@ -69,7 +69,7 @@ Make sure you have [CI1015,10 Lean Wolf Flank] before moving on.
 Turn in [QT165 The Hermit].\\Accept [QA148 Supplies from Darkshire].
 Turn in [QT226 Wolves at our Heels].
 Turn in [QT164 Deliveries to Sven].\\Accept [QA95 Sven's Revenge].
-Finish up [QC226 Wolves at our Heels]. (Some are on the way to Raven Hill)
+Finish up [QC245 Eight-Legged Menaces]. (Some are on the way to Raven Hill)
 Also, make sure you have [CI2251,6 Goey Spider Leg] before moving on.
 Turn in [QT163 Raven Hill].\\Accept [QA5 Jitters' Growling Cut].
 Turn in [QT245 Eight-Legged Menaces].
