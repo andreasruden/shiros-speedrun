@@ -1,0 +1,2382 @@
+288 4 Duskwood
+823 4 Elwynn Forest
+197 4 Elwynn Forest
+6784 2 Tirisfal Glades
+233 4 Westfall
+7724 8 Tanaris
+963 4 Elwynn Forest
+234 12 Westfall
+255 4 Elwynn Forest
+1470 4 Loch Modan
+382 4 Redridge Mountains
+235 4 Westfall
+12737 2 Ashenvale
+11799 0 Moonglade
+11802 0 Moonglade
+3033 2 Thunder Bluff
+4217 4 Darnassus
+196 4 Elwynn Forest
+342 4 Redridge Mountains
+240 4 Elwynn Forest
+238 4 Westfall
+261 4 Elwynn Forest
+241 4 Elwynn Forest
+-55 0 Elwynn Forest
+239 4 Westfall
+311 4 Duskwood
+264 12 Duskwood
+253 4 Elwynn Forest
+5901 0 The Barrens
+237 4 Westfall
+265 4 Duskwood
+267 4 Duskwood
+-3643 0 Westfall
+295 4 Elwynn Forest
+-56 0 Elwynn Forest
+297 4 Stormwind City
+-1561 0 Stormwind City
+294 4 Elwynn Forest
+7801 0 The Hinterlands
+273 4 Duskwood
+278 4 Elwynn Forest
+246 4 Elwynn Forest
+247 4 Elwynn Forest
+244 4 Elwynn Forest
+341 4 Redridge Mountains
+272 4 Duskwood
+900 12 Redridge Mountains
+343 4 Redridge Mountains
+313 4 Elwynn Forest
+5895 0 Unknown
+1938 2 Silverpine Forest
+-113791 0 Silverpine Forest
+821 4 Westfall
+392 0 Westfall
+10837 2 Tirisfal Glades
+251 4 Elwynn Forest
+248 4 Elwynn Forest
+252 4 Elwynn Forest
+5594 0 Tanaris
+346 4 Redridge Mountains
+415 4 Redridge Mountains
+514 4 Elwynn Forest
+344 4 Redridge Mountains
+466 4 Stormwind City
+381 4 Redridge Mountains
+903 12 Redridge Mountains
+379 4 Redridge Mountains
+464 12 Redridge Mountains
+266 4 Redridge Mountains
+289 4 Duskwood
+-35 0 Westfall
+-36 0 Westfall
+-34 0 Westfall
+332 4 Stormwind City
+263 4 Duskwood
+878 4 Westfall
+302 4 Duskwood
+467 0 Westfall
+1093 4 Loch Modan
+633 4 Duskwood
+656 4 Stormwind City
+-60 0 Redridge Mountains
+713 4 Dun Morogh
+14451 2 Orgrimmar
+663 4 Duskwood
+276 4 Duskwood
+-68 0 Elwynn Forest
+658 4 Dun Morogh
+-47 0 Redridge Mountains
+786 4 Dun Morogh
+714 4 Dun Morogh
+717 0 Stranglethorn Vale
+737 0 Stranglethorn Vale
+718 0 Stranglethorn Vale
+715 0 Stranglethorn Vale
+773 0 Stranglethorn Vale
+-257 0 Loch Modan
+469 4 Stranglethorn Vale
+733 4 Stranglethorn Vale
+739 4 Stranglethorn Vale
+770 4 Stranglethorn Vale
+10838 4 Western Plaguelands
+1141 4 Stormwind City
+820 4 Westfall
+738 4 Stranglethorn Vale
+12757 2 Ashenvale
+1092 4 Loch Modan
+349 4 Redridge Mountains
+5899 2 The Barrens
+1089 4 Loch Modan
+-61 0 Duskwood
+893 4 Duskwood
+268 4 Duskwood
+-59 0 Duskwood
+576 4 Duskwood
+5204 2 Undercity
+10880 2 Orgrimmar
+1091 4 Loch Modan
+7683 2 Undercity
+888 12 Duskwood
+1070 12 Redridge Mountains
+12696 2 Ashenvale
+-31 0 Redridge Mountains
+-51708 0 Duskwood
+1139 4 Loch Modan
+-256 0 Loch Modan
+1187 4 Loch Modan
+1182 4 Desolace
+1090 4 Loch Modan
+5543 2 Thunder Bluff
+1212 4 Stormwind City
+1156 4 Loch Modan
+1105 4 Loch Modan
+1073 4 Wetlands
+1244 4 Wetlands
+1242 4 Wetlands
+-1585 0 Loch Modan
+-261 0 Wetlands
+-142151 0 Wetlands
+-259 0 Wetlands
+1252 4 Dun Morogh
+1239 4 Wetlands
+-112948 0 Wetlands
+1217 4 Wetlands
+1078 4 Wetlands
+1345 4 Loch Modan
+1344 4 Loch Modan
+1077 4 Wetlands
+1356 4 Ironforge
+1074 4 Wetlands
+1071 4 Wetlands
+2096 4 Wetlands
+1076 4 Wetlands
+1343 4 Loch Modan
+1373 4 Dun Morogh
+1379 12 Loch Modan
+1375 4 Dun Morogh
+-270 0 Dun Morogh
+1266 12 Dun Morogh
+1377 4 Dun Morogh
+1265 4 Dun Morogh
+1374 4 Dun Morogh
+1378 4 Dun Morogh
+-2734 0 Wetlands
+1416 4 Stormwind City
+-287 0 Stranglethorn Vale
+-288 0 Stranglethorn Vale
+1422 12 Stranglethorn Vale
+1432 4 Stormwind City
+1427 4 Stormwind City
+1428 4 Stormwind City
+1435 4 Stormwind City
+716 0 Stranglethorn Vale
+1444 4 Stormwind City
+1440 4 Stormwind City
+951 4 Elwynn Forest
+2486 0 Stranglethorn Vale
+1449 0 Stranglethorn Vale
+1500 2 Tirisfal Glades
+1495 2 Tirisfal Glades
+1498 2 Undercity
+1499 2 Tirisfal Glades
+1568 2 Tirisfal Glades
+1569 2 Tirisfal Glades
+1519 2 Tirisfal Glades
+1518 2 Tirisfal Glades
+1515 2 Tirisfal Glades
+1652 2 Tirisfal Glades
+1521 2 Tirisfal Glades
+1661 2 Tirisfal Glades
+270 4 Duskwood
+7407 8 Tanaris
+1570 2 Tirisfal Glades
+1267 4 Dun Morogh
+1154 4 Loch Modan
+859 12 Redridge Mountains
+1719 4 Stormwind City
+1721 4 Stormwind City
+1646 4 Stormwind City
+482 4 Stormwind City
+-711 0 Tirisfal Glades
+1872 4 Dun Morogh
+-269 0 Dun Morogh
+1496 2 Tirisfal Glades
+1497 2 Tirisfal Glades
+-1557 0 Tirisfal Glades
+1269 4 Dun Morogh
+1959 12 Dun Morogh
+1340 4 Loch Modan
+-2059 0 Dun Morogh
+1963 4 Loch Modan
+1960 4 Dun Morogh
+1965 4 Dun Morogh
+1950 2 Silverpine Forest
+1952 2 Silverpine Forest
+1937 2 Silverpine Forest
+-1586 0 Tirisfal Glades
+1254 4 Dun Morogh
+1977 4 Dun Morogh
+7766 4 Stormwind City
+1978 10 Silverpine Forest
+-1593 0 Silverpine Forest
+2055 2 Undercity
+2058 2 Silverpine Forest
+2057 12 Loch Modan
+1342 4 Loch Modan
+2079 4 Teldrassil
+2077 4 Teldrassil
+1992 4 Teldrassil
+-1599 0 Silverpine Forest
+2104 4 Wetlands
+2093 4 Wetlands
+2111 4 Wetlands
+2094 4 Wetlands
+2097 4 Wetlands
+2086 4 Wetlands
+-1609 0 Wetlands
+2078 4 Teldrassil
+2107 4 Teldrassil
+2121 2 Silverpine Forest
+-1627 0 Silverpine Forest
+2151 12 Teldrassil
+2150 4 Teldrassil
+2083 4 Teldrassil
+-112888 0 Silverpine Forest
+2214 2 Hillsbrad Foothills
+2227 2 Undercity
+2216 2 Hillsbrad Foothills
+2229 2 Hillsbrad Foothills
+2263 4 Hillsbrad Foothills
+2276 0 Hillsbrad Foothills
+2316 2 Alterac Mountains
+2317 0 Alterac Mountains
+2277 4 Hillsbrad Foothills
+2278 2 Hillsbrad Foothills
+2215 2 Hillsbrad Foothills
+2050 2 Undercity
+2333 2 Alterac Mountains
+2228 4 Hillsbrad Foothills
+2285 4 Stormwind City
+2410 2 Hillsbrad Foothills
+2418 2 Hillsbrad Foothills
+2419 2 Hillsbrad Foothills
+-1763 0 Hillsbrad Foothills
+2429 2 Hillsbrad Foothills
+2430 4 Hillsbrad Foothills
+2437 2 Hillsbrad Foothills
+14305 0 Unknown
+2382 4 Hillsbrad Foothills
+2438 4 Hillsbrad Foothills
+-2008 0 Hillsbrad Foothills
+2464 2 Stranglethorn Vale
+2465 2 Stranglethorn Vale
+2495 0 Stranglethorn Vale
+2493 0 Stranglethorn Vale
+2496 0 Stranglethorn Vale
+2504 4 Stormwind City
+2491 0 Stranglethorn Vale
+2497 2 Stranglethorn Vale
+-2076 0 Stranglethorn Vale
+2488 0 Stranglethorn Vale
+2519 2 Stranglethorn Vale
+2530 1 Stranglethorn Vale
+2490 0 Stranglethorn Vale
+-2083 0 Stranglethorn Vale
+2498 0 Stranglethorn Vale
+2543 4 Alterac Mountains
+2487 0 Stranglethorn Vale
+2501 0 Stranglethorn Vale
+2502 0 Stranglethorn Vale
+2542 0 Stranglethorn Vale
+2500 0 Stranglethorn Vale
+2494 0 Stranglethorn Vale
+2594 0 Stranglethorn Vale
+-2289 0 Stranglethorn Vale
+-2553 0 Swamp of Sorrows
+-2555 0 Dustwallow Marsh
+2634 0 Stranglethorn Vale
+1075 4 Wetlands
+-2652 0 Wetlands
+2703 2 Arathi Highlands
+2706 2 Arathi Highlands
+-138492 0 Arathi Highlands
+-2703 0 Arathi Highlands
+2696 4 Arathi Highlands
+7784 0 Tanaris
+6986 2 Orgrimmar
+6987 2 Orgrimmar
+-2701 0 Arathi Highlands
+-2702 0 Arathi Highlands
+-2688 0 Arathi Highlands
+2792 2 Arathi Highlands
+2785 0 Badlands
+2712 4 Arathi Highlands
+2711 4 Hillsbrad Foothills
+2713 8 Arathi Highlands
+2767 0 Arathi Highlands
+2766 0 Arathi Highlands
+2769 0 Arathi Highlands
+2768 0 Arathi Highlands
+2774 0 Arathi Highlands
+2610 0 Arathi Highlands
+2770 2 Hillsbrad Foothills
+2771 2 Arathi Highlands
+2772 2 Arathi Highlands
+2700 4 Arathi Highlands
+2695 4 Ironforge
+-2713 0 Arathi Highlands
+2784 4 Ironforge
+2790 4 Ironforge
+2708 4 Stormwind City
+2788 4 Arathi Highlands
+2789 4 Arathi Highlands
+5591 2 Swamp of Sorrows
+5592 2 Swamp of Sorrows
+2817 0 Badlands
+2860 4 Badlands
+2921 0 Badlands
+2920 0 Badlands
+2888 0 Badlands
+2910 4 Badlands
+-2868 0 Badlands
+2909 4 Uldaman
+2916 4 Ironforge
+2918 4 Ironforge
+2913 4 Darkshore
+2912 4 Darnassus
+2917 4 Darkshore
+2786 4 Ironforge
+2934 2 Undercity
+-2875 0 Badlands
+10881 2 Thunder Bluff
+2985 2 Mulgore
+2987 2 Thunder Bluff
+2993 2 Mulgore
+2980 2 Mulgore
+2948 2 Mulgore
+2988 2 Mulgore
+-2908 0 Mulgore
+2981 2 Mulgore
+2991 2 Mulgore
+2982 2 Mulgore
+2947 2 Mulgore
+3055 2 Mulgore
+3050 2 Thunder Bluff
+3054 2 Mulgore
+2984 2 Mulgore
+2994 2 Mulgore
+3057 2 Thunder Bluff
+-2933 0 Badlands
+1068 2 Badlands
+3139 2 Durotar
+3140 2 Durotar
+3144 2 Orgrimmar
+3143 2 Durotar
+3287 2 Durotar
+3147 2 Durotar
+3145 2 Durotar
+3142 2 Durotar
+3188 2 Durotar
+3216 2 Orgrimmar
+3190 2 Durotar
+3189 2 Orgrimmar
+3191 2 Durotar
+3193 2 Durotar
+3194 2 Durotar
+3304 2 Durotar
+3292 2 The Barrens
+3208 2 Durotar
+3233 2 Mulgore
+3293 0 Durotar
+7806 0 The Hinterlands
+3336 2 Durotar
+3337 2 The Barrens
+3341 2 The Barrens
+3338 2 The Barrens
+3390 2 The Barrens
+3389 2 The Barrens
+3418 2 The Barrens
+3421 2 The Barrens
+3439 0 The Barrens
+3441 2 Thunder Bluff
+3052 2 Mulgore
+3443 2 The Barrens
+3446 0 The Barrens
+3449 2 The Barrens
+3428 2 The Barrens
+3464 2 The Barrens
+3448 2 The Barrens
+3429 2 The Barrens
+3388 0 The Barrens
+3387 2 The Barrens
+3430 2 The Barrens
+5769 2 Thunder Bluff
+3391 0 The Barrens
+3339 0 The Barrens
+3453 0 The Barrens
+3433 2 The Barrens
+3442 0 The Barrens
+-3972 0 The Barrens
+3465 0 The Barrens
+3432 2 The Barrens
+-4141 0 The Barrens
+14444 10 Orgrimmar
+5770 2 Thunder Bluff
+2082 4 Teldrassil
+2080 4 Teldrassil
+3514 4 Teldrassil
+3517 4 Darnassus
+3521 2 The Barrens
+-5620 0 The Barrens
+3515 4 Teldrassil
+-6751 0 Teldrassil
+-6752 0 Teldrassil
+3567 4 Teldrassil
+6929 2 Orgrimmar
+3519 4 Teldrassil
+3568 4 Teldrassil
+2911 4 Wetlands
+3616 4 Darkshore
+3584 4 Darkshore
+3583 4 Darkshore
+-10076 0 Unknown
+-12666 0 Darkshore
+3516 4 Darnassus
+3639 4 Darkshore
+3649 4 Darkshore
+3650 4 Darkshore
+3665 0 The Barrens
+3419 2 Thunder Bluff
+3644 4 Darkshore
+11057 2 Tirisfal Glades
+3657 4 Darkshore
+3661 4 Darkshore
+10307 0 Winterspring
+3663 4 Ashenvale
+10302 0 Un'Goro Crater
+4484 4 Ashenvale
+10305 0 Winterspring
+7916 4 Teldrassil
+6301 4 Darkshore
+3666 4 Darkshore
+3693 4 Darkshore
+3694 0 Unknown
+3691 4 Ashenvale
+3692 0 Darkshore
+-164887 0 Felwood
+-173327 0 Felwood
+-17182 0 Darkshore
+-17183 0 Darkshore
+-17184 0 Darkshore
+10879 2 Undercity
+3846 4 Ashenvale
+3845 4 Ashenvale
+3847 4 Ashenvale
+3848 4 Ashenvale
+2198 4 Stormwind City
+3885 4 Ashenvale
+10877 4 Ironforge
+3901 4 Ashenvale
+3880 4 Ashenvale
+3891 4 Ashenvale
+3916 4 Ashenvale
+3920 4 Ashenvale
+3894 4 Ashenvale
+2545 1 Stranglethorn Vale
+8026 4 Darnassus
+3945 0 Stranglethorn Vale
+661 4 Duskwood
+3897 1 Ashenvale
+10878 4 Darnassus
+2425 2 Undercity
+3978 2 Thunder Bluff
+3979 4 Ironforge
+3981 2 Scarlet Monastery
+3980 4 Hillsbrad Foothills
+-19024 0 Ashenvale
+3996 4 Ashenvale
+3994 4 Stonetalon Mountains
+3995 2 Stonetalon Mountains
+4047 2 Orgrimmar
+4049 2 The Barrens
+4046 2 Thunder Bluff
+4079 4 Ashenvale
+4077 4 Stonetalon Mountains
+4081 4 Ironforge
+4078 4 Stormwind City
+4080 4 Stonetalon Mountains
+4198 2 Stonetalon Mountains
+4276 0 Stonetalon Mountains
+4201 0 Stonetalon Mountains
+4048 4 Feralas
+4451 2 Thunder Bluff
+7007 2 Silverpine Forest
+4454 0 Thousand Needles
+4453 0 Thousand Needles
+4618 0 Badlands
+4452 0 Thousand Needles
+11801 0 Moonglade
+13220 0 Silithus
+4455 4 Wetlands
+4456 4 Darkshore
+10216 4 Darkshore
+4510 4 Razorfen Kraul
+4508 0 Razorfen Kraul
+4485 2 Orgrimmar
+4483 2 Thousand Needles
+2986 2 Thousand Needles
+4489 2 Stonetalon Mountains
+4488 2 Undercity
+4486 2 Undercity
+4500 2 Dustwallow Marsh
+4502 2 Dustwallow Marsh
+4501 2 Dustwallow Marsh
+4629 0 Thousand Needles
+4630 0 Thousand Needles
+4503 0 Dustwallow Marsh
+2092 4 Ironforge
+4631 0 Stranglethorn Vale
+11939 0 Moonglade
+4706 0 Thousand Needles
+4708 0 Tanaris
+4709 0 Thousand Needles
+-179485 0 Unknown
+-20805 0 Thousand Needles
+4721 2 Thunder Bluff
+4722 2 Thousand Needles
+4786 0 Darnassus
+4784 0 Darnassus
+4787 0 Blackfathom Deeps
+4791 2 Dustwallow Marsh
+4792 0 Dustwallow Marsh
+4794 4 Dustwallow Marsh
+-20985 0 Dustwallow Marsh
+4947 0 Unknown
+4880 0 Dustwallow Marsh
+4960 4 Stormwind City
+4959 4 Stormwind City
+840 12 Duskwood
+4961 4 Stormwind City
+4963 4 Wetlands
+4962 4 Wetlands
+-20992 0 Dustwallow Marsh
+-21042 0 Dustwallow Marsh
+4944 4 Dustwallow Marsh
+4964 4 Dustwallow Marsh
+4967 4 Dustwallow Marsh
+-187273 0 Dustwallow Marsh
+4983 8 Dustwallow Marsh
+4982 4 Stormwind City
+8997 4 Darkshore
+4926 2 Dustwallow Marsh
+4921 12 Dustwallow Marsh
+4948 4 Dustwallow Marsh
+5089 1 Dustwallow Marsh
+5081 4 Stormwind City
+5082 4 Wetlands
+14325 1 Dire Maul
+4941 4 Dustwallow Marsh
+5087 2 Dustwallow Marsh
+4966 4 Dustwallow Marsh
+6294 4 Ironforge
+338 4 Stormwind City
+5386 4 Stormwind City
+5395 2 Desolace
+5412 2 Desolace
+5398 0 Desolace
+5397 0 Desolace
+5418 2 Duskwood
+5396 4 Desolace
+5414 2 Duskwood
+5752 4 Desolace
+1776 0 Swamp of Sorrows
+5391 0 Swamp of Sorrows
+5464 4 Duskwood
+5476 4 Swamp of Sorrows
+1442 2 Swamp of Sorrows
+5394 2 Badlands
+1443 2 Swamp of Sorrows
+5593 2 Swamp of Sorrows
+5639 2 Orgrimmar
+5640 2 Orgrimmar
+5641 2 Desolace
+4498 2 Desolace
+5642 4 Desolace
+5644 0 Desolace
+5598 0 The Hinterlands
+5384 4 Stormwind City
+5635 4 The Hinterlands
+5636 4 The Hinterlands
+5634 0 The Hinterlands
+5637 4 Ironforge
+5638 4 Desolace
+-35251 0 Desolace
+5888 2 Mulgore
+5887 2 Durotar
+5900 2 Durotar
+-50961 0 Desolace
+14450 4 Stormwind City
+5667 2 Tirisfal Glades
+5675 2 Undercity
+5693 2 Undercity
+5694 4 Stormwind City
+5724 2 Tirisfal Glades
+5765 2 Durotar
+5767 0 Wailing Caverns
+5768 0 Wailing Caverns
+5810 2 The Barrens
+5875 2 Orgrimmar
+5878 2 The Barrens
+3294 2 Durotar
+5909 2 Orgrimmar
+5910 2 Orgrimmar
+4197 2 Stonetalon Mountains
+5908 2 The Barrens
+-174599 0 Felwood
+5911 2 The Barrens
+5891 0 Mulgore
+5892 2 Orgrimmar
+3032 2 Thunder Bluff
+5907 2 The Barrens
+-61934 0 Durotar
+5906 2 Thunder Bluff
+5955 0 Tanaris
+6031 4 Ironforge
+6034 4 Darnassus
+459 4 Elwynn Forest
+460 4 Dun Morogh
+913 4 Elwynn Forest
+6089 4 Stormwind City
+6090 0 Stormwind City
+6171 4 Stormwind City
+6174 4 Stormwind City
+6179 4 Ironforge
+6175 4 Ironforge
+6182 8 Westfall
+6181 4 Dun Morogh
+6241 4 Loch Modan
+6775 2 Mulgore
+15197 0 Unknown
+15199 0 Unknown
+6114 4 Ironforge
+1229 4 Dun Morogh
+4088 4 Darnassus
+3598 4 Teldrassil
+6121 4 Elwynn Forest
+6122 4 Stormwind City
+6142 4 Darnassus
+6166 4 Redridge Mountains
+5413 4 Stormwind City
+7408 8 Tanaris
+6169 4 Ironforge
+6176 0 Alterac Mountains
+-89931 0 Alterac Mountains
+6120 4 Ironforge
+6236 0 The Barrens
+6244 4 The Barrens
+6247 0 The Barrens
+6251 0 The Barrens
+6178 4 Ironforge
+6177 4 Dun Morogh
+6173 4 Stormwind City
+6172 4 Elwynn Forest
+5149 4 Ironforge
+6266 0 The Barrens
+6293 2 Undercity
+6394 2 The Barrens
+6408 2 Durotar
+6410 2 Thunder Bluff
+6411 2 Undercity
+6446 2 Orgrimmar
+3170 2 Durotar
+328 4 Elwynn Forest
+5497 4 Stormwind City
+1228 4 Dun Morogh
+5144 4 Ironforge
+2128 2 Tirisfal Glades
+4568 2 Undercity
+7311 2 Orgrimmar
+5880 2 Durotar
+2130 2 Tirisfal Glades
+6467 2 Undercity
+6522 2 Undercity
+7312 4 Ironforge
+1309 4 Stormwind City
+5885 2 Orgrimmar
+3484 2 The Barrens
+6546 0 Dustwallow Marsh
+6548 0 Thousand Needles
+4576 2 Undercity
+6577 4 Loch Modan
+6569 4 Ironforge
+6579 4 Stormwind City
+6667 4 Darkshore
+3701 4 Darkshore
+6774 4 Elwynn Forest
+6780 4 Teldrassil
+6782 4 Dun Morogh
+6786 2 Durotar
+3702 4 Darkshore
+6826 4 Ironforge
+6912 0 Uldaman
+6868 2 Badlands
+917 4 Elwynn Forest
+1234 4 Dun Morogh
+5165 4 Ironforge
+6886 4 Dun Morogh
+6906 4 Uldaman
+3599 4 Teldrassil
+4163 4 Darnassus
+4214 4 Darnassus
+-131474 0 Uldaman
+6946 4 Stormwind City
+6966 4 Redridge Mountains
+5651 2 Undercity
+7024 4 Westfall
+3401 2 Orgrimmar
+7161 0 The Barrens
+3402 2 Orgrimmar
+-7510 0 Teldrassil
+5387 4 Ironforge
+7233 1 The Barrens
+2391 2 Hillsbrad Foothills
+7313 4 Darnassus
+7316 4 Darnassus
+7363 0 Blasted Lands
+-164886 0 Felwood
+7317 4 Teldrassil
+7505 0 Blasted Lands
+7506 0 Blasted Lands
+7564 0 Tanaris
+7207 4 Stormwind City
+7572 0 Swamp of Sorrows
+7623 2 Swamp of Sorrows
+7643 2 Swamp of Sorrows
+7583 0 Tanaris
+7750 0 Unknown
+-142071 0 Tanaris
+7780 2 The Hinterlands
+7729 0 Unknown
+7763 0 Tanaris
+19935 0 Tanaris
+7790 2 Orgrimmar
+7792 2 Orgrimmar
+7793 2 Orgrimmar
+7798 4 Stormwind City
+7794 0 Stranglethorn Vale
+7802 0 Stranglethorn Vale
+7807 0 Feralas
+7804 0 Tanaris
+-150075 0 Tanaris
+-142127 0 The Hinterlands
+7826 0 Blasted Lands
+7852 4 Feralas
+7854 2 Feralas
+3412 2 Orgrimmar
+3413 2 Orgrimmar
+7853 0 Stranglethorn Vale
+7765 4 Feralas
+7774 4 Feralas
+7875 2 Feralas
+7876 8 Tanaris
+3936 4 Feralas
+-142179 0 Feralas
+7877 4 Feralas
+7881 0 Tanaris
+7884 4 The Hinterlands
+-171939 0 Felwood
+7764 4 Feralas
+-142195 0 Feralas
+7850 0 Gnomeregan
+7944 4 Ironforge
+7917 4 Stormwind City
+1268 4 Dun Morogh
+7937 4 Ironforge
+7950 4 Ironforge
+-142702 0 The Hinterlands
+-142958 0 Teldrassil
+7907 4 Teldrassil
+-144063 0 Feralas
+-142487 0 Gnomeregan
+7918 0 Unknown
+-142343 0 Tanaris
+7956 4 Feralas
+7957 4 Feralas
+4544 2 Feralas
+7777 2 Feralas
+7900 4 Feralas
+3173 2 Durotar
+3066 2 Mulgore
+8021 2 Feralas
+8022 4 Blasted Lands
+7825 2 Undercity
+1232 4 Dun Morogh
+927 4 Elwynn Forest
+928 4 Stormwind City
+7776 2 Feralas
+8115 2 Feralas
+7783 0 Azshara
+7771 0 Tanaris
+3836 4 Loch Modan
+8256 4 Ironforge
+2308 2 Undercity
+8416 4 Dun Morogh
+-171942 0 Felwood
+12738 4 Dun Morogh
+836 4 Dun Morogh
+8284 8 Searing Gorge
+-175704 0 Searing Gorge
+8418 0 The Barrens
+8417 0 Searing Gorge
+3209 10 Mulgore
+8436 0 Searing Gorge
+8439 0 Searing Gorge
+8380 0 Azshara
+8399 0 Azshara
+8479 0 Searing Gorge
+8507 4 Ironforge
+8517 4 Ironforge
+8392 0 Unknown
+8509 0 Searing Gorge
+-149502 0 Searing Gorge
+8395 0 Azshara
+8576 2 Azshara
+-151286 0 Azshara
+6134 0 Azshara
+5353 0 Swamp of Sorrows
+8582 2 The Barrens
+8587 2 Azshara
+8584 4 Teldrassil
+8579 0 Tanaris
+8583 4 Teldrassil
+8516 0 Razorfen Downs
+10219 4 Darkshore
+4586 2 Undercity
+8659 2 Orgrimmar
+8379 0 Azshara
+7773 0 Feralas
+8390 2 Undercity
+8420 0 Azshara
+5174 4 Ironforge
+5518 4 Stormwind City
+3494 0 The Barrens
+1284 4 Stormwind City
+8126 0 Tanaris
+7406 0 Stranglethorn Vale
+8738 0 The Barrens
+8879 4 Ironforge
+8965 0 Redridge Mountains
+6746 2 Thunder Bluff
+4984 4 Stormwind City
+6741 2 Undercity
+9087 2 Thunder Bluff
+5566 4 Stormwind City
+7736 4 Feralas
+5111 4 Ironforge
+6740 4 Stormwind City
+7879 4 Feralas
+8888 0 Blackrock Mountain
+9082 2 Badlands
+9136 0 Unknown
+9177 4 Burning Steppes
+9238 4 Thousand Needles
+-161505 0 Un'Goro Crater
+-161504 0 Un'Goro Crater
+620 0 Redridge Mountains
+9270 0 Un'Goro Crater
+9272 0 Un'Goro Crater
+9271 0 Un'Goro Crater
+1740 2 Tirisfal Glades
+9296 4 Elwynn Forest
+9084 2 Badlands
+8737 0 Un'Goro Crater
+9298 0 Winterspring
+9299 0 Tanaris
+-148504 0 Tanaris
+9316 0 The Barrens
+9317 2 Orgrimmar
+9117 0 Un'Goro Crater
+9081 2 Badlands
+9020 0 Blackrock Depths
+4949 2 Orgrimmar
+8929 1 Blackrock Depths
+9116 0 Felwood
+9459 0 Burning Steppes
+7775 0 Feralas
+9079 2 Badlands
+-164867 0 Badlands
+-164868 0 Badlands
+-164869 0 Unknown
+9528 0 Felwood
+9529 0 Felwood
+-174594 0 Felwood
+-174595 0 Felwood
+-174600 0 Felwood
+-174596 0 Felwood
+-164888 0 Felwood
+-174597 0 Felwood
+-164885 0 Felwood
+9520 2 Burning Steppes
+9080 2 Badlands
+9536 0 Burning Steppes
+7880 4 Feralas
+-164909 0 Feralas
+9540 4 Blasted Lands
+9077 2 Badlands
+9078 2 Badlands
+-164953 0 Feralas
+9544 0 Burning Steppes
+9119 12 Un'Goro Crater
+9118 10 Un'Goro Crater
+8496 0 The Barrens
+6286 4 Teldrassil
+9562 4 Burning Steppes
+1748 4 Stormwind City
+9500 0 Blackrock Depths
+-174601 0 Felwood
+-174602 0 Felwood
+9560 4 Burning Steppes
+9023 0 Blackrock Depths
+9618 0 Un'Goro Crater
+9623 0 Un'Goro Crater
+9598 0 Unknown
+9561 4 Burning Steppes
+-164954 0 Feralas
+9619 0 Un'Goro Crater
+10136 2 Undercity
+9503 0 Blackrock Depths
+9660 4 The Hinterlands
+9706 0 Tanaris
+9021 0 Blackrock Depths
+-174603 0 Felwood
+-164955 0 Un'Goro Crater
+-164957 0 Un'Goro Crater
+-164956 0 Un'Goro Crater
+-174598 0 Felwood
+9796 2 Durotar
+-174604 0 Felwood
+-173284 0 Felwood
+-174605 0 Felwood
+-174606 0 Darkshore
+-174607 0 Felwood
+-174684 0 Felwood
+-173324 0 Felwood
+-173265 0 Searing Gorge
+-174686 0 Felwood
+-174608 0 Felwood
+9836 0 Burning Steppes
+-174712 0 Felwood
+-174713 0 Felwood
+-174708 0 Felwood
+-174709 0 Felwood
+9999 0 Un'Goro Crater
+9997 0 Un'Goro Crater
+7740 4 Darnassus
+7010 2 Orgrimmar
+-174682 0 Un'Goro Crater
+9998 0 Un'Goro Crater
+9996 2 Felwood
+9616 4 Ironforge
+10306 2 Felwood
+10079 2 Thousand Needles
+-175265 0 Ironforge
+-175084 0 Gnomeregan
+-175085 0 Gnomeregan
+2546 1 Stranglethorn Vale
+10176 2 Durotar
+-174848 0 Ironforge
+-176190 0 Darkshore
+-175233 0 Darkshore
+-176197 0 Darkshore
+10267 0 Burning Steppes
+-176196 0 Darkshore
+-175226 0 Darkshore
+10260 0 Burning Steppes
+-175227 0 Darkshore
+-176198 0 Darkshore
+-176191 0 Darkshore
+-175230 0 Darkshore
+5172 4 Ironforge
+3326 2 Orgrimmar
+461 4 Stormwind City
+4563 2 Undercity
+-175320 0 Darkshore
+10296 0 Blackrock Spire
+9565 4 Burning Steppes
+10377 2 Thousand Needles
+10427 2 Thousand Needles
+11035 0 Eastern Plaguelands
+2670 0 Stranglethorn Vale
+10460 0 Tanaris
+10468 0 Winterspring
+2930 4 Darkshore
+-175524 0 Darkshore
+10539 2 Thousand Needles
+10537 2 Thousand Needles
+10301 4 Winterspring
+-175587 0 Winterspring
+-175586 0 Winterspring
+9563 0 Burning Steppes
+10799 0 Unknown
+10300 4 Winterspring
+10646 2 Thousand Needles
+6254 0 The Barrens
+6252 0 The Barrens
+10638 2 Thousand Needles
+10618 4 Winterspring
+10667 0 Western Plaguelands
+10257 0 Unknown
+10739 0 Western Plaguelands
+10778 0 Western Plaguelands
+-175894 0 Western Plaguelands
+10776 0 Blackrock Spire
+10782 4 Stormwind City
+10781 2 Undercity
+10303 0 Winterspring
+-175926 0 Western Plaguelands
+-175925 0 Western Plaguelands
+-175924 0 Western Plaguelands
+10428 2 Thousand Needles
+-175927 0 Winterspring
+-176091 0 Felwood
+-176090 0 Blackrock Spire
+10917 0 Stratholme
+10637 0 Winterspring
+10918 0 Winterspring
+7866 4 Azshara
+10927 0 Western Plaguelands
+7870 4 Feralas
+7868 4 Searing Gorge
+7867 2 Badlands
+7869 2 Arathi Highlands
+-176115 0 Thousand Needles
+7871 2 Stranglethorn Vale
+10926 0 Eastern Plaguelands
+9274 0 Un'Goro Crater
+10941 2 Thousand Needles
+10922 0 Felwood
+10921 0 Felwood
+10740 0 Blackrock Spire
+10929 0 Winterspring
+10976 0 Western Plaguelands
+-176192 0 Western Plaguelands
+11063 0 Eastern Plaguelands
+11016 8 Felwood
+11019 0 Felwood
+11033 0 Eastern Plaguelands
+11053 4 Western Plaguelands
+-176361 0 Western Plaguelands
+-177289 0 Western Plaguelands
+-176393 0 Western Plaguelands
+-176392 0 Western Plaguelands
+11055 2 Tirisfal Glades
+11036 0 Eastern Plaguelands
+11079 4 Winterspring
+10304 0 Eastern Plaguelands
+10924 0 Felwood
+11039 0 Eastern Plaguelands
+10684 4 Winterspring
+11034 0 Eastern Plaguelands
+11038 0 Eastern Plaguelands
+11140 0 Eastern Plaguelands
+5164 4 Ironforge
+11146 4 Ironforge
+11177 2 Orgrimmar
+11178 2 Orgrimmar
+11191 0 Winterspring
+11192 0 Winterspring
+11193 0 Winterspring
+11218 4 Darkshore
+11022 2 Tirisfal Glades
+11023 4 Western Plaguelands
+11624 2 Desolace
+11216 0 Western Plaguelands
+11020 0 Felwood
+11259 2 Desolace
+10840 0 Western Plaguelands
+10839 0 Tirisfal Glades
+10857 0 Western Plaguelands
+11317 2 Desolace
+11378 2 Durotar
+11286 0 Western Plaguelands
+-176631 0 Stratholme
+10666 2 Tirisfal Glades
+10665 2 Tirisfal Glades
+11438 0 Desolace
+10856 0 Tirisfal Glades
+11536 0 Eastern Plaguelands
+14338 0 Dire Maul
+14322 1 Dire Maul
+11548 0 Azshara
+11056 4 Western Plaguelands
+1694 4 Dun Morogh
+1855 8 Eastern Plaguelands
+10616 4 Elwynn Forest
+11596 0 Desolace
+11629 0 Winterspring
+3600 4 Teldrassil
+3595 4 Teldrassil
+375 4 Elwynn Forest
+377 4 Elwynn Forest
+1226 4 Dun Morogh
+837 4 Dun Morogh
+3706 2 Durotar
+3707 2 Durotar
+2129 2 Tirisfal Glades
+2123 2 Tirisfal Glades
+11711 8 Darkshore
+11833 2 Thunder Bluff
+11834 0 Ragefire Chasm
+11863 0 Desolace
+11877 2 Desolace
+5411 0 Tanaris
+11625 0 Desolace
+11936 0 Western Plaguelands
+11872 0 Western Plaguelands
+11758 0 Tanaris
+11860 2 Stonetalon Mountains
+12096 4 Alterac Valley
+12097 2 Alterac Valley
+11615 2 Tirisfal Glades
+11616 4 Western Plaguelands
+3602 4 Teldrassil
+5505 4 Stormwind City
+16721 4 Azuremyst Isle
+3064 2 Mulgore
+16655 2 Silvermoon City
+11626 0 Desolace
+1842 1 Western Plaguelands
+10181 2 Undercity
+11610 0 Western Plaguelands
+11878 2 Eastern Plaguelands
+-177667 0 Eastern Plaguelands
+10431 0 Winterspring
+11557 1 Felwood
+3065 2 Mulgore
+3171 2 Durotar
+3601 4 Teldrassil
+1231 4 Dun Morogh
+3038 2 Thunder Bluff
+3061 2 Mulgore
+3154 2 Durotar
+3407 2 Orgrimmar
+4146 4 Darnassus
+3596 4 Teldrassil
+4205 4 Darnassus
+895 4 Dun Morogh
+5117 4 Ironforge
+5515 4 Stormwind City
+12277 0 Desolace
+6019 0 Desolace
+12336 4 Stormwind City
+12031 2 Desolace
+12340 2 Desolace
+11898 1 Eastern Plaguelands
+-177787 0 Desolace
+9620 2 Felwood
+12384 0 Eastern Plaguelands
+491 4 Westfall
+12425 4 Western Plaguelands
+1323 4 Stormwind City
+523 4 Westfall
+-177904 0 Stonetalon Mountains
+352 4 Stormwind City
+11864 2 Stonetalon Mountains
+6389 2 Silverpine Forest
+4556 2 Undercity
+2226 2 Silverpine Forest
+4551 2 Undercity
+10118 4 Teldrassil
+3838 4 Teldrassil
+4200 4 Darkshore
+4241 4 Darnassus
+3483 2 The Barrens
+3615 2 The Barrens
+8359 2 Thunder Bluff
+2995 2 Thunder Bluff
+3489 2 The Barrens
+3310 2 Orgrimmar
+1681 4 Loch Modan
+4256 4 Ironforge
+-177491 0 Unknown
+1572 4 Loch Modan
+1573 4 Ironforge
+11862 0 Stonetalon Mountains
+11857 2 The Barrens
+12580 0 Unknown
+11861 2 Stonetalon Mountains
+12724 2 Ashenvale
+12719 2 Ashenvale
+12816 2 Stonetalon Mountains
+12721 2 Ashenvale
+12818 0 Ashenvale
+12867 2 Ashenvale
+12718 2 Ashenvale
+11856 2 Stonetalon Mountains
+11821 2 Stonetalon Mountains
+12858 2 Ashenvale
+12863 2 Ashenvale
+12864 2 Ashenvale
+12862 2 Ashenvale
+12736 2 Ashenvale
+10182 2 Desolace
+11820 2 Ashenvale
+10321 1 Dustwallow Marsh
+11754 0 Winterspring
+11755 0 Winterspring
+12919 0 Dustwallow Marsh
+3332 2 Orgrimmar
+5161 4 Ironforge
+8125 0 Tanaris
+3399 2 Orgrimmar
+5159 4 Ironforge
+12920 2 Arathi Highlands
+3373 2 Orgrimmar
+12939 4 Dustwallow Marsh
+5150 4 Ironforge
+12866 0 The Barrens
+12717 2 Ashenvale
+12944 0 Blackrock Depths
+12997 4 Deeprun Tram
+6766 0 Hillsbrad Foothills
+13176 2 Alterac Valley
+13257 12 Alterac Valley
+13236 10 Alterac Valley
+13278 0 Azshara
+13179 2 Alterac Valley
+13180 2 Alterac Valley
+13181 2 Alterac Valley
+13446 0 Unknown
+13151 1 Alterac Valley
+13377 0 Unknown
+13442 12 Alterac Valley
+13449 0 Unknown
+13439 4 Alterac Valley
+13438 4 Alterac Valley
+13437 4 Alterac Valley
+13418 0 Orgrimmar
+13445 2 Orgrimmar
+9550 2 Orgrimmar
+13636 0 Alterac Mountains
+13616 10 Alterac Valley
+13441 10 Alterac Valley
+14637 0 Feralas
+13431 0 Unknown
+13429 0 Undercity
+13444 0 Ironforge
+13577 12 Alterac Valley
+13617 12 Alterac Valley
+13656 0 Desolace
+11823 2 Desolace
+11715 4 Desolace
+13433 0 Ironforge
+13697 0 Maraudon
+13716 0 Unknown
+13417 2 Orgrimmar
+1365 4 Ironforge
+13699 0 Desolace
+13698 0 Desolace
+12238 0 Unknown
+13717 0 Desolace
+13777 12 Alterac Mountains
+13776 10 Alterac Mountains
+13797 12 Alterac Valley
+13798 10 Alterac Valley
+13816 12 Alterac Mountains
+13817 10 Alterac Mountains
+13840 2 Alterac Mountains
+13841 4 Alterac Mountains
+13842 2 Orgrimmar
+13843 4 Ironforge
+13154 10 Alterac Valley
+13320 12 Alterac Valley
+13319 12 Alterac Valley
+13153 10 Alterac Valley
+2393 2 Hillsbrad Foothills
+14182 2 Orgrimmar
+14183 4 Ironforge
+14185 10 Alterac Valley
+14186 10 Alterac Valley
+13598 12 Alterac Valley
+13597 10 Alterac Valley
+-179438 0 Unknown
+14188 12 Alterac Valley
+14355 0 Feralas
+14358 0 Dire Maul
+14368 0 Dire Maul
+14373 2 Feralas
+14374 4 Feralas
+14392 2 Orgrimmar
+14394 4 Stormwind City
+14436 0 Burning Steppes
+14463 0 Blasted Lands
+14469 0 Felwood
+14470 0 Felwood
+14494 0 Unknown
+14437 0 Burning Steppes
+9516 1 Felwood
+14524 0 Unknown
+14526 0 Unknown
+14525 0 Unknown
+11406 4 Ironforge
+14566 0 Dire Maul
+2357 4 Hillsbrad Foothills
+14567 0 Tanaris
+-179827 0 Searing Gorge
+14624 0 Searing Gorge
+14627 0 Searing Gorge
+14347 0 Silithus
+14722 4 Stormwind City
+14725 4 Darnassus
+14724 4 Ironforge
+14723 4 Ironforge
+14729 2 Undercity
+14740 2 The Hinterlands
+14728 2 Thunder Bluff
+14727 2 Orgrimmar
+14726 2 Orgrimmar
+14741 2 The Hinterlands
+14508 0 Stranglethorn Vale
+14737 2 The Hinterlands
+14731 2 The Hinterlands
+14738 2 The Hinterlands
+14739 2 The Hinterlands
+14736 2 The Hinterlands
+14757 2 The Hinterlands
+14387 0 Blackrock Mountain
+-179913 0 The Hinterlands
+14753 4 Ashenvale
+14754 2 The Barrens
+14833 0 Terokkar Forest
+14832 0 Terokkar Forest
+14841 0 Terokkar Forest
+14829 0 Terokkar Forest
+14842 0 Unknown
+14843 0 Orgrimmar
+14828 0 Terokkar Forest
+14871 0 Mulgore
+8001 0 Unknown
+14902 0 Stranglethorn Vale
+14903 0 Stranglethorn Vale
+14904 0 Stranglethorn Vale
+14905 0 Stranglethorn Vale
+14984 4 Arathi Highlands
+14983 4 Arathi Highlands
+15021 2 Arathi Highlands
+15022 2 Arathi Highlands
+15011 4 Dun Morogh
+15012 2 Durotar
+8405 0 Azshara
+15042 0 Zul'Gurub
+15077 0 Unknown
+15078 0 Stranglethorn Vale
+15070 0 Stranglethorn Vale
+14921 0 Stranglethorn Vale
+14910 0 Stranglethorn Vale
+15079 0 Stranglethorn Vale
+-180366 0 Zul'Gurub
+15119 0 Unknown
+15116 2 Orgrimmar
+6768 0 Alterac Mountains
+6707 0 Alterac Mountains
+15127 4 Arathi Highlands
+15126 2 Arathi Highlands
+15187 0 Ironforge
+15188 0 Orgrimmar
+15189 0 Silithus
+15194 0 Silithus
+15191 0 Silithus
+15190 0 Silithus
+-180448 0 Silithus
+15183 0 Silithus
+15180 0 Silithus
+15181 0 Silithus
+15192 0 Tanaris
+15174 0 Silithus
+15170 0 Silithus
+15171 0 Silithus
+15310 4 Stormwind City
+15309 0 Unknown
+-180503 0 Silithus
+15306 0 Silithus
+15270 0 Silithus
+15278 2 Eversong Woods
+15295 2 Eversong Woods
+15282 0 Silithus
+15281 2 Eversong Woods
+15296 2 Eversong Woods
+15283 2 Eversong Woods
+15297 2 Eversong Woods
+15301 2 Eversong Woods
+6735 4 Darnassus
+11814 2 Durotar
+15165 0 Tanaris
+7882 8 Tanaris
+15350 2 Thunder Bluff
+15351 4 Stormwind City
+-180570 0 Hillsbrad Foothills
+1854 4 Western Plaguelands
+11832 0 Moonglade
+11554 0 Felwood
+15395 0 Felwood
+15403 2 Eversong Woods
+11556 0 Winterspring
+-180918 0 Eversong Woods
+15418 2 Eversong Woods
+15398 2 Eversong Woods
+15416 2 Eversong Woods
+15399 2 Eversong Woods
+15400 2 Eversong Woods
+15406 2 Eversong Woods
+15404 2 Eversong Woods
+11555 1 Felwood
+15401 2 Eversong Woods
+15402 2 Eversong Woods
+16362 2 Eversong Woods
+15417 2 Eversong Woods
+15383 0 Unknown
+15431 0 Unknown
+15432 0 Unknown
+15434 0 Unknown
+15437 0 Unknown
+15540 0 Silithus
+15440 0 Unknown
+15445 0 Unknown
+15446 0 Unknown
+15448 0 Unknown
+15450 0 Unknown
+15451 0 Unknown
+-180633 0 Silithus
+15452 0 Unknown
+15453 0 Unknown
+15455 0 Unknown
+15456 0 Unknown
+15457 0 Unknown
+15459 0 Unknown
+15460 0 Unknown
+15502 0 Ahn'Qiraj Temple
+15469 0 Unknown
+15176 0 Silithus
+15477 0 Unknown
+15498 0 Silithus
+15500 0 Silithus
+15499 0 Silithus
+15503 0 Ahn'Qiraj Temple
+15504 0 Ahn'Qiraj Temple
+11811 0 Tanaris
+15508 0 Unknown
+15512 0 Unknown
+15515 0 Unknown
+15522 0 Unknown
+-180652 0 Tanaris
+15526 0 Tanaris
+15525 0 Unknown
+15528 0 Unknown
+15529 0 Unknown
+15532 0 Unknown
+15533 0 Unknown
+15534 0 Unknown
+15535 0 Unknown
+15549 0 Blackrock Depths
+15556 0 Maraudon
+15557 0 Burning Steppes
+15558 0 Loch Modan
+15559 0 The Hinterlands
+15560 0 Blackrock Spire
+15561 0 Unknown
+15562 0 Stormwind City
+15563 0 Blasted Lands
+15564 0 Undercity
+15565 0 Elwynn Forest
+15566 0 Eastern Plaguelands
+15567 0 Unknown
+15568 0 Tirisfal Glades
+15569 0 Dun Morogh
+15570 0 Silithus
+15572 0 Durotar
+15573 0 Tanaris
+15574 0 Winterspring
+15575 0 Mulgore
+15576 0 Stranglethorn Vale
+15577 0 Westfall
+15578 0 Zul'Farrak
+15579 0 Orgrimmar
+15580 0 Thunder Bluff
+15581 0 Feralas
+15582 0 The Barrens
+15583 0 Un'Goro Crater
+15584 0 Thousand Needles
+15585 0 Burning Steppes
+15586 0 Tanaris
+15587 0 Dire Maul
+15588 0 The Barrens
+15592 0 Eastern Plaguelands
+15593 0 Sunken Temple
+15594 0 Scholomance
+15595 0 Teldrassil
+15596 0 Stranglethorn Vale
+15597 0 The Barrens
+15598 0 Darnassus
+15599 0 Silithus
+15600 0 Azshara
+15601 0 Darkshore
+15602 0 Western Plaguelands
+15603 0 Felwood
+15604 0 Thousand Needles
+15605 0 Ashenvale
+15606 0 Winterspring
+15607 0 Unknown
+13020 0 Blackwing Lair
+15612 2 Silithus
+15362 0 Unknown
+15624 0 Teldrassil
+-180743 0 Unknown
+15693 0 Silithus
+-180747 0 Unknown
+-180748 0 Unknown
+15380 1 Ahn'Qiraj Temple
+15378 1 Ahn'Qiraj Temple
+15702 0 Unknown
+15703 0 Unknown
+15704 0 Unknown
+15379 1 Ahn'Qiraj Temple
+-180793 0 Unknown
+15766 4 Stormwind City
+15764 4 Ironforge
+15762 4 Darnassus
+15763 4 Ironforge
+15765 2 Orgrimmar
+15768 2 Undercity
+15767 2 Thunder Bluff
+15761 2 Orgrimmar
+15732 0 Stormwind City
+15701 0 Unknown
+15798 0 Unknown
+15799 0 Unknown
+15797 0 Unknown
+15864 0 Moonglade
+15871 0 Ironforge
+15895 0 Undercity
+15892 0 Stormwind City
+15891 0 Orgrimmar
+15909 0 Moonglade
+15920 2 Eversong Woods
+15921 2 Eversong Woods
+15951 2 Eversong Woods
+15924 2 Eversong Woods
+-181011 0 Eversong Woods
+15939 2 Eversong Woods
+15969 2 Eversong Woods
+16005 0 Stormwind City
+16009 0 Ironforge
+16001 8 Darnassus
+16007 0 Orgrimmar
+16008 2 Thunder Bluff
+16003 0 Tirisfal Glades
+16105 0 Stormwind City
+16108 10 Undercity
+16013 12 Ironforge
+16012 10 Orgrimmar
+16014 0 Tanaris
+16016 0 Stratholme
+16031 0 Unknown
+16032 0 Dire Maul
+16033 0 Blackrock Mountain
+16109 10 Undercity
+16073 0 Unknown
+16091 0 Silithus
+16106 12 Stormwind City
+16115 0 Eastern Plaguelands
+16112 8 Eastern Plaguelands
+15941 2 Eversong Woods
+16132 0 Eastern Plaguelands
+15945 2 Eversong Woods
+15970 2 Eversong Woods
+16144 2 Eversong Woods
+16134 0 Eastern Plaguelands
+16131 0 Eastern Plaguelands
+16135 0 Eastern Plaguelands
+16116 0 Eastern Plaguelands
+16133 0 Eastern Plaguelands
+16113 0 Eastern Plaguelands
+15405 2 Eversong Woods
+16187 2 Ghostlands
+16189 2 Ghostlands
+16191 2 Silvermoon City
+16192 2 Eversong Woods
+16197 2 Ghostlands
+16212 0 Eastern Plaguelands
+16219 2 Ghostlands
+16210 2 Eversong Woods
+16213 2 Ghostlands
+16196 2 Eversong Woods
+16183 2 Eversong Woods
+16198 2 Ghostlands
+16199 2 Ghostlands
+16224 2 Ghostlands
+16200 2 Ghostlands
+-181147 0 Ghostlands
+16201 2 Ghostlands
+16202 2 Ghostlands
+16231 2 Ghostlands
+16203 2 Ghostlands
+-181150 0 Ghostlands
+16226 0 Unknown
+16239 2 Ghostlands
+16237 2 Ghostlands
+16204 2 Ghostlands
+16253 2 Ghostlands
+16252 2 Ghostlands
+16287 2 Undercity
+16251 2 Ghostlands
+16289 2 Ghostlands
+16293 2 Ghostlands
+16295 2 Ghostlands
+16220 2 Ghostlands
+-181153 0 Ghostlands
+16205 2 Ghostlands
+16376 0 Eastern Plaguelands
+15942 2 Eversong Woods
+16397 2 Eversong Woods
+16399 0 Stranglethorn Vale
+16416 0 Winterspring
+16418 0 The Barrens
+16417 0 Tanaris
+16462 2 Ghostlands
+16464 2 Ghostlands
+16463 2 Ghostlands
+16475 4 Azuremyst Isle
+16477 4 Azuremyst Isle
+16480 2 Ghostlands
+16502 4 Azuremyst Isle
+16501 4 Azuremyst Isle
+16499 4 Azuremyst Isle
+16503 4 Azuremyst Isle
+16514 4 Azuremyst Isle
+16535 4 Azuremyst Isle
+17071 4 Azuremyst Isle
+16546 4 Azuremyst Isle
+16554 4 Azuremyst Isle
+16601 2 Ghostlands
+16788 0 Unknown
+16789 2 Hellfire Peninsula
+16858 2 Hellfire Peninsula
+19344 0 Hellfire Peninsula
+19367 0 Hellfire Peninsula
+16837 4 Hellfire Peninsula
+15397 2 Eversong Woods
+16791 2 Hellfire Peninsula
+16817 4 Teldrassil
+16818 2 Thunder Bluff
+16991 8 Hellfire Peninsula
+16793 2 Hellfire Peninsula
+16993 2 Hellfire Peninsula
+17015 2 Hellfire Peninsula
+16790 2 Hellfire Peninsula
+17006 4 Hellfire Peninsula
+16850 4 Hellfire Peninsula
+16794 2 Hellfire Peninsula
+16834 4 Hellfire Peninsula
+16792 2 Hellfire Peninsula
+16797 4 Hellfire Peninsula
+16799 4 Hellfire Peninsula
+3230 2 Hellfire Peninsula
+17062 0 Hellfire Peninsula
+16845 2 Hellfire Peninsula
+19254 0 Blasted Lands
+16574 2 Hellfire Peninsula
+17082 0 Silithus
+17081 0 Silithus
+17080 4 Silithus
+16851 4 Hellfire Peninsula
+17089 4 Azuremyst Isle
+17079 2 Silithus
+16852 0 Hellfire Peninsula
+16833 4 Hellfire Peninsula
+16796 4 Hellfire Peninsula
+17098 2 Orgrimmar
+17103 0 Unknown
+17093 10 Thousand Needles
+17105 4 Darnassus
+17218 4 Hillsbrad Foothills
+17094 2 Stranglethorn Vale
+17095 2 Dustwallow Marsh
+17097 2 Badlands
+17109 2 Swamp of Sorrows
+17123 2 Hellfire Peninsula
+17099 2 Tirisfal Glades
+17238 4 Western Plaguelands
+17127 4 Swamp of Sorrows
+17087 0 Azuremyst Isle
+17101 4 Azuremyst Isle
+17110 4 Azuremyst Isle
+17116 4 Azuremyst Isle
+17224 2 Ghostlands
+17212 4 Azuremyst Isle
+17219 4 The Exodar
+17214 4 Azuremyst Isle
+17205 0 Azuremyst Isle
+-181638 0 Hellfire Peninsula
+17223 4 The Hinterlands
+17215 4 Azuremyst Isle
+-181643 0 The Hinterlands
+-181649 0 The Hinterlands
+17226 2 Hellfire Peninsula
+16276 2 Eversong Woods
+16268 2 Ghostlands
+16819 4 Hellfire Peninsula
+16830 4 Hellfire Peninsula
+16829 4 Hellfire Peninsula
+16575 2 Hellfire Peninsula
+16577 2 Hellfire Peninsula
+17204 4 The Exodar
+23127 4 Ironforge
+17275 0 Bloodmyst Isle
+17240 4 Azuremyst Isle
+17246 4 Azuremyst Isle
+17241 4 Azuremyst Isle
+17303 4 Ashenvale
+17291 4 Ashenvale
+17287 4 Ashenvale
+17242 4 Azuremyst Isle
+17288 0 Unknown
+17294 0 Unknown
+17310 4 Ashenvale
+17311 4 The Veiled Sea
+17312 4 Azuremyst Isle
+16647 2 Silvermoon City
+16684 2 Silvermoon City
+17106 4 Ashenvale
+17355 2 Ashenvale
+17232 4 Azuremyst Isle
+17360 0 Azuremyst Isle
+17361 0 Azuremyst Isle
+17362 0 Azuremyst Isle
+17363 0 Azuremyst Isle
+17364 0 Azuremyst Isle
+17421 4 Bloodmyst Isle
+17431 12 Azuremyst Isle
+17435 0 Azuremyst Isle
+17468 4 The Exodar
+-181756 0 Bloodmyst Isle
+16826 4 Hellfire Peninsula
+17114 0 Azuremyst Isle
+17442 4 Azuremyst Isle
+17424 4 Bloodmyst Isle
+17441 4 Azuremyst Isle
+17440 4 Azuremyst Isle
+-181748 0 Azuremyst Isle
+17433 4 Bloodmyst Isle
+17443 4 Azuremyst Isle
+17493 10 Hellfire Peninsula
+17445 4 Azuremyst Isle
+17434 4 Bloodmyst Isle
+17557 12 Hellfire Peninsula
+17508 4 Bloodmyst Isle
+17642 4 Bloodmyst Isle
+17423 4 Bloodmyst Isle
+17480 4 Azuremyst Isle
+17482 4 Azuremyst Isle
+17479 12 Hellfire Peninsula
+17558 10 Hellfire Peninsula
+17614 4 Azuremyst Isle
+17481 4 Azuremyst Isle
+17509 4 The Exodar
+20406 2 Undercity
+17553 4 Bloodmyst Isle
+17554 4 Bloodmyst Isle
+16768 4 The Exodar
+17555 4 The Exodar
+18221 4 Swamp of Sorrows
+17587 12 Azuremyst Isle
+16673 2 Silvermoon City
+-181698 0 Ghostlands
+16802 2 Silvermoon City
+17599 4 Bloodmyst Isle
+17584 4 The Exodar
+17600 4 Bloodmyst Isle
+17613 0 Deadwind Pass
+17586 4 Bloodmyst Isle
+17637 2 Zangarmarsh
+17634 4 Zangarmarsh
+17636 0 Netherstorm
+16813 0 Karazhan
+16814 0 Karazhan
+16815 0 Karazhan
+17684 4 Bloodmyst Isle
+-181889 0 Bloodmyst Isle
+17663 4 Bloodmyst Isle
+17649 4 Bloodmyst Isle
+17069 0 Eastern Plaguelands
+17072 0 Eastern Plaguelands
+17682 4 Bloodmyst Isle
+17676 4 Bloodmyst Isle
+17686 4 Bloodmyst Isle
+17703 4 Bloodmyst Isle
+17712 4 Bloodmyst Isle
+16275 2 Eversong Woods
+17717 2 Silvermoon City
+17718 2 Silvermoon City
+17807 2 Eversong Woods
+17674 4 Bloodmyst Isle
+17658 4 Bloodmyst Isle
+17834 8 Zangarmarsh
+17825 4 Bloodmyst Isle
+17831 8 Zangarmarsh
+17843 4 Bloodmyst Isle
+17849 2 Eversong Woods
+-182032 0 Bloodmyst Isle
+16669 2 Silvermoon City
+17856 8 Zangarmarsh
+17841 8 Zangarmarsh
+17857 8 Zangarmarsh
+17866 8 Zangarmarsh
+25223 2 Silvermoon City
+17858 8 Zangarmarsh
+17877 8 Zangarmarsh
+-182115 0 Zangarmarsh
+16885 0 Hellfire Peninsula
+17884 8 Zangarmarsh
+17923 0 Zangarmarsh
+17844 4 Bloodmyst Isle
+17926 4 Bloodmyst Isle
+17956 8 Zangarmarsh
+17969 8 Zangarmarsh
+17982 4 Bloodmyst Isle
+17986 4 Bloodmyst Isle
+18016 2 Zangarmarsh
+18012 2 Zangarmarsh
+18035 2 Zangarmarsh
+18011 2 Zangarmarsh
+18003 4 Zangarmarsh
+18007 4 Zangarmarsh
+18006 4 Zangarmarsh
+18005 4 Zangarmarsh
+18004 4 Zangarmarsh
+17909 8 Zangarmarsh
+18070 8 Zangarmarsh
+18180 0 Nagrand
+18008 4 Zangarmarsh
+18019 4 Zangarmarsh
+18013 2 Zangarmarsh
+18091 2 Zangarmarsh
+20233 4 Azuremyst Isle
+18073 8 Nagrand
+17925 8 Zangarmarsh
+17924 8 Zangarmarsh
+18014 2 Zangarmarsh
+18071 8 Nagrand
+18099 0 Nagrand
+-182165 0 Zangarmarsh
+18165 0 Alterac Mountains
+18009 4 Zangarmarsh
+18166 0 Shattrath City
+18010 4 Zangarmarsh
+15608 0 Opening of the Dark Portal
+18015 2 Zangarmarsh
+16388 0 Karazhan
+18018 2 Zangarmarsh
+18017 2 Zangarmarsh
+18200 8 Nagrand
+18218 0 Nagrand
+18074 8 Nagrand
+18066 2 Nagrand
+18067 2 Nagrand
+18229 2 Nagrand
+18068 2 Nagrand
+18210 2 Nagrand
+18233 8 Nagrand
+18234 8 Nagrand
+18183 4 Nagrand
+18222 4 Nagrand
+16240 2 Ghostlands
+18224 4 Nagrand
+18209 4 Nagrand
+18265 0 Nagrand
+18106 2 Nagrand
+18273 2 Terokkar Forest
+18262 1 Terokkar Forest
+18295 4 Zangarmarsh
+18294 0 Nagrand
+18276 8 Nagrand
+18300 2 Nagrand
+18335 0 Nagrand
+18333 8 Nagrand
+18353 4 Nagrand
+18223 4 Nagrand
+18369 4 Nagrand
+18261 0 Nagrand
+-182392 0 Nagrand
+-182393 0 Nagrand
+18407 10 Nagrand
+18408 12 Nagrand
+18302 2 Nagrand
+18414 2 Nagrand
+18415 2 Nagrand
+18424 8 Terokkar Forest
+18445 4 Nagrand
+18416 4 Nagrand
+18447 2 Terokkar Forest
+18459 4 Terokkar Forest
+18471 0 Nagrand
+18446 8 Terokkar Forest
+18482 0 Terokkar Forest
+18301 2 Nagrand
+18389 4 Terokkar Forest
+18386 2 Terokkar Forest
+18484 0 Shattrath City
+18417 0 Nagrand
+18390 4 Terokkar Forest
+18385 2 Terokkar Forest
+21006 0 Terokkar Forest
+21007 0 Terokkar Forest
+18387 4 Terokkar Forest
+18383 2 Terokkar Forest
+18565 0 Terokkar Forest
+18566 0 Terokkar Forest
+18584 0 Shattrath City
+-182549 0 Terokkar Forest
+18597 0 Shattrath City
+18384 2 Terokkar Forest
+18538 0 Shattrath City
+18596 0 Shattrath City
+18252 4 Terokkar Forest
+18675 0 Terokkar Forest
+19417 0 Terokkar Forest
+-182587 0 Terokkar Forest
+-182588 0 Terokkar Forest
+18704 4 Terokkar Forest
+18705 2 Terokkar Forest
+18653 0 Shattrath City
+18713 4 Terokkar Forest
+18712 2 Terokkar Forest
+18715 4 Terokkar Forest
+18714 2 Terokkar Forest
+18063 2 Nagrand
+18141 2 Nagrand
+16839 4 Hellfire Peninsula
+16827 4 Hellfire Peninsula
+18760 8 Terokkar Forest
+21209 4 Hellfire Peninsula
+16825 4 Hellfire Peninsula
+18804 4 Bloodmyst Isle
+17927 4 Bloodmyst Isle
+15280 2 Eversong Woods
+15279 2 Eversong Woods
+15284 2 Eversong Woods
+15285 2 Eversong Woods
+15513 2 Eversong Woods
+18816 2 Nagrand
+18817 4 Nagrand
+18687 0 Nagrand
+21283 2 Hellfire Peninsula
+18891 0 Auchindoun: Shadow Labyrinth
+19542 0 Terokkar Forest
+-182947 0 Auchindoun: Shadow Labyrinth
+18933 0 Terokkar Forest
+17545 0 Nagrand
+18266 4 Hellfire Peninsula
+19035 0 Nagrand
+18267 2 Hellfire Peninsula
+19137 4 Nagrand
+19133 2 Nagrand
+-183284 0 Zangarmarsh
+16841 0 Blasted Lands
+19253 0 Hellfire Peninsula
+19256 10 Hellfire Peninsula
+19273 10 Hellfire Peninsula
+19293 8 Hellfire Peninsula
+18931 0 Hellfire Peninsula
+19309 12 Hellfire Peninsula
+19310 12 Hellfire Peninsula
+16888 8 Hellfire Peninsula
+20232 12 Hellfire Peninsula
+19698 0 Terokkar Forest
+19674 8 Terokkar Forest
+18481 8 Shattrath City
+19412 0 Unknown
+19485 0 Shattrath City
+19217 0 Netherstorm
+19644 0 Unknown
+18893 0 Shattrath City
+19496 0 Terokkar Forest
+19045 0 Shattrath City
+19569 0 Netherstorm
+19488 0 Netherstorm
+19570 0 Netherstorm
+19468 0 Netherstorm
+19578 0 Netherstorm
+19589 0 Netherstorm
+19840 0 Netherstorm
+19617 0 Netherstorm
+19469 0 Netherstorm
+19880 8 Netherstorm
+19645 0 Netherstorm
+19684 0 Shattrath City
+19670 8 Terokkar Forest
+19671 0 Unknown
+19682 2 Hellfire Peninsula
+19634 0 Netherstorm
+19709 0 Netherstorm
+19697 0 Terokkar Forest
+19736 2 Hellfire Peninsula
+19715 8 Shattrath City
+19489 0 Netherstorm
+19728 0 Netherstorm
+16915 0 Hellfire Peninsula
+19466 0 Netherstorm
+21257 2 Hellfire Peninsula
+19467 0 Netherstorm
+-183770 0 Netherstorm
+19832 0 Netherstorm
+19720 0 Shattrath City
+19844 0 Nagrand
+19308 4 Hellfire Peninsula
+19481 0 Netherstorm
+19942 0 Unknown
+-183811 0 Netherstorm
+20066 8 Netherstorm
+20084 8 Netherstorm
+20071 8 Netherstorm
+20518 0 Unknown
+20110 0 Netherstorm
+20092 8 Netherstorm
+20112 8 Netherstorm
+20130 0 Tanaris
+19683 2 Hellfire Peninsula
+20142 0 Tanaris
+20154 0 Netherstorm
+18723 0 The Escape From Durnholde
+17876 0 The Escape From Durnholde
+20159 2 Hellfire Peninsula
+19229 0 Hellfire Peninsula
+18930 0 Hellfire Peninsula
+20067 8 Netherstorm
+19255 2 Hellfire Peninsula
+19932 0 Tanaris
+20201 0 Opening of the Dark Portal
+19690 0 Netherstorm
+20281 8 Netherstorm
+-184300 0 Netherstorm
+20341 8 Netherstorm
+20393 0 Netherstorm
+18537 0 Shattrath City
+20463 0 Netherstorm
+20464 0 Netherstorm
+20470 8 Netherstorm
+20471 8 Netherstorm
+20415 0 Netherstorm
+20448 0 Netherstorm
+20234 4 Hellfire Peninsula
+20551 0 Netherstorm
+20235 4 Hellfire Peninsula
+19401 10 Hellfire Peninsula
+20810 8 Netherstorm
+19294 8 Hellfire Peninsula
+20604 4 The Exodar
+20552 0 Netherstorm
+20612 2 Silvermoon City
+17483 4 Azuremyst Isle
+19361 0 Hellfire Peninsula
+20780 0 Netherstorm
+20482 0 Unknown
+21175 2 Hellfire Peninsula
+20793 4 Hellfire Peninsula
+20678 0 Hellfire Peninsula
+20449 0 Netherstorm
+18531 0 Shattrath City
+18530 0 Shattrath City
+20450 0 Netherstorm
+20811 8 Netherstorm
+20763 0 Unknown
+20871 8 Netherstorm
+17488 4 Azuremyst Isle
+20920 0 Netherstorm
+20921 0 Netherstorm
+20205 0 Netherstorm
+20913 8 Netherstorm
+20907 0 Netherstorm
+21256 10 Hellfire Peninsula
+21027 0 Shadowmoon Valley
+21066 4 Blade's Edge Mountains
+21024 0 Shadowmoon Valley
+16820 4 Hellfire Peninsula
+21133 12 Hellfire Peninsula
+21117 2 Blade's Edge Mountains
+-184660 0 Blade's Edge Mountains
+20407 4 Stormwind City
+21155 0 Unknown
+21158 4 Blade's Edge Mountains
+21147 2 Blade's Edge Mountains
+21197 4 Blade's Edge Mountains
+21151 4 Blade's Edge Mountains
+21183 0 Shadowmoon Valley
+21277 4 Blade's Edge Mountains
+21291 0 Shadowmoon Valley
+21311 2 Blade's Edge Mountains
+21292 0 Shadowmoon Valley
+21318 0 Shadowmoon Valley
+21279 2 Hellfire Peninsula
+21349 2 Blade's Edge Mountains
+21293 0 Shadowmoon Valley
+21411 0 Shattrath City
+21469 4 Blade's Edge Mountains
+-184825 0 Blade's Edge Mountains
+21460 4 Blade's Edge Mountains
+21357 4 Shadowmoon Valley
+21496 2 Blade's Edge Mountains
+21782 8 Blade's Edge Mountains
+21402 0 Shadowmoon Valley
+22042 4 Shadowmoon Valley
+21690 4 Blade's Edge Mountains
+21471 4 Shadowmoon Valley
+21691 4 Blade's Edge Mountains
+21860 0 Shadowmoon Valley
+21755 4 Blade's Edge Mountains
+21359 2 Shadowmoon Valley
+21475 2 Shadowmoon Valley
+16646 2 Silvermoon City
+21790 4 Shadowmoon Valley
+21110 4 Blade's Edge Mountains
+21789 10 Shadowmoon Valley
+21984 2 Blade's Edge Mountains
+21895 2 Blade's Edge Mountains
+21896 2 Blade's Edge Mountains
+21822 0 Shadowmoon Valley
+21824 4 Blade's Edge Mountains
+21826 0 Shadowmoon Valley
+21772 2 Shadowmoon Valley
+19370 4 Shadowmoon Valley
+19333 2 Shadowmoon Valley
+21118 12 Blade's Edge Mountains
+21797 0 Shadowmoon Valley
+21774 4 Shadowmoon Valley
+-184945 0 Shadowmoon Valley
+-184946 0 Shadowmoon Valley
+20162 0 Netherstorm
+21770 2 Shadowmoon Valley
+21777 4 Shadowmoon Valley
+21465 0 Terokkar Forest
+21937 8 Shadowmoon Valley
+21938 8 Shadowmoon Valley
+22007 8 Blade's Edge Mountains
+21955 0 Shadowmoon Valley
+21954 0 Shadowmoon Valley
+-185035 0 Blade's Edge Mountains
+21769 2 Shadowmoon Valley
+21773 4 Shadowmoon Valley
+21700 0 Shadowmoon Valley
+21962 0 Tempest Keep: The Arcatraz
+22004 2 Blade's Edge Mountains
+22103 0 Blade's Edge Mountains
+21983 0 Blade's Edge Mountains
+21950 2 Blade's Edge Mountains
+22386 8 Blade's Edge Mountains
+18253 0 Deadwind Pass
+21998 0 Unknown
+22133 8 Blade's Edge Mountains
+16583 2 Hellfire Peninsula
+22043 2 Shadowmoon Valley
+22053 8 Blade's Edge Mountains
+22059 0 Unknown
+22024 0 Shadowmoon Valley
+-185126 0 Shadowmoon Valley
+22107 2 Hellfire Peninsula
+22149 0 Blade's Edge Mountains
+22150 0 Blade's Edge Mountains
+22113 0 Shadowmoon Valley
+21953 0 Shadowmoon Valley
+-185166 0 Hellfire Peninsula
+22020 0 Blade's Edge Mountains
+22231 2 Hellfire Peninsula
+21657 0 Shadowmoon Valley
+22127 8 Blade's Edge Mountains
+-185165 0 Blade's Edge Mountains
+22211 0 Shadowmoon Valley
+22214 0 Shadowmoon Valley
+22215 0 Blade's Edge Mountains
+22208 0 Shattrath City
+22213 0 Shattrath City
+22212 0 Shattrath City
+16588 2 Hellfire Peninsula
+22272 0 Terokkar Forest
+22278 0 Terokkar Forest
+22292 0 Shattrath City
+22293 0 Netherstorm
+22312 2 Blade's Edge Mountains
+22365 0 Terokkar Forest
+21088 2 Blade's Edge Mountains
+15991 4 Terokkar Forest
+22112 0 Shadowmoon Valley
+22364 8 Terokkar Forest
+22456 8 Terokkar Forest
+22370 0 Terokkar Forest
+22373 0 Shattrath City
+22377 0 Terokkar Forest
+11145 4 Ironforge
+11176 2 Orgrimmar
+19409 12 Hellfire Peninsula
+22420 8 Terokkar Forest
+22424 0 Terokkar Forest
+22427 8 Netherstorm
+22421 0 Coilfang: The Slave Pens
+19052 0 Shattrath City
+22423 8 Blade's Edge Mountains
+22430 4 Hellfire Peninsula
+22446 8 Terokkar Forest
+22429 0 Shattrath City
+20206 4 Hellfire Peninsula
+22462 8 Terokkar Forest
+22458 8 Terokkar Forest
+22479 0 Netherstorm
+22488 4 Blade's Edge Mountains
+22489 2 Blade's Edge Mountains
+22481 0 Terokkar Forest
+22820 0 Unknown
+18528 8 Shadowmoon Valley
+23158 0 Black Temple
+22832 8 Zangarmarsh
+22834 0 Moonglade
+22837 0 Moonglade
+22924 0 Blade's Edge Mountains
+22981 8 Nagrand
+23338 0 Unknown
+18090 2 Nagrand
+23270 0 Shattrath City
+23280 2 Blade's Edge Mountains
+22940 0 Shattrath City
+22497 8 Shattrath City
+22941 0 Blade's Edge Mountains
+23265 0 Unknown
+23449 0 Shattrath City
+23053 0 Unknown
+23233 0 Blade's Edge Mountains
+23149 0 Unknown
+23140 0 Unknown
+23291 0 Unknown
+23139 0 Unknown
+24710 4 Dun Morogh
+24497 0 Durotar
+23558 0 Dun Morogh
+22995 0 Blade's Edge Mountains
+24519 4 Elwynn Forest
+23973 2 Tirisfal Glades
+23038 0 Terokkar Forest
+23566 4 Dustwallow Marsh
+23559 0 Ghostlands
+23951 12 Dustwallow Marsh
+5086 12 Dustwallow Marsh
+23569 4 Dustwallow Marsh
+4968 12 Dustwallow Marsh
+23568 4 Dustwallow Marsh
+23723 12 Dustwallow Marsh
+23600 0 Dustwallow Marsh
+23579 0 Dustwallow Marsh
+23858 0 Ghostlands
+23761 0 Ghostlands
+23601 0 Dustwallow Marsh
+23797 0 Dustwallow Marsh
+23835 12 Dustwallow Marsh
+23843 0 Dustwallow Marsh
+-186426 0 Dustwallow Marsh
+23892 4 Dustwallow Marsh
+23896 4 Dustwallow Marsh
+23897 0 Zul'Aman
+23905 4 Dustwallow Marsh
+4943 2 Thunder Bluff
+23948 0 Shattrath City
+23570 0 Dustwallow Marsh
+24369 0 Shattrath City
+24370 8 Shattrath City
+24393 0 Shattrath City
+24729 0 Unknown
+18940 0 Shattrath City
+23042 0 Terokkar Forest
+23048 0 Terokkar Forest
+23120 0 Blade's Edge Mountains
+23141 0 Unknown
+23253 0 Blade's Edge Mountains
+23306 0 Terokkar Forest
+23316 0 Blade's Edge Mountains
+19471 2 Blade's Edge Mountains
+23273 0 Shattrath City
+21112 4 Blade's Edge Mountains
+23268 4 Nagrand
+21107 4 Blade's Edge Mountains
+19678 0 Shattrath City
+23340 0 Unknown
+23335 0 Blade's Edge Mountains
+23342 0 Unknown
+23344 0 Unknown
+23346 0 Unknown
+23348 0 Unknown
+23376 0 Unknown
+23334 0 Blade's Edge Mountains
+23300 0 Blade's Edge Mountains
+23166 0 Unknown
+23383 0 Unknown
+23427 1 Shadowmoon Valley
+23415 0 Terokkar Forest
+23434 0 Shadowmoon Valley
+23452 0 Shadowmoon Valley
+23618 0 Mulgore
+23627 0 Dun Morogh
+23628 0 Dun Morogh
+-186267 0 Scarlet Monastery
+24498 0 Durotar
+24499 0 Durotar
+19148 0 Ironforge
+19175 0 Orgrimmar
+-186881 0 Dun Morogh
+23872 0 Unknown
+22433 1 Shadowmoon Valley
+23462 0 Shattrath City
+23464 0 Shattrath City
+23463 0 Shattrath City
+23461 0 Shattrath City
+23466 0 Shattrath City
+23465 0 Shattrath City
+24813 0 Isle of Quel'Danas
+24822 0 Magister's Terrace
+24848 0 Unknown
+24866 0 Nagrand
+24881 2 Nagrand
+24885 4 Terokkar Forest
+24886 2 Terokkar Forest
+24932 0 Shattrath City
+24937 0 Hellfire Peninsula
+24975 0 Isle of Quel'Danas
+24967 0 Isle of Quel'Danas
+24965 0 Isle of Quel'Danas
+25057 0 Isle of Quel'Danas
+25034 0 Isle of Quel'Danas
+25046 0 Isle of Quel'Danas
+25061 0 Isle of Quel'Danas
+25069 0 Isle of Quel'Danas
+25088 0 Isle of Quel'Danas
+25108 0 Isle of Quel'Danas
+25133 0 Isle of Quel'Danas
+25112 0 Isle of Quel'Danas
+25163 0 Isle of Quel'Danas
+25167 0 Shattrath City
+25032 0 Isle of Quel'Danas
+25580 0 Unknown
+25697 0 Unknown
+25710 0 Unknown
+25975 0 Teldrassil
+19202 0 Shattrath City
+25140 0 Shattrath City
+19475 0 Shattrath City
+26221 4 Teldrassil
+25994 0 Shattrath City
+20102 0 Stranglethorn Vale
+28126 0 Tanaris
+-189990 0 Unknown
+27215 0 Unknown
+27584 0 Unknown
+24468 0 Dun Morogh
+26719 0 Unknown
+24711 0 Durotar
+27216 0 Unknown
+24510 0 Durotar
