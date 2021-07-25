@@ -16,7 +16,7 @@ Level first-aid up to 80, then learn *Wool Bandages* at [G55.14,57.33 Nissa] (up
 [OC] Sell Linen Cloth from now on.
 If you did not get cooking to 50 while waiting for the boat, do so now. Then learn Cooking (Journeyman) at [G59.44,37.76 Daryl]. Also at him, learn *Boiled Clams*.
 Turn in [QT301 Report to Ironforge].\\Accept [QA302 Powder to Ironband].
-If you got the rare drop Book: The Powers Below, accept the quest and turn in [QT968 The Powers Below].
+If you got the rare drop Book: The Powers Below, accept [QA968 The Powers Below] and then turn in [QT968 The Powers Below].
 
 -- Loch Modan finish
 Fly to [F Loch Modan].

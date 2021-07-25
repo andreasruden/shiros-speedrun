@@ -41,7 +41,6 @@ Turn in [QT1010 Bathran's Hair].\\Accept [QA1020 Orendil's Cure].
 -- Onward to Astranaar
 Turn in [QT945 Therylune's Escape].
 Run to Astranaar and get the [F Astranaar] flightpoint [G34.42,48.07].
-Turn in [QT1133 Journey to Astranaar].
 Accept [QA1008 The Zoram Strand].
 Accept [QA1070 On Guard in Stonetalon].
 Accept [QA1056 Journey to Stonetalon Peak].

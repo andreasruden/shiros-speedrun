@@ -46,7 +46,7 @@ Turn in [QT1110 Rocket Car Parts].\\Accept [QA1111 Wharfmaster Dizzywig] and [QA
 Set hearthstone in [S Tanaris].
 Get FP in [P Tanaris].
 Fly to [F Ratchet].
-Turn in [QA1039 The Barrens Port].\\Accept [QA1040 Passage to Booty Bay].
+Turn in [QT1039 The Barrens Port].\\Accept [QA1040 Passage to Booty Bay].
 Turn in [QT1178 Goblin Sponsorship].\\Accept follow-up [QA1180 Goblin Sponsorship].
 Turn in [QT1111 Wharfmaster Dizzywig].\\Accept [QA1112 Parts for Kravel].
 Hearthstone to [H Tanaris]. -- XXX: Is this usage okay? Or do we need it soon?

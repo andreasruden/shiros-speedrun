@@ -13,7 +13,7 @@ Turn in [QT990 Trek to Ashenvale]. -- XXX: Only 140 xp & 25 rep, even worth it?
 Run east to Forest Song, turn in [QT4581 Kayneth Stillwind], [QA1011 Forsaken Diseases] and [QA9519 The Lost Chalice].
 Get the FP [P Forest Song].
 [OC] If you see Gnarl, Accept Reclaiming Felfire Hill
-Accept [QA9518 Agents of Destruction]. -- Report from the Northern Front
+Accept [QA9518 Agents of Destruction].
 Accept [QA1022 The Howling Vale].
 Accept [QA9516 Destroy the Legion].
 Accept [QA1021 Vile Satyr! Dryads in Danger!].
@@ -47,9 +47,9 @@ Finish up [QC1032 Satyr Slaying!].
 Run back to Forest Song and turn in [QT1011 Forsaken Diseases] and [QT9519 The Lost Chalice]. Skip follow-up.
 [OC] If you see Gnarl, turn in at him.
 Turn in [QT1022 The Howling Vale].\\Accept [QA1037 Velinde Starsong].
-Turn in [QT9518 Agents of Destruction].
+Turn in [QT9518 Agents of Destruction].\\Accept [QA9521 Report from the Northern Front].
 Turn in [QT9516 Destroy the Legion].
-Turn in [QT6441 Satyr Horns].
+Turn in [QT1032 Satyr Slaying!].
 Turn in [QT9517 A Shameful Waste] and [QT9526 Reclaiming Felfire Hill].
 
 -- To Ratchet
@@ -74,6 +74,6 @@ Turn in [QT1037 Velinde Starsong].\\Accept [QA1038 Velinde's Effects].
 Run up at [G56.25,78.94,4].
 Loot her locker to complete [QC1038 Velinde's Effects].
 Turn in [QT1038 Velinde's Effects].\\Accept [QA1039 The Barrens Port].
-Hearthstone to [H Wetlands].
+Hearthstone to [H Menethil Harbor].
 
 ]], 'Shiros Speedrun')

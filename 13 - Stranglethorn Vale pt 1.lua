@@ -12,7 +12,7 @@ Guidelime.registerGuide(
 Turn in [QT1180 Goblin Sponsorship].\\Accept follow-up [QA1181 Goblin Sponsorship].
 Turn in [QT1040 Passage to Booty Bay].\\Accept [QA1041 The Caravan Road].
 Head into the inn and accept [QA605 Singing Blue Shards].
-Run upstairs and turn in [QA1115 The Rumormonger].
+Run upstairs and turn in [QT1115 The Rumormonger].
 Accept [QA1116 Dream Dust in the Swamp], [QA198 Supplies to Private Thorsen], [QA201 Investige the Camp] and [QA616 The Haunted Isle].
 Accept [QA189 Bloodscalp Ears] and [QA213 Hostile Takeover].
 Turn in [QT1181 Goblin Sponsorship].\\Accept follow-up [QA1182 Goblin Sponsorship].

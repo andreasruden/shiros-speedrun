@@ -10,15 +10,6 @@ Guidelime.registerGuide(
 
 [OC] Questcheck. Ashenvale (even needed?): Trek to Ashenvale, Raene's Cleansing. Darkshore: The Tower of Althalaxx (1140). Duskwood: The Doomed Fleet (270). Stormwind: A Noble Brew (335), The Missing Diplomat (1248). Wetlands: Apprentice's Duties (471), Reclaiming Goods (281), War Banners (464), Lifting the Curse (290)
 
--- Finishing up weird quests
-Turn in [QT270 The Doomed Fleet].\\Accept [QA321 Lightforge Iron].
-Turn in [QT1248 The Missing Diplomat].\\Accept [QA1249 The Missing Diplomat].
-The guy at the inn entrance will stealth and start escaping. Head outside the inn and chase him. Then complete [QC1249 The Missing Diplomat].
-Turn in [QT1249 The Missing Diplomat].\\Accept [QA1264 The Missing Diplomat].
-Turn in [QT321 Lightforge Iron].\\Accept [QA324 The Lost Ingots].
-Complete [QC324 The Lost Ingots]. [G12,64]
-Turn in [QT324 The Lost Ingots]. Skip follow-up for now.
-
 -- Second round of Wetlands
 Turn in [QT281 Reclaiming Goods].\\Accept [QA284 The Search Continues].
 Turn in [QT284 The Search Continues].\\Accept [QA285 Search More Hovels].
@@ -58,7 +49,6 @@ Follow the road to Refuge Point and turn in [QT634 Plea To The Alliance].
 Get the FP [P Refuge Point].
 [OC] Follow the road all the way to southshore, watch out for patrolling elites.
 In the cellar of the inn, turn in [QT647 MacKreel's Moonshine].
-Set hearthstone in [S Southshore].
 Accept [QA637 Sully Balloo's Letter] from the Waterlogged Envelope.
 Get the FP [P Southshore].
 Fly to [F Menethil Harbor].

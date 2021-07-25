@@ -50,7 +50,7 @@ Complete [QC963 For Love Eternal].
 Complete [QC958 Tools of the Highborne].
 Turn in [QT953 The Fall of Ameth'Aran].
 Capture a [G38.68,58.82 Rabid Thistle Bear] around this area, using Tharnarium's Hope.
-Accept [QA4727 Beached Sea Turtle].
+Accept [QA4722 Beached Sea Turtle].
 Kill the [G34.42,59.09 threshers] in this area.
 Head back to the coast and run up to Auberdine.
 Turn in [QT4811 The Red Crystal].\\Accept [QA4812 As Water Cascades].
@@ -63,7 +63,7 @@ Turn in [QT958 Tools of the Highborne] and [QT4761 Thundris Windweaver].\\Accept
 Turn in [QT963 For Love Eternal].
 You should be level 14, if not grind to [XP14].
 Accept [QA6343 Return to Nessa].
-Turn in [QT4727 Beached Sea Turtle].
+Turn in [QT4722 Beached Sea Turtle].
 Fly to [F Rut'theran Village].
 Turn in [QT6343 Return to Nessa].
 [OC] Put all the cooking materials on the bank.
@@ -103,7 +103,7 @@ Turn in [QT2178 Easy Strider Living].
 Turn in [QT4762 The Cliffspring River]. Skip follow-up for now.
 Turn in [QT947 Cave Mushrooms].
 Turn in [QT4813 The Fragments Within].
-Turn in [QT4723 Beached Sea Creature].
+Turn in [QT4723 Beached Sea Creature] and [QT4725 Beached Sea Turtle].
 Take the boat to Menethil Harbor. Craft Linen Bandage to level first aid to 40 while waiting.
 
 -- To Loch Modan

@@ -62,12 +62,13 @@ Clear out the camp, then use the *Filled Cleansing Bowl* at the [G52.4,33.4 camp
 Some friendly furbolgs (that do nothing) and Xabraxxis, level 19 satyr, will spawn. After killing him loot the talisman *off the ground* to complete [QC4763 The Blackwood Corrupted].
 Complete [QC2139 Tharnariun's Hope].
 Complete [QC951 Mathystra Relics].
-Accept [QA4727 Beached Sea Turtle].
 Accept [QA2098 Gyromast's Retrieval].
 Get [QC2098,3 Bottom of Gelkak's Key] from the crabs.
 Get [QC2098,1 Top of Gelkak's Key] from the striders.
 Get [QC2098,2 Middle of Gelkak's Key] from the murlocs in the water.
-[QC2078 Gyromast's Revenge].
+Turn in [QT2098 Gyromast's Retrieval].\\Accept [QA2078 Gyromast's Revenge].
+Accept [QA4727 Beached Sea Turtle].
+Complete [QC2078 Gyromast's Revenge].
 Turn in [QT2078 Gyromast's Revenge].
 [OC] NOTE: *VERY IMPORTANT* to save the 5 Elixir of Water Breathing you received, we will make use of them in the run.
 If not already completed, complete [QC986 A Lost Master] in the [G60.2,12.3 north].

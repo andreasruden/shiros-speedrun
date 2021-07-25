@@ -91,7 +91,7 @@ Walk upstairs in the inn, to the room furthest in, and complete [QC70 The Legend
 Turn in [QT1076 Devils in Westfall] if completed.
 Turn in [QT70 The Legend of Stalvan].\\Accept follow-up [QA72 The Legend of Stalvan].
 Turn in [QT72 The Legend of Stalvan].\\Accept follow-up [QA74 The Legend of Stalvan].
-Turn in [QT269 Seeking Wisdom].\\Accept [QT270 The Doomed Fleet].
+Turn in [QT269 Seeking Wisdom].\\Accept [QA270 The Doomed Fleet].
 Accept [QA1274 The Missing Diplomat].
 Turn in [QT1274 The Missing Diplomat].\\Accept follow-up [QA1241 The Missing Diplomat].
 Turn in [QT1241 The Missing Diplomat].\\Accept follow-up [QA1242 The Missing Diplomat].
@@ -117,7 +117,7 @@ Turn in [QT181 Look To The Stars].
 -- Fourth Round
 Fly to [F Sentinel Hill].
 Turn in [QT231 A Daughter's Love].
-Interact with the [G28.78,30.77 grave] and use [QT254 Digging Through the Dirt] to spawn Eliza.
+Interact with the [G28.78,30.77 grave] and use [QT254 Digging Through the Dirt] to spawn Eliza. -- !FinishWithoutAccept
 Kill her to get the heart and complete [QC253 Bride of the Embalmer].
 Complete [QC1244 The Missing Diplomat].
 If you didn't get the debris, now's the last chance to kill the Dust Devil [G63.2,51.9].
@@ -132,13 +132,13 @@ Fly to [F Stormwind].
 If you are a class without movement speed increase (priest, warrior, warlock, mage, paladin; 15% cuts it very close), you should buy a [CI2459,1 Swiftness Potion] from the AH for an upcoming quest. (Or skip the quest)
 Turn in [QT1245 The Missing Diplomat].\\Accept follow-up [QA1246 The Missing Diplomat].
 [OC] Running past option to do donation of wool/silk again.
-Turn in [QT1076 Devils in Westfall] if completed, else abandon it.
+Turn in [QT1076 Devils in Westfall] if completed, else abandon it. -- !OptionalFinish
 Turn in [QT335 A Noble Brew].\\Accept follow-up [QA336 A Noble Brew].
 Turn in [QT1246 The Missing Diplomat].\\Accept follow-up [QA1447 The Missing Diplomat].
 Complete [QC1447 The Missing Diplomat].
 Turn in [QT1447 The Missing Diplomat].\\Accept follow-up [QA1247 The Missing Diplomat].
 Turn in [QT336 A Noble Brew].
 Turn in [QT1247 The Missing Diplomat].\\Accept follow-up [QA1248 The Missing Diplomat].
-Hearthstone to [H Southshore].
+Hearthstone to [H Menethil Harbor].
 
 ]], 'Shiros Speedrun')
