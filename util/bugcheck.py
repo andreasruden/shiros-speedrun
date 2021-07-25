@@ -1,7 +1,14 @@
 import glob
+import json
 import sys
+import os
+
+FACTION_ALLIANCE = 0x2
+FACTION_HORDE = 0x4
+RACE_NIGHT_ELF = 0x8
 
 warned_quests = []
+questsDB = {}
 
 def error(line, msg):
     print('  ERROR at line %d: %s.' % (line, msg))
@@ -183,7 +190,43 @@ def scan_files():
     files = sorted(files)
     for file in files:
         process_file(file, route)
-    print(route.completed)
+    return route
+
+def dump_incomplete_quests(route, maxlevel):
+    incomplete = {}
+    incomplete_unknown = []
+    for id in questsDB:
+        quest = questsDB[id]
+        if id in route.finished:
+            continue
+        if quest['reqlevel'] > maxlevel:
+            continue
+        if 'accepthostilemask' in quest and quest['accepthostilemask'] & FACTION_ALLIANCE != 0:
+            continue
+        if quest['races'] != 0 and quest['races'] & RACE_NIGHT_ELF == 0:
+            continue
+        if 'acceptzone' not in quest or quest['acceptzone'] == 'Unknown':
+            incomplete_unknown.append(quest)
+        else:
+            if quest['acceptzone'] not in incomplete:
+                incomplete[quest['acceptzone']] = []
+            incomplete[quest['acceptzone']].append(quest)
+    with open('incomplete_quests.txt', 'w') as f:
+        for zone in incomplete:
+            f.write('%s:\n' % zone)
+            for quest in incomplete[zone]:
+                if quest['classes'] == 0:
+                    f.write('  [%d] %s (%d) (z=%s)    -> %s\n' % (quest['level'], quest['name'], quest['id'], quest['zone'], ('https://tbc.wowhead.com/quest=%s' % quest['id'])))
+                else:
+                    f.write('  CLASS-SPECIFIC [%d] %s (%d) (z=%s)    -> %s\n' % (quest['level'], quest['name'], quest['id'], quest['zone'], ('https://tbc.wowhead.com/quest=%s' % quest['id'])))
+            f.write('\n')
+        f.write('\n\n\n\nUnknown:\n')
+        for quest in incomplete_unknown:
+            if quest['classes'] == 0:
+                f.write('  [%d] %s (%d) (z=%s)    -> %s\n' % (quest['level'], quest['name'], quest['id'], quest['zone'], ('https://tbc.wowhead.com/quest=%s' % quest['id'])))
+            else:
+                f.write('  CLASS-SPECIFIC [%d] %s (%d) (z=%s)    -> %s\n' % (quest['level'], quest['name'], quest['id'], quest['zone'], ('https://tbc.wowhead.com/quest=%s' % quest['id'])))
+        print('Wrote a list of all incompleted quests with req<=58 to incomplete_quests.txt!')
 
 class Route:
     def __init__(self):
@@ -194,7 +237,19 @@ class Quest:
     pass
 
 def main():
-    scan_files()
+    if len(sys.argv) < 2:
+        print('Usage %s path-to-route' % sys.argv[0])
+        return
+    
+    global questsDB
+    with open('quests.json', 'r') as f:
+        questsDB = json.load(f)
+
+    cwd = os.getcwd()
+    os.chdir(sys.argv[1])
+    route = scan_files()
+    os.chdir(cwd)
+    dump_incomplete_quests(route, 58)
 
 if __name__ == '__main__':
     main()

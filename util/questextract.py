@@ -58,6 +58,7 @@ def build_quest_db(conn):
             print('%d/%d' % (i, n))
         quest = Quest()
         quest.id = row['entry']
+        quest.name = row['Title']
         quest.reqlevel = row['MinLevel']
         quest.level = row['QuestLevel']
         quest.races = row['RequiredRaces']
