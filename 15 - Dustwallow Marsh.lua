@@ -70,16 +70,13 @@ Turn in [QT1220 Captain Vimes] and [QT1320 The Black Shield].
 
 -- Mudsprocket
 Fly to [F Mudsprocket].
-Accept [QA11217 Catch a Dragon by the Tail].
 Accept [QA11184 WANTED: Goreclaw the Ravenous].
 Accept [QA11158 Bloodfen Feathers] and [QA11159 Spirits of Stonemaul Hold].
 Complete [QC11184 WANTED: Goreclaw the Ravenous].
 Kill raptors to finish up [QC11158 Bloodfen Feathers]. [G32,66]
 Turn in [QT1286 The Deserters].\\Accept follow-up [QA1287 The Deserters].
-[OC] Help for Mudsprocket req Lv.38, which you should be. If not pick it up next time we're by.
-Turn in [QT11212 Tabetha's Farm].\\Accept [QA11211 Help for Mudsprocket].
+Turn in [QT11212 Tabetha's Farm]. Skip follow-up for now.
 Accept [QA11169 The Grimtotem Weapon] and [QA11173 The Reagent Thief].
--- Accept [QA11156 Direhorn Raiders]. XXX: Can accept this later together with the inn line
 [G46,62 Circle around Tabetha's Farm] to complete [QC11173 The Reagent Thief] and [QC11169 The Grimtotem Weapon].
 Turn in [QT11169 The Grimtotem Weapon] and [QT11173 The Reagent Thief].
 Accept [QA11172 The Zeppelin Crash].
@@ -107,7 +104,8 @@ Turn in [QT1206 Jarl Needs Eyes].\\Accept [QA1203 Jarl Needs a Blade].
 Kill Razorspine and loot him to complete [QC1203 Jarl Needs a Blade].
 [OC] Kill any turtle you spot.
 Turn in [QT11138 Renn McGill].\\Accept [QA11139 Secondhand Diving Gear].
-Complete [QC11139 Secondhand Diving Gear].\\Accept [QA11140 Recover the Cargo!]
+Complete [QC11139 Secondhand Diving Gear].
+Turn in [QT11139 Secondhand Diving Gear].\\Accept [QA11140 Recover the Cargo!]
 Open the Supplies, put on the helmet and complete [QC11140 Recover the Cargo!]
 Turn in [QT11140 Recover the Cargo!]\\Accept [QA11141 Jaina Must Know].
 Finish up [QC1204 Mudrock Soup and Bugs] and [QC1177 Hungry!] [G62,8]
@@ -123,7 +121,7 @@ Complete [QC11147 Unleash the Raptors], [QC11144 Confirming the Suspicion], [QC1
 Turn in [QT11145 Prisoners of the Grimtotems] and [QT11147 Unleash the Raptors].
 Turn in [QT11144 Confirming the Suspicion] and [QT11148 Arms of the Grimtotems].\\Accept [QA11149 Tabetha's Assistance].
 Turn in [QT1177 Hungry!]
-Grind your way over to Tabetha and turn in [QT11149 Tabetha's Assistance].\\Accept [QA11150 Raze Direhorn Post!]
+Grind your way over to Tabetha and turn in [QT11149 Tabetha's Assistance].\\Accept [QA11150 Raze Direhorn Post!] and [QA11211 Help for Mudsprocket].
 Accept [QA11156 Direhorn Raiders].
 Complete [QC11150 Raze Direhorn Post!] and [QC11156 Direhorn Raiders].
 Turn in [QT11156 Direhorn Raiders].
@@ -133,6 +131,7 @@ Turn in [QT11150 Raze Direhorn Post!]\\Accept [QA11151 Justice for the Hyals].
 Complete [QC11159 Spirits of Stonemaul Hold].
 Turn in [QT11211 Help for Mudsprocket], [QT11184 WANTED: Goreclaw the Ravenous] and [QT11208 Delivery for Drazzit].
 Turn in [QT11158 Bloodfen Feathers] and [QT11159 Spirits of Stonemaul Hold].\\Accept [QA11160 Banner of the Stonemaul], [QA11161 The Essence of Enmity] and [QA11162 Challenge to the Black Flight].
+Accept [QA11217 Catch a Dragon by the Tail].
 Complete [QC11160 Banner of the Stonemaul] inside the cave (keep to the left) and [QC11161 The Essence of Enmity] (use the totem on a corpse).
 On the way to Onyxia's Lair, complete [QC11217 Catch a Dragon by the Tail]. [G46.7,77.2]
 Complete [QC11162 Challenge to the Black Flight].

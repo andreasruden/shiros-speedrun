@@ -90,7 +90,7 @@ Accept [QA210 Krazek's Cookery].
 -- Booty Bay
 Fly to [F Booty Bay].
 Turn in [QT575 Supply and Demand].\\Accept [QA577 Some Assembly Required].
-Go to the inn and turn in [QT605 Singing Blue Shards].\\Accept [QA600 Venture Company Mining].
+Go to the inn and turn in [QT605 Singing Blue Shards]. Skip follow-up for now.
 Turn in [QT201 Investigate the Camp] and [QT210 Krazek's Cookery].
 Turn in [QT189 Bloodscalp Ears] and [QT213 Hostile Takeover].
 Turn in [QT578 The Stone of the Tides].\\Accept [QA601 Water Elementals].
@@ -110,7 +110,7 @@ Turn in [QT574 Special Forces].\\Accept [QA202 Colonel Kurzen].
 
 -- Booty Bay
 Fly to [F Booty Bay].
-Turn in [QT577 Some Assembly Required].\\Accept [QA628 Excelsior].
+Turn in [QT577 Some Assembly Required]. Skip follow-up for now.
 Turn in [QT601 Water Elementals].\\Accept [QA602 Magical Analysis].
 Take the boat to Ratchet.
 

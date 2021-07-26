@@ -8,6 +8,7 @@ Guidelime.registerGuide(
 
 -- Alterac Mountains
 Fly to [F Southshore].
+Accept [QA659 Hints of a New Plague?]
 On the upper floor, turn in [QT1052 Down the Scarlet Path].
 Set hearthstone in [S Southshore].
 If not completed before, accept [QA500 Crushridge Bounty]. -- !OptionalFinish
@@ -40,7 +41,7 @@ In the cave, work your way towards the turn-in crystal, while completing [QC642 
 Turn in [QT642 The Princess Trapped].\\Accept [QA651 Stones of Binding].
 Obtain [QC651,2 Cresting Key].
 Complete [QC691 Worth Its Weight in Gold]. [G68,75]
-Turn in [QT659 Hints of a New Plague?]\\Accept follow-up [QA658 Hints of a New Plague?].
+Turn in [QT659 Hints of a New Plague?].\\Accept follow-up [QA658 Hints of a New Plague?].
 Find the courier along the road to complete [QC658 Hints of a New Plague?].
 Turn in [QT658 Hints of a New Plague?]\\Accept follow-up [QA657 Hints of a New Plague?]
 Turn in [QT657 Hints of a New Plague?]\\Accept follow-up escort [QA660 Hints of a New Plague?]

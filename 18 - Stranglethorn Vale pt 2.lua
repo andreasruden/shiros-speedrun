@@ -11,10 +11,12 @@ Guidelime.registerGuide(
 -- XXX: We should pop into Badlands for a bit of questing before STV, to grab https://tbc.wowhead.com/quest=735/the-star-the-hand-and-the-heart and pearl diving.
 
 -- Booty Bay
-Accpet [QA2864 Tran'rek].
+In the house next to the FP, accept [QA628 Excelsior].
+Go back to the FP, then into the inn, and accpet [QA2864 Tran'rek].
 Accept [QA209 Skullsplitter Tusks].
 Turn in [QT669 Sunken Treasure]. -- \\Accept [QA670 Sunken Treasure].
 Run down the stairs and turn in [QT603 Ansirem's Key].\\Accept [QA610 "Pretty Boy" Duncan].
+On the bottom floor of the inn, accept [QA600 Venture Company Mining].
 Accept [QA580 Whiskey Slim's Lost Grog].
 Turn in [QT1116 Dream Dust in the Swamp].\\Accept [QA1117 Rumors for Kravel] and [QA621 Zanzil's Secret].
 Accept [QA617 Akiris by the Bundle].

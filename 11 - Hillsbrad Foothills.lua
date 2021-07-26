@@ -22,7 +22,6 @@ Fly to [F Southshore].
 -- Bartolo's Yeti Fur Cloak (Shit quest, skip)
 Accept [QA500 Crushridge Bounty].
 Accept [QA505 Syndicate Assassins].
-Accept [QA659 Hints of a New Plague?]
 Accept [QA9435 Missing Crystals].
 Accept [QA536 Down the Coast].
 Set hearthstone in [S Southshore].
