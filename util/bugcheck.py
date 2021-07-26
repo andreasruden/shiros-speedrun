@@ -9,7 +9,7 @@ FACTION_ALLIANCE = 0x2
 FACTION_HORDE = 0x4
 RACE_NIGHT_ELF = 0x8
 
-warned_quests = []
+# warned_quests = []
 questsDB = {}
 wroteOverflow = False
 routeCWD = ''
@@ -24,10 +24,10 @@ def error(line, msg, fatal=False):
         sys.exit(0)
 
 def warning(line, questid, msg):
-    if questid in warned_quests:
-        return
+    #if questid in warned_quests:
+        #return
     print('  Warning for quest %s at line %d: %s.' % (questid, line, msg))
-    warned_quests.append(questid)
+    #warned_quests.append(questid)
 
 def is_preceeded_by(line, n, text):
     numwords = len(text.split())
@@ -78,12 +78,14 @@ def process_line(line, route, linenum):
         elif is_preceeded_by(line, start, 'Turn in') and quest.op != 'T':
             warning(linenum, quest.id, 'Opcode is `%s` but instruction says `Turn in`' % quest.op)
     
+        skip_not_in_questlog_warning = False
         if quest.op == 'A' and quest.id in route.accepted:
             warning(linenum, quest.id, 'Has already been accepted')
         elif quest.op != 'T' and quest.id in route.completed:
             warning(linenum, quest.id, 'Has already been completed')
         elif quest.id in route.finished and not '!OptionalFinish' in line:
             warning(linenum, quest.id, 'Has already been turned in')
+            skip_not_in_questlog_warning = True
 
         if quest.op == 'A':
             if quest.id not in route.accepted:
@@ -92,9 +94,7 @@ def process_line(line, route, linenum):
             numquests = len(route.accepted) + len(route.completed)
             if numquests > 25:
                 global wroteOverflow
-                if wroteOverflow:
-                    warning(linenum, quest.id, 'Accepting this quest overflows our questlog. We are now at %d quests' % numquests)
-                else:
+                if not wroteOverflow:
                     warning(linenum, quest.id, 'Accepting this quest overflows our questlog. We are now at %d quests. Wrote questlog to overflow.txt' % numquests)
                     write_questlog('overflow.txt', route)
                     wroteOverflow = True
@@ -106,7 +106,7 @@ def process_line(line, route, linenum):
             route.completed.append(quest.id)
         elif quest.op == 'T':
             if quest.id not in route.accepted and quest.id not in route.completed:
-                if '!FinishWithoutAccept' not in line and '!OptionalFinish' not in line:
+                if '!FinishWithoutAccept' not in line and '!OptionalFinish' not in line and not skip_not_in_questlog_warning:
                     warning(linenum, quest.id, 'Trying to turn in quest not in our quest log')
             if quest.id in route.accepted:
                 route.accepted.remove(quest.id)
