@@ -1,3 +1,4 @@
+import functools
 import glob
 import json
 import os
@@ -10,6 +11,9 @@ RACE_NIGHT_ELF = 0x8
 
 warned_quests = []
 questsDB = {}
+wroteOverflow = False
+routeCWD = ''
+outputCWD = ''
 
 def error(line, msg, fatal=False):
     if fatal:
@@ -24,15 +28,6 @@ def warning(line, questid, msg):
         return
     print('  Warning for quest %s at line %d: %s.' % (questid, line, msg))
     warned_quests.append(questid)
-
-def print_questlog(route):
-    questlog = route.accepted + route.completed
-
-    # FIXME: Add sorting + categories that correspond to sorting it would have in-game
-
-    for quest in questlog:
-        print('%s (%s)' % ('', quest), end=', ')
-    print()
 
 def is_preceeded_by(line, n, text):
     numwords = len(text.split())
@@ -91,7 +86,18 @@ def process_line(line, route, linenum):
             warning(linenum, quest.id, 'Has already been turned in')
 
         if quest.op == 'A':
-            route.accepted.append(quest.id)
+            if quest.id not in route.accepted:
+                route.accepted.append(quest.id)
+            # Check for questlog overflow
+            numquests = len(route.accepted) + len(route.completed)
+            if numquests > 25:
+                global wroteOverflow
+                if wroteOverflow:
+                    warning(linenum, quest.id, 'Accepting this quest overflows our questlog. We are now at %d quests' % numquests)
+                else:
+                    warning(linenum, quest.id, 'Accepting this quest overflows our questlog. We are now at %d quests. Wrote questlog to overflow.txt' % numquests)
+                    write_questlog('overflow.txt', route)
+                    wroteOverflow = True
         elif quest.op == 'C' and ',' not in quest.id:
             if quest.id not in route.accepted:
                 warning(linenum, quest.id, 'Has not been accepted')
@@ -192,9 +198,6 @@ def process_file(file, route):
                 break
             process_line(line.rstrip(), route, linenum)
     print()
-    # print('Questlog: ')
-    # print_questlog(route)
-    print()
 
 def check_hearthstone(line, route, linenum):
     # Set Hearthstone
@@ -219,6 +222,11 @@ def scan_files():
     files = sorted(files)
     for file in files:
         process_file(file, route)
+        os.chdir(outputCWD)
+        with open('questlog_data.txt', 'a') as f:
+            f.write('%s:\n' % file)
+        os.chdir(routeCWD)
+        write_questlog('questlog_data.txt', route)
     return route
 
 def dump_incomplete_quests(route, maxlevel):
@@ -257,6 +265,31 @@ def dump_incomplete_quests(route, maxlevel):
                 f.write('  CLASS-SPECIFIC [%d] %s (%d) (z=%s)    -> %s\n' % (quest['level'], quest['name'], quest['id'], quest['zone'], ('https://tbc.wowhead.com/quest=%s' % quest['id'])))
         print('Wrote a list of all incompleted quests with req<=58 to incomplete_quests.txt!')
 
+def write_questlog(filename, route):
+    rawquests = route.accepted + route.completed
+
+    questlog = {}
+    for id in rawquests:
+        quest = questsDB[id]
+        if quest['zone'] not in questlog:
+            questlog[quest['zone']] = []
+        questlog[quest['zone']].append(quest)
+    
+    # Sorting: Categories are sorted alphabetically. Quests are sorted first by level, then alphabetically.
+    for zone in questlog:
+        questlog[zone].sort(key=lambda q: (q['level'], q['name']))
+
+    os.chdir(outputCWD)
+    with open(filename, 'a') as f:
+        f.write('%d quests:' % len(rawquests))
+        for zone in questlog:
+            f.write('\\\\*%s:* ' % zone)
+            for i in range(0, len(questlog[zone])):
+                quest = questlog[zone][i]
+                f.write('[%d] %s (%s)%s' % (quest['level'], quest['name'], quest['id'], ', ' if i+1 < len(questlog[zone]) else ''))
+        f.write('\n\n')
+    os.chdir(routeCWD)
+
 class Route:
     def __init__(self):
         self.accepted = []
@@ -273,12 +306,21 @@ def main():
     global questsDB
     with open('quests.json', 'r') as f:
         questsDB = json.load(f)
+    
+    if os.path.isfile('questlog_data.txt'):
+        os.remove('questlog_data.txt')
+    with open('questlog_data.txt', 'w') as f:
+        f.write('The questlog has been dumped *after* completion of a file:\n\n')
 
-    cwd = os.getcwd()
-    os.chdir(sys.argv[1])
+    global outputCWD, routeCWD
+    outputCWD = os.getcwd()
+    routeCWD = sys.argv[1]
+    os.chdir(routeCWD)
     route = scan_files()
-    os.chdir(cwd)
+    os.chdir(outputCWD)
     dump_incomplete_quests(route, 58)
+
+    print('Dumped state of questlog between files into questlog_data.txt')
 
 if __name__ == '__main__':
     main()
