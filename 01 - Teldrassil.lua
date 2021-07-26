@@ -101,7 +101,7 @@ Kill Mystics to finish [QC2459 Ferocitas the Dream Eater].
 Grind until [XP8-1510].
 [OC] If Seek Redemption! was not completed grind until [XP8-880].
 Deathwarp to Dolanaar. (XXX: This is shadowglen on priv servers)
-Turn in [QT2459 Fermocitas the Dream Eater].
+Turn in [QT2459 Ferocitas the Dream Eater].
 [OC] If completed, turn in [QT489 Seek Redemption!].
 [T] Learn level 8 skills.
 [OC] End of Dolanaar (/played:)
@@ -111,7 +111,7 @@ Turn in [QT2459 Fermocitas the Dream Eater].
 Accept [QA487 The Road to Darnassus] from Moon Priestess Amara, who patrols between Dolanaar and (48,51).
 [G42.1,50.05] Learn *Skinning* from Radnaal. Skinning is essential in getting our mount.
 [OC] Note: In the guide we will assume all leather is vendored, as we cannot use AH for speedrunning. But feel free to auction the leather if that provides better profit :-).
-[OC] If not completed, complete [QC489 Seek Redemption!] while doing the next quests.
+If not completed, complete [QC489 Seek Redemption!] while doing the next quests.
 [OC] Note: On the way to the next quests, kill beasts & critters for skinning.
 [G40.35,54.05]
 [G40.77,61.98]
@@ -146,7 +146,7 @@ Turn in [QT2561 Druid of the Claw] back at Oben Rageclaw.
 Deathwarp to Dolanaar.
 Turn in [QT933 Crown of the Earth].\\Accept follow-up [QA934 Crown of the Earth].
 Turn in [QT483 The Relics of Wakening].\\Accept [QA486 Ursal the Mauler].
-[OC] If not already turned in, turn in [QT489 Seek Redemption!].
+If not already turned in, turn in [QT489 Seek Redemption!].
 Turn in [QT487 The Road to Darnassus].
 [A Rogue]Accept [QA2241 The Apple Falls] and [T] learn skills.
 [OC] End of Barrow Den (/played:)

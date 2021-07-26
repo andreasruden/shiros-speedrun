@@ -6,9 +6,8 @@ Guidelime.registerGuide(
 [N 42-43 Stranglethorn Vale]
 [NX 44-45 Tanaris]
 
--- XXX: Are these done -> Complete [QC196 Raptor Mastery] [QA202 Colonel Kurzen] and [QC192 Panther Mastery] on the coast south of Grom'Gol.
+-- XXX: We need [QA193 Panther Mastery] [QA197 Raptor Mastery] (nessingwary) from last time.
 
-XXX: We need [QA205 Troll Witchery] [QA202 Colonel Kurzen] (rebel camp) [QA193 Panther Mastery] [QA197 Raptor Mastery] (nessingwary) from last time.
 -- XXX: We should pop into Badlands for a bit of questing before STV, to grab https://tbc.wowhead.com/quest=735/the-star-the-hand-and-the-heart and pearl diving.
 
 -- Booty Bay
@@ -26,7 +25,7 @@ Accept [QA614 The Captain's Chest].
 
 -- Southern STV
 -- Just outside BB
-Kill & loot Duncan to complete [QA610 "Pretty Boy" Duncan].
+Kill & loot Duncan to complete [QC610 "Pretty Boy" Duncan].
 Turn in [QT595 The Bloodsail Buccaneers].\\Accept follow-up [QA597 The Bloodsail Buccaneers].
 -- XXX: There is no way in which it would be time efficient to get https://tbc.wowhead.com/quest=48/sweet-amber from westfall, right?
 Head north along the coast and complete [QC617 Akiris by the Bundle].
@@ -39,7 +38,7 @@ Run back to Booy Bay and turn in [QT606 Scaring Shaky].\\Accept [QA607 Return to
 Turn in [QT597 The Bloodsail Buccaneers].\\Accept follow-up [QA599 The Bloodsail Buccaneers].
 Turn in [QT348 Stranglethorn Fever].
 Turn in [QT607 Return to MacKinley].\\Accept [QA609 Voodoo Dues].
-Turn in [QT617 Akiris by the Bundle]. --\\Accept follow-up [QA623 Akiris by the Bundle].
+Turn in [QT617 Akiris by the Bundle].\\Accept follow-up [QA623 Akiris by the Bundle].
 Walk into the inn and set hearthstone in [S Booty Bay].
 Walk up the stairs of the inn, turn in [QT610 "Pretty Boy" Duncan].\\Accept [QA611 The Curse of the Tides].
 Continue up the in. Accept [QA587 Up to Snuff].
@@ -69,7 +68,7 @@ Hearth to [H Booty Bay].
 Turn in [QT600 Venture Company Mining] and [QT621 Zanzil's Secret].
 Head up the inn. Turn in [QT209 Skullsplitter Tusks].
 Turn in [QT604 The Bloodsail Buccaneers].\\Accept follow-up [QA608 The Bloodsail Buccaneers]
-Turn in [QA611 The Curse of the Tides].
+Turn in [QT611 The Curse of the Tides].
 [OC] If you don't have all the pages, then consider having an alt mail the rest. Bring them with you. It'll be tight on space :-).
 Jump down and turn in [QT609 Voodoo Dues] in the house.\\Accept [QA613 Cracking Maury's Foot].
 If completed, turn in [QT614 The Captain's Chest] at end of the docks.
@@ -81,7 +80,7 @@ Turn in [QT205 Troll Witchery].\\Accept [QA206 Mai'Zoth].
 In the Kurzen Cave, complete [QC202 Colonel Kurzen].
 Complete [QC193 Panther Mastery].
 Head into the ogre cave and complete [QC206 Mai'Zoth].
-If not finished, complete [QT613 Cracking Maury's Foot].
+If not finished, complete [QC613 Cracking Maury's Foot].
 At Nessingwary, turn in [QT197 Raptor Mastery].
 Turn in [QT193 Panther Mastery].
 If you've got the pages, accept [QA338 The Green Hills of Stranglethorn]. If not, skip this. The guide assumes this is *NOT* completed.
@@ -114,7 +113,7 @@ Complete [QC630 Message in a Bottle].
 Turn in [QT630 Message in a Bottle].
 Hearthstone to [H Booty Bay] or run back.
 Turn in [QT587 Up to Snuff].
-Turn in [QT595 The Bloodsail Buccaneers].
+Turn in [QT608 The Bloodsail Buccaneers].
 Turn in [QT576 Keep An Eye Out].
 
 -- Swamp of Sorrows
@@ -129,7 +128,7 @@ Turn in [QT11223 Return to Jaina]. (Disables this teleport, but it doesn't work 
 Turn in [QT623 Akiris by the Bundle].
 Turn in [QT1258 ... and Bugs].
 Fly to [F Mudsprocket].
-In the cave of the area where we killed Goreclaw, turn in [QT624 Cortello's Riddle].\\Accept follow-up [QA626 Cortello's Riddle].
+In the cave of the area where we killed Goreclaw, turn in [QT625 Cortello's Riddle].\\Accept follow-up [QA626 Cortello's Riddle].
 Run back to Mudsprocket and fly to [F Tanaris].
 
 ]], 'Shiros Speedrun')

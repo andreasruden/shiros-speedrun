@@ -9,16 +9,16 @@ Guidelime.registerGuide(
 *HEADS UP*: Save *Bear Meat*, *Boar Ribs*, *Chunk of Boar Meat*, *Small Spider Leg*, *Clam Meat*, *Crawler Meat* and *Crawler Leg* for cooking.
 
 -- Arriving in Thelsamar
-Accept [QA224 In Defense of King's Lands].
+Accept [QA224 In Defense of the King's Lands].
 Inside the bunker, accept [QA267 The Trogg Threat].
-In [G30.79,70.22 Stonesplinter Valley], complete [QC224 In Defense of King's Lands].
+In [G30.79,70.22 Stonesplinter Valley], complete [QC224 In Defense of the King's Lands].
 Finish up [QC267 The Trogg Threat].
-Turn in [QT224 In Defense of King's Lands].
-Accept [QA237 In Defense of King's Lands].
+Turn in [QT224 In Defense of the King's Lands].
+Accept [QA237 In Defense of the King's Lands].
 Turn in [QT267 The Trogg Threat].
-Complete [QC237 In Defense of King's Lands] in [G28.9,83.9 Stonesplinter Valley].
-Turn in [QT237 In Defense of King's Lands].
-Accept follow-up [QA263 In Defense of King's Lands].
+Complete [QC237 In Defense of the King's Lands] in [G28.9,83.9 Stonesplinter Valley].
+Turn in [QT237 In Defense of the King's Lands].
+Accept follow-up [QA263 In Defense of the King's Lands].
 Get fligh point in [P Thelsamar].
 [OC] If you see the patrol, accept his quests.
 [V][R] Vendor & repair at [G34.08,46.69 Morhan].

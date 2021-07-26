@@ -15,7 +15,7 @@ XXX: Is flying to sentinel hill actually quicker than running for a hunter?
 *HEADS UP*: Save *Raptor Egg* for cooking.
 
 -- First round
-[OC] If you didn't finish Look to The Stars last time, buy a Bronze Tube from Herble.
+[OC] If you didn't finish Look To The Stars last time, buy a Bronze Tube from Herble.
 Turn in [QT174 Look To The Stars].
 Accept [QA175 Look To The Stars].
 Accept [QA173 Worgen in the Woods].
@@ -32,7 +32,7 @@ Complete [QC221 Worgen in the Woods]. [G63.7026,51.0763,1] (NW of here there's a
 Run back [G69.007,48.827,4]
 Turn in [QT221 Worgen in the Woods].\\Accept follow-up [QA222 Worgen in the Woods].
 [OC] Grind for [QC101 The Totem of Infliction] while on the way.
-Turn in [QT149 Ghost Hair Thread] and [QT175 Look to the Stars].\\Accept [QA177 Look to the Stars] and [QA154 Return the Comb].
+Turn in [QT149 Ghost Hair Thread] and [QT175 Look To The Stars].\\Accept [QA177 Look To The Stars] and [QA154 Return the Comb].
 Grind further south and complete [QC177 Look To The Stars]. [G79.51,70.35]
 In this area, also complete [QC56 The Night Watch].
 -- The Scythe of Elune (1043) is in this cave (Mound of Dirt), but I don't think there's any sensible way to have that quest line (it starts at 25 in Ashenvale)

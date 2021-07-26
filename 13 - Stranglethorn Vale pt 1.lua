@@ -13,7 +13,7 @@ Turn in [QT1180 Goblin Sponsorship].\\Accept follow-up [QA1181 Goblin Sponsorshi
 Turn in [QT1040 Passage to Booty Bay].\\Accept [QA1041 The Caravan Road].
 Head into the inn and accept [QA605 Singing Blue Shards].
 Run upstairs and turn in [QT1115 The Rumormonger].
-Accept [QA1116 Dream Dust in the Swamp], [QA198 Supplies to Private Thorsen], [QA201 Investige the Camp] and [QA616 The Haunted Isle].
+Accept [QA1116 Dream Dust in the Swamp], [QA198 Supplies to Private Thorsen], [QA201 Investigate the Camp] and [QA616 The Haunted Isle].
 Accept [QA189 Bloodscalp Ears] and [QA213 Hostile Takeover].
 Turn in [QT1181 Goblin Sponsorship].\\Accept follow-up [QA1182 Goblin Sponsorship].
 Turn in [QT616 The Haunted Isle].\\Accept [QA578 The Stone of the Tides].
@@ -24,9 +24,9 @@ Fly to [F Darkshire].
 -- Darkshire
 -- XXX: We should turn this in and do it when we go to Duskwood anyway. This means going to booty bay beforehand, and having worse pathing in Ashenvale pt 2?
 Turn in [QT1041 The Caravan Road].\\Accept [QA1042 The Carevin Family].
-Turn in [QT1042 The Carevin Family].\\Accept [QA1043 The Schyte of Elune].
-Interact with the mound in the Roland's Doom cave, to complete [QC1043 The Schyte of Elune].
-Turn in [QT1043 The Schyte of Elune].\\Accept [QA1044 Answered Questions].
+Turn in [QT1042 The Carevin Family].\\Accept [QA1043 The Scythe of Elune].
+Interact with the mound in the Roland's Doom cave, to complete [QC1043 The Scythe of Elune].
+Turn in [QT1043 The Scythe of Elune].\\Accept [QA1044 Answered Questions].
 Fly to [F Rebel Camp]
 
 -- Rebel Camp
@@ -80,7 +80,7 @@ Complete [QC578 The Stone of the Tides]. [G21.46,21.88]
 -- Nesingwary
 Run back to Nesingwary and turn in [QT194 Raptor Mastery].\\Accept follow-up [QA195 Raptor Mastery].
 Turn in [QT187 Tiger Mastery].\\Accept follow-up [QA188 Tiger Mastery].
-Turn in [QT191 Panther Mastery].
+Turn in [QT191 Panther Mastery].\\Accept [QA192 Panther Mastery].
 Complete [QC575 Supply and Demand].
 
 -- Rebel Camp
@@ -103,9 +103,10 @@ Complete [QC577 Some Assembly Required].
 Complete [QC195 Raptor Mastery]. [G38.5,20.7]
 Complete [QC188 Tiger Mastery].
 Complete [QC601 Water Elementals]. XXX: This should be done last time. Then we could have turned in Magical Analysis during Alterac and gotten https://tbc.wowhead.com/quest=603/ansirems-key
-Turn in [QT195 Raptor Mastery].
+Turn in [QT195 Raptor Mastery].\\Accept follow-up [QA196 Raptor Mastery].
 Turn in [QT188 Tiger Mastery].
-Turn in [QT574 Special Forces].
+XXX: We need to do 192, 196 and accept follow ups.
+Turn in [QT574 Special Forces].\\Accept [QA202 Colonel Kurzen].
 
 -- Booty Bay
 Fly to [F Booty Bay].

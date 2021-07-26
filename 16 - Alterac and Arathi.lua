@@ -10,11 +10,12 @@ Guidelime.registerGuide(
 Fly to [F Southshore].
 On the upper floor, turn in [QT1052 Down the Scarlet Path].
 Set hearthstone in [S Southshore].
-Accept [QA504 Crushridge Warmongers].
-Accept [QA512 Noble Deaths] and [QA537 Dark Council].
+If not completed before, accept [QA500 Crushridge Bounty]. -- !OptionalFinish
+Else, accept [QA504 Crushridge Warmongers].
+Turn in [QT525 Further Mysteries].\\Accept [QA512 Noble Deaths] and [QA537 Dark Council].
 Head north [G55, 11].
 -- XXX: Pathing here is wrong, since we added magical analysis
-If not completed before, complete [QC500 Crushridge Bounty].
+If not completed before, complete [QC500 Crushridge Bounty]. -- !OptionalFinish
 Else, complete [QC504 Crushridge Warmongers].
 Backtrack a bit, then head west to turn in [QT602 Magical Analysis].\\Accept [QA603 Ansirem's Key].
 Continue through the Uplands. Obtain [QC537,2 Head of Nagaz].
@@ -24,14 +25,14 @@ Finish [QC537 Dark Council] and [QC512 Noble Deaths].
 -- XXX: Should we grab WPL flight point here? Or maybe in Hillsbrad Foothills file while doing turtles
 Hearth to [H Southshore].
 Turn in [QT512 Noble Deaths] and [QT537 Dark Council].
-If you skipped bounty the first time, turn in [QT500 Crushridge Bounty] and skip the follow-up.
+If you skipped bounty the first time, turn in [QT500 Crushridge Bounty] and skip the follow-up. -- !OptionalFinish
 Else, turn in [QT504 Crushridge Warmongers].
 Turn in [QT551 The Ensorcelled Parchment].\\Accept [QA554 Stormpike's Deciphering].
 
 -- Arathi Highlands
 Fly to [F Arathi].
 Accept [QA682 Stromgarde Badges].
-Accept [QA684 Wanted! Marez Cowl] and [QA685 Wanted! Otto and Falconcrest].
+Accept [QA684 Wanted!  Marez Cowl] and [QA685 Wanted!  Otto and Falconcrest].
 Accept [QA691 Worth Its Weight in Gold].
 Accept [QA642 The Princess Trapped].
 Head up the road here [G80.79,39.93].
@@ -39,30 +40,30 @@ In the cave, work your way towards the turn-in crystal, while completing [QC642 
 Turn in [QT642 The Princess Trapped].\\Accept [QA651 Stones of Binding].
 Obtain [QC651,2 Cresting Key].
 Complete [QC691 Worth Its Weight in Gold]. [G68,75]
-Turn in [QT691 Hints of a New Plague?]\\Accept follow-up [QA658 Hints of a New Plague?].
+Turn in [QT659 Hints of a New Plague?]\\Accept follow-up [QA658 Hints of a New Plague?].
 Find the courier along the road to complete [QC658 Hints of a New Plague?].
 Turn in [QT658 Hints of a New Plague?]\\Accept follow-up [QA657 Hints of a New Plague?]
-Turn in [QA657 Hints of a New Plague?]\\Accept follow-up escort [QA660 Hints of a New Plague?]
+Turn in [QT657 Hints of a New Plague?]\\Accept follow-up escort [QA660 Hints of a New Plague?]
 Complete escort [QC660 Hints of a New Plague?].
 Turn in [QT660 Hints of a New Plague?]\\Accept follow-up [QA661 Hints of a New Plague?]
 Obtain [QC651,3 Thundering Key].
 Turn in [QT691 Worth Its Weight in Gold].
 Accept [QA693 Wand over Fist].
 Grind south and complete [QC693 Wand over Fist]. The objective is in the right cave. Keep to the left once inside.
-Grind back to Refuge Pointe and turn in [QT693 Wand over Fist].\\Accept [QA694 Trelane's Defense].
+Grind back to Refuge Pointe and turn in [QT693 Wand over Fist].\\Accept [QA694 Trelane's Defenses].
 Head west and obtain [QC651,1 Burning Key].
 Turn in [QT651 Stones of Binding].\\Accept [QA652 Breaking the Keystone].
 Fozruk spawns NE at the Circle of East binding and then walks a path around the zone. Find him and complete [QC652 Breaking the Keystone].
 Turn in [QT652 Breaking the Keystone].\\Accept [QA653 Myzrael's Allies].
 -- Stromgarde keep
 [OC] We gather Badges on the way for [QC682 Stromgarde Badges].
-Head into Stromgarde Keep. Follow the lower level left. Behind the building in the back complete [QC684 Wanted! Marez Cowl].
-Inside the main keep complete [QC685 Wanted! Otto and Falconcrest].
+Head into Stromgarde Keep. Follow the lower level left. Behind the building in the back complete [QC684 Wanted!  Marez Cowl].
+Inside the main keep complete [QC685 Wanted!  Otto and Falconcrest].
 Finish [QC682 Stromgarde Badges].
-Head into the ogre area (right from keep entrance) and complete [QC694 Trelane's Defense].
-Turn in [QT682 Stromgarde Badges], [QT684 Wanted! Marez Cowl] and [QT685 Wanted! Otto and Falconcrest].
-Turn in [QT694 Trelane's Defense].\\Accept [QA695 An Apprentice's Enchantment].
-Turn in [QA695 An Apprentice's Enchantment].\\Accept [QA696 Attack on the Tower].
+Head into the ogre area (right from keep entrance) and complete [QC694 Trelane's Defenses].
+Turn in [QT682 Stromgarde Badges], [QT684 Wanted!  Marez Cowl] and [QT685 Wanted!  Otto and Falconcrest].
+Turn in [QT694 Trelane's Defenses].\\Accept [QA695 An Apprentice's Enchantment].
+Turn in [QT695 An Apprentice's Enchantment].\\Accept [QA696 Attack on the Tower].
 -- Stromgarde Keep #2
 [OC] Head back to Stromgarde Keep's Ogre area, to the back by the tower.
 [OC] There's a pedestal for tower defenses outside, but it can end up making things more annoying. YMMV.

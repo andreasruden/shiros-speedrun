@@ -31,7 +31,7 @@ Complete [QC4740 WANTED: Murkdeep!].
 Turn in [QT952 Grove of the Ancients] and [QT948 Onu].\\Accept [QA944 The Master's Glaive].
 Murder everyone in the [G38.59,86.25 Twilight Camp], hopefully they drop *Book: The Powers Below*.
 Complete [QC944 The Master's Glaive] (use the phial in your inventory, place a bowl on the table).
-Accept [QA949 The Twilight Camp].
+Turn in [QT944 The Master's Glaive].\\Accept [QA949 The Twilight Camp].
 Turn in [QT949 The Twilight Camp].\\Accept [QA950 Return to Onu].
 Accept [QA945 Therylune's Escape].
 Complete [QC945 Therylune's Escape].
@@ -61,6 +61,7 @@ Kill your way through the camp and loot [CI12341,1 Blackwood Fruit Sample] at th
 Clear out the camp, then use the *Filled Cleansing Bowl* at the [G52.4,33.4 campfire].
 Some friendly furbolgs (that do nothing) and Xabraxxis, level 19 satyr, will spawn. After killing him loot the talisman *off the ground* to complete [QC4763 The Blackwood Corrupted].
 Complete [QC2139 Tharnariun's Hope].
+Accept [QA967 The Tower of Althalaxx].
 Complete [QC951 Mathystra Relics].
 Accept [QA2098 Gyromast's Retrieval].
 Get [QC2098,3 Bottom of Gelkak's Key] from the crabs.

@@ -23,13 +23,13 @@ Avoid the road to not trigger mob spawns. Instead run through the forest to the 
 Accept [QA994 Escape Through Force], unless you really want the other reward, as it gives 1000 more xp.
 Complete [QC994 Escape Through Force].
 Run onward to [G45.9,90.34 Aynasha].
-Accept [QA5713 One Shot. One Kill.]. XXX: This might be better skipped, it's lost 400 xp from being gray.
-Guard Anyasha and complete [QC5713 One Shot. One Kill.].
+Accept [QA5713 One Shot.  One Kill.]. XXX: This might be better skipped, it's lost 400 xp from being gray.
+Guard Anyasha and complete [QC5713 One Shot.  One Kill.].
 Continue avoiding the roads and run south into [G44.97,94.34 Ashenvale].
 Then run all the way to [G26,37 Maestra's Post].
 
 -- Maestra's Post
-Turn in [QT5713 One Shot. One Kill.]
+Turn in [QT5713 One Shot.  One Kill.]
 Turn in [QT5321 The Sleeper Has Awakened].
 Turn in [QT967 The Tower of Althalaxx].\\Accept follow-up [QA970 The Tower of Althalaxx].
 Accept [QA1010 Bathran's Hair].
@@ -120,7 +120,7 @@ Turn in [QT976 Supplies to Auberdine].
 Run back to Astranaar and turn in [QT1054 Culling the Threat].
 If not level 25, grind to [XP25].
 Fly to [F Auberdine].
-Turn in [QT994 Escape through Force].
+Turn in [QT994 Escape Through Force].
 Accept [QA990 Trek to Ashenvale] from the NE woman that spawns upon turn-in. (XXX: Is this how it works?)
 From the Innkeeper buy as many *Refreshing Spring Water* as you have Clam Meat.
 [OC] Can [T] learn skills in Darnassus if you want to save a bit of money or if Ironforge does not have your trainer.

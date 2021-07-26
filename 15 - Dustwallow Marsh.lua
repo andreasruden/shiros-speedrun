@@ -16,7 +16,7 @@ Accept [QA11126 Traitors Among Us].
 ?? Accept [QA1282 They Call Him Smiling Jim]. -- XXX: Sounds like you cannot actually get 1282 if you've completed James Hyal (which gives more xp)
 Set hearthstone in [S Theramore].
 Turn in [QT1260 Morgan Stern].\\Accept [QA1204 Mudrock Soup and Bugs].
-Turn in [QT1282 They Call Him Smiling Jim].\\Accept [QA11124 Inspecting the Ruins].
+Turn in [QT1282 They Call Him Smiling Jim].\\Accept [QA11123 Inspecting the Ruins].
 In the top of the tower, turn in [QT1265 The Missing Diplomat].\\Accept follow-up [QA1266 The Missing Diplomat].
 Finish up [QC11126 Traitors Among Us].
 Turn in [QT11126 Traitors Among Us].\\Accept [QA11128 Propaganda War].
@@ -64,7 +64,7 @@ Turn in [QT1259 Lieutenant Paval Reethe].\\Accept [QA1285 Daelin's Men].
 Turn in [QT1285 Daelin's Men].\\Accept [QA1286 The Deserters].
 Turn in [QT1219 The Orc Report].\\Accept [QA1220 Captain Vimes]. -- XXX: Why can't I accept captain vimes on the priv server?
 Turn in [QT1324 The Missing Diplomat].\\Accept follow-up [QA1267 The Missing Diplomat].
-Turn in [QT1267 The Missing Diplomat].\\Accept follow-up [QA1267 The Missing Diplomat]. -- XXX: Seems you can turn this in after subduing the guy in the previous part? Jaina spawns or something.
+Turn in [QT1267 The Missing Diplomat]. XXX: Seems you can turn this in after subduing the guy in the previous part? Jaina spawns or something?
 Turn in [QT1319 The Black Shield].\\Accept follow-up [QA1320 The Black Shield].
 Turn in [QT1220 Captain Vimes] and [QT1320 The Black Shield].
 
@@ -119,7 +119,7 @@ Turn in [QT1203 Jarl Needs a Blade].
 Turn in [QT11143 A Grim Connection].\\Accept [QA11144 Confirming the Suspicion] and [QA11148 Arms of the Grimtotems].
 Accept [QA11145 Prisoners of the Grimtotems] and [QA11147 Unleash the Raptors].
 [OC] Elders drop fragments for battle plans. Keys drop from all mobs.
-Complete [QC11147 Unleash the Raptors], [QC11144 Confirming the Suspicion], [QA11148 Arms of the Grimtotems] and [QC11145 Prisoners of the Grimtotems].
+Complete [QC11147 Unleash the Raptors], [QC11144 Confirming the Suspicion], [QC11148 Arms of the Grimtotems] and [QC11145 Prisoners of the Grimtotems].
 Turn in [QT11145 Prisoners of the Grimtotems] and [QT11147 Unleash the Raptors].
 Turn in [QT11144 Confirming the Suspicion] and [QT11148 Arms of the Grimtotems].\\Accept [QA11149 Tabetha's Assistance].
 Turn in [QT1177 Hungry!]

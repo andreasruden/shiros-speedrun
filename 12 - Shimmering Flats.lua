@@ -8,8 +8,6 @@ Guidelime.registerGuide(
 
 [OC] Questcheck.\\*Alterac Mountains:* Further Mysteries (525), Crushridge Bounty (500), Noble Deaths (512).\\*Ashenvale*: Passage to Booty Bay (1040).\\*Darkshore*: The Tower of Althalaxx (1167).\\*Hillsbrad Foothills:* Hints of a New Plague? (659)\\*Stormwind City*: Malin's Request (690), The Missing Diplomat (1264), James Hyal (1301).
 
-Turn in [QT525 Further Mysteries].\\Accept [QA537 Dark Council].
-
 -- Peak into Arathi
 Fly to [F Arathi].
 Turn in [QT690 Malin's Request].

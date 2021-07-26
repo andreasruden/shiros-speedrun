@@ -26,7 +26,7 @@ Accept [QA256 WANTED: Chok'sul].
 Turn in [QT302 Powder to Ironband].\\Accept [QA273 Resupplying the Excavation].
 Complete [QC273 Resupplying the Excavation].
 Turn in [QT273 Resupplying the Excavation].\\Accept [QA454 After the Ambush].
-Accept [QA309 Protecting the Shipment].
+Turn in [QT454 After the Ambush].\\Accept [QA309 Protecting the Shipment].
 Escort Miran to complete [QC309 Protecting the Shipment].
 Turn in [QT309 Protecting the Shipment].
 Get some *Bear Meat* [G68,42.7 east of the lake].
@@ -53,7 +53,7 @@ From the shop [G65.74, 59.23 Fragrant Flowers], facing the canal, purchase [CI26
 Get the FP [P Stormwind].
 
 -- Duskwood
-Head to Duskwood and accept [QA226 Wolves at our Heels]. (Do *not* accept Sven's Revenge.)
+Head to Duskwood and accept [QA226 Wolves at Our Heels]. (Do *not* accept Sven's Revenge.)
 Run west into Westfall and get Sentinell Hill FP [P Sentinel Hill].
 [OC] If you spot wolves, kill them for [QC226 Wolves at our Heels].
 Discover [G21.2,62.2 Addle's Stead].
@@ -61,22 +61,22 @@ Accept [QA245 Eight-Legged Menaces].
 In Darkshire, accept [QA163 Raven Hill], [QA165 The Hermit] and [QA164 Deliveries to Sven].
 Accept the Darkshire FP [P Darkshire].
 Buy a [CI4371,1 Bronze Tube] from [G78.05,48.28 Herble]. (If he's out you're willing to use AH, you can buy one from AH later)
-If you have a Bronze Tube. Accept [QA174 Look to the Stars] and then turn it in. Skip follow up.
+If you have a Bronze Tube. Accept [QA174 Look To The Stars] and then turn in [QT174 Look To The Stars]. Skip follow up.
 [OC] Turn in [QT165 The Hermit] if you pass him.
 [OC] Also kill spiders for [QC245 Eight-Legged Menaces] and 6 *Goey Spider Legs*.
-Head north and grind west, completing [QC226 Wolves at our Heels].
+Head north and grind west, completing [QC226 Wolves at Our Heels].
 Make sure you have [CI1015,10 Lean Wolf Flank] before moving on.
 Turn in [QT165 The Hermit].\\Accept [QA148 Supplies from Darkshire].
-Turn in [QT226 Wolves at our Heels].
+Turn in [QT226 Wolves at Our Heels].
 Turn in [QT164 Deliveries to Sven].\\Accept [QA95 Sven's Revenge].
 Finish up [QC245 Eight-Legged Menaces]. (Some are on the way to Raven Hill)
 Also, make sure you have [CI2251,6 Goey Spider Leg] before moving on.
-Turn in [QT163 Raven Hill].\\Accept [QA5 Jitters' Growling Cut].
+Turn in [QT163 Raven Hill].\\Accept [QA5 Jitters' Growling Gut].
 Turn in [QT245 Eight-Legged Menaces].
 Run south into STV and get the flight-point at [P Rebel Camp].
 Fly to [F Darkshire].
 Turn in [QT148 Supplies from Darkshire]. Skip follow-up.
-Turn in [QT5 Jitters' Growling Cut] to the chef.\\Accept [QA93 Dusky Crab Cakes] and [QA90 Seasoned Wolf Kabobs] .
+Turn in [QT5 Jitters' Growling Gut] to the chef.\\Accept [QA93 Dusky Crab Cakes] and [QA90 Seasoned Wolf Kabobs] .
 Turn in [QT90 Seasoned Wolf Kabobs] and [QT93 Dusky Crab Cakes]. Skip follow-up.
 
 -- Redridge Mountains

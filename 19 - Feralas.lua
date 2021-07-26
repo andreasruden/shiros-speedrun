@@ -11,7 +11,7 @@ Turn in [QT1117 Rumors for Kravel].\\Accept [QA1118 Back to Booty Bay].
 Turn in [QT1137 News for Fizzle].
 Turn in [QT1187 Razzeric's Tweaking].\\Accept [QA1188 Safety First].
 Accept [QA1190 Keeping Pace].
-Use [G79.82,77.03 Zamek] to create a distraction [QT1191 Zamek's Distraction].
+Use [G79.82,77.03 Zamek] to create a distraction [QT1191 Zamek's Distraction]. -- !FinishWithoutAccept
 Turn in [QT1190 Keeping Pace].\\Accept [QA1194 Rizzle's Schematics].
 Turn in [QT1194 Rizzle's Schematics].
 
@@ -28,15 +28,15 @@ Complete [QC2781 WANTED: Caliph Scorpidsting].
 Complete [QC1690 Wastewander Justice] and [QC1707 Water Pouch Bounty].
 Turn in [QT2872 Stoley's Debt].\\Accept [QA2873 Stoley's Shipment].
 Accept [QA8366 Southsea Shakedown].
-Accept [QA8365 Pirate Hats Ahoy].
+Accept [QA8365 Pirate Hats Ahoy!]
 
 -- Pirates
 Complete [QC2875 WANTED: Andre Firebeard].
 In the house, second floor, complete [QC2873 Stoley's Shipment].
-Complete [QC8366 Southsea Shakedown] and [QC8365 Pirate Hats Ahoy].
+Complete [QC8366 Southsea Shakedown] and [QC8365 Pirate Hats Ahoy!]
 Turn in [QT2873 Stoley's Shipment].\\Accept [QA2874 Deliver to MacKinley].
 Turn in [QT2875 WANTED: Andre Firebeard] and [QT8366 Southsea Shakedown].
-Turn in [QT8365 Pirate Hats Ahoy].
+Turn in [QT8365 Pirate Hats Ahoy!]
 Accept [QA3520 Screecher Spirits].
 Deathwarp or run to gadgetzan. Turn in [QT1707 Water Pouch Bounty].
 Turn in [QT1690 Wastewander Justice] and [QT2781 WANTED: Caliph Scorpidsting].\\Accept 

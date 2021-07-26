@@ -27,10 +27,10 @@ Hearth back to [H Menethil Harbor].
 
 -- Accepting quests
 [R][V] Repair/vendor/arrows at [11.29,58.47 Naela].
-Accept [QA470 Digging Through the Oooze].
+Accept [QA470 Digging Through the Ooze].
 Accept [QA473 Report to Captain Stoutfist].
 Turn in [QT473 Report to Captain Stoutfist].\\Accept [QA464 War Banners].
-Accept [QA305 In Search of the Excavation Team].
+Accept [QA305 In Search of The Excavation Team].
 
 -- First round
 Kill all the young crocolisk in this area [G19.2,47.6]. Then continue onwards.
@@ -43,10 +43,10 @@ Complete the rest of the quest [QC289 The Cursed Crew].
 Start killing young crocolisks in the waters north of the main road [G26.8,40.8].
 Follow the waters until [G32.4,36.9].
 Head south to [G34.09,40.88].
-Turn in [QT305 In Search of the Excavation Team]. Skip follow-up for now.
+Turn in [QT305 In Search of The Excavation Team]. Skip follow-up for now.
 Accept [QA294 Ormer's Revenge].
 [OC] Save *Raptor Egg* for cooking.
-Leave excavation site, immediately heading west along the mountain.\\Complete [QC294 Ormer's Revenge], [QC470 Digging Through the Oooze] and find [QC943,1 Stone of Relu].
+Leave excavation site, immediately heading west along the mountain.\\Complete [QC294 Ormer's Revenge], [QC470 Digging Through the Ooze] and find [QC943,1 Stone of Relu].
 Following the same waters east as before, complete [QC484 Young Crocolisk Skins].
 Turn in [QT294 Ormer's Revenge].\\Accept follow-up [QA295 Ormer's Revenge].
 Accept [QA299 Uncovering the Past].
@@ -73,14 +73,13 @@ Hearth to [H Menethil Harbor].
 
 -- Turn ins
 Upstairs, turn in [QT943 The Absent Minded Prospector].
-Turn in [QT289 The Cursed Crew].\\Accept [QA290 Lifting the Curse].
-Turn in [QT279 Claws from the Deep].\\Accept [QA281 Reclaiming Goods].
-Turn in [QT469 Daily Delivery] and [QT484 Young Crocolisk Skins].\\Accept [QA471 Apprentice's Duties].
-Accept [QA472 Fall of Dun Modr].
+Turn in [QT289 The Cursed Crew].
+Turn in [QT279 Claws from the Deep].
+Turn in [QT469 Daily Delivery] and [QT484 Young Crocolisk Skins].
 [R][V] Repair/vendor/arrows at [11.29,58.47 Naela].
-Turn in [QT470 Digging Through the Oooze].
+Turn in [QT470 Digging Through the Ooze].
 Turn in [QT455 The Algaz Gauntlet].
-Turn in [QT464 War Banners].\\Accept [QA465 Nek'rosh's Gambit].
+Turn in [QT464 War Banners].
 Turn in [QT306 In Search of The Excavation Team].
 [OC] You should be level 27 by now.
 Take the boat to Darkshore. Cook/first aid while waiting.

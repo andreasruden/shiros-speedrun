@@ -10,6 +10,13 @@ Guidelime.registerGuide(
 
 [OC] Questcheck. Ashenvale (even needed?): Trek to Ashenvale, Raene's Cleansing. Darkshore: The Tower of Althalaxx (1140). Duskwood: The Doomed Fleet (270). Stormwind: A Noble Brew (335), The Missing Diplomat (1248). Wetlands: Apprentice's Duties (471), Reclaiming Goods (281), War Banners (464), Lifting the Curse (290)
 
+-- Menethil Harbor
+Accept [QA290 Lifting the Curse].
+Accept [QA281 Reclaiming Goods].
+Accept [QA471 Apprentice's Duties]
+Accept [QA472 Fall of Dun Modr].
+Accept [QA465 Nek'rosh's Gambit]
+
 -- Second round of Wetlands
 Turn in [QT281 Reclaiming Goods].\\Accept [QA284 The Search Continues].
 Turn in [QT284 The Search Continues].\\Accept [QA285 Search More Hovels].

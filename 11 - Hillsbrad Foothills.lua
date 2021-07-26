@@ -22,7 +22,7 @@ Fly to [F Southshore].
 -- Bartolo's Yeti Fur Cloak (Shit quest, skip)
 Accept [QA500 Crushridge Bounty].
 Accept [QA505 Syndicate Assassins].
-Accept [QA569 Hints of a New Plague?]
+Accept [QA659 Hints of a New Plague?]
 Accept [QA9435 Missing Crystals].
 Accept [QA536 Down the Coast].
 Set hearthstone in [S Southshore].
@@ -55,7 +55,7 @@ Turn in [QT9435 Missing Crystals].
 Turn in [QT562 Stormwind Ho!].\\Accept [QA563 Reassignment].
 At the chef, turn in [QT555 Soothing Turtle Bisque].
 If you completed it, turn in [QT500 Crushridge Bounty].
-Turn in [QT505 Syndicate Assassins] and [QT510 Foreboding Plans].\\Accept [QA512 Noble Deaths].
+Turn in [QT505 Syndicate Assassins] and [QT510 Foreboding Plans]. Skip follow-up for now.
 You should be Lv.33 by now, but if not grind the beaches until [XP33-11850]. -- XXX: Changed Lv from 32 to 33, double check that this value is still corect (i.e. no xp reductions)
 
 -- IF
@@ -66,7 +66,7 @@ Accept [QA1453 Reclaimers' Business in Desolace].
 Turn in [QT514 Letter to Stormpike].\\Accept [QA525 Further Mysteries].
 Turn in [QT637 Sully Balloo's Letter].\\Accept [QA683 Sara Balloo's Plea].
 Turn in [QT683 Sara Balloo's Plea].\\Accept [QA686 A King's Tribute].
-Turn in [QT686 A King's Tribute].\\Accept follow-up [QA689 A King's Tribute].
+Turn in [QT686 A King's Tribute].--\\Accept follow-up [QA689 A King's Tribute]. Does not look like we would end up doing this.
 Take the tram to SW. Cook/FA while you wait.
 -- SW
 [T] While in SW, train Lv.32 skills.

@@ -10,14 +10,14 @@ Guidelime.registerGuide(
 Accept [QA4581 Kayneth Stillwind].
 Accept [QA9533 A Helping Hand].
 Turn in [QT990 Trek to Ashenvale]. -- XXX: Only 140 xp & 25 rep, even worth it?
-Run east to Forest Song, turn in [QT4581 Kayneth Stillwind], [QA1011 Forsaken Diseases] and [QA9519 The Lost Chalice].
+Run east to Forest Song, turn in [QT4581 Kayneth Stillwind].\\Accept [QA1011 Forsaken Diseases] and [QA9519 The Lost Chalice].
 Get the FP [P Forest Song].
 [OC] If you see Gnarl, Accept Reclaiming Felfire Hill
 Accept [QA9518 Agents of Destruction].
 Accept [QA1022 The Howling Vale].
 Accept [QA9516 Destroy the Legion].
 Accept [QA1021 Vile Satyr! Dryads in Danger!].
-Accept [QA9517 A Shameful Waste].
+Turn in [QT9533 A Helping Hand].\\Accept [QA9517 A Shameful Waste].
 Accept [QA9526 Reclaiming Felfire Hill].
 
 -- Eastern Ashenvale
@@ -64,7 +64,7 @@ Turn in [QT1027 Raene's Cleansing].\\Accept [QA1028 Raene's Cleansing].
 The path up is at [G55.97,51.18].
 Complete [QC1028 Raene's Cleansing].
 Turn in [QT1028 Raene's Cleansing]. Skip the follow-up. Keep the fancy furbolg rod if you care :-).
-Turn in [QT1140 The Tower of Althalaxx].\\Accept follow-up [QA1143 The Tower of Althalaxx]. -- XXX: Do we do follow-up?
+Turn in [QT1140 The Tower of Althalaxx].\\Accept follow-up [QA1167 The Tower of Althalaxx].
 Fly to [F Darnassus].
 
 -- Darnassus

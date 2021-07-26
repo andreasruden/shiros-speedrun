@@ -12,7 +12,7 @@ You should have 2 quests: Grove of the Ancients (952), Flight to Auberdine (6342
 
 -- Initial quest-state setup
 Accept [QA3524 Washed Ashore].
-Turn in [QT6342 Flight to Aubderine]. Skip follow-up for now.
+Turn in [QT6342 Flight to Auberdine]. Skip follow-up for now.
 Set hearthstone in [S Auberdine].
 Accept [QA963 For Love Eternal].
 Accept [QA983 Buzzbox 827] in the room above the innkeeper.
@@ -88,7 +88,7 @@ Turn in [QT1002 Buzzbox 323].\\Accept [QA1003 Buzzbox 525].
 Jump into the waterfall and fill the sampling tube to complete [QC4762 The Cliffspring River].
 Turn in [QT965 The Tower of Althalaxx].\\Accept follow-up [QA966 The Tower of Althalaxx].
 Complete [QC966 The Tower of Althalaxx].
-Turn in [QT966 The Tower of Althalaxx].\\Accept follow-up [QA967 The Tower of Althalaxx].
+Turn in [QT966 The Tower of Althalaxx]. Skip follow-up for now.
 If not level 15, grind to [XP15].
 Go to the cave above Cliffspring River and complete [QC947 Cave Mushrooms]. Note: Head right after entering the cave, chance for easy death cap.
 Turn in [QT957 Bashal'Aran].

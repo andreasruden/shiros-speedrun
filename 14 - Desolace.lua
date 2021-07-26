@@ -10,9 +10,6 @@ Guidelime.registerGuide(
 
 -- Shimmering Flats
 Fly to [F Tanaris].
-Turn in [QT1112 Parts for Kravel].\\Accept [QA1114 Delivery to the Gnomes].
-Turn in [QT1114 Delivery to the Gnomes].
-Accept [QA1115 The Rumormonger].
 Turn in [QT1107 Encrusted Tail Fins].
 Turn in [QT1183 Goblin Sponsorship].\\Accept [QA1186 The Eighteenth Pilot].
 Turn in [QT1186 The Eighteenth Pilot].\\Accept [QA1187 Razzeric's Tweaking].
@@ -42,7 +39,7 @@ Accept [QA1437 Vahlarriel's Search].
 Complete [QC1458 Reagents for Reclaimers Inc.]
 Turn in [QT1437 Vahlarriel's Search].\\Accept follow-up [QA1465 Vahlarriel's Search].
 Turn in [QT1465 Vahlarriel's Search].\\Accept follow-up [QA1438 Vahlarriel's Search].
-Turn in [QA1458 Reagents for Reclaimers Inc.]\\Accept follow-up [QA1459 Reagents for Reclaimers Inc.]
+Turn in [QT1458 Reagents for Reclaimers Inc.]\\Accept follow-up [QA1459 Reagents for Reclaimers Inc.]
 
 -- Kodos + Thunderaxe Fortress
 [OC] Kill any scorpid you spot on the way.
