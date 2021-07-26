@@ -11,9 +11,13 @@ RACE_NIGHT_ELF = 0x8
 warned_quests = []
 questsDB = {}
 
-def error(line, msg):
-    print('  ERROR at line %d: %s.' % (line, msg))
-    sys.exit(-1)
+def error(line, msg, fatal=False):
+    if fatal:
+        print('  ERRROR at line %s: %s!' % (line, msg))
+    else:
+        print('  Warning at line %d: %s.' % (line, msg))
+    if fatal:
+        sys.exit(0)
 
 def warning(line, questid, msg):
     if questid in warned_quests:
@@ -36,15 +40,19 @@ def is_preceeded_by(line, n, text):
     while True:
         ws = 0
         s = ''
-        i = line.find(' [Q', n-2)
-        while line[i] == ' ':
+        i = line.find('[Q', n-1)
+        while line[i] in [' ', '[']:
             i -= 1
+        in_word = False
         while ws < numwords and i >=0 and line[i] != ']':
             s = line[i] + s
             if line[i] == ' ':
+                in_word = False
                 ws += 1
+            else:
+                in_word = True
             i -= 1
-        if i < 0:
+        if in_word:
             ws += 1
         if ws == numwords and s.strip().lower().rfind(text.lower()) > -1:
             return True
@@ -62,11 +70,11 @@ def process_line(line, route, linenum):
         try:
             (quest, n, start) = find_next_quest_with_start(line, n)
         except:
-            error(linenum, 'Invalid quest formatting')
+            error(linenum, 'Invalid quest formatting', True)
         if quest == None:
             return
         if quest.op not in ['A', 'C', 'T']:
-            error(linenum, 'Invalid operation for quest `Q%s`' % quest.op)
+            error(linenum, 'Invalid operation for quest `Q%s`' % quest.op, True)
         
         if is_preceeded_by(line, start, 'Accept') and quest.op != 'A':
             warning(linenum, quest.id, 'Opcode is `%s` but instruction says `Accept`' % quest.op)
@@ -86,20 +94,24 @@ def process_line(line, route, linenum):
             route.accepted.append(quest.id)
         elif quest.op == 'C' and ',' not in quest.id:
             if quest.id not in route.accepted:
-                error(linenum, 'Cannot complete quest %s that has not been accepted' % quest.id)
-            route.accepted.remove(quest.id)
+                warning(linenum, quest.id, 'Has not been accepted')
+            else:
+                route.accepted.remove(quest.id)
             route.completed.append(quest.id)
         elif quest.op == 'T':
             if quest.id not in route.accepted and quest.id not in route.completed:
                 if '!FinishWithoutAccept' not in line and '!OptionalFinish' not in line:
-                    error(linenum, 'Trying to turn in quest %s which is not in our quest log' % quest.id)
+                    warning(linenum, quest.id, 'Trying to turn in quest not in our quest log')
             if quest.id in route.accepted:
                 route.accepted.remove(quest.id)
             if quest.id in route.completed:
                 route.completed.remove(quest.id)
             route.finished.append(quest.id)
         
-        # FIXME: Check if the name is correct
+        if ',' not in quest.id:
+            realQuestInfo = questsDB[quest.id]
+            if realQuestInfo['name'] != quest.name:
+                warning(linenum, quest.id, 'Incorrectly named (%s). Should be: "%s"' % (quest.name, realQuestInfo['name']))
 
 def find_next_quest_with_start(line, n=0):
     instr = ''
@@ -193,7 +205,8 @@ def check_hearthstone(line, route, linenum):
     match = re.search(r'\[H (.*)\]', line)
     if match:
         if route.hearthstone != match.group(1):
-            error(linenum, 'Trying to use hearthstone to go to %s, but it is bound to %s' % (match.group(1), route.hearthstone))
+            msg = 'Trying to use hearthstone to go to %s, but it is bound to %s' % (match.group(1), route.hearthstone)
+            error(linenum, msg)
 
 def scan_files():
     route = Route() # {'accepted':[], 'completed':[], 'finished':[]}
