@@ -236,7 +236,7 @@ def dump_incomplete_quests(route, maxlevel):
         quest = questsDB[id]
         if id in route.finished:
             continue
-        if quest['reqlevel'] > maxlevel:
+        if quest['reqlevel'] > maxlevel or quest['level'] < 0:
             continue
         if 'accepthostilemask' in quest and quest['accepthostilemask'] & FACTION_ALLIANCE != 0:
             continue
@@ -248,6 +248,11 @@ def dump_incomplete_quests(route, maxlevel):
             if quest['acceptzone'] not in incomplete:
                 incomplete[quest['acceptzone']] = []
             incomplete[quest['acceptzone']].append(quest)
+    # Sort quests
+    for zone in incomplete:
+        incomplete[zone].sort(key=lambda q: (q['level'], q['name']))
+    incomplete_unknown.sort(key=lambda q: (q['level'], q['name']))
+    # Write to file
     with open('incomplete_quests.txt', 'w') as f:
         for zone in incomplete:
             f.write('%s:\n' % zone)
