@@ -30,7 +30,7 @@ Turn in [QT1043 The Scythe of Elune].\\Accept [QA1044 Answered Questions].
 Fly to [F Rebel Camp]
 
 -- Rebel Camp
-[OC] If you happen to get lucky enough to spot Private Thorsen going on patrol, follow him and protect him. Then accept [QA215 Jungle Secrets] and turn in [QT215 Jungle Secrets]. Also accept the follow-up [QA200 Bookie Herod]. *Note*: The guide will assume you skip it as the event is way too infrequent.
+If you happen to get lucky enough to spot Private Thorsen going on patrol, follow him and protect him. Then accept [QA215 Jungle Secrets] and turn in [QT215 Jungle Secrets]. Also accept the follow-up [QA200 Bookie Herod]. *Note*: The guide will assume you skip it as the event is way too infrequent.
 Turn in [QT198 Supplies to Private Thorsen].
 Accept [QA204 Bad Medicine] and [QA203 The Second Rebellion].
 
@@ -45,7 +45,7 @@ Complete [QC185 Tiger Mastery].
 Turn in [QT185 Tiger Mastery].\\Accept follow-up [QA186 Tiger Mastery].
 Accept [QA190 Panther Mastery].
 Go east and complete [QC190 Panther Mastery] and [QC186 Tiger Mastery]. [G42,13]
-If you got the rare event, turn in [QT200 Bookie Herod] and accept follow-up [QA328 The Hidden Key].
+If you got the rare event, turn in [QT200 Bookie Herod]. Skip follow-up for now as we won't have space!
 Loot [QC204,2 Venom Fern Extract].
 Finish collecting [QC204,1 Jungle Remedy] and complete [QC203 The Second Rebellion].
 In the oil platform's control room kill [G42.7,18.3 Cozzle] to obtain [CI5851,1 Cozzle's Key].

@@ -75,7 +75,8 @@ Walk upstairs towards the FP. Turn in [QT628 Excelsior].
 -- Finishing the North
 Fly to [F Rebel Camp].
 Turn in [QT205 Troll Witchery].\\Accept [QA206 Mai'Zoth].
-In the Kurzen Cave, complete [QC202 Colonel Kurzen]. If you got the rare event, also complete [QC328 The Hidden Key].
+If you got the rare event, accept [QA328 The Hidden Key]. Together with the next quest, turn in [QT328 The Hidden Key] and accept follow-up [QA329 The Spy Revealed!]
+In the Kurzen Cave, complete [QC202 Colonel Kurzen].
 Complete [QC193 Panther Mastery].
 Head into the ogre cave and complete [QC206 Mai'Zoth].
 If not finished, complete [QC613 Cracking Maury's Foot].
@@ -88,7 +89,7 @@ Complete [QC208 Big Game Hunter].
 Turn in [QT208 Big Game Hunter].
 At Rebel Camp, turn in [QT206 Mai'Zoth].
 Turn in [QT202 Colonel Kurzen].
-If you got the rare event, turn in [QT329 The Spy Revealed] and accept follow-up [QA330 Patrol Schedules].
+If you got the rare event, turn in [QT329 The Spy Revealed!] and accept follow-up [QA330 Patrol Schedules].
 If you got the rare event, turn in [QT330 Patrol Schedules] and accept follow-up [QA331 Report to Doren].
 If you got the rare event, turn in [QT331 Report to Doren].
 

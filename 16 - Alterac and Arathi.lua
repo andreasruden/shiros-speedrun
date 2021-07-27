@@ -118,7 +118,7 @@ Turn in [QT718 Mirages].
 Accept [QA732 Tremors of the Earth].
 [OC] During next steps, kill Boss Tho'grun (ogre) if you spot him.
 Turn in [QT1106 Martek the Exiled].\\Accept [QA1108 Indurium].
-Accept [QA705 Pearl diving] and turn in [QT705 Pearl diving].
+Accept [QA705 Pearl Diving] and turn in [QT705 Pearl Diving].
 Turn in [QT738 Find Agmond].\\Accept [QA739 Murdaloc].
 Complete [QC1108 Indurium] and [QC739 Murdaloc].
 Turn in [QT687 Theldurin the Lost].\\Accept [QA692 The Lost Fragments].
