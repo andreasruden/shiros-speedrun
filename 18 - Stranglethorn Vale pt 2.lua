@@ -6,10 +6,6 @@ Guidelime.registerGuide(
 [N 42-43 Stranglethorn Vale]
 [NX 44-45 Tanaris]
 
--- XXX: We need [QA193 Panther Mastery] [QA197 Raptor Mastery] (nessingwary) from last time.
-
--- XXX: We should pop into Badlands for a bit of questing before STV, to grab https://tbc.wowhead.com/quest=735/the-star-the-hand-and-the-heart and pearl diving.
-
 -- Booty Bay
 In the house next to the FP, accept [QA628 Excelsior].
 Go back to the FP, then into the inn, and accpet [QA2864 Tran'rek].
@@ -79,7 +75,7 @@ Walk upstairs towards the FP. Turn in [QT628 Excelsior].
 -- Finishing the North
 Fly to [F Rebel Camp].
 Turn in [QT205 Troll Witchery].\\Accept [QA206 Mai'Zoth].
-In the Kurzen Cave, complete [QC202 Colonel Kurzen].
+In the Kurzen Cave, complete [QC202 Colonel Kurzen]. If you got the rare event, also complete [QC328 The Hidden Key].
 Complete [QC193 Panther Mastery].
 Head into the ogre cave and complete [QC206 Mai'Zoth].
 If not finished, complete [QC613 Cracking Maury's Foot].
@@ -92,6 +88,9 @@ Complete [QC208 Big Game Hunter].
 Turn in [QT208 Big Game Hunter].
 At Rebel Camp, turn in [QT206 Mai'Zoth].
 Turn in [QT202 Colonel Kurzen].
+If you got the rare event, turn in [QT329 The Spy Revealed] and accept follow-up [QA330 Patrol Schedules].
+If you got the rare event, turn in [QT330 Patrol Schedules] and accept follow-up [QA331 Report to Doren].
+If you got the rare event, turn in [QT331 Report to Doren].
 
 -- Booty Bay
 -- XXX: Can we do this turn-in on the way later sometime and still get full xp? Right now it's a bit awkward to fly BB and then back.

@@ -6,7 +6,7 @@ Guidelime.registerGuide(
 [N 34-36 Stranglethorn Vale]
 [NX 36-37 Desolace]
 
-[OC] Save Stranglethorn pages you find.
+[OC] Save Stranglethorn pages you find. Mail them to a second character or bank them.
 
 -- Booty Bay
 Turn in [QT1180 Goblin Sponsorship].\\Accept follow-up [QA1181 Goblin Sponsorship].
@@ -30,7 +30,7 @@ Turn in [QT1043 The Scythe of Elune].\\Accept [QA1044 Answered Questions].
 Fly to [F Rebel Camp]
 
 -- Rebel Camp
-[OC] If you happen to get lucky enough to spot Private Thorsen going on patrol, follow him and protect him. Then accept Jungle Secrets. Do it alongside the upcoming quests. The guide will skip it as the event is way too infrequent.
+[OC] If you happen to get lucky enough to spot Private Thorsen going on patrol, follow him and protect him. Then accept [QA215 Jungle Secrets] and turn in [QT215 Jungle Secrets]. Also accept the follow-up [QA200 Bookie Herod]. *Note*: The guide will assume you skip it as the event is way too infrequent.
 Turn in [QT198 Supplies to Private Thorsen].
 Accept [QA204 Bad Medicine] and [QA203 The Second Rebellion].
 
@@ -45,7 +45,7 @@ Complete [QC185 Tiger Mastery].
 Turn in [QT185 Tiger Mastery].\\Accept follow-up [QA186 Tiger Mastery].
 Accept [QA190 Panther Mastery].
 Go east and complete [QC190 Panther Mastery] and [QC186 Tiger Mastery]. [G42,13]
-[OC] Here you'd do Bookie Herod if you got Jungle Secrets.
+If you got the rare event, turn in [QT200 Bookie Herod] and accept follow-up [QA328 The Hidden Key].
 Loot [QC204,2 Venom Fern Extract].
 Finish collecting [QC204,1 Jungle Remedy] and complete [QC203 The Second Rebellion].
 In the oil platform's control room kill [G42.7,18.3 Cozzle] to obtain [CI5851,1 Cozzle's Key].
@@ -63,24 +63,27 @@ Turn in [QT203 The Second Rebellion] and [QT204 Bad Medicine].\\Accept [QA574 Sp
 Accept [QA207 Kurzen's Mystery].
 
 -- North-west
-[OC] They're roughly in the same area. But, tigers are SE, panthers in the middle, raptors NW.
-Head west and complete [QC191 Panther Mastery], [QC187 Tiger Mastery] and [QC194 Raptor Mastery]. [G30,16]
+Head west and complete [QC191 Panther Mastery] and [QC194 Raptor Mastery]. [G28,15]
+Run back and turn in [QT191 Panther Mastery].\\Accept follow-up [QA192 Panther Mastery].
+Turn in [QT194 Raptor Mastery].\\Accept follow-up [QA195 Raptor Mastery].
 Grind through the big [G27.6,11.3 troll camp] to complete the next steps.
-Read [QC207,3 The Third Troll Legend].
 Head up to the upper-most area with the higher level trolls and read [QC207,4 The Fourth Troll Legend].
 Collect about [CI1519,12 Bloodscalp Ear] in this area.
-Complete [QC605 Singing Blue Shards]. [26,18]
+Read [QC207,3 The Third Troll Legend].
+Jump out onto the beach, then head south and complete [QC605 Singing Blue Shards]. [26,18]
+[OC] Use an Elixir of Water Breathing for the following 3 steps.
+Read [QC207,2 The Second Troll Legend].
+Complete [QC1107 Encrusted Tail Fins].
+Collect [CI4611,9 Blue Pearl] for a later quest. -- Pearl Diving (705)
+Complete [QC578 The Stone of the Tides]. [G21.46,21.88]
 Read [QC207,2 The First Troll Legend].
 Complete [QC189 Bloodscalp Ears]. [G30,19]
-Read [QC207,2 The Second Troll Legend].
--- NOTE: Not possible with current pathing, but Pearl Diving (705) is also doable here. It's picked up in Badlands. Any way to fit it?
-Complete [QC1107 Encrusted Tail Fins].
-Complete [QC578 The Stone of the Tides]. [G21.46,21.88]
+Complete [QC195 Raptor Mastery]. [G30.7,23.6]
+Complete [QC187 Tiger Mastery].
 
 -- Nesingwary
-Run back to Nesingwary and turn in [QT194 Raptor Mastery].\\Accept follow-up [QA195 Raptor Mastery].
+Run back to Nesingwary and turn in [QT195 Raptor Mastery].\\Accept follow-up [QA196 Raptor Mastery].
 Turn in [QT187 Tiger Mastery].\\Accept follow-up [QA188 Tiger Mastery].
-Turn in [QT191 Panther Mastery].\\Accept [QA192 Panther Mastery].
 Complete [QC575 Supply and Demand].
 
 -- Rebel Camp
@@ -99,13 +102,15 @@ Turn in [QT1182 Goblin Sponsorship].\\Accept follow-up [QA1183 Goblin Sponsorshi
 -- Back North
 Fly back to [F Rebel Camp].
 Complete [QC574 Special Forces].
-Complete [QC577 Some Assembly Required].
-Complete [QC195 Raptor Mastery]. [G38.5,20.7]
+Follow the beach south as you kill crocolisks to complete [QC577 Some Assembly Required]. [G38,30]
+Kill all stealthed panters you find [G38,36 around Bangalash's plateau] for Panther Mastery progress.
+Complete [QC196 Raptor Mastery].
+Finish up [QC192 Panther Mastery]. [G38,36]
 Complete [QC188 Tiger Mastery].
-Complete [QC601 Water Elementals]. XXX: This should be done last time. Then we could have turned in Magical Analysis during Alterac and gotten https://tbc.wowhead.com/quest=603/ansirems-key
-Turn in [QT195 Raptor Mastery].\\Accept follow-up [QA196 Raptor Mastery].
+Complete [QC601 Water Elementals].
+Turn in [QT196 Raptor Mastery].\\Accept follow-up [QA197 Raptor Mastery].
 Turn in [QT188 Tiger Mastery].
-XXX: We need to do 192, 196 and accept follow ups.
+Turn in [QT192 Panther Mastery].\\Accept follow-up [QA193 Panther Mastery].
 Turn in [QT574 Special Forces].\\Accept [QA202 Colonel Kurzen].
 
 -- Booty Bay
