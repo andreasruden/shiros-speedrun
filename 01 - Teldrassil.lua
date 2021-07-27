@@ -9,10 +9,10 @@ Guidelime.registerGuide(
 [OC] *Some speedrun tips*:
 [OC] *Speedrunning is best done with a class that can kill while moving*. Always try to run towards your next objective while killing. And always look to kill/grind while headed somewhere.
 [OC] *Melee classes*: By strafing you can kill while moving at full speed.
-[OC] *Hunter specific*: Get an auto-shot timer addon. To kill while moving run straight, then simply spin around for an auto shot + instant shot (e.g. arcane shot or serpent sting).
-[OC] *Hunter specific [when not on the move]*: Before pet, when a mob reaches melee start auto-shooting another and melee weaving that first mob to min-max kill speed. Can be easily done with a macro:\\*/targetlasttarget\\/startattack\\/use Auto Shot*
+[OC] [A hunter] *Hunter specific*: Get an auto-shot timer addon. To kill while moving run straight, then simply spin around for an auto shot + instant shot (e.g. arcane shot or serpent sting).
+[OC] [A hunter] *Hunter specific (when not on the move)*: Before pet, when a mob reaches melee start auto-shooting another and melee weaving that first mob to min-max kill speed. Can be easily done with a macro:\\*/targetlasttarget\\/startattack\\/use Auto Shot*
 
-[OC] Note: This guide learns skinning and cooking for a bit of a quicker mount. For classes with good MS increase, hunter (up to 38%), druid (40%), shaman (40%), these instructions can be skipped for a net-gain in total speed. Same for classes with "free" mounts (paladin, warlock).
+[OC] Note: This guide levels skinning and cooking for a bit of a quicker mount. For classes with good MS increase, hunter (up to 38%), druid (40%), shaman (40%), most of these instructions can be skipped for a net-gain in total speed. Same for classes with "free" mounts (paladin, warlock).
 
 XXX: Add food+water buying. Arrow purchasing. Hunter quests.
 
@@ -60,7 +60,7 @@ Learn *First Aid* from Byancie [G55.3,56.8].
 Accept [QA932 Twisted Hatred] and [QA2438 The Emerald Dreamcatcher].
 Turn in [QT2159 Dolanaar Delivery]. Set hearthstone in [S Dolanaar].
 Turn in [QT928 Crown of the Earth].\\Accept follow-up [QA929 Crown of the Earth].
-Learn *Cooking* from [G57.08, 61.28 Zarrin]. Cooking is essential in getting our mount.
+Learn *Cooking* from [G57.08, 61.28 Zarrin] regardless if you're mount farming or not. Everyone needs cooking at skill 50!
 Accept [QA4161 Recipe of the Kaldorei].
 [OC] Note: Any level 5+ spider will drop *Small Spider Leg* for [QC4161 Recipe of the Kaldorei]. Keep killing spiders as you see them. Save any extra legs for cooking skill points.
 
@@ -88,7 +88,7 @@ Turn in [QT476 Gnarlpine Corruption].\\Accept [QA483 The Relics of Wakening].
 Enter the [G 54.7,52.6 Fel Rock cave] behind Dolanaar.
 Keep to the left as you advance in the cave. Then kill Lord Melenas for [QC932 Twisted Hatred].
 XXX: Die to go back? On priv servers this puts you in shadowglen.
-Half-way up the tree, [V] buy a *Skinning Knife* from Narret.
+Half-way up the tree, [V] buy a *Skinning Knife* from Narret if you intend to farm for your mount.
 [OC] Right next to Narret, [V] buy 6 slot bags at Aldia if you have silver over. (4s 75c each)
 Turn in [QT932 Twisted Hatred] and [QT2438 The Emerald Dreamcatcher].\\Accept [QA2459 Ferocitas the Dream Eater].
 Turn in [QT929 Crown of the Earth].\\Accept [QA933 Crown of the Earth].
@@ -109,7 +109,7 @@ Turn in [QT2459 Ferocitas the Dream Eater].
 -- Barrow Den!
 [OC] Note: Reminder to keep killing spiders for *Small Spider Leg* (extra equals more cooking skill).
 Accept [QA487 The Road to Darnassus] from Moon Priestess Amara, who patrols between Dolanaar and (48,51).
-[G42.1,50.05] Learn *Skinning* from Radnaal. Skinning is essential in getting our mount.
+[G42.1,50.05] Learn *Skinning* from Radnaal if you intend to farm for your mount.
 [OC] Note: In the guide we will assume all leather is vendored, as we cannot use AH for speedrunning. But feel free to auction the leather if that provides better profit :-).
 If not completed, complete [QC489 Seek Redemption!] while doing the next quests.
 [OC] Note: On the way to the next quests, kill beasts & critters for skinning.

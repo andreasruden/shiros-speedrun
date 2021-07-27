@@ -73,8 +73,7 @@ Read [QC207,3 The Third Troll Legend].
 Jump out onto the beach, then head south and complete [QC605 Singing Blue Shards]. [26,18]
 [OC] Use an Elixir of Water Breathing for the following 3 steps.
 Read [QC207,2 The Second Troll Legend].
-Complete [QC1107 Encrusted Tail Fins].
-Collect [CI4611,9 Blue Pearl] for a later quest. -- Pearl Diving (705)
+Complete [QC1107 Encrusted Tail Fins] and collect [CI4611,9 Blue Pearl] for a later quest. -- Pearl Diving (705)
 Complete [QC578 The Stone of the Tides]. [G21.46,21.88]
 Read [QC207,2 The First Troll Legend].
 Complete [QC189 Bloodscalp Ears]. [G30,19]
