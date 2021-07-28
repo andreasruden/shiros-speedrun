@@ -30,7 +30,7 @@ Accept [QA2118 Plagued Lands].
 Accept [QA984 How Big a Threat?].
 Accept [QA2178 Easy Strider Living].
 Accept [QA954 Bashal'Aran] and [QA958 Tools of the Highborne].
-[OC] If you don't have a full array of bags at this point, you should buy 6 slots from [G37.48,40.48 Dalmond].
+If you don't have a full array of bags at this point, you should buy 6 slots from [G37.48,40.48 Darkshore] Dalmond.
 
 -- Round around Auberdine (Bashal'aran and Ameth'aran)
 [OC] Throughout Darkshore pt 1, kill all the level-appropriate mobs you come accross. And don't forget to skin them too!
@@ -49,12 +49,12 @@ Read the [QC953,2 Fall of Ameth'Aran].
 Complete [QC963 For Love Eternal].
 Complete [QC958 Tools of the Highborne].
 Turn in [QT953 The Fall of Ameth'Aran].
-Capture a [G38.68,58.82 Rabid Thistle Bear] around this area, using Tharnarium's Hope.
+[G38.68,58.82 Darkshore] Capture a Rabid Thistle Bear around this area, using Tharnarium's Hope.
 Accept [QA4722 Beached Sea Turtle].
-Kill the [G34.42,59.09 threshers] in this area.
+Kill the threshers in this area. [G34.42,59.09 Darkshore]
 Head back to the coast and run up to Auberdine.
 Turn in [QT4811 The Red Crystal].\\Accept [QA4812 As Water Cascades].
-Deliver the bear to [G38.8,43.4 Tharnariun] to complete [QC2118 Plagued Lands].
+Deliver the bear to [G38.8,43.4 Darkshore] Tharnariun to complete [QC2118 Plagued Lands].
 Turn in [QT2118 Plagued Lands].\\Accept [QA2138 Cleansing of the Infected].
 Turn in [QT984 How Big a Threat?].\\Accept [QA985 How Big a Threat?] and [QA4761 Thundris Windweaver].
 Accept [QA965 The Tower of Althalaxx] in the upper floor of the house.
@@ -75,13 +75,13 @@ Turn in [QT730 Trouble In Darkshore?]. Skip follow-up for now.
 
 -- Making the first round deep North
 Finish [QC1001 Buzzbox 411] on the way north.
-Enter the boat's [G38.24,29.40 south-western window], and swim down to your left.
+Enter the [G38.24,29.40 Darkshore] boat's south-western window, and swim down to your left.
 Loot [QC982,1 Silver Dawning's Lockbox].
-Enter the [G40.29,27.63 broken part] of the boat at the sea-floor, then swim left.
+Enter the broken part [G40.29,27.63 Darkshore] of the boat at the sea-floor, then swim left.
 Loot [QC982,2 Mist Veil's Lockbox].
 Accept [QA4723 Beached Sea Creature].
 Turn in [QT1001 Buzzbox 411].\\Accept [QA1002 Buzzbox 323].
-Get skinning to 70 by grinding the Lv.11-13 mobs [G43.4,29.5 close to the coast]. Also kill any Moonstalker you see.
+Get skinning to 70 by grinding the Lv.11-13 mobs close to the coast [G43.4,29.5 Darkshore]. Also kill any Moonstalker you see.
 While leveling skinning, grind up and accept [QA4725 Beached Sea Turtle].
 In the northern area (Bashal'aran and up, ending around Cliffspring River) complete the three quests [QC1002 Buzzbox 323], [QC2138 Cleansing of the Infected] and [QC2178 Easy Strider Living].
 Turn in [QT1002 Buzzbox 323].\\Accept [QA1003 Buzzbox 525].
@@ -108,31 +108,31 @@ Take the boat to Menethil Harbor. Craft Linen Bandage to level first aid to 40 w
 
 -- To Loch Modan
 When arriving in Menethil, accept the flight point [P Menethil Harbor].
-Jump from the [G5.86,64.16 bridge] at this point.
-Swim to the [G3.28,75.93 coast]. (This avoids the murlocs)
-Walk to this [0.07, 77.51 spot].
-Swim forward, you will come to more walkable land. We're no longer on the Menethil map but in Menethil, so cannot give coordinates here. If you look at the Dun Morogh map we start walking again at (33, 8).
-At (27, 7) in Dun Morogh we start swimming again. Follow the coast line closely.
-At (20, 11) in Dun Morogh, just as we get very close to the fatigue area and start turning inwards, start draining your breath to prepare to deathwarp. Don't die before it says "Dun Morogh" on your minimap though!
-If you follow the terrain, it will show you as actually in Dun Morogh at (17, 15). This is when it's okay to die :-).
+Jump from the [G5.86,64.16 Darkshore] bridge at this point.
+Swim to the [G3.28,75.93 Darkshore] coast. (This avoids the murlocs)
+Walk to this [0.07, 77.51 Darkshore] spot.
+Swim forward, you will come to more walkable land. [G33,8 Dun Morogh].
+[G27,7 Dun Morogh] Here we start swimming again. Follow the coast line closely.
+[G20,11 Dun Morogh] Around here, just as we get very close to the fatigue area and start turning inwards, start draining your breath to prepare to deathwarp. Don't die before it says "Dun Morogh" on your minimap though!
+If you follow the terrain, it will show you as actually in Dun Morogh at [G17,15 Dun Morogh]. This is when it's okay to die :-).
 Deathwarp to Kharanos.
-Follow the road to [G15.35, 85.68 Ironforge].
-Enter the [G53.56,55.45 Herbalism building].
+Follow the road to Ironforge [G15.35, 85.68 Dun Morogh].
+Enter the Herbalism building [G53.56,55.45 Ironforge].
 Learn *Heavy Linen Bandage* from Nissa at the second level.
 Make 10 [CI2581,10 Heavy Linen Bandage] to skill first aid to 50.
 Learn First Aid (Journeyman) from Nissa, too.
 Accept the flight point in [P Ironforge].
 Accept [QA2039 Find Bingles].
 Run to Rudra and accept [QA314 Protecting the Herd].
-Backtrack the road you came from, then run around the mountain and follow the [G59.77,50.04 path up].
+Backtrack the road you came from, then run around the mountain and follow the path up [G59.77,50.04 Dun Morogh].
 Complete [QC314 Protecting the Herd].
 Jump down and turn in [QT314 Protecting the Herd].
-Run east until the [G78,49.6 road splits].
+Run east until the road splits [G78,49.6 Dun Morogh].
 Run north and accept [QA419 The Lost Pilot] (it has a 6.8 dps dagger/1h mace reward, and is probably worth it xp wise? - was not tested)
 Turn in [QT419 The Lost Pilot].\\Accept [QA417 A Pilot's Revenge].
 Complete [QC417 A Pilot's Revenge].
 Turn in [QT417 A Pilot's Revenge].
-Run back to the [G78,49.6 junction] and head south instead.
+Run back to the junction [G78,49.6 Dun Morogh] and head south instead.
 Enter Loch Modan, then head over to the next part of the guide.
 
 -- Quest Chains of Darkshore:

@@ -24,12 +24,12 @@ Accept [QA4763 The Blackwood Corrupted].
 Accept [QA2139 Tharnariun's Hope].
 Accept [QA986 A Lost Master].
 Accept [QA4728 Beached Sea Creature].
-Kill murlocs at [G36.49,76.67] to trigger the Murkdeep event.
+Kill murlocs [G36.49,76.67 Darkshore] here to trigger the Murkdeep event.
 [OC] There will be 3 waves: 3xLv.13 murlocs, 2xLv.15 murlocs, then Murkdeep (Lv.19) + add (Lv.15).
 Complete [QC4740 WANTED: Murkdeep!].
 [OC] Kill any Moonstalker sire/matriarchs or Grizzled thistle bear you encounter, for [QC986 A Lost Master] and [QC1003 Buzzbox 525].
 Turn in [QT952 Grove of the Ancients] and [QT948 Onu].\\Accept [QA944 The Master's Glaive].
-Murder everyone in the [G38.59,86.25 Twilight Camp], hopefully they drop *Book: The Powers Below*.
+Murder everyone in the [G38.59,86.25 Darkshore] Twilight Camp, hopefully they drop *Book: The Powers Below*.
 Complete [QC944 The Master's Glaive] (use the phial in your inventory, place a bowl on the table).
 Turn in [QT944 The Master's Glaive].\\Accept [QA949 The Twilight Camp].
 Turn in [QT949 The Twilight Camp].\\Accept [QA950 Return to Onu].
@@ -40,7 +40,7 @@ Turn in [QT729 The Absent Minded Prospector].
 [OC] This next escort quest really sucks, so read these tips carefully before accepting the quest. First of, always let Remtravel aggro, or he will ignore you fighting something and run ahead. But after he aggros, you need to quickly pull aggro because he's squishy. There are 3 mob spawn points. First one is when he walks up the small wooden ramp, single spawn that aggros you for some reason. Then after he searches the tent, 2 more mobs spawn. The last spawn is after he's done his route and is on the way back. On the "hill" to the left of the second wooden ramp (36,86) there will spawn one caster + one melee mob. The caster hits *very* hard, so immediately pull aggro on it. Oh, and lastly, some of the stone guys in this area respawn very quickly (especially the guys around the second ramp). Good luck :-). If you fail, respawn time is like 5 minutes, so grind some Grizzled Thistle Bear NW of quest NPC while waiting.
 Accept [QA731 The Absent Minded Prospector].
 Complete [QC731 The Absent Minded Prospector].
-Complete [QC1003 Buzzbox 525] [G38.86,81.20 north of the glaive].
+Complete [QC1003 Buzzbox 525] north of the glaive. [G38.86,81.20 Darkshore]
 Turn in [QT1003 Buzzbox 525].
 Turn in [QT950 Return to Onu].\\Accept [QA951 Mathystra Relics].
 Accept [QA4730 Beached Sea Creature].
@@ -55,10 +55,10 @@ Turn in [QT731 The Absent Minded Prospector].\\Accept follow-up [QA741 The Absen
 
 -- Second round north
 Fill the *Empty Cleansing Bowl* to get [CI12347 Filled Cleansing Bowl].
-Loot [CI12342,1 Blackwood Grain Sample] at the [G50.64,34.95 barrel].
-Loot [CI12343,1 Blackwood Nut Sample] at the [G51.83,33.48 barrel].
-Kill your way through the camp and loot [CI12341,1 Blackwood Fruit Sample] at the [G52.86,33.42 barrel].
-Clear out the camp, then use the *Filled Cleansing Bowl* at the [G52.4,33.4 campfire].
+Loot [CI12342,1 Blackwood Grain Sample] at the barrel. [G50.64,34.95 Darkshore]
+Loot [CI12343,1 Blackwood Nut Sample] at the barrel. [G51.83,33.48 Darkshore]
+Kill your way through the camp and loot [CI12341,1 Blackwood Fruit Sample] at the barrel. [G52.86,33.42 Darkshore]
+Clear out the camp, then use the *Filled Cleansing Bowl* at the campfire. [G52.4,33.4 Darkshore]
 Some friendly furbolgs (that do nothing) and Xabraxxis, level 19 satyr, will spawn. After killing him loot the talisman *off the ground* to complete [QC4763 The Blackwood Corrupted].
 Complete [QC2139 Tharnariun's Hope].
 Accept [QA967 The Tower of Althalaxx].
@@ -72,15 +72,15 @@ Accept [QA4727 Beached Sea Turtle].
 Complete [QC2078 Gyromast's Revenge].
 Turn in [QT2078 Gyromast's Revenge].
 [OC] NOTE: *VERY IMPORTANT* to save the 5 Elixir of Water Breathing you received, we will make use of them in the run.
-If not already completed, complete [QC986 A Lost Master] in the [G60.2,12.3 north].
+If not already completed, complete [QC986 A Lost Master] in the north. [G60.2,12.3 Darkshore]
 Grind to [XP20-5140]. -- XP for Darnassus turn in (absent minded prospector) not included, since that might be bad pathing with trainer
 Deathwarp to Bashal'Aran. (Saves 2m 40s)
-Follow the road until [G41.19,44.19].
-Then head east through the trees and jump down. [G39.97,43.88]
+Follow the road until here. [G41.19,44.19 Darkshore]
+Then head east through the trees and jump down. [G39.97,43.88 Darkshore]
 Turn in [QT2139 Tharnariun's Hope].
 Turn in [QT986 A Lost Master]. Skip follow-up for now.
-[V][R] Vendor & Repair at [G38.16,41.18 Elisa]. (Do NOT sell the elixirs!)
-From [G37.47,40.5 Dalmond], purchase a Flint and Tiner and a stack of Simple Wood (20).
+[V][R] Vendor & Repair at [G38.16,41.18 Darkshore] Elisa. (Do NOT sell the elixirs!)
+From [G37.47,40.5 Darkshore] Dalmond, purchase a Flint and Tiner and a stack of Simple Wood (20) if doing the cooking strat, otherwise 2 is enough.
 Turn in [QT4763 The Blackwood Corrupted].
 Turn in [QT4727 Beached Sea Turtle].
 Fly to [F Darnassus].

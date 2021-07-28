@@ -22,11 +22,11 @@ Loot [CI13536,1 Horn of Awakening] next to where the druid slept. Use the item w
 Avoid the road to not trigger mob spawns. Instead run through the forest to the southern cave and turn in [QT993 A Lost Master].
 Accept [QA994 Escape Through Force], unless you really want the other reward, as it gives 1000 more xp.
 Complete [QC994 Escape Through Force].
-Run onward to [G45.9,90.34 Aynasha].
+Run onward to [G45.9,90.34 Darkshore] Aynasha.
 Accept [QA5713 One Shot.  One Kill.]. XXX: This might be better skipped, it's lost 400 xp from being gray.
 Guard Anyasha and complete [QC5713 One Shot.  One Kill.].
-Continue avoiding the roads and run south into [G44.97,94.34 Ashenvale].
-Then run all the way to [G26,37 Maestra's Post].
+Continue avoiding the roads and run south into [G44.97,94.34 Darkshore] Ashenvale.
+Then run all the way to [G26,37 Ashenvale] Maestra's Post.
 
 -- Maestra's Post
 Turn in [QT5713 One Shot.  One Kill.]
@@ -40,7 +40,7 @@ Turn in [QT1010 Bathran's Hair].\\Accept [QA1020 Orendil's Cure].
 
 -- Onward to Astranaar
 Turn in [QT945 Therylune's Escape].
-Run to Astranaar and get the [F Astranaar] flightpoint [G34.42,48.07].
+Run to Astranaar and get the [F Astranaar] flightpoint. [G34.42,48.07 Ashenvale]
 Accept [QA1008 The Zoram Strand].
 Accept [QA1070 On Guard in Stonetalon].
 Accept [QA1056 Journey to Stonetalon Peak].
@@ -53,7 +53,7 @@ Turn in [QT991 Raene's Cleansing].\\Accept follow-up [QA1023 Raene's Cleansing].
 Kill the murlocs to complete [QC1023 Raene's Cleansing].
 Accept [QA1007 The Ancient Statuette].
 [OC] While doing the next objectives, also kill nagas for [QC1008 The Zoram Strand].
-Loot the [G14.20,20.64 statuette] to complete [QC1007 The Ancient Statuette].
+Loot the [G14.20,20.64 Ashenvale] statuette to complete [QC1007 The Ancient Statuette].
 Turn in [QT1007 The Ancient Statuette].\\Accept [QA1009 Ruuzel].
 Head over to the island and kill [QC1009 Ruuzel], who patrols around with an escort.
 Finish [QC1008 The Zoram Strand] on the way back to the turn in.
@@ -64,16 +64,16 @@ Turn in [QT1008 The Zoram Strand].\\Accept [QA1134 Pridewings of Stonetalon].
 [OC] The biggest building has arrows (right from entering) and repair (left).
 
 -- Around Astranaar
-[G41.3,50.97]
-[G42.5,48.0]
-[G43.2,45.8]
-[G44.68,45.46]
+[G41.3,50.97 Ashenvale]
+[G42.5,48.0 Ashenvale]
+[G43.2,45.8 Ashenvale]
+[G44.68,45.46 Ashenvale]
 Complete [QC1033 Elune's Tear].
 [OC] We can jump over the mountain here to get quickly to the moonwell.
-[G47.679,46.456,1]
-[G47.956,46.551,1]
-[G48.111,46.663,1]
-[G48.323,46.719,1]
+[G47.679,46.456 Ashenvale]
+[G47.956,46.551 Ashenvale]
+[G48.111,46.663 Ashenvale]
+[G48.323,46.719 Ashenvale]
 Turn in [QT1024 Raene's Cleansing].\\Accept follow-up [QA1026 Raene's Cleansing].
 Complete [QC1025 An Aggressive Defense].
 Accept [QA1016 Elemental Bracers].
@@ -84,7 +84,7 @@ Turn in [QT1025 An Aggressive Defense].
 
 -- Stonetalon Mountains
 Complete [QC1034 The Ruins of Stardust].
-Grind your way to [G42.28,71.06 Talondeep Path]. Run through to Stonetalon Mountains.
+Grind your way to [G42.28,71.06 Ashenvale] Talondeep Path. Run through to Stonetalon Mountains.
 [OC] Kill pridewings you run past for progress on [QC1134 Pridewings of Stonetalon].
 Accept [QA1093 Super Reaper 6000].
 Turn in [QT1070 On Guard in Stonetalon].\\Accept follow-up [QA1085 On Guard in Stonetalon].
@@ -94,7 +94,7 @@ Complete [QC1071 A Gnome's Respite].
 Turn in [QT1093 Super Reaper 6000].\\Accept [QA1094 Further Instructions].  -- Waste of time, unless we need ratchet FP before we're in BB
 Turn in [QT1071 A Gnome's Respite].\\Accept [QA1072 An Old Colleague] and [QA1075 A Scroll from Mauren].
 [OC] We're skipping Gerenzo's Orders in the cave, because it's just too difficult.
-Grind you way north and finish up [QC1134 Pridewings of Stonetalon] [G53.86,39.71].
+Grind you way north and finish up [QC1134 Pridewings of Stonetalon] [G53.86,39.71 Ashenvale].
 Continue grinding north, then turn in [QT1056 Journey to Stonetalon Peak].\\Accept [QA1057 Reclaiming the Charred Vale].
 Learn of the flight path [P Stonetalon Peak].
 [OC] You should be Lv.24 by now (if not some mobs of the next quest will be orange). Grind you way to the Charred Vale.
@@ -109,8 +109,8 @@ Turn in [QT1034 The Ruins of Stardust]. Skip follow-up for now.
 Turn in [QT1134 Pridewings of Stonetalon].
 Complete [QC973 The Tower of Althalaxx].
 Run north to the furbolg camp and complete [QC1054 Culling the Threat].
-[G37.48,32.3]
-Jump down from the tree [G38,30]
+[G37.48,32.3 Ashenvale]
+Jump down from the [G38,30 Ashenvale] tree.
 [OC] Continue climbing down, then head to Maestra's Post.
 Turn in [QT973 The Tower of Althalaxx].\\Accept follow-up [QA1140 The Tower of Althalaxx].
 [OC] Warning: This next quest is difficult. First two spawns has 4 mobs. Third and last spawn just before finish has 3 very nasty Satyrs. If you die during the 3 satyrs, release and hurry back, GY is right next to the fight.

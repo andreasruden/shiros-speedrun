@@ -12,9 +12,9 @@ Guidelime.registerGuide(
 *HEADS UP*: Save *Bear Meat*, *Boar Ribs*, *Clam Meat*, *Crawler Meat* and *Crawler Leg* for cooking.
 
 -- Ironforge
-Level first-aid up to 80, then learn *Wool Bandages* at [G55.14,57.33 Nissa] (upstairs).
+Level first-aid up to 80, then learn *Wool Bandages* at Nissa (upstairs) [G55.14,57.33 Ironforge].
 [OC] Sell Linen Cloth from now on.
-If you did not get cooking to 50 while waiting for the boat, do so now. Then learn Cooking (Journeyman) at [G59.44,37.76 Daryl]. Also at him, learn *Boiled Clams*.
+If you did not get cooking to 50 while waiting for the boat, do so now. Then learn Cooking (Journeyman) at [G59.44,37.76 Ironforge] Daryl. Also at him, learn *Boiled Clams*.
 Turn in [QT301 Report to Ironforge].\\Accept [QA302 Powder to Ironband].
 If you got the rare drop Book: The Powers Below, accept [QA968 The Powers Below] and then turn in [QT968 The Powers Below].
 
@@ -29,7 +29,7 @@ Turn in [QT273 Resupplying the Excavation].\\Accept [QA454 After the Ambush].
 Turn in [QT454 After the Ambush].\\Accept [QA309 Protecting the Shipment].
 Escort Miran to complete [QC309 Protecting the Shipment].
 Turn in [QT309 Protecting the Shipment].
-Get some *Bear Meat* [G68,42.7 east of the lake].
+Get some *Bear Meat* [G68,42.7 Ironforge] east of the lake.
 Grind your way north and complete [QC256 WANTED: Chok'sul]. He's in the middle cave of the 3 caves. In the deepest room.
 Complete [QC255 Mercenaries].
 Run west along the Stonewrought Dam and turn in [QT468 Report to Mountaineer Rockgar].\\Accept [QA455 The Algaz Gauntlet].
@@ -39,7 +39,7 @@ Turn in [QT255 Mercenaries] and [QT256 WANTED: Chok'sul].
 Fly to [F Ironforge].
 Accept [QA2041 Speak with Shoni].
 [OC] Go south to Military Wards to train weapon skills if needed.
-Take the [G76.43,51.09 tram] to Stormwind. Cook Bear Meat while waiting.
+Take the [G76.43,51.09 Ironforge] tram to Stormwind. Cook Bear Meat while waiting.
 
 -- Stormwind
 Turn in [QT2041 Speak with Shoni].
@@ -48,7 +48,7 @@ Turn in [QT1338 Stormpike's Order].
 Accept [QA3765 The Corruption Abroad].
 Accept [QA1078 Retrieval for Mauren].
 [OC] Train weapon skills opposite of AH entrance, if desired.
-From the shop [G65.74, 59.23 Fragrant Flowers], facing the canal, purchase [CI2665,1 Stormwind Seasoning Herbs] from Felicia.
+From the shop [G65.74, 59.23 Stormwind] Fragrant Flowers, facing the canal, purchase [CI2665,1 Stormwind Seasoning Herbs] from Felicia.
 [A Rogue] Accept [QA2360 Mathias and the Defias]. Do this quest sometime, not yet in guide. (XXX)
 Get the FP [P Stormwind].
 
@@ -56,11 +56,11 @@ Get the FP [P Stormwind].
 Head to Duskwood and accept [QA226 Wolves at Our Heels]. (Do *not* accept Sven's Revenge.)
 Run west into Westfall and get Sentinell Hill FP [P Sentinel Hill].
 [OC] If you spot wolves, kill them for [QC226 Wolves at our Heels].
-Discover [G21.2,62.2 Addle's Stead].
+Discover [G21.2,62.2 Duskwood] Addle's Stead.
 Accept [QA245 Eight-Legged Menaces].
 In Darkshire, accept [QA163 Raven Hill], [QA165 The Hermit] and [QA164 Deliveries to Sven].
 Accept the Darkshire FP [P Darkshire].
-Buy a [CI4371,1 Bronze Tube] from [G78.05,48.28 Herble]. (If he's out you're willing to use AH, you can buy one from AH later)
+Buy a [CI4371,1 Bronze Tube] from [G78.05,48.28 Duskwood] Herble. (If he's out you're willing to use AH, you can buy one from AH later)
 If you have a Bronze Tube. Accept [QA174 Look To The Stars] and then turn in [QT174 Look To The Stars]. Skip follow up.
 [OC] Turn in [QT165 The Hermit] if you pass him.
 [OC] Also kill spiders for [QC245 Eight-Legged Menaces] and 6 *Goey Spider Legs*.
@@ -93,18 +93,18 @@ Accept [QA92 Redridge Goulash].
 Accept [QA3741 Hilary's Necklace].
 [OC] Kill spiders and boars during the next step.
 Turn in [QT129 A Free Lunch].\\Accept [QA130 Visit the Herbalist].
-Collect [QC92,1 Great Goretusk Snout]. [G32.03,70.05]
+Collect [QC92,1 Great Goretusk Snout]. [G32.03,70.05 Redridge Mouintains]
 [OC] There's some gnolls you can kill around here too, while looking for spiders. For [QC246 Assessing the Threat].
 [OC] There's also more spiders on the road closer to Duskwood.
-Finish collecting [QC92,3 Crisp Spider Meat]. [G18.48,73.67]
-Finish collecting [QC92,1 Great Goretusk Snout]. [G32.03,70.05]
+Finish collecting [QC92,3 Crisp Spider Meat]. [G18.48,73.67 Redridge Mouintains]
+Finish collecting [QC92,1 Great Goretusk Snout]. [G32.03,70.05 Redridge Mouintains]
 Head east and complete [QC246 Assessing the Threat].
-Go clear out all the Condors at [G62,76.63].
+Go clear out all the Condors at [G62,76.63 Redridge Mouintains].
 [OC] Save any Clam Meat you find. We need those for cooking.
-Kill murlocs at [GG48.49,71.42 this camp] to complete [QC150 Murloc Poachers] and [QC127 Selling Fish].
-Go clear out all the Condors at [G62,76.63].
-Complete [QC20 Blackrock Menace] at the [G74.2,81.3 SE cave].
-Finish collecting [QC92,2 Tough Condor Meat]. [G62,76.63]
+Kill murlocs at [GG48.49,71.42 Redridge Mouintains] this camp to complete [QC150 Murloc Poachers] and [QC127 Selling Fish].
+Go clear out all the Condors at [G62,76.63 Redridge Mouintains].
+Complete [QC20 Blackrock Menace] at the [G74.2,81.3 Redridge Mouintains] SE cave.
+Finish collecting [QC92,2 Tough Condor Meat]. [G62,76.63 Redridge Mouintains]
 Complete [QC125 The Lost Tools].
 Complete [QC3741 Hilary's Necklace].
 [OC] When you [V] vendor don't sell the Murloc Fins or the ingredients for the Goulash.

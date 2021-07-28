@@ -23,69 +23,68 @@ Complete [QC456 The Balance of Nature] and [QC459 The Woodland Protector].
 Turn in [QT459 The Woodland Protector].
 Turn in [QT456 The Balance of Nature].\\Accept [QA457 The Balance of Nature].
 Accept [QA4495 A Good Friend].
-[OC][V]Vendor at [G59.3,41,1 Keina].
+[OC][V] Vendor at [G59.3,41.1 Teldrassil] Keina.
 Accept [QA916 Webwood Venom].
-[O]During the next steps, kill any *Thistleboar*, *Mangy Nightsaber*, and *Webwood Spider*(XXX) that you come across for [QC457] and [QC916].
+[OC] During the next steps, kill any *Thistleboar*, *Mangy Nightsaber*, and *Webwood Spider*(XXX) that you come across for [QC457] and [QC916]. XXX: Why is the addon drawin an arrow to this?
 Talk to Iverron to turn in [QT4495 A Good Friend].\\Accept [QA3519 A Friend in Need].
-XXX: Die or walk?
+[OC] XXX: Die or walk?
 Turn in [QT3519 A Friend in Need].\\Accept [QA3521 Iverron's Antidote].
 Collect [QC3521,1 Hyacinth Mushroom] and [QC3521,2 Moonpetal Lily].
-Complete [QC457 The Balance of Nature] by killing mobs around [G60.3,34.7].
+Complete [QC457 The Balance of Nature] by killing mobs around [G60.3,34.7 Teldrassil].
 Kill spiders outside the cave for the [QC3521,3 Webwood Ichor].
 Complete [QC916 Webwood Venom].
-Deathwarp back. (Die & resurrect at spirit healer). Pull mobs and spam /sit to die faster.
+[OC] Deathwarp back. (Die & resurrect at spirit healer). Pull mobs and spam /sit to die faster.
 Turn in [QT457 The Balance of Nature].
 [A Rogue]Accept [QA3118 Encrypted Sigil].
-[A Rogue]Turn in [QC3118 Encrypted Sigil] and [T] train level 2 & 4 skills.
+[A Rogue]Turn in [QT3118 Encrypted Sigil] and [T] train level 2 & 4 skills.
 -- Note: Classes that don't go up the tree for their skills should grab it after balance of nature last part.
-[OC][V][R]Vendor at [G59.3,41,1 Keina].
+[OC][V][R]Vendor at [G59.3,41,1 Teldrassil] Keina.
 Turn in [QT3521 Iverron's Antidote].\\Accept [QA3522 Iverron's Antidote].
 Turn in [QT916 Webwood Venom].\\Accept [QA917 Webwood Egg].
 Turn in [QT3522 Iverron's Antidote].
 Complete [QC917 Webwood Egg].
-Deathwarp back.
+[OC] Deathwarp back.
 Turn in [QT917 Webwood Egg].\\Accept [QA920 Tenaron's Summons].
 Turn in [QT920 Tenaron's Summons].\\Accept [QA921 Crown of the Earth].
 -- Note: Classes that go up the tree for their skills should grab it together with Tenaron turnin.
 Jump straight away from Tenaron, and Complete [QC921 Crown of the Earth] at the moonwell you can see to your left.
 Turn in [QT921 Crown of the Earth] back at Tenaron.\\Accept follow-up [QA928 Crown of the Earth].
-Jump straight away from Tenaron. Then run to [G61.2,47.4].\\Accept [QA2159 Dolanaar Delivery].
+Jump straight away from Tenaron. Then run to [G61.2,47.4 Teldrassil].\\Accept [QA2159 Dolanaar Delivery].
 [OC] End of Shadowglen (/played:)
 
 -- Arriving in Dolanaar
 Accept [QA488 Zenn's Bidding]. Note: go behind the tree, don't follow the road.
 Accept [QA997 Denalan's Earth].
 Accept [QA475 A Troubling Breeze].
-Learn *First Aid* from Byancie [G55.3,56.8].
+Learn *First Aid* from [G55.3,56.8 Teldrassil] Byancie.
 Accept [QA932 Twisted Hatred] and [QA2438 The Emerald Dreamcatcher].
 Turn in [QT2159 Dolanaar Delivery]. Set hearthstone in [S Dolanaar].
 Turn in [QT928 Crown of the Earth].\\Accept follow-up [QA929 Crown of the Earth].
-Learn *Cooking* from [G57.08, 61.28 Zarrin] regardless if you're mount farming or not. Everyone needs cooking at skill 50!
+Learn *Cooking* from [G57.08, 61.28 Teldrassil] Zarrin regardless if you're mount farming or not. Everyone needs cooking at skill 50!
 Accept [QA4161 Recipe of the Kaldorei].
 [OC] Note: Any level 5+ spider will drop *Small Spider Leg* for [QC4161 Recipe of the Kaldorei]. Keep killing spiders as you see them. Save any extra legs for cooking skill points.
 
 -- Go east for First batch of quests.
 [O] During the next steps kill *Nightsaber*, *Webwood Lurker*, and *Strigid Owl* as you encounter them, for [QC488].
-[G59.6,61.4]
-[G63.2,63.7]
+[G59.6,61.4 Teldrassil]
+[G63.2,63.7 Teldrassil]
 Turn in [QT997 Denalan's Earth].
 Accept [QA918 Timberling Seeds] and [QA919 Timberling Sprouts].
-Complete [QC919 Timberling Sprouts].
-Complete [QC918 Timberling Seeds].
+Around the lake, complete [QC919 Timberling Sprouts] and [QC918 Timberling Seeds]. [G58,72]
 Turn in [QT918 Timberling Seeds] and [QT919 Timberling Sprouts].
 Accept [QA922 Rellian Greenspyre].
-[G62.7,72.3]
-[G65.3,66.9]
-[G68.2,63.3]
+[G62.7,72.3 Teldrassil]
+[G65.3,66.9 Teldrassil]
+[G68.2,63.3 Teldrassil]
 Complete [QC2438 The Emerald Dreamcatcher].
 Turn in [QT475 A Troubling Breeze].\\Accept [QA476 Gnarlpine Corruption].
-Go to [G53.4,58.2 Moonwell] and complete [QC929 Crown of the Earth].
+Go to [G53.4,58.2 Teldrassil] Moonwell and complete [QC929 Crown of the Earth].
 If not already completed, complete [QC488 Zenn's Bidding] on your way back to Zenn (the Satyr).
 Turn in [QT488 Zenn's Bidding].
 Accept [QA489 Seek Redemption!].
 Turn in [QT476 Gnarlpine Corruption].\\Accept [QA483 The Relics of Wakening].
 [V] Vendor and [T] train level 6 skills. Do not vendor Small Spider Legs.
-Enter the [G 54.7,52.6 Fel Rock cave] behind Dolanaar.
+Enter the [G54.7,52.6 Teldrassil] Fel Rock cave behind Dolanaar.
 Keep to the left as you advance in the cave. Then kill Lord Melenas for [QC932 Twisted Hatred].
 XXX: Die to go back? On priv servers this puts you in shadowglen.
 Half-way up the tree, [V] buy a *Skinning Knife* from Narret if you intend to farm for your mount.
@@ -94,9 +93,9 @@ Turn in [QT932 Twisted Hatred] and [QT2438 The Emerald Dreamcatcher].\\Accept [Q
 Turn in [QT929 Crown of the Earth].\\Accept [QA933 Crown of the Earth].
 
 -- Kill Ferocitas. XXX: Is there any other reason to go east again? Or do we have to go for just Ferocitas?
-[G58.5,56.4] 3 Fel Cones can spawn here.
+[G58.5,56.4 Teldrassil] 3 Fel Cones can spawn here.
 [OC] Try to complete [QC489 Seek Redemption!] on the way to the next objective.
-[G69.4,53.4 Kill Ferorcitias] and loot the Necklace. Open it to get [QC2459,2 Tallonkai's Jewel].
+[G69.4,53.4 Teldrassil] Kill Ferorcitias and loot the Necklace. Open it to get [QC2459,2 Tallonkai's Jewel].
 Kill Mystics to finish [QC2459 Ferocitas the Dream Eater].
 Grind until [XP8-1510].
 [OC] If Seek Redemption! was not completed grind until [XP8-880].
@@ -109,35 +108,35 @@ Turn in [QT2459 Ferocitas the Dream Eater].
 -- Barrow Den!
 [OC] Note: Reminder to keep killing spiders for *Small Spider Leg* (extra equals more cooking skill).
 Accept [QA487 The Road to Darnassus] from Moon Priestess Amara, who patrols between Dolanaar and (48,51).
-[G42.1,50.05] Learn *Skinning* from Radnaal if you intend to farm for your mount.
+[G42.1,50.05 Teldrassil] Learn *Skinning* from Radnaal if you intend to farm for your mount.
 [OC] Note: In the guide we will assume all leather is vendored, as we cannot use AH for speedrunning. But feel free to auction the leather if that provides better profit :-).
 If not completed, complete [QC489 Seek Redemption!] while doing the next quests.
 [OC] Note: On the way to the next quests, kill beasts & critters for skinning.
-[G40.35,54.05]
-[G40.77,61.98]
-At the [G42.38,67.10 Moonwell] fill your flask for [QC933 Crown of the Earth].
+[G40.35,54.05 Teldrassil]
+[G40.77,61.98 Teldrassil]
+At the [G42.38,67.10 Teldrassil] Moonwell fill your flask for [QC933 Crown of the Earth].
 [OC] Note: It's a good idea to do some extra nightsaber & critter skinning around here, or you might end up waiting for respawns later.
 Backtrack to complete [QC487 The Road to Darnassus].
-Go to [G44.5,57.7 Barrow Den].
-Follow the tunnel until you reach the [G43.6, 60.0 two bridges].
+Go to Barrow Den [G44.5,57.7 Teldrassil].
+Follow the tunnel until you reach the two bridges [G43.6, 60.0 Teldrassil].
 Loot [QC483,2 Black Feather Quill] from the right bridge.
 Loot [QC483,4 Rune of Nesting] from the left bridge.
-[G44, G59.6] Continue down.
-[G43.3,60.7]
-[G43.83,61.75]
+[G44,59.6 Teldrassil] Continue down.
+[G43.3,60.7 Teldrassil]
+[G43.83,61.75 Teldrassil]
 Across the bridge, accept the quest [QA2541 The Sleeping Druid].
 Continue down and get [QC483,3 Sapphire of Sky].
 [OC] Note: If at any point you get the *Shaman Voodoo Charm* for [QC2541 The Sleeping Druid], go back and turn it in.
-[G44.33,60.31] Follow the tunnel.
-[G45.53,58.90] Go up, avoid aggroing *Rageclaw*.
-[G45.21,58.74]
-[G45.35,58.05]
-[G46.17,58.38] Go right.
+[G44.33,60.31 Teldrassil] Follow the tunnel.
+[G45.53,58.90 Teldrassil] Go up, avoid aggroing *Rageclaw*.
+[G45.21,58.74 Teldrassil]
+[G45.35,58.05 Teldrassil]
+[G46.17,58.38 Teldrassil] Go right.
 Follow the tunnel and loot [QC483,1 Raven Claw Talisman].
 Complete [QC2541 The Sleeping Druid] by skilling *Gnarlpine Shaman*.
 Turn in [QT2541 The Sleeping Druid] back at Oben Rageclaw.\\Accept [QA2561 Druid of the Claw].
-[G44.33,60.31] Follow the tunnel again.
-[G45.53,58.90]
+[G44.33,60.31 Teldrassil] Follow the tunnel again.
+[G45.53,58.90 Teldrassil]
 Kill *Rageclaw*, then use the *Voodoo Charm* to complete [QC2561 Druid of the Claw].
 Turn in [QT2561 Druid of the Claw] back at Oben Rageclaw.
 -- Grinding for some classes (1050 for Druid of the Claw, 780 for Crown of the Earth, 780 for Relics, 700 for road)
@@ -153,22 +152,22 @@ Turn in [QT487 The Road to Darnassus].
 
 -- Darnassus & Western-side quests
 [OC] Note: Reminder to keep killing spiders for *Small Spider Leg* (extra equals more cooking skill).
-Head west to [G36.06,54.35 Darnassus]. Try to get some skinning skills on the way.
+Head west to [G36.06,54.35 Teldrassil] Darnassus. Try to get some skinning skills on the way.
 Turn in [QT922 Rellian Greenspyre].\\Accept [QA923 Tumors].
 [A Rogue] Walk under the tree and turn in [QT2241 The Apple Falls].\\Accept [QA2242 Destiny Calls].
 Accept [QA2519 The Temple of the Moon].
 Turn in [QT2519 The Temple of the Moon].\\Accept the follow-up [QA2518 Tears of the Moon].
-[OC][V][R] Vendor & repair at [G52.92,80.07 Cyridan] on the way out of Darnassus.
+[OC][V][R] Vendor & repair at [G52.92,80.07 Darnassus] Cyridan on the way out of Darnassus.
 [OC] Note: During the next quests, kill beasts/critters & skin when you get the chance. We're soon going to need *skinning 65* to skin level 13 mobs.
 Accept [QA937 The Enchanted Glade].
 Fill the vial in the Moonwell right behind Arynia to complete [QC934 Crown of the Earth].
 Go east to the Wellspring River and gather *Mossy Tumor* to complete [QC923 Tumors].
 Kill Lady Sathrah, who can be NE or NW of Wellspring Lake, to complete [QC2518 Tears of the Moon].
-Head to [G34.82, 28.91 Strange Fronded Plant], killing harpies and skinning on the way.
-[A Rogue] [G37.51,24.06]
+Head to [G34.82,28.91 Teldrassil] Strange Fronded Plant, killing harpies and skinning on the way.
+[A Rogue] [G37.51,24.06 Teldrassil]
 [A Rogue] Use *Pick Pocket* on Sethir and complete [QC2242 Destiny Calls]. If you aggro him he spawns a bunch of minions, so make sure to approach from behind. He patrols around the branch.
 Accept [QA931 The Shimmering Frond].
-Murder you way over to [G31.9,32.2 Mist].
+Murder you way over to [G31.9,32.2 Teldrassil] Mist.
 Accept [QA938 Mist].
 Complete [QC937 The Enchanted Glade], if you still don't have all 6.
 Escort Mist to Arynia to complete [QC938 Mist].
@@ -178,7 +177,7 @@ Turn in [QT923 Tumors].\\Accept [QA2498 Return to Denalan].
 Turn in [QT2518 Tears of the Moon].\\Accept [QA2520 Sathrah's Sacrifice].
 On the bottom floor in the fountain use *Sathrah's Sacrifice* to complete [QC2520 Sathrah's Sacrifice].
 Turn in [QT2520 Sathrah's Sacrifice].
-Level skinning to 60 between east and south-east of Darnassus [G43.8,73.5]. (Skin nightsabers & critters)
+Level skinning to 60 between east and south-east of Darnassus [G43.8,73.5 Teldrassil]. (Skin nightsabers & critters)
 If by some miracle it's not completed, complete [QC4161 Recipe of the Kaldorei].
 Accept [QA930 The Glowing Fruit].
 Complete [QC486 Ursal the Mauler].
@@ -196,7 +195,7 @@ Accept [QA2399 The Sprouted Fronds] and turn in [QT2399 The Sprouted Fronds].
 Accept [QA2499 Oakenscowl].
 Complete [QC2499 Oakenscowl].
 Turn in [QT2499 Oakenscowl].
-[G42.1,50.05] Learn *Journeyman Skinning* from Radnaal.
+[G42.1,50.05 Teldrassil] Learn *Journeyman Skinning* from Radnaal.
 Accept [QA6344 Nessa Shadowsong].
 [OC] If you're not speed-running, then consider using the AH to purchase 6 [CI12238,6 Darkshore Grouper], if you find them at a reasonable price.
 Turn in [QT940 Teldrassil] and [QT935 Crown of the Earth] up the tree.\\Accept [QA952 Grove of the Ancients]. Note: We will carry this item for 6 levels, and only get 530 XP from it. It has no follow-up so you can skip it if you don't like that.
