@@ -133,7 +133,8 @@ Run back to Loch Modan and turn in [QT739 Murdaloc]. Skip follow-up.
 Fly to [F Stormwind]. -- XXX: 5m 33s. Tram better?
 
 -- Stormwind
-[T] Train Lv.42 skills while in Stormwind.
+[T] If you're not night elf, train Lv.42 skills while in Stormwind.
+Accept [QA1448 In Search of The Temple].
 Turn in [QT11222 Warn Bolvar!]\\Accept [QA11223 Return to Jaina].
 [OC] Return to Jaina can be used as a free TP to dustwallow, but not once it's gone gray.
 Turn in [QT697 Malin's Request].

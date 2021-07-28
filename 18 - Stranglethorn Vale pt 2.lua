@@ -124,6 +124,7 @@ Run up into Swamp of Sorrows and turn in [QT624 Cortello's Riddle].\\Accept foll
 
 -- Dustwallow Marsh (via Stormwind)
 Run back to Nethergarde Keep and fly to [F Stormwind].
+Turn in [QT1448 In Search of the Temple].\\Accept [QA1449 To The Hinterlands].
 Speak with [G39.77,81.49 Archage Malin] by the Mage Quarter's tower to TP to dustwallow.
 -- XXX: Skipping Vital Supplies, which is a breadcrumb to Blasted Lands
 Turn in [QT11223 Return to Jaina]. (Disables this teleport, but it doesn't work at high-level anyway.)

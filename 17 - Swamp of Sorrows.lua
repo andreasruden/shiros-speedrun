@@ -21,7 +21,7 @@ Clear the whelps at [G13.7,61.8] for some dreadmust progress.
 Turn in [QT9609 Help Watcher Biggs].\\Accept [QA1396 Encroaching Wildlife].
 Complete [QC1396 Encroaching Wildlife].
 Turn in [QT1396 Encroaching Wildlife].\\Accept [QA1421 The Lost Caravan].
-Around the [G66,51 pool] complete [QC9610 Pool of Tears] (underwater & by the shore) and [QC1116 Dream Dust in the Swamp] (dragonkin on land).
+Around the [G66,51 pool] complete [QC9610 Pool of Tears] (underwater & by the shore), [QC1116 Dream Dust in the Swamp] (dragonkin on land) and [QC1448 In Search of The Temple].
 Complete [QC1421 The Lost Caravan].
 Accept [QA1393 Galen's Escape].
 [OC] Loot crystals and kill Cursed Lost One on the way.
