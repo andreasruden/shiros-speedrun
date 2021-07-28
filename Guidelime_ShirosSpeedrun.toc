@@ -6,3 +6,22 @@
 ## Notes: This is a speedrun route for alliance. Currently only supports Night Elf start. Very much a WIP, don't expect much yet.
 
 01 - Teldrassil.lua
+02 - Darkshore pt1.lua
+03 - Loch Modan.lua
+04 - Darkshore pt2.lua
+05 - Redridge Mountains.lua
+06 - Ashenvale pt1.lua
+07 - Wetlands pt1.lua
+08 - Ashenvale pt2.lua
+09 - Wetlands pt2.lua
+10 - Duskwood.lua
+11 - Hillsbrad Foothills.lua
+12 - Shimmering Flats.lua
+13 - Stranglethorn Vale pt 1.lua
+14 - Desolace.lua
+15 - Dustwallow Marsh.lua
+16 - Alterac and Arathi.lua
+17 - Swamp of Sorrows.lua
+18 - Stranglethorn Vale pt 2.lua
+19 - Feralas.lua
+20 - Tanaris.lua
