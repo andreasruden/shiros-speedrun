@@ -6,9 +6,7 @@ Guidelime.registerGuide(
 [N 22-25 Ashenvale]
 [NX 25-27 Wetlands]
 
-[OC] Quest check: Darkshore: The Absent Minded Prospector (943), The Tower of Althalaxx (967), Therylune's Escape (945), Mathystra Relics (951). Wetlands: Fiora Longears (1132) XXX: What else?
-
-*HEADS UP*: Save *Bear Meat*, *Boar Ribs*, *Clam Meat*, *Crawler Meat* and *Crawler Leg* for cooking.
+[O] *HEADS UP*: Save *Bear Meat*, *Boar Ribs*, *Clam Meat*, *Crawler Meat* and *Crawler Leg* for cooking.
 
 -- Finishing Darkshore
 Turn in [QT1132 Fiora Longears]. Skip follow-up unless you want it for completion. It has no reward at all.
@@ -52,7 +50,7 @@ Turn in [QT1020 Orendil's Cure].\\Accept [QA1033 Elune's Tear].
 Turn in [QT991 Raene's Cleansing].\\Accept follow-up [QA1023 Raene's Cleansing].
 Kill the murlocs to complete [QC1023 Raene's Cleansing].
 Accept [QA1007 The Ancient Statuette].
-[OC] While doing the next objectives, also kill nagas for [QC1008 The Zoram Strand].
+While doing the next objectives, also kill nagas for [QC1008 The Zoram Strand][O].
 Loot the [G14.20,20.64 Ashenvale] statuette to complete [QC1007 The Ancient Statuette].
 Turn in [QT1007 The Ancient Statuette].\\Accept [QA1009 Ruuzel].
 Head over to the island and kill [QC1009 Ruuzel], who patrols around with an escort.
@@ -85,7 +83,7 @@ Turn in [QT1025 An Aggressive Defense].
 -- Stonetalon Mountains
 Complete [QC1034 The Ruins of Stardust].
 Grind your way to [G42.28,71.06 Ashenvale] Talondeep Path. Run through to Stonetalon Mountains.
-[OC] Kill pridewings you run past for progress on [QC1134 Pridewings of Stonetalon].
+Kill pridewings you run past for progress on [QC1134 Pridewings of Stonetalon][O].
 Accept [QA1093 Super Reaper 6000].
 Turn in [QT1070 On Guard in Stonetalon].\\Accept follow-up [QA1085 On Guard in Stonetalon].
 Turn in [QT1085 On Guard in Stonetalon].\\Accept [QA1071 A Gnome's Respite].

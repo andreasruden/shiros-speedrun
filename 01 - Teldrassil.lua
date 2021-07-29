@@ -23,9 +23,9 @@ Complete [QC456 The Balance of Nature] and [QC459 The Woodland Protector].
 Turn in [QT459 The Woodland Protector].
 Turn in [QT456 The Balance of Nature].\\Accept [QA457 The Balance of Nature].
 Accept [QA4495 A Good Friend].
-[OC][V] Vendor at [G59.3,41.1 Teldrassil] Keina.
+[V] Vendor at [G59.3,41.1 Teldrassil] Keina.
 Accept [QA916 Webwood Venom].
-[OC] During the next steps, kill any *Thistleboar*, *Mangy Nightsaber*, and *Webwood Spider*(XXX) that you come across for [QC457] and [QC916]. XXX: Why is the addon drawin an arrow to this?
+During the next steps, kill any *Thistleboar*, *Mangy Nightsaber*, and *Webwood Spider*(XXX) that you come across for [QC457][O] and [QC916][O].
 Talk to Iverron to turn in [QT4495 A Good Friend].\\Accept [QA3519 A Friend in Need].
 [OC] XXX: Die or walk?
 Turn in [QT3519 A Friend in Need].\\Accept [QA3521 Iverron's Antidote].
@@ -38,7 +38,7 @@ Turn in [QT457 The Balance of Nature].
 [A Rogue]Accept [QA3118 Encrypted Sigil].
 [A Rogue]Turn in [QT3118 Encrypted Sigil] and [T] train level 2 & 4 skills.
 -- Note: Classes that don't go up the tree for their skills should grab it after balance of nature last part.
-[OC][V][R]Vendor at [G59.3,41,1 Teldrassil] Keina.
+[V][R]Vendor at [G59.3,41,1 Teldrassil] Keina.
 Turn in [QT3521 Iverron's Antidote].\\Accept [QA3522 Iverron's Antidote].
 Turn in [QT916 Webwood Venom].\\Accept [QA917 Webwood Egg].
 Turn in [QT3522 Iverron's Antidote].
@@ -94,14 +94,14 @@ Turn in [QT929 Crown of the Earth].\\Accept [QA933 Crown of the Earth].
 
 -- Kill Ferocitas. XXX: Is there any other reason to go east again? Or do we have to go for just Ferocitas?
 [G58.5,56.4 Teldrassil] 3 Fel Cones can spawn here.
-[OC] Try to complete [QC489 Seek Redemption!] on the way to the next objective.
+Try to complete [QC489 Seek Redemption!][O] on the way to the next objective.
 [G69.4,53.4 Teldrassil] Kill Ferorcitias and loot the Necklace. Open it to get [QC2459,2 Tallonkai's Jewel].
 Kill Mystics to finish [QC2459 Ferocitas the Dream Eater].
-Grind until [XP8-1510].
-[OC] If Seek Redemption! was not completed grind until [XP8-880].
-Deathwarp to Dolanaar. (XXX: This is shadowglen on priv servers)
+Grind until [XP8-1510 1510 from level 8].
+If Seek Redemption! was not completed grind until [XP8-880][OC].
+Deathwarp to Dolanaar.
 Turn in [QT2459 Ferocitas the Dream Eater].
-[OC] If completed, turn in [QT489 Seek Redemption!].
+If completed, turn in [QT489 Seek Redemption!].
 [T] Learn level 8 skills.
 [OC] End of Dolanaar (/played:)
 
@@ -126,7 +126,7 @@ Loot [QC483,4 Rune of Nesting] from the left bridge.
 [G43.83,61.75 Teldrassil]
 Across the bridge, accept the quest [QA2541 The Sleeping Druid].
 Continue down and get [QC483,3 Sapphire of Sky].
-[OC] Note: If at any point you get the *Shaman Voodoo Charm* for [QC2541 The Sleeping Druid], go back and turn it in.
+*Note:* If you get *Shaman Voodoo Charm* for [QC2541 The Sleeping Druid][O], go back and turn it in, and get the follow-up.
 [G44.33,60.31 Teldrassil] Follow the tunnel.
 [G45.53,58.90 Teldrassil] Go up, avoid aggroing *Rageclaw*.
 [G45.21,58.74 Teldrassil]
@@ -157,7 +157,7 @@ Turn in [QT922 Rellian Greenspyre].\\Accept [QA923 Tumors].
 [A Rogue] Walk under the tree and turn in [QT2241 The Apple Falls].\\Accept [QA2242 Destiny Calls].
 Accept [QA2519 The Temple of the Moon].
 Turn in [QT2519 The Temple of the Moon].\\Accept the follow-up [QA2518 Tears of the Moon].
-[OC][V][R] Vendor & repair at [G52.92,80.07 Darnassus] Cyridan on the way out of Darnassus.
+[V][R] Vendor & repair at [G52.92,80.07 Darnassus] Cyridan on the way out of Darnassus.
 [OC] Note: During the next quests, kill beasts/critters & skin when you get the chance. We're soon going to need *skinning 65* to skin level 13 mobs.
 Accept [QA937 The Enchanted Glade].
 Fill the vial in the Moonwell right behind Arynia to complete [QC934 Crown of the Earth].
@@ -197,9 +197,9 @@ Complete [QC2499 Oakenscowl].
 Turn in [QT2499 Oakenscowl].
 [G42.1,50.05 Teldrassil] Learn *Journeyman Skinning* from Radnaal.
 Accept [QA6344 Nessa Shadowsong].
-[OC] If you're not speed-running, then consider using the AH to purchase 6 [CI12238,6 Darkshore Grouper], if you find them at a reasonable price.
+[OC] If you're not speed-running, then consider using the AH to purchase 6 [CI12238,6 Darkshore Grouper], if you find them at a reasonable price. (Since they're low-level fish there's a chance they don't exist on the AH at all.)
+[OC] [T] If you're level 12 learn skills. Might also want to pick up weapon specializations from Darnassus.
 Turn in [QT940 Teldrassil] and [QT935 Crown of the Earth] up the tree.\\Accept [QA952 Grove of the Ancients]. Note: We will carry this item for 6 levels, and only get 530 XP from it. It has no follow-up so you can skip it if you don't like that.
-[T] If you're level 12 learn skills. Might also want to pick up weapon specializations from Darnassus.
 Turn in [QT6344 Nessa Shadowsong].\\Accept [QA6341 The Bounty of Teldrassil].
 Turn in [QT6341 The Bounty of Teldrassil].\\Accept [QA6342 Flight to Auberdine].
 Fly to [F Auberdine].

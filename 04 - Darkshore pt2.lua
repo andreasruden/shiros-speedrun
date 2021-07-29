@@ -6,8 +6,7 @@ Guidelime.registerGuide(
 [N 18-20 Darkshore]
 [NX 20-22 Redridge Mountains]
 
-You should have the quests: Buzzbox 525 (1003), The Toer of Althalaxx (967), and possibly Grove of the Ancients (952)
-*HEADS UP*: Save *Bear Meat*, *Boar Ribs*, *Chunk of Boar Meat*, *Small Spider Leg*, *Clam Meat*, *Crawler Meat* and *Crawler Claw* for cooking.
+[O] *HEADS UP*: Save *Bear Meat*, *Boar Ribs*, *Chunk of Boar Meat*, *Small Spider Leg*, *Clam Meat*, *Crawler Meat* and *Crawler Claw* for cooking.
 
 -- Deathwarp (die & resurrect at spirit healer) to Bashal'Aran.
 -- Follow the road until [G41.19,44.19].
@@ -27,7 +26,7 @@ Accept [QA4728 Beached Sea Creature].
 Kill murlocs [G36.49,76.67 Darkshore] here to trigger the Murkdeep event.
 [OC] There will be 3 waves: 3xLv.13 murlocs, 2xLv.15 murlocs, then Murkdeep (Lv.19) + add (Lv.15).
 Complete [QC4740 WANTED: Murkdeep!].
-[OC] Kill any Moonstalker sire/matriarchs or Grizzled thistle bear you encounter, for [QC986 A Lost Master] and [QC1003 Buzzbox 525].
+During the next steps, kill any Moonstalker sire/matriarchs or Grizzled thistle bear you encounter, for [QC986 A Lost Master][O] and [QC1003 Buzzbox 525][O].
 Turn in [QT952 Grove of the Ancients] and [QT948 Onu].\\Accept [QA944 The Master's Glaive].
 Murder everyone in the [G38.59,86.25 Darkshore] Twilight Camp, hopefully they drop *Book: The Powers Below*.
 Complete [QC944 The Master's Glaive] (use the phial in your inventory, place a bowl on the table).
@@ -71,7 +70,7 @@ Turn in [QT2098 Gyromast's Retrieval].\\Accept [QA2078 Gyromast's Revenge].
 Accept [QA4727 Beached Sea Turtle].
 Complete [QC2078 Gyromast's Revenge].
 Turn in [QT2078 Gyromast's Revenge].
-[OC] NOTE: *VERY IMPORTANT* to save the 5 Elixir of Water Breathing you received, we will make use of them in the run.
+NOTE: *VERY IMPORTANT* to save the 5 Elixir of Water Breathing you received, we will make use of them in the run.
 If not already completed, complete [QC986 A Lost Master] in the north. [G60.2,12.3 Darkshore]
 Grind to [XP20-5140]. -- XP for Darnassus turn in (absent minded prospector) not included, since that might be bad pathing with trainer
 Deathwarp to Bashal'Aran. (Saves 2m 40s)
@@ -84,12 +83,12 @@ From [G37.47,40.5 Darkshore] Dalmond, purchase a Flint and Tiner and a stack of 
 Turn in [QT4763 The Blackwood Corrupted].
 Turn in [QT4727 Beached Sea Turtle].
 Fly to [F Darnassus].
-[OC] Withdraw all the cooking materials from the bank.
+Withdraw all the cooking materials from the bank.
 [T] Train only *essential* level 20 skills, we need to mega save for mount.
 Turn in [QT741 The Absent Minded Prospector] (outside of the temple again).\\Accept follow-up [QA942 The Absent Minded Prospector].
 Hearth to [H Auberdine] or fly if on cooldown.
-[OC] While waiting for the boat do some cooking. First cook the Chunk of Boar Meat (yellow at 45), then the Small Spider Legs (yellow at 50). Learn *Recipe: Smoked Bear Meat*, and cook as many as you have, up to skill 75.
-[OC] On the actual boat make some Heavy Linen Bandages.
+While waiting for the boat do some cooking. First cook the Chunk of Boar Meat (yellow at 45), then the Small Spider Legs (yellow at 50). Learn *Recipe: Smoked Bear Meat*, and cook as many as you have, up to skill 75. *Stop at 50* and ignore any further cooking leveling instructions if you do not intend to mount grind.
+On the actual boat make some Heavy Linen Bandages.
 In the menethil harbor inn's upper floor, turn in [QT942 The Absent Minded Prospector].\\Accept [QA943 The Absent Minded Prospector].
 Accept [QA1132 Fiora Longears].
 Fly to [F Ironforge].

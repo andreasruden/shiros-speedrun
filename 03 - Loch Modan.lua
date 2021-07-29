@@ -6,7 +6,7 @@ Guidelime.registerGuide(
 [N 15-18 Loch Modan]
 [NX 18-20 Darkshore]
 
-*HEADS UP*: Save *Bear Meat*, *Boar Ribs*, *Chunk of Boar Meat*, *Small Spider Leg*, *Clam Meat*, *Crawler Meat* and *Crawler Leg* for cooking.
+[O] *HEADS UP*: Save *Bear Meat*, *Boar Ribs*, *Chunk of Boar Meat*, *Small Spider Leg*, *Clam Meat*, *Crawler Meat* and *Crawler Leg* for cooking.
 
 -- Arriving in Thelsamar
 Accept [QA224 In Defense of the King's Lands].
@@ -28,7 +28,7 @@ Accept [QA416 Rat Catching] and [QA1339 Mountaineer Stormpike's Task].
 
 -- Finish the low level quests in the north-west
 [OC] Remember: Save any *Chunk of Boar Meat*, *Bear Meat* and *Small Spider Leg* you find.
-[OC] On the way to the next objectives, kill mobs for [QC418 Thelsamar Blood Sausages].
+On the way to the next objectives, kill mobs for [QC418 Thelsamar Blood Sausages][O].
 [G34.74,30.67 Loch Modan]
 Turn in [QT1339 Mountaineer Stormpike's Task].
 Accept [QA1338 Stormpike's Order].
@@ -86,7 +86,7 @@ Turn in [QT217 In Defense of the King's Lands].
 Turn in [QT385 Crocolisk Hunting].
 Turn in [QT271 Vyrin's Revenge].\\Accept follow-up [QA531 Vyrin's Revenge].
 Turn in [QT531 Vyrin's Revenge].
-Grind outside of lodge to [XP18], if you're not levl 18 yet.
+Grind outside of lodge to [XP18 level 18].
 Hearth to [H Auberdine].
 
 -- Loch Modan Chains:

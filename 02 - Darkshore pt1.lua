@@ -6,9 +6,7 @@ Guidelime.registerGuide(
 [N 12-15 Darkshore]
 [NX 15-18 Loch Modan]
 
--- XXX: List which quests we have coming into this zone, for checking against.
-You should have 2 quests: Grove of the Ancients (952), Flight to Auberdine (6342).
-*HEADS UP*: Save any *Bear Meat*, *Boar Ribs*, *Chunk of Boar Meat*, *Small Spider Leg*, *Clam Meat*, *Crawler Meat* and *Crawler Leg* for cooking.
+[O] *HEADS UP*: Save any *Bear Meat*, *Boar Ribs*, *Chunk of Boar Meat*, *Small Spider Leg*, *Clam Meat*, *Crawler Meat* and *Crawler Leg* for cooking.
 
 -- Initial quest-state setup
 Accept [QA3524 Washed Ashore].
@@ -16,8 +14,8 @@ Turn in [QT6342 Flight to Auberdine]. Skip follow-up for now.
 Set hearthstone in [S Auberdine].
 Accept [QA963 For Love Eternal].
 Accept [QA983 Buzzbox 827] in the room above the innkeeper.
-[OC] If you have 6 *Darkshore Grouper*: Accept [QA1141 The Family and the Fishing Pole], and turn in [QT1141 The Family and the Fishing Pole]. Note: It has no follow-up, and we're assuming you skip it!
-[OC] Grind crawlers on the way to the next objective.
+If you have 6 *Darkshore Grouper*: Accept [QA1141 The Family and the Fishing Pole], and turn in [QT1141 The Family and the Fishing Pole]. Note: It has no follow-up, and we're assuming you skip it!
+Grind crawlers on the way to the next objective.[OC]
 Loot the big, dead dinosaur to complete [QC3524 Washed Ashore].
 Complete [QC983 Buzzbox 827] (there's more crawlers in water + coast north of auberdine).
 Turn in [QT983 Buzzbox 827].\\Accept follow-up [QA1001 Buzzbox 411].
@@ -42,7 +40,7 @@ Turn in [QT956 Bashal'Aran].\\Accept follow-up [QA957 Bashal'Aran].
 Go south-east to the Red Crystal to complete [QC4811 The Red Crystal].
 Run south-west to the furbolg camp to complete [QC984 How Big a Threat?].
 Accept [QA953 The Fall of Ameth'Aran].
-[OC] If you spot Anaya while doing the next few steps, kill her for [QC963 For Love Eternal].
+If you spot Anaya while doing the next few steps, kill her for [QC963 For Love Eternal][O].
 Read the [QC953,1 Lay of Ameth'Aran].
 Complete [QC957 Bashal'Aran].
 Read the [QC953,2 Fall of Ameth'Aran].
@@ -61,7 +59,7 @@ Accept [QA965 The Tower of Althalaxx] in the upper floor of the house.
 Accept [QA982 Deep Ocean, Vast Sea].
 Turn in [QT958 Tools of the Highborne] and [QT4761 Thundris Windweaver].\\Accept [QA4762 The Cliffspring River].
 Turn in [QT963 For Love Eternal].
-You should be level 14, if not grind to [XP14].
+You should be level 14, if not grind to [XP14 level 14].
 Accept [QA6343 Return to Nessa].
 Turn in [QT4722 Beached Sea Turtle].
 Fly to [F Rut'theran Village].
@@ -89,7 +87,7 @@ Jump into the waterfall and fill the sampling tube to complete [QC4762 The Cliff
 Turn in [QT965 The Tower of Althalaxx].\\Accept follow-up [QA966 The Tower of Althalaxx].
 Complete [QC966 The Tower of Althalaxx].
 Turn in [QT966 The Tower of Althalaxx]. Skip follow-up for now.
-If not level 15, grind to [XP15].
+If not level 15, grind to [XP15 level 15].
 Go to the cave above Cliffspring River and complete [QC947 Cave Mushrooms]. Note: Head right after entering the cave, chance for easy death cap.
 Turn in [QT957 Bashal'Aran].
 At the red crystal, turn in [QT4812 As Water Cascades].\\Accept [QA4813 The Fragments Within].
