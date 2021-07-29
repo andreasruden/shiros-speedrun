@@ -48,7 +48,12 @@ Accept [QA3765 The Corruption Abroad].
 Accept [QA1078 Retrieval for Mauren].
 [OC] Train weapon skills opposite of AH entrance, if desired.
 From the shop [G65.74, 59.23 Stormwind] Fragrant Flowers, facing the canal, purchase [CI2665,1 Stormwind Seasoning Herbs] from Felicia.
-[A Rogue] Accept [QA2360 Mathias and the Defias]. Do this quest sometime, not yet in guide. (XXX)
+-- NOTE: This quest is not worth doing since it requires 70 lockpicking and we go past the tower before redridge.
+--[A Rogue] Accept [QA2360 Mathias and the Defias].
+--In westfall:
+--[A rogue] Turn in [QT2360 Mathias and the Defias].\\Accept [QA2359 Klaven's Tower].
+--[A rogue] Pickpocket the guard circling *outside* of the tower to obtain [QC2359,2 Defias Tower Key].
+--[A rogue] Stealth up the tower and use lockpicking (skill Lv.70) to obtain [QC2359,1 Klaven Mortwake's Journal].
 Get the FP [P Stormwind].
 
 -- Duskwood
