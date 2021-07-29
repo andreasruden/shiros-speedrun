@@ -106,15 +106,15 @@ Take the boat to Menethil Harbor. Craft Linen Bandage to level first aid to 40 w
 
 -- To Loch Modan
 When arriving in Menethil, accept the flight point [P Menethil Harbor].
-Jump from the [G5.86,64.16 Darkshore] bridge at this point.
-Swim to the [G3.28,75.93 Darkshore] coast. (This avoids the murlocs)
-Walk to this [G0.07, 77.51 Darkshore] spot.
+Jump from the [G5.86,64.16 Wetlands] pier at this point.
+Swim to the [G3.28,75.93 Wetlands] coast. (This avoids the murlocs)
+Walk to this [G0.07, 77.51 Wetlands] spot.
 Swim forward, you will come to more walkable land. [G33,8 Dun Morogh].
 [G27,7 Dun Morogh] Here we start swimming again. Follow the coast line closely.
 [G20,11 Dun Morogh] Around here, just as we get very close to the fatigue area and start turning inwards, start draining your breath to prepare to deathwarp. Don't die before it says "Dun Morogh" on your minimap though!
 If you follow the terrain, it will show you as actually in Dun Morogh at [G17,15 Dun Morogh]. This is when it's okay to die :-).
 Deathwarp to Kharanos.
-Follow the road to Ironforge [G15.35, 85.68 Dun Morogh].
+Follow the road to Ironforge [G15.35, 85.68 Ironforge].
 Enter the Herbalism building [G53.56,55.45 Ironforge].
 Learn *Heavy Linen Bandage* from Nissa at the second level.
 Make 10 [CI2581,10 Heavy Linen Bandage] to skill first aid to 50.

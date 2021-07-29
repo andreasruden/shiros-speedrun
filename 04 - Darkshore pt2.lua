@@ -12,10 +12,8 @@ Guidelime.registerGuide(
 -- Follow the road until [G41.19,44.19].
 -- Then head east through the trees and jump down. [G39.97,43.88]
 
-XXX: Fill the *Empty Cleansing Bowl* to get [CI12347 Filled Cleansing Bowl].
-
 -- Making the first southern round
-[OC] [T] Optional: Grab Lv.16 & 18 skills. (Only what is essential)
+[OC] *Optional:* Fly to darnassus and grab [T] Lv.16 & 18 skills. (Only what is essential)
 Accept [QA4740 WANTED: Murkdeep!]
 Accept [QA948 Onu].
 Accept [QA729 The Absent Minded Prospector].
@@ -28,15 +26,15 @@ Kill murlocs [G36.49,76.67 Darkshore] here to trigger the Murkdeep event.
 Complete [QC4740 WANTED: Murkdeep!].
 During the next steps, kill any Moonstalker sire/matriarchs or Grizzled thistle bear you encounter, for [QC986 A Lost Master][O] and [QC1003 Buzzbox 525][O].
 Turn in [QT952 Grove of the Ancients] and [QT948 Onu].\\Accept [QA944 The Master's Glaive].
-Murder everyone in the [G38.59,86.25 Darkshore] Twilight Camp, hopefully they drop *Book: The Powers Below*.
+Murder everyone in the [G38.59,86.25 Darkshore] Twilight Camp to make the escort easier. Also, hopefully they drop *Book: The Powers Below*.
 Complete [QC944 The Master's Glaive] (use the phial in your inventory, place a bowl on the table).
 Turn in [QT944 The Master's Glaive].\\Accept [QA949 The Twilight Camp].
 Turn in [QT949 The Twilight Camp].\\Accept [QA950 Return to Onu].
 Accept [QA945 Therylune's Escape].
 Complete [QC945 Therylune's Escape].
-[OC] If there are respwns in the Twilight Camp, murder them as well. If the book still doesn't drop, move on.
-Turn in [QT729 The Absent Minded Prospector].
+[OC] If there are respwns in the Twilight Camp, murder them as well on the way to the next objective. If the book still doesn't drop, move on.
 [OC] This next escort quest really sucks, so read these tips carefully before accepting the quest. First of, always let Remtravel aggro, or he will ignore you fighting something and run ahead. But after he aggros, you need to quickly pull aggro because he's squishy. There are 3 mob spawn points. First one is when he walks up the small wooden ramp, single spawn that aggros you for some reason. Then after he searches the tent, 2 more mobs spawn. The last spawn is after he's done his route and is on the way back. On the "hill" to the left of the second wooden ramp (36,86) there will spawn one caster + one melee mob. The caster hits *very* hard, so immediately pull aggro on it. Oh, and lastly, some of the stone guys in this area respawn very quickly (especially the guys around the second ramp). Good luck :-). If you fail, respawn time is like 5 minutes, so grind some Grizzled Thistle Bear NW of quest NPC while waiting.
+Turn in [QT729 The Absent Minded Prospector].
 Accept [QA731 The Absent Minded Prospector].
 Complete [QC731 The Absent Minded Prospector].
 Complete [QC1003 Buzzbox 525] north of the glaive. [G38.86,81.20 Darkshore]

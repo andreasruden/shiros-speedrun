@@ -27,7 +27,6 @@ In the house behind the wanted poster, accept [QA436 Ironband's Excavation].
 Accept [QA416 Rat Catching] and [QA1339 Mountaineer Stormpike's Task].
 
 -- Finish the low level quests in the north-west
-[OC] Remember: Save any *Chunk of Boar Meat*, *Bear Meat* and *Small Spider Leg* you find.
 On the way to the next objectives, kill mobs for [QC418 Thelsamar Blood Sausages][O].
 [G34.74,30.67 Loch Modan]
 Turn in [QT1339 Mountaineer Stormpike's Task].
