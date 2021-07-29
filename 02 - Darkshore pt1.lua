@@ -51,7 +51,7 @@ Complete [QC958 Tools of the Highborne].
 Turn in [QT953 The Fall of Ameth'Aran].
 [G38.68,58.82 Darkshore] Capture a Rabid Thistle Bear around this area, using Tharnarium's Hope.
 Accept [QA4722 Beached Sea Turtle].
-Kill the threshers in this area. [G34.42,59.09 Darkshore]
+Kill the threshers in this area, but don't wait for respawns. [G34.42,59.09 Darkshore]
 Head back to the coast and run up to Auberdine.
 Turn in [QT4811 The Red Crystal].\\Accept [QA4812 As Water Cascades].
 Deliver the bear to [G38.8,43.4 Darkshore] Tharnariun to complete [QC2118 Plagued Lands].
@@ -110,7 +110,7 @@ Take the boat to Menethil Harbor. Craft Linen Bandage to level first aid to 40 w
 When arriving in Menethil, accept the flight point [P Menethil Harbor].
 Jump from the [G5.86,64.16 Darkshore] bridge at this point.
 Swim to the [G3.28,75.93 Darkshore] coast. (This avoids the murlocs)
-Walk to this [0.07, 77.51 Darkshore] spot.
+Walk to this [G0.07, 77.51 Darkshore] spot.
 Swim forward, you will come to more walkable land. [G33,8 Dun Morogh].
 [G27,7 Dun Morogh] Here we start swimming again. Follow the coast line closely.
 [G20,11 Dun Morogh] Around here, just as we get very close to the fatigue area and start turning inwards, start draining your breath to prepare to deathwarp. Don't die before it says "Dun Morogh" on your minimap though!
