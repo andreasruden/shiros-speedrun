@@ -108,15 +108,12 @@ If completed, turn in [QT489 Seek Redemption!].
 -- Barrow Den!
 [OC] Note: Reminder to keep killing spiders for *Small Spider Leg* (extra equals more cooking skill).
 Accept [QA487 The Road to Darnassus] from Moon Priestess Amara, who patrols between Dolanaar and (48,51).
-[G42.1,50.05 Teldrassil] Learn *Skinning* from Radnaal if you intend to farm for your mount.
-[OC] Note: In the guide we will assume all leather is vendored, as we cannot use AH for speedrunning. But feel free to auction the leather if that provides better profit :-).
-If not completed, complete [QC489 Seek Redemption!] while doing the next quests.
-[OC] Note: On the way to the next quests, kill beasts & critters for skinning.
-[G40.35,54.05 Teldrassil]
-[G40.77,61.98 Teldrassil]
+If you want to do skinning, go to [G42.1,50.05 Teldrassil] Radnaal. If not *skip* this step.
+[OC] The intent with the leather is to either auction it off or vendor it. Up to you.
+If not completed, complete [QC489 Seek Redemption!][O] while doing the next quests.
 At the [G42.38,67.10 Teldrassil] Moonwell fill your flask for [QC933 Crown of the Earth].
-[OC] Note: It's a good idea to do some extra nightsaber & critter skinning around here, or you might end up waiting for respawns later.
-Backtrack to complete [QC487 The Road to Darnassus].
+[OC] Note: It's a good idea to do some extra nightsaber & critter *skinning* around here, or you might end up waiting for respawns later.
+Run back and complete [QC487 The Road to Darnassus].
 Go to Barrow Den [G44.5,57.7 Teldrassil].
 Follow the tunnel until you reach the two bridges [G43.6, 60.0 Teldrassil].
 Loot [QC483,2 Black Feather Quill] from the right bridge.
@@ -128,7 +125,7 @@ Across the bridge, accept the quest [QA2541 The Sleeping Druid].
 Continue down and get [QC483,3 Sapphire of Sky].
 *Note:* If you get *Shaman Voodoo Charm* for [QC2541 The Sleeping Druid][O], go back and turn it in, and get the follow-up.
 [G44.33,60.31 Teldrassil] Follow the tunnel.
-[G45.53,58.90 Teldrassil] Go up, avoid aggroing *Rageclaw*.
+[G45.53,58.90 Teldrassil] Go up, avoid aggroing *Rageclaw*. Unless you have the quest to kill him, in which case do so.
 [G45.21,58.74 Teldrassil]
 [G45.35,58.05 Teldrassil]
 [G46.17,58.38 Teldrassil] Go right.
@@ -139,10 +136,10 @@ Turn in [QT2541 The Sleeping Druid] back at Oben Rageclaw.\\Accept [QA2561 Druid
 [G45.53,58.90 Teldrassil]
 Kill *Rageclaw*, then use the *Voodoo Charm* to complete [QC2561 Druid of the Claw].
 Turn in [QT2561 Druid of the Claw] back at Oben Rageclaw.
--- Grinding for some classes (1050 for Druid of the Claw, 780 for Crown of the Earth, 780 for Relics, 700 for road)
+-- Grinding for some classes (780 for Crown of the Earth, 780 for Relics, 700 for road)
 -- XXX: What other classes need to grind? XXX: Add class skills for those classes
-[A Rogue]Grind to [XP10-3310] (630 less if you've not turned in *Seek Redemption!* yet).
-Deathwarp to Dolanaar.
+[A Rogue]Grind to [XP10-2260] (630 less if you've not turned in *Seek Redemption!* yet).
+Hearhstone to [H Dolanaar].
 Turn in [QT933 Crown of the Earth].\\Accept follow-up [QA934 Crown of the Earth].
 Turn in [QT483 The Relics of Wakening].\\Accept [QA486 Ursal the Mauler].
 If not already turned in, turn in [QT489 Seek Redemption!].
@@ -152,7 +149,7 @@ Turn in [QT487 The Road to Darnassus].
 
 -- Darnassus & Western-side quests
 [OC] Note: Reminder to keep killing spiders for *Small Spider Leg* (extra equals more cooking skill).
-Head west to [G36.06,54.35 Teldrassil] Darnassus. Try to get some skinning skills on the way.
+Run west towards Darnassus. Die at this [G46.03127,46.96708,3 Teldrassil] branch tip to warp to Darnassus.
 Turn in [QT922 Rellian Greenspyre].\\Accept [QA923 Tumors].
 [A Rogue] Walk under the tree and turn in [QT2241 The Apple Falls].\\Accept [QA2242 Destiny Calls].
 Accept [QA2519 The Temple of the Moon].
@@ -172,6 +169,7 @@ Accept [QA938 Mist].
 Complete [QC937 The Enchanted Glade], if you still don't have all 6.
 Escort Mist to Arynia to complete [QC938 Mist].
 Turn in [QT937 The Enchanted Glade] and [QT938 Mist].\\Accept [QA940 Teldrassil].
+Deathwarp to Darnassus.
 Turn in [QT923 Tumors].\\Accept [QA2498 Return to Denalan].
 [A Rogue] Turn in [QT2242 Destiny Calls].
 Turn in [QT2518 Tears of the Moon].\\Accept [QA2520 Sathrah's Sacrifice].
@@ -181,7 +179,7 @@ Level skinning to 60 between east and south-east of Darnassus [G43.8,73.5 Teldra
 If by some miracle it's not completed, complete [QC4161 Recipe of the Kaldorei].
 Accept [QA930 The Glowing Fruit].
 Complete [QC486 Ursal the Mauler].
-Hearthstone to [H Dolanaar].
+Die [G41.8856,80.1973,3 Teldrassil] here to warp to Dolanaar (don't die earlier or you go to Darnassus). Spam sit to die quicker.
 [OC] End of West Teldrassil (/played:)
 
 -- Finishing up Teldrassil
