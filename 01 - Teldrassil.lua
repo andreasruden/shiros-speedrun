@@ -139,7 +139,7 @@ Turn in [QT2561 Druid of the Claw] back at Oben Rageclaw.
 -- Grinding for some classes (780 for Crown of the Earth, 780 for Relics, 700 for road)
 -- XXX: What other classes need to grind? XXX: Add class skills for those classes
 [A Rogue]Grind to [XP10-2260] (630 less if you've not turned in *Seek Redemption!* yet).
-Hearhstone to [H Dolanaar].
+Hearthstone to [H Dolanaar].
 Turn in [QT933 Crown of the Earth].\\Accept follow-up [QA934 Crown of the Earth].
 Turn in [QT483 The Relics of Wakening].\\Accept [QA486 Ursal the Mauler].
 If not already turned in, turn in [QT489 Seek Redemption!].
@@ -150,6 +150,7 @@ Turn in [QT487 The Road to Darnassus].
 -- Darnassus & Western-side quests
 [OC] Note: Reminder to keep killing spiders for *Small Spider Leg* (extra equals more cooking skill).
 Run west towards Darnassus. Die at this [G46.03127,46.96708,3 Teldrassil] branch tip to warp to Darnassus.
+Set hearthstone in [S Darnassus]. [G67.4,15.6 Darnassus]
 Turn in [QT922 Rellian Greenspyre].\\Accept [QA923 Tumors].
 [A Rogue] Walk under the tree and turn in [QT2241 The Apple Falls].\\Accept [QA2242 Destiny Calls].
 Accept [QA2519 The Temple of the Moon].
@@ -193,7 +194,8 @@ Accept [QA2399 The Sprouted Fronds] and turn in [QT2399 The Sprouted Fronds].
 Accept [QA2499 Oakenscowl].
 Complete [QC2499 Oakenscowl].
 Turn in [QT2499 Oakenscowl].
-[G42.1,50.05 Teldrassil] Learn *Journeyman Skinning* from Radnaal.
+Hearthstone to [H Darnassus]. Or deathwarp the same way as before, at (46,47), if it's not ready.
+*Skip if not skinning* At the second floor, learn Journeyman Skinning from [G64.13,22.25 Darnassus] Eladriel.
 Accept [QA6344 Nessa Shadowsong].
 [OC] If you're not speed-running, then consider using the AH to purchase 6 [CI12238,6 Darkshore Grouper], if you find them at a reasonable price. (Since they're low-level fish there's a chance they don't exist on the AH at all.)
 [OC] [T] If you're level 12 learn skills. Might also want to pick up weapon specializations from Darnassus.
