@@ -47,7 +47,7 @@ Turn in [QT1338 Stormpike's Order].
 Accept [QA3765 The Corruption Abroad].
 Accept [QA1078 Retrieval for Mauren].
 [OC] Train weapon skills opposite of AH entrance, if desired.
-From the shop [G65.74, 59.23 Stormwind] Fragrant Flowers, facing the canal, purchase [CI2665,1 Stormwind Seasoning Herbs] from Felicia.
+From the shop [G65.74,59.23 Stormwind City] Fragrant Flowers, facing the canal, purchase [CI2665,1 Stormwind Seasoning Herbs] from Felicia.
 -- NOTE: This quest is not worth doing since it requires 70 lockpicking and we go past the tower before redridge.
 --[A Rogue] Accept [QA2360 Mathias and the Defias].
 --In westfall:
@@ -97,18 +97,18 @@ Accept [QA92 Redridge Goulash].
 Accept [QA3741 Hilary's Necklace].
 [OC] Kill spiders and boars during the next step.
 Turn in [QT129 A Free Lunch].\\Accept [QA130 Visit the Herbalist].
-Collect [QC92,1 Great Goretusk Snout]. [G32.03,70.05 Redridge Mouintains]
+Collect [QC92,1 Great Goretusk Snout]. [G32.03,70.05 Redridge Mountains]
 There's some gnolls you can kill around here too, while looking for spiders. For [QC246 Assessing the Threat][O].
 [OC] There's also more spiders on the road closer to Duskwood.
-Finish collecting [QC92,3 Crisp Spider Meat]. [G18.48,73.67 Redridge Mouintains]
-Finish collecting [QC92,1 Great Goretusk Snout]. [G32.03,70.05 Redridge Mouintains]
+Finish collecting [QC92,3 Crisp Spider Meat]. [G18.48,73.67 Redridge Mountains]
+Finish collecting [QC92,1 Great Goretusk Snout]. [G32.03,70.05 Redridge Mountains]
 Head east and complete [QC246 Assessing the Threat].
-Go clear out all the Condors at [G62,76.63 Redridge Mouintains].
+Go clear out all the Condors at [G62,76.63 Redridge Mountains].
 [OC] Save any Clam Meat you find. We need those for cooking.
-Kill murlocs at [GG48.49,71.42 Redridge Mouintains] this camp to complete [QC150 Murloc Poachers] and [QC127 Selling Fish].
-Go clear out all the Condors at [G62,76.63 Redridge Mouintains].
-Complete [QC20 Blackrock Menace] at the [G74.2,81.3 Redridge Mouintains] SE cave.
-Finish collecting [QC92,2 Tough Condor Meat]. [G62,76.63 Redridge Mouintains]
+Kill murlocs at [G48.49,71.42 Redridge Mountains] this camp to complete [QC150 Murloc Poachers] and [QC127 Selling Fish].
+Go clear out all the Condors at [G62,76.63 Redridge Mountains].
+Complete [QC20 Blackrock Menace] at the [G74.2,81.3 Redridge Mountains] SE cave.
+Finish collecting [QC92,2 Tough Condor Meat]. [G62,76.63 Redridge Mountains]
 Complete [QC125 The Lost Tools].
 Complete [QC3741 Hilary's Necklace].
 [OC] When you [V] vendor don't sell the Murloc Fins or the ingredients for the Goulash.

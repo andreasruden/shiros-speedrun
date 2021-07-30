@@ -88,6 +88,7 @@ Hearth to [H Auberdine] or fly if on cooldown.
 While waiting for the boat do some cooking. First cook the Chunk of Boar Meat (yellow at 45), then the Small Spider Legs (yellow at 50). Learn *Recipe: Smoked Bear Meat*, and cook as many as you have, up to skill 75. *Stop at 50* and ignore any further cooking leveling instructions if you do not intend to mount grind.
 On the actual boat make some Heavy Linen Bandages.
 In the menethil harbor inn's upper floor, turn in [QT942 The Absent Minded Prospector].\\Accept [QA943 The Absent Minded Prospector].
+XXX: Cook to 50 here in inn.
 Accept [QA1132 Fiora Longears].
 Fly to [F Ironforge].
 
