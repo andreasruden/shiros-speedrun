@@ -93,7 +93,7 @@ Turn in [QT957 Bashal'Aran].
 At the red crystal, turn in [QT4812 As Water Cascades].\\Accept [QA4813 The Fragments Within].
 Run south and complete [QC985 How Big a Threat?].
 [OC] Run back to Auberdine.
-Turn in [QT985 How Big a Threat?]. Skip follow-up since it's blocked by RP.
+Turn in [QT985 How Big a Threat?]. Skip follow-up for now.
 Turn in [QT2138 Cleansing of the Infected]. Skip follow-up for now.
 Turn in [QT982 Deep Ocean, Vast Sea].
 [V][R] Vendor and repair at Elisa, the dwarf next to the turn-in. But don't sell Strider Meat.

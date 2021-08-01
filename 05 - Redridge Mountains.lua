@@ -66,15 +66,13 @@ In Darkshire, accept [QA163 Raven Hill], [QA165 The Hermit] and [QA164 Deliverie
 Accept the Darkshire FP [P Darkshire].
 Buy a [CI4371,1 Bronze Tube] from [G78.05,48.28 Duskwood] Herble. (If he's out you're willing to use AH, you can buy one from AH later)
 If you have a Bronze Tube. Accept [QA174 Look To The Stars] and then turn in [QT174 Look To The Stars]. Skip follow up.
-Turn in [QT165 The Hermit][O] if you pass him.
-Also kill spiders for [QC245 Eight-Legged Menaces][O] and [CI2251,6 Goey Spider Leg].
-Head north and grind west, completing [QC226 Wolves at Our Heels].
-Make sure you have [CI1015,10 Lean Wolf Flank] before moving on.
+[O] Save the Crisp Spider Meat you loot during the next steps for later.
+[OC] Run north out of Darkshire, then slowly grind your way west along the river bank, trying to complete [QC226 Wolves at Our Heels][O] and making progress on [QC245 Eight-Legged Menaces][O], as well as gathering [CI1015,10 Lean Wolf Flank][O] and some [CI2251,6 Goey Spider Leg][O].
 Turn in [QT165 The Hermit].\\Accept [QA148 Supplies from Darkshire].
+Finish up [QC226 Wolves at Our Heels] and [CI1015,10 Lean Wolf Flank].
 Turn in [QT226 Wolves at Our Heels].
 Turn in [QT164 Deliveries to Sven].\\Accept [QA95 Sven's Revenge].
-Finish up [QC245 Eight-Legged Menaces]. (Some are on the way to Raven Hill)
-Also, make sure you have [CI2251,6 Goey Spider Leg] before moving on.
+Finish up [QC245 Eight-Legged Menaces] and [CI2251,6 Goey Spider Leg] on the way to Raven Hill. [G11.7,52.7 Duskwood].
 Turn in [QT163 Raven Hill].\\Accept [QA5 Jitters' Growling Gut].
 Turn in [QT245 Eight-Legged Menaces].
 Run south into STV and get the flight-point at [P Rebel Camp].
