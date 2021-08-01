@@ -8,8 +8,6 @@ Guidelime.registerGuide(
 
 *HEADS UP*: Save *Raptor Egg* for cooking.
 
-[OC] Questcheck. Ashenvale (even needed?): Trek to Ashenvale, Raene's Cleansing. Darkshore: The Tower of Althalaxx (1140). Duskwood: The Doomed Fleet (270). Stormwind: A Noble Brew (335), The Missing Diplomat (1248). Wetlands: Apprentice's Duties (471), Reclaiming Goods (281), War Banners (464), Lifting the Curse (290)
-
 -- Menethil Harbor
 Accept [QA290 Lifting the Curse].
 Accept [QA281 Reclaiming Goods].
@@ -23,8 +21,8 @@ Turn in [QT284 The Search Continues].\\Accept [QA285 Search More Hovels].
 Turn in [QT285 Search More Hovels].\\Accept [QA286 Return the Statuette].
 On top of the boat, kill the captain to complete [QC290 Lifting the Curse].
 Jump in the water, swim down and enter the NW side of the boat at the sea bottom. Turn in [QT290 Lifting the Curse].\\Accept [QA292 The Eye of Paleth].
-Complete [QC471 Apprentice's Duties] in the waters along the [G20.46,23.96 north-western shore].
-Run south-east to [G48.957,44.221,2].
+Complete [QC471 Apprentice's Duties] in the waters along the [G20.46,23.96 Wetlands] north-western shore.
+Run south-east to [G48.957,44.221,2 Wetlands].
 Turn in [QT465 Nek'rosh's Gambit].\\Accept [QA474 Defeat Nek'rosh].
 Grind east and complete [QC474 Defeat Nek'rosh].
 Jump out behind the camp, then grind north and turn in [QT276 Tramping Paws].\\Accept [QA277 Fire Taboo].
@@ -36,7 +34,7 @@ Turn in [QT275 Blisters on The Land].
 Turn in [QT472 Fall of Dun Modr].\\Accept [QA304 A Grim Task].
 Accept [QA631 The Thandol Span].
 Accept [QA303 The Dark Iron War].
-Complete [QC304 A Grim Task]. [G62,28]
+Complete [QC304 A Grim Task]. [G62,28 Wetlands]
 Complete [QC303 The Dark Iron War].
 Turn in [QT304 A Grim Task].
 Turn in [QT303 The Dark Iron War]. Skip follow-up.
@@ -46,11 +44,11 @@ Complete [QC633 The Thandol Span].
 Turn in [QT633 The Thandol Span].\\Accept [QA634 Plea To The Alliance].
 
 -- XXX: Don't know if we want to go to southshore or Arathi from here, for now we'll take the swim quest and assume we go southshore.
-Go around the bridge to [G42.9198,91.4482,1].
+Go around the bridge to [G42.9198,91.4482,1 Wetlands].
 [OC] Pop a Swiftness Potion if you have no movement speed increase. Then make the jump over from the pointy metal ground.
 [OC] WARNING: You only have 15 minutes to do the upcoming steps. Read through them before. Even with no movement speed increase, you can complete this run with 3 mins remaining by just following the road.
 Accept [QA647 MacKreel's Moonshine].
-Jump in the water and loot [CI4433,1 Waterlogged Envelope]. [G44.2981,92.8869,1]
+Jump in the water and loot [CI4433,1 Waterlogged Envelope]. [G44.2981,92.8869,1 Wetlands]
 [OC] Swim east to get out of the water. Watch out for the dwarves by the explosives.
 Follow the road to Refuge Point and turn in [QT634 Plea To The Alliance].
 Get the FP [P Refuge Point].
@@ -68,12 +66,12 @@ Turn in [QT471 Apprentice's Duties].
 
 -- Ironforge & Stormwind
 Fly to [F Ironforge].
-Skip this step if you lack wool to get to FA 115. Otherwise learn *Heavy Wool Bandage* at [G55.1,58.2 Nissa].
-Learn the *Crab Cake* recipe [G59.56,37.61]. Buy *Mild Spices* downstairs.
+Skip this step if you lack wool to get to FA 115. Otherwise learn *Heavy Wool Bandage* at [G55.1,58.2 Ironforge] Nissa.
+*Cooking*: Learn the *Crab Cake* recipe [G59.56,37.61 Ironforge]. Buy *Mild Spices* downstairs.
 Take the tram. Cook Boiled Clams, then Crab Cakes while waiting.
-In stormwind, at [G72.94, 38.45 the cooking trainer], try to get cooking to 130. Kendor sells Cooked Crab Claw (yellow at 125, green at 145). The trainer downstairs has Dry Pork Ribs (yellow at 120, green at 140).
-After that buy and learn *Recipe: Curiously Tasty Omelet* from Kendor.
-If you're not speed-running and can use AH, buy a Bronze Tube if you didn't finish Look to the Stars.
+*Cooking*: In stormwind, at [G72.94, 38.45 Stormwind City] the cooking trainer, try to get cooking to 130. Kendor sells Cooked Crab Claw (yellow at 125, green at 145). The trainer downstairs has Dry Pork Ribs (yellow at 120, green at 140).
+*Cooking*: After that buy and learn *Recipe: Curiously Tasty Omelet* from Kendor.
+If you're willing to use the AH and didn't get one last time we were in Duskwood from the limited stock NPC, buy a [CI4371,1 Bronze Tube]. (You could of course try the NPC again, but if he doesn't have it you'll have to fly back.)
 Fly to [F Darkshire].
 
 ]], 'Shiros Speedrun')
