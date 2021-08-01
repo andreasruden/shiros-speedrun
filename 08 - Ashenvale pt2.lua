@@ -35,7 +35,7 @@ Open the [G54.40,35.38 Ashenvale] chest to complete [QC1026 Raene's Cleansing].
 [G53.43240,35.38638,1 Ashenvale]
 [G53.50840,36.01375,1 Ashenvale]
 [G53.20170,36.35719,1 Ashenvale]
-[52.941870,36.52751,1 Ashenvale]
+[G52.94187,36.52751,1 Ashenvale]
 Run through the cave-like tunnel. In the camp, on the table, read the book to complete [QC1022 The Howling Vale].
 [OC] Been trying to find a way through the mountain to the moonwell, but can't seem to get up anywhere (XXX).
 Run around the mountain and turn in [QT1026 Raene's Cleansing].\\Accept [QA1027 Raene's Cleansing].
