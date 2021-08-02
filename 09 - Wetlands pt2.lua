@@ -19,16 +19,15 @@ Accept [QA465 Nek'rosh's Gambit]
 Turn in [QT281 Reclaiming Goods].\\Accept [QA284 The Search Continues].
 Turn in [QT284 The Search Continues].\\Accept [QA285 Search More Hovels].
 Turn in [QT285 Search More Hovels].\\Accept [QA286 Return the Statuette].
+[O] During the next steps work to complete [QC275 Blisters on The Land]. The Fens are stealthed in the water pools.
+XXX: When do we have the finish up of Blisters on The Land?
 On top of the boat, kill the captain to complete [QC290 Lifting the Curse].
 Jump in the water, swim down and enter the NW side of the boat at the sea bottom. Turn in [QT290 Lifting the Curse].\\Accept [QA292 The Eye of Paleth].
 Complete [QC471 Apprentice's Duties] in the waters along the [G20.46,23.96 Wetlands] north-western shore.
 Run south-east to [G48.957,44.221,2 Wetlands].
 Turn in [QT465 Nek'rosh's Gambit].\\Accept [QA474 Defeat Nek'rosh].
 Grind east and complete [QC474 Defeat Nek'rosh].
-Jump out behind the camp, then grind north and turn in [QT276 Tramping Paws].\\Accept [QA277 Fire Taboo].
-Kill the gnolls to the west-northwest to complete [QC277 Fire Taboo].
-Turn in [QT277 Fire Taboo].\\Accept [QA275 Blisters on The Land].
-Complete [QC275 Blisters on The Land]. The Fens are stealthed in the water pools from here, heading west.
+Jump out behind the camp, then grind north and turn in [QT275 Blisters on The Land].
 Turn in [QT275 Blisters on The Land].
 -- Dun Modr
 Turn in [QT472 Fall of Dun Modr].\\Accept [QA304 A Grim Task].
