@@ -13,21 +13,33 @@ Accept [QA290 Lifting the Curse].
 Accept [QA281 Reclaiming Goods].
 Accept [QA471 Apprentice's Duties]
 Accept [QA472 Fall of Dun Modr].
-Accept [QA465 Nek'rosh's Gambit]
+Accept [QA465 Nek'rosh's Gambit] inside the keep.
 
 -- Second round of Wetlands
 Turn in [QT281 Reclaiming Goods].\\Accept [QA284 The Search Continues].
 Turn in [QT284 The Search Continues].\\Accept [QA285 Search More Hovels].
 Turn in [QT285 Search More Hovels].\\Accept [QA286 Return the Statuette].
-[O] During the next steps work to complete [QC275 Blisters on The Land]. The Fens are stealthed in the water pools.
-XXX: When do we have the finish up of Blisters on The Land?
+If you spot any stealthed Fens, kill them for progress towards [QC275 Blisters on The Land][O]. They are stealthed in the inland water.
 On top of the boat, kill the captain to complete [QC290 Lifting the Curse].
-Jump in the water, swim down and enter the NW side of the boat at the sea bottom. Turn in [QT290 Lifting the Curse].\\Accept [QA292 The Eye of Paleth].
+Jump in the water to the west, swim down and enter the western side of the boat at the sea bottom. Turn in [QT290 Lifting the Curse].\\Accept [QA292 The Eye of Paleth].
 Complete [QC471 Apprentice's Duties] in the waters along the [G20.46,23.96 Wetlands] north-western shore.
-Run south-east to [G48.957,44.221,2 Wetlands].
+[OC] Follow this path to find a high concentration of Fens and probably complete the quest.
+[G18.9895,27.6867 Wetlands]
+[G21.4941,29.3563 Wetlands]
+[G22.9811,29.8759 Wetlands]
+[G23.3193,31.6813 Wetlands]
+[G23.8041,30.3402 Wetlands]
+[G25.2951,31.0528 Wetlands]
+Look around this [G27.5099,32.8714 Wetlands] puddle/small lake.
+And this [G30.9223,35.2823 Wetlands] "lake".
+[G35.5670,33.2099 Wetlands]
+[G37.2067,33.3779 Wetlands]
+[G40.6029,33.1924 Wetlands]
+Now, run south-east to [G48.957,44.221,2 Wetlands] here for the next quest.
 Turn in [QT465 Nek'rosh's Gambit].\\Accept [QA474 Defeat Nek'rosh].
-Grind east and complete [QC474 Defeat Nek'rosh].
-Jump out behind the camp, then grind north and turn in [QT275 Blisters on The Land].
+Head east and complete [QC474 Defeat Nek'rosh]. *Warning:* It's easy to chain-pull mobs around Nek'rosh.
+Jump out [G54.4366,54.2405 Wetlands] behind the camp.
+Finish up [QC275 Blisters on The Land][G55,46.6 Wetlands].
 Turn in [QT275 Blisters on The Land].
 -- Dun Modr
 Turn in [QT472 Fall of Dun Modr].\\Accept [QA304 A Grim Task].
@@ -45,7 +57,7 @@ Turn in [QT633 The Thandol Span].\\Accept [QA634 Plea To The Alliance].
 -- XXX: Don't know if we want to go to southshore or Arathi from here, for now we'll take the swim quest and assume we go southshore.
 Go around the bridge to [G42.9198,91.4482,1 Wetlands].
 [OC] Pop a Swiftness Potion if you have no movement speed increase. Then make the jump over from the pointy metal ground.
-[OC] WARNING: You only have 15 minutes to do the upcoming steps. Read through them before. Even with no movement speed increase, you can complete this run with 3 mins remaining by just following the road.
+[OC] WARNING: You only have 15 minutes to do the upcoming steps. Read through them before. Even with no movement speed increase, you can complete this run with 3 mins remaining by just following the road. You cannot die or the quest will fail, though!
 Accept [QA647 MacKreel's Moonshine].
 Jump in the water and loot [CI4433,1 Waterlogged Envelope]. [G44.2981,92.8869,1 Wetlands]
 [OC] Swim east to get out of the water. Watch out for the dwarves by the explosives.

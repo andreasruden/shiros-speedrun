@@ -129,7 +129,6 @@ Turn in [QT1244 The Missing Diplomat].\\Accept follow-up [QA1245 The Missing Dip
 Turn in [QT253 Bride of the Embalmer].
 Turn in [QT98 The Legend of Stalvan].
 Fly to [F Stormwind].
-If you are a class without movement speed increase (priest, warrior, warlock, mage, paladin; 15% cuts it very close), you should buy a [CI2459,1 Swiftness Potion] from the AH for an upcoming quest. (Or skip the quest)
 Turn in [QT1245 The Missing Diplomat].\\Accept follow-up [QA1246 The Missing Diplomat].
 [OC] Running past option to do donation of wool/silk again.
 Turn in [QT1076 Devils in Westfall] if completed, else abandon it. -- !OptionalFinish

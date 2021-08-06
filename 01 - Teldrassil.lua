@@ -25,7 +25,7 @@ Turn in [QT456 The Balance of Nature].\\Accept [QA457 The Balance of Nature].
 Accept [QA4495 A Good Friend].
 [V] Vendor at [G59.3,41.1 Teldrassil] Keina.
 Accept [QA916 Webwood Venom].
-During the next steps, kill any *Thistleboar*, *Mangy Nightsaber*, and *Webwood Spider*(XXX) that you come across for [QC457][O] and [QC916][O].
+During the next steps, kill any *Thistleboar*, *Mangy Nightsaber*, and *Webwood Spider*(XXX) that you come across for [QC457 The Balance of Nature][O] and [QC916 Webwood Venom][O].
 Talk to Iverron to turn in [QT4495 A Good Friend].\\Accept [QA3519 A Friend in Need].
 [OC] XXX: Die or walk?
 Turn in [QT3519 A Friend in Need].\\Accept [QA3521 Iverron's Antidote].
