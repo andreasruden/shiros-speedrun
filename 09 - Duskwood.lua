@@ -16,7 +16,7 @@ XXX: Is flying to sentinel hill actually quicker than running for a hunter?
 
 -- First round
 [OC] If you didn't finish Look To The Stars last time, buy a Bronze Tube from Herble.
-Turn in [QT174 Look To The Stars].
+Turn in [QT174 Look To The Stars]. -- !OptionalFinish
 Accept [QA175 Look To The Stars].
 Accept [QA173 Worgen in the Woods].
 Accept [QA66 The Legend of Stalvan], [QA101 The Totem of Infliction] and [QA149 Ghost Hair Thread].

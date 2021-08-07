@@ -54,7 +54,7 @@ Get the FP [P Stormwind].
 -- Duskwood
 Head to Duskwood and accept [QA226 Wolves at Our Heels]. (Do *not* accept Sven's Revenge.)
 Run west into Westfall and get Sentinell Hill FP [P Sentinel Hill].
-If you spot wolves, kill them for [QC226 Wolves at our Heels][O].
+If you spot wolves, kill them for [QC226 Wolves at Our Heels][O].
 Discover [G21.2,62.2 Duskwood] Addle's Stead.
 Accept [QA245 Eight-Legged Menaces].
 In Darkshire, accept [QA163 Raven Hill], [QA165 The Hermit] and [QA164 Deliveries to Sven].

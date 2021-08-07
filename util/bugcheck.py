@@ -81,17 +81,19 @@ def process_line(line, route, linenum):
         skip_not_in_questlog_warning = False
         if quest.op == 'A' and quest.id in route.accepted:
             warning(linenum, quest.id, 'Has already been accepted')
-        elif quest.op != 'T' and quest.id in route.completed:
+        elif quest.op != 'T' and quest.id in route.completed and not '!OptionalStep' in line:
             warning(linenum, quest.id, 'Has already been completed')
-        elif quest.id in route.finished and not '!OptionalFinish' in line:
+        elif quest.id in route.finished and not '!OptionalFinish' in line and not '!OptionalStep' in line:
             warning(linenum, quest.id, 'Has already been turned in')
             skip_not_in_questlog_warning = True
 
         if quest.op == 'A':
-            if quest.id not in route.accepted:
+            if quest.id not in route.accepted and not quest.optional:
                 route.accepted.append(quest.id)
             # Check for questlog overflow
             numquests = len(route.accepted) + len(route.completed)
+            if quest.optional:
+                numquests += 1
             if numquests > 25:
                 global wroteOverflow
                 if not wroteOverflow:
@@ -99,20 +101,22 @@ def process_line(line, route, linenum):
                     write_questlog('overflow.txt', route)
                     wroteOverflow = True
         elif quest.op == 'C' and ',' not in quest.id:
-            if quest.id not in route.accepted:
+            if quest.id not in route.accepted and not '!OptionalStep' in line:
                 warning(linenum, quest.id, 'Has not been accepted')
-            else:
+            elif not quest.optional and quest.id in route.accepted:
                 route.accepted.remove(quest.id)
-            route.completed.append(quest.id)
+            if not quest.optional:
+                route.completed.append(quest.id)
         elif quest.op == 'T':
             if quest.id not in route.accepted and quest.id not in route.completed:
                 if '!FinishWithoutAccept' not in line and '!OptionalFinish' not in line and not skip_not_in_questlog_warning:
                     warning(linenum, quest.id, 'Trying to turn in quest not in our quest log')
-            if quest.id in route.accepted:
-                route.accepted.remove(quest.id)
-            if quest.id in route.completed:
-                route.completed.remove(quest.id)
-            route.finished.append(quest.id)
+            if not quest.optional:
+                if quest.id in route.accepted:
+                    route.accepted.remove(quest.id)
+                if quest.id in route.completed:
+                    route.completed.remove(quest.id)
+                route.finished.append(quest.id)
         
         if ',' not in quest.id:
             realQuestInfo = questsDB[quest.id]
@@ -152,7 +156,7 @@ def find_next_quest(line, n=0):
     if not found:
         return (None, len(line))
     
-    quest = Quest() # {'id':'', 'op':'none', 'name':''}
+    quest = Quest() # {'id':'', 'op':'none', 'name':'', 'optional':False}
 
     # Read opcode
     assert(line[n] == 'Q')
@@ -170,6 +174,11 @@ def find_next_quest(line, n=0):
     while line[n] != ']':
         quest.name += line[n]
         n += 1
+    
+    # Check for [O] right after the quest
+    quest.optional = False
+    if n+4 < len(line) and line[n+1:n+4] == '[O]' or n+5 < len(line) and line[n+1:n+5] == '[OC]':
+        quest.optional = True
 
     return (quest, n+1)
 
@@ -201,14 +210,14 @@ def process_file(file, route):
 
 def check_hearthstone(line, route, linenum):
     # Set Hearthstone
-    match = re.search(r'\[S (.*)\]', line)
+    match = re.search(r'\[S ([^\]]*)\]', line)
     if match:
         route.hearthstone = match.group(1)
     # Use Hearthstone
-    match = re.search(r'\[H (.*)\]', line)
+    match = re.search(r'\[H ([^\]]*)\]', line)
     if match:
         if route.hearthstone != match.group(1):
-            msg = 'Trying to use hearthstone to go to %s, but it is bound to %s' % (match.group(1), route.hearthstone)
+            msg = 'Trying to use hearthstone to go to "%s", but it is bound to "%s"' % (match.group(1), route.hearthstone)
             error(linenum, msg)
 
 def scan_files():

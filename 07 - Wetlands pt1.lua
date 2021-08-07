@@ -67,7 +67,7 @@ Complete [QC464 War Banners].
 Accept [QA469 Daily Delivery].
 Turn in [QT463 The Greenwarden].\\Accept [QA276 Tramping Paws].
 Complete [QC470 Digging Through the Ooze][G62,45 Wetlands].
-Follow the river down and finish up [QC484 Young Crocolisk Skins][G64,65 Wetlands].
+Follow the river down and finish up [QC484 Young Crocolisk Skins][G64,65 Wetlands]. -- !OptionalStep
 Head south to [G62.62,69.38 Wetlands] this camp. Get progress on [QC276 Tramping Paws][OC].
 Loot [QC335,2 Musquash Root].
 Run to [G53.83,70.34 Wetlands] to complete [QC455,1 Traverse Dun Algaz]. XXX: Probably skipping

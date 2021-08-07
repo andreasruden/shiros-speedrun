@@ -110,7 +110,7 @@ If completed, turn in [QT489 Seek Redemption!].
 Accept [QA487 The Road to Darnassus] from Moon Priestess Amara, who patrols between Dolanaar and (48,51).
 If you want to do skinning, go to [G42.1,50.05 Teldrassil] Radnaal. If not *skip* this step.
 [OC] The intent with the leather is to either auction it off or vendor it. Up to you.
-If not completed, complete [QC489 Seek Redemption!][O] while doing the next quests.
+If not completed, complete [QC489 Seek Redemption!][O] while doing the next quests. -- !OptionalStep
 At the [G42.38,67.10 Teldrassil] Moonwell fill your flask for [QC933 Crown of the Earth].
 [OC] Note: It's a good idea to do some extra nightsaber & critter *skinning* around here, or you might end up waiting for respawns later.
 Run back and complete [QC487 The Road to Darnassus].
@@ -142,7 +142,7 @@ Turn in [QT2561 Druid of the Claw] back at Oben Rageclaw.
 Hearthstone to [H Dolanaar].
 Turn in [QT933 Crown of the Earth].\\Accept follow-up [QA934 Crown of the Earth].
 Turn in [QT483 The Relics of Wakening].\\Accept [QA486 Ursal the Mauler].
-If not already turned in, turn in [QT489 Seek Redemption!].
+If not already turned in, turn in [QT489 Seek Redemption!]. -- !OptionalFinish
 Turn in [QT487 The Road to Darnassus].
 [A Rogue]Accept [QA2241 The Apple Falls] and [T] learn skills.
 [OC] End of Barrow Den (/played:)
