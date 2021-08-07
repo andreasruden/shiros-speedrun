@@ -85,7 +85,8 @@ Get FP [P Lakeshire].
 Accept [QA20 Blackrock Menace].
 Accept [QA125 The Lost Tools].
 Accept [QA127 Selling Fish] and [QA150 Murloc Poachers].
-Accept [QA129 A Free Lunch].
+Accept [QA129 A Free Lunch] from Darcy.
+[A rogue] Buy [CI5060,1 Thieves' Tools] from [G25,41.2 Redridge Mountains] Gerald.
 Accept [QA92 Redridge Goulash].
 Accept [QA3741 Hilary's Necklace].
 [A rogue] Skill lockpicking to a minimum of 70 at [G52.09,45.06 Redridge Mountains] Alther's Mill. If you intend to max out lockpicking, skill it to 100!
