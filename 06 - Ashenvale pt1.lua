@@ -51,6 +51,7 @@ Turn in [QT991 Raene's Cleansing].\\Accept follow-up [QA1023 Raene's Cleansing].
 Kill the murlocs to complete [QC1023 Raene's Cleansing].
 Accept [QA1007 The Ancient Statuette].
 While doing the next objectives, also kill nagas for [QC1008 The Zoram Strand][O].
+[A rogue][O] And, if you intend to max out lockpicking, skill it to 150 along the Zoram Strand during the quests.
 Loot the [G14.20,20.64 Ashenvale] statuette to complete [QC1007 The Ancient Statuette].
 Turn in [QT1007 The Ancient Statuette].\\Accept [QA1009 Ruuzel].
 Head over to the island and kill [QC1009 Ruuzel], who patrols around with an escort.

@@ -48,12 +48,7 @@ Accept [QA3765 The Corruption Abroad].
 Accept [QA1078 Retrieval for Mauren].
 [OC] Train weapon skills opposite of AH entrance, if desired.
 From the shop [G65.74,59.23 Stormwind City] Fragrant Flowers, facing the canal, purchase [CI2665,1 Stormwind Seasoning Herbs] from Felicia.
--- NOTE: This quest is not worth doing since it requires 70 lockpicking and we go past the tower before redridge.
---[A Rogue] Accept [QA2360 Mathias and the Defias].
---In westfall:
---[A rogue] Turn in [QT2360 Mathias and the Defias].\\Accept [QA2359 Klaven's Tower].
---[A rogue] Pickpocket the guard circling *outside* of the tower to obtain [QC2359,2 Defias Tower Key].
---[A rogue] Stealth up the tower and use lockpicking (skill Lv.70) to obtain [QC2359,1 Klaven Mortwake's Journal].
+[A Rogue] Accept [QA2360 Mathias and the Defias].
 Get the FP [P Stormwind].
 
 -- Duskwood
@@ -93,6 +88,7 @@ Accept [QA127 Selling Fish] and [QA150 Murloc Poachers].
 Accept [QA129 A Free Lunch].
 Accept [QA92 Redridge Goulash].
 Accept [QA3741 Hilary's Necklace].
+[A rogue] Skill lockpicking to a minimum of 70 at [G52.09,45.06 Redridge Mountains] Alther's Mill. If you intend to max out lockpicking, skill it to 100!
 [OC] Kill spiders and boars during the next step.
 Turn in [QT129 A Free Lunch].\\Accept [QA130 Visit the Herbalist].
 Collect [QC92,1 Great Goretusk Snout]. [G32.03,70.05 Redridge Mountains]
@@ -120,6 +116,13 @@ Turn in [QT131 Delivering Daffodils].
 Turn in [QT127 Selling Fish] and [QT150 Murloc Poachers].
 Turn in [QT3741 Hilary's Necklace].
 Swim across and turn in [QT246 Assessing the Threat].
+-- Rogue quest
+[A rogue] Fly to [F Sentinel Hill].
+[A rogue] Turn in [QT2360 Mathias and the Defias].\\Accept [QA2359 Klaven's Tower].
+[A rogue] Pickpocket the guard circling *outside* of the tower to obtain [QC2359,2 Defias Tower Key].
+[A rogue] Stealth up the tower and use lockpicking (skill Lv.70) to obtain [QC2359,1 Klaven Mortwake's Journal].
+[A rogue] Fly to [F Stormwind City].
+[A rogue] Turn in [QA2359 Klaven's Tower]. Do *NOT* accept The Touch of Zanzil.
 Hearth to [H Auberdine].
 
 -- Redridge chains:

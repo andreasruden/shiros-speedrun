@@ -116,6 +116,8 @@ Accept [QA718 Mirages].
 Loot the supply crate in Camp Kosh to complete [QC718 Mirages].
 Turn in [QT718 Mirages].
 Accept [QA732 Tremors of the Earth].
+[A rogue] If you're doing lockpicking, head over to Angor Fortress [G42.98,29.98 Badlands].
+[A rogue] Skill lockpicking here to 200. The *Battered Footlocker* can be opened right away, the *Dented Footlocker* requires skill of 175.
 [OC] During next steps, kill Boss Tho'grun (ogre) if you spot him.
 Turn in [QT1106 Martek the Exiled].\\Accept [QA1108 Indurium].
 Accept [QA705 Pearl Diving] and turn in [QT705 Pearl Diving].

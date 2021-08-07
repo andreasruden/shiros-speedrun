@@ -187,7 +187,7 @@ Die [G41.8856,80.1973,3 Teldrassil] here to warp to Dolanaar (don't die earlier 
 Turn in [QT486 Ursal the Mauler].
 Turn in [QT934 Crown of the Earth].\\Accept follow-up [QA935 Crown of the Earth].
 Turn in [QT4161 Recipe of the Kaldorei].
-Cooking: Learn recipe *Spice Bread* from Zarrin. Buy 10 Simple Flour and 10 Mild Spices from Nyoma. Cook until level 11.
+Cooking: Learn recipe *Spice Bread* from Zarrin. Buy 10 Simple Flour and 10 Mild Spices from Nyoma. Cook until skill 11.
 Cooking: Learn the Spider Kabob recipe, and cook any extra spider legs you have.
 Turn in [QT930 The Glowing Fruit], [QT2498 Return to Denalan] and [QT931 The Shimmering Frond].
 Accept [QA2399 The Sprouted Fronds] and turn in [QT2399 The Sprouted Fronds].
