@@ -3,17 +3,17 @@ Guidelime.registerGuide(
 
 [D Shiros 1-58 Speedrun for alliance (patch 2.3+)]
 [GA Alliance]
-[N 29-30 Wetlands]
-[NX 30-32 Duskwood]
+[N 27-29 Wetlands]
+[NX 29-31 Duskwood]
 
 *HEADS UP*: Save *Raptor Egg* for cooking.
 
 -- Menethil Harbor
-Accept [QA290 Lifting the Curse].
-Accept [QA281 Reclaiming Goods].
-Accept [QA471 Apprentice's Duties]
-Accept [QA472 Fall of Dun Modr].
-Accept [QA465 Nek'rosh's Gambit] inside the keep.
+-- Accept [QA290 Lifting the Curse].
+-- Accept [QA281 Reclaiming Goods].
+-- Accept [QA471 Apprentice's Duties].
+-- Accept [QA472 Fall of Dun Modr].
+-- Accept [QA465 Nek'rosh's Gambit] inside the keep.
 
 -- Second round of Wetlands
 Turn in [QT281 Reclaiming Goods].\\Accept [QA284 The Search Continues].
@@ -31,6 +31,7 @@ Complete [QC471 Apprentice's Duties] in the waters along the [G20.46,23.96 Wetla
 [G23.8041,30.3402 Wetlands]
 [G25.2951,31.0528 Wetlands]
 Look around this [G27.5099,32.8714 Wetlands] puddle/small lake.
+[OC] If you did not complete Sarltooth last time head south and do that.
 And this [G30.9223,35.2823 Wetlands] "lake".
 [G35.5670,33.2099 Wetlands]
 [G37.2067,33.3779 Wetlands]
@@ -38,10 +39,12 @@ And this [G30.9223,35.2823 Wetlands] "lake".
 Now, run south-east to [G48.957,44.221,2 Wetlands] here for the next quest.
 Turn in [QT465 Nek'rosh's Gambit].\\Accept [QA474 Defeat Nek'rosh].
 Head east and complete [QC474 Defeat Nek'rosh]. *Warning:* It's easy to chain-pull mobs around Nek'rosh.
+If you're not Lv.28 yet, farm this camp until you are [XP28-2650 2650 xp away from Lv.28].
 Jump out [G54.4366,54.2405 Wetlands] behind the camp.
 Finish up [QC275 Blisters on The Land][G55,46.6 Wetlands].
 Turn in [QT275 Blisters on The Land].
 -- Dun Modr
+[OC] The next section (Dun Modir) is fairly challenging (Lv. 28-31 mobs). It is possible to skip it for now, and instead do it in the Hillsbrad Foothills file, in exchange for some worsened pathing. If so, either HS or run back to Menethil.
 Turn in [QT472 Fall of Dun Modr].\\Accept [QA304 A Grim Task].
 Accept [QA631 The Thandol Span].
 Accept [QA303 The Dark Iron War].
@@ -77,7 +80,7 @@ Turn in [QT471 Apprentice's Duties].
 
 -- Ironforge & Stormwind
 Fly to [F Ironforge].
-Skip this step if you lack wool to get to FA 115. Otherwise learn *Heavy Wool Bandage* at [G55.1,58.2 Ironforge] Nissa.
+If you did not get the bandage last time, learn *Heavy Wool Bandage* at [G55.1,58.2 Ironforge] Nissa.
 *Cooking*: Learn the *Crab Cake* recipe [G59.56,37.61 Ironforge]. Buy *Mild Spices* downstairs.
 Take the tram. Cook Boiled Clams, then Crab Cakes while waiting.
 *Cooking*: In stormwind, at [G72.94, 38.45 Stormwind City] the cooking trainer, try to get cooking to 130. Kendor sells Cooked Crab Claw (yellow at 125, green at 145). The trainer downstairs has Dry Pork Ribs (yellow at 120, green at 140).

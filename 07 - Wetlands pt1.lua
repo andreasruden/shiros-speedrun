@@ -4,7 +4,7 @@ Guidelime.registerGuide(
 [D Shiros 1-58 Speedrun for alliance (patch 2.3+)]
 [GA Alliance]
 [N 25-27 Wetlands]
-[NX 27-29 Ashenvale]
+[NX 27-29 Wetlands]
 
 *HEADS UP*: Save *Bear Meat*, *Boar Ribs*, *Clam Meat*, *Crawler Meat*, *Crawler Leg* and *Raptor Egg* for cooking.
 
@@ -55,7 +55,7 @@ Finish up [QC295 Ormer's Revenge].
 Turn in [QT295 Ormer's Revenge].\\Accept follow-up [QA296 Ormer's Revenge].
 Turn in [QT299 Uncovering the Past].\\Accept [QA306 In Search of The Excavation Team].
 Loot [QC943,2 Flagongut's Fossil].
-[OC] If you can't solo Sarltooth (Lv. 29 raptor) just skip the quest.
+[OC] If you can't solo Sarltooth (Lv. 29 raptor), save this quest until later.
 [G32.6660,49.1835,1 Wetlands]
 [G32.08604,48.7591,1 Wetlands]
 [G32.1954,49.5278,1 Wetlands]
@@ -79,17 +79,14 @@ Hearth to [H Menethil Harbor].
 
 -- Turn ins
 Upstairs, turn in [QT943 The Absent Minded Prospector].
-Turn in [QT289 The Cursed Crew].
-Turn in [QT279 Claws from the Deep].
-Turn in [QT469 Daily Delivery] and [QT484 Young Crocolisk Skins].
+Turn in [QT289 The Cursed Crew].\\Accept [QA290 Lifting the Curse].
+Turn in [QT279 Claws from the Deep].\\Accept [QA281 Reclaiming Goods].
+Turn in [QT469 Daily Delivery] and [QT484 Young Crocolisk Skins].\\Accept [QA471 Apprentice's Duties].
 Turn in [QT306 In Search of The Excavation Team].
+Accept [QA472 Fall of Dun Modr].
 Turn in [QT455 The Algaz Gauntlet]. XXX: Not doing, probably
-Turn in [QT464 War Banners] in the keep.
+Turn in [QT464 War Banners] in the keep.\\Accept [QA465 Nek'rosh's Gambit].
 Turn in [QT470 Digging Through the Ooze].
 [R][V] Repair/vendor/arrows at [G11.29,58.47 Wetlands] Naela.
-[OC] You should be level 27 by now.
-Take the [G4.6,57.2 Wetlands] northern boat to Darkshore. Cook/first aid while waiting.
-Accept [QA1135 Highperch Venom].
-Fly to [F Astranaar].
 
 ]], 'Shiros Speedrun')

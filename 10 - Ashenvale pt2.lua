@@ -3,10 +3,15 @@ Guidelime.registerGuide(
 
 [D Shiros 1-58 Speedrun for alliance (patch 2.3+)]
 [GA Alliance]
-[N 27-29 Ashenvale]
-[NX 29-30 Wetlands]
+[N 31-32 Ashenvale]
+[NX 32-33 Hillsbrad Foothills]
 
 XXX: Lots of running & flying in this segment. Is this second run through the zone actually worth it?
+
+-- Back to Ashenvale
+Take the [G4.6,57.2 Wetlands] northern boat to Darkshore. Cook/first aid while waiting.
+Accept [QA1135 Highperch Venom].
+Fly to [F Astranaar].
 
 -- To Forest Song
 Accept [QA4581 Kayneth Stillwind].
