@@ -99,7 +99,7 @@ Head east and complete [QC246 Assessing the Threat].
 Go clear out all the Condors at [G62,76.63 Redridge Mountains].
 [OC] Save any Clam Meat you find. We need those for cooking.
 Kill murlocs at [G48.49,71.42 Redridge Mountains] this camp to complete [QC150 Murloc Poachers] and [QC127 Selling Fish].
-Go clear out all the Condors at [G62,76.63 Redridge Mountains].
+Go clear out all the Condors at [G62,76.63 Redridge Mountains]. Skip if you've got 5 *Tough Condor Meat* already.
 Complete [QC20 Blackrock Menace] at the [G74.2,81.3 Redridge Mountains] SE cave.
 Finish collecting [QC92,2 Tough Condor Meat]. [G62,76.63 Redridge Mountains]
 Complete [QC125 The Lost Tools].

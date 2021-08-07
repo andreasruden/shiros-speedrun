@@ -55,7 +55,7 @@ While doing the next objectives, also kill nagas for [QC1008 The Zoram Strand][O
 Loot the [G14.20,20.64 Ashenvale] statuette to complete [QC1007 The Ancient Statuette].
 Turn in [QT1007 The Ancient Statuette].\\Accept [QA1009 Ruuzel].
 Head over to the island and kill [QC1009 Ruuzel], who patrols around with an escort.
-Finish [QC1008 The Zoram Strand] on the way back to the turn in.
+Finish [QC1008 The Zoram Strand][G Ashenvale] on the way back to the turn in.
 Turn in [QT1009 Ruuzel].
 Hearth to [H Astranaar]. XXX: This seems like it might still be on cooldown. Should we put stonetalon first? Or farm a bit extra at Tower quest? E.g. farm until HS is on 30 mins
 Turn in [QT1023 Raene's Cleansing].\\Accept [QA1025 An Aggressive Defense] and [QA1024 Raene's Cleansing].
@@ -75,7 +75,8 @@ Complete [QC1033 Elune's Tear].
 Turn in [QT1024 Raene's Cleansing].\\Accept follow-up [QA1026 Raene's Cleansing].
 Complete [QC1025 An Aggressive Defense].
 Accept [QA1016 Elemental Bracers].
-Kill water elementals to collect 5 [CI12220,5 Intact Elemental Bracers][O] and then use the Divining Scroll to complete [QC1016 Elemental Bracers].
+Kill water elementals to collect 5 [CI12220,5 Intact Elemental Bracers][O].
+Once you've got 5, use the Divining Scroll to complete [QC1016 Elemental Bracers].
 Turn in [QT1016 Elemental Bracers].\\Accept [QA1017 Mage Summoner].
 Turn in [QT1033 Elune's Tear].\\Accept [QA1034 The Ruins of Stardust].
 Turn in [QT1025 An Aggressive Defense].
@@ -93,10 +94,10 @@ Turn in [QT1093 Super Reaper 6000].\\Accept [QA1094 Further Instructions].  -- W
 Turn in [QT1071 A Gnome's Respite].\\Accept [QA1072 An Old Colleague] and [QA1075 A Scroll from Mauren].
 [OC] We're skipping Gerenzo's Orders in the cave, because it's just too difficult.
 Grind you way north and finish up [QC1134 Pridewings of Stonetalon][G53.86,39.71 Stonetalon Mountains].
-[O] Harpies seem to partially share spawns. E.g., it seems like Roguefeather/Slayer/Storm Witch can respawn as eachother. So, it's a good idea to kill while running around rather than just looking for specific harpies.
 Continue grinding north, then turn in [QT1056 Journey to Stonetalon Peak].\\Accept [QA1057 Reclaiming the Charred Vale].
 Learn of the flight path [P Stonetalon Peak].
 [OC] You should be Lv.24 by now (if not some mobs of the next quest will be orange). Grind you way to the Charred Vale.
+[OC] Harpies seem to partially share spawns. E.g., it seems like Roguefeather/Slayer/Storm Witch can respawn as eachother. So, it's a good idea to kill while running around rather than just looking for specific harpies.
 Complete [QC1078 Retrieval for Mauren] and [QC1057 Reclaiming the Charred Vale].
 Run to Desolace and get the FP in [P Nijel's Point].
 Fly to [F Stonetalon Peak].

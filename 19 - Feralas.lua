@@ -200,16 +200,62 @@ Turn in [QT3841 An Orphan Looking For a Home].\\Accept [QA3842 A Short Incubatio
 Turn in [QT3842 A Short Incubation].\\Accept [QA3843 The Newest Member of the Family].
 XXX: Back to Booty Bay was acceptable here??? Did I not take that earlier? When can we turn that in?
 Run back to Gadgetzan and fly to [F Theramore].
-XXX: Not worth going by arathi to do Sunken Treasure, is it?
+
+-- Aerie Peak
+XXX: Not worth going by arathi to do Sunken Treasure, is it? Maybe we should do that earlier, then we can also grab Rhapsody's Kalimdor Kocktail and have it for Feralas/Tanaris
 Fly to [F Southshore].
 Run to [G86.2,30.1,25 Hillsbrad Foothills] Hinterland's Entrance.
 Accept [QA9469 Featherbeard's Endorsement], [QA9470 A Gesture of Goodwill] and [QA9471 Preying on the Predators].
 In the keep, turn right and accept [QA2877 Skulk Rock Clean-up] and [QA2880 Troll Necklace Bounty].
 Head straight and down the stairs to the bottom of the keep to turn in [QT3843 The Newest Member of the Family].\\Accept [QA4297 Food for Baby].
+-- XXX: Next two steps are only for setting hearthstone.
+Head back up to the entrance floor. Walk into the room with the big cannons. Walk into the [G13.90123,42.18432 The Hinterlands] right doorway.
+Head up the stairs, and at Thulfram, set your hearthstone to [S Wildhammer Keep].
 Head back out of the keep and then follow the path that goes up and turn in [QT1449 To The Hinterlands].\\Accept [QA1450 Gryphon Master Talonaxe].
 Continue up and get FP [P Aerie Peak].
 Turn in [QT1450 Gryphon Master Talonaxe].\\Accept [QA1451 Rhapsody Shindigger] and [QA2988 Witherbark Cages].
 
+-- Hinterlands (Lv. 47 start, 48 end)
+[OC] If you find a Distress Beacon, save it!
+During the next steps loot feathers off the ground for [QC3661 Favored of Elune?][O]
+Kill wolves during the next steps for [QC9471 Preying on the Predators][O].
+Turn in [QT9469 Featherbeard's Endorsement].\\Accept [QA9476 In Pursuit of Featherbeard].
+XXX: Turn in one of the Rhapsody quests here. See other XXX above.
+Complete [QC2988,1 Check First Cage] and [QC2988,2 Check Second Cage]. Kill the entire camp for *Troll Tribal Necklaces* before moving on.
+Complete [QC2988,3 Check Third Cage].
+Finish up [QC2880 Troll Necklace Bounty][G31.8,58 The Hinterlands].
+Run back to the Aviary in Aerie Peak and turn in [QT2988 Witherbark Cages].\\Accept [QA2989 The Altar of Zul].
+On the way to this waypoint, finish [QC9471,1 Mangy Silvermane][G21.4,55.1 The Hinterlands].
+Complete [QC9470 A Gesture of Goodwill].
+Finish up [QC9471,2 Silvermane Wolf][G32,63 The Hinterlands].
+Enter [G35.8,62.9,20 The Hinterlands] Shandra'Alor.
+Turn in [QT9476 In Pursuit of Featherbeard].\\Accept [QA9475 Reclaiming the Eggs].
+[A dwarf][OC] Using *Find Treasure* lets you spot the eggs on your minimap.
+Jump down to the [G35.9564,72.7567,5 The Hinterlands] Witherbark Caller and check for eggs.
+By the lake, check the [G34,73 The Hinterlands] altar for eggs.
+If not finished, checek where [G33.74,75.19 The Hinterlands] Atal'ai Exile is standing.
+Complete [QC9475 Reclaiming the Eggs].
+Head north out of Shandra'Alor, then swim into the lake and complete [QC2641 Sprinkle's Secret Ingredient]. Don't eat it! :-)
+Run up to the Altar of Zul to complete [QC2989 The Altar of Zul][G48.9,68.5 The Hinterlands].
+Try to finish up [QC3661 Favored of Elune?][G51.2,58.6 The Hinterlands]. The density of feathers is a lot less past this point.
+During the next steps kill any *Silvermane Stalker* you spot for progress on [QC4297 Food for Baby][O]. *Note*: They are stealthed!
+At Skulk Rock complete [QC2877 Skulk Rock Clean-up][G57.4,38.5 The Hinterlands].
+If you have not yet obtained it... unlucky :-). But, farm mobs around this area to find a [CI8704 OOX-09/HL Distress Beacon].
+From the beacon, accept [QA485 Find OOX-09/HL!]
+Turn in [QT485 Find OOX-09/HL!]\\Accept the escort [QA836 Rescue OOX-09/HL!]
+Complete [QC836 Rescue OOX-09/HL!] There's a 3 trolls ambush along the way.
+Walk back up and finish up [QC4297 Food for Baby][G69.7,56.2 The Hinterlands]. Run around and let the wolves aggro you. Work your way towards the Waterfall at (80,46). Once finished jump down into the water.
+Collect Grogs on the beach for [QC580 Whiskey Slim's Lost Grog][O] during the next two steps.
+Turn in [QT626 Cortello's Riddle].
+Find Gammerita who patrols the beach, and use the *Super Snapper FX* item on her to complete [QC2944 The Super Snapper FX].
+Finish up [QC580 Whiskey Slim's Lost Grog].
+Hearth to [H Wildhammer Keep]. XXX: Can use deathwarp to Aerie Peak here I think (needs to be confirmed on retail), in case we need HS somewhere
+-- Can technically use same turn-in order if not hearth-stoning. Although might want to put gesture/preying/eggs as first, and skulk/necklace as second to not feel awkward.
+Run down to the bottom floor of the keep and turn in [QT4297 Food for Baby].\\Accept [QA4298 Becoming a Parent].
+Turn in [QT4298 Becoming a Parent].
+Head up to the ground level and turn in [QT2877 Skulk Rock Clean-up] and [QT2880 Troll Necklace Bounty].
+Go outside, turn in [QT9470 A Gesture of Goodwill], [QT9471 Preying on the Predators] and [QT9475 Reclaiming the Eggs].
+Run up to the aviary and turn in [QT2989 The Altar of Zul].\\Accept [QA2990 Thadius Grimshade]. XXX: Do we actually want the follow-up?
 
 XXX: This is not done yet
 -- In Ratchet
