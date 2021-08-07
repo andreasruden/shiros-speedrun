@@ -85,18 +85,16 @@ Get FP [P Lakeshire].
 Accept [QA20 Blackrock Menace].
 Accept [QA125 The Lost Tools].
 Accept [QA127 Selling Fish] and [QA150 Murloc Poachers].
-Accept [QA129 A Free Lunch] from Darcy.
+Accept [QA129 A Free Lunch] from Darcy, who wanders the inn.
 [A rogue] Buy [CI5060,1 Thieves' Tools] from [G25,41.2 Redridge Mountains] Gerald.
 Accept [QA92 Redridge Goulash].
 Accept [QA3741 Hilary's Necklace].
 [A rogue] Skill lockpicking to a minimum of 70 at [G52.09,45.06 Redridge Mountains] Alther's Mill. If you intend to max out lockpicking, skill it to 100!
 [OC] Kill spiders and boars during the next step.
 Turn in [QT129 A Free Lunch].\\Accept [QA130 Visit the Herbalist].
-Collect [QC92,1 Great Goretusk Snout]. [G32.03,70.05 Redridge Mountains]
-There's some gnolls you can kill around here too, while looking for spiders. For [QC246 Assessing the Threat][O].
-[OC] There's also more spiders on the road closer to Duskwood.
-Finish collecting [QC92,3 Crisp Spider Meat]. [G18.48,73.67 Redridge Mountains]
-Finish collecting [QC92,1 Great Goretusk Snout]. [G32.03,70.05 Redridge Mountains]
+Kill all boars [G32.03,70.05 Redridge Mountains] here for *Great Goretusk Snout*. Then move on.
+If you did not get enough from Duskwood, finish collecting [QC92,3 Crisp Spider Meat]. [G18.48,73.67 Redridge Mountains]
+Kill some gnolls for for Assessing the Threat and boars to finish collecting [QC92,1 Great Goretusk Snout]. [G32.03,70.05 Redridge Mountains]
 Head east and complete [QC246 Assessing the Threat].
 Go clear out all the Condors at [G62,76.63 Redridge Mountains].
 [OC] Save any Clam Meat you find. We need those for cooking.
@@ -105,7 +103,7 @@ Go clear out all the Condors at [G62,76.63 Redridge Mountains].
 Complete [QC20 Blackrock Menace] at the [G74.2,81.3 Redridge Mountains] SE cave.
 Finish collecting [QC92,2 Tough Condor Meat]. [G62,76.63 Redridge Mountains]
 Complete [QC125 The Lost Tools].
-Complete [QC3741 Hilary's Necklace].
+Look from here all the way to the west of the lake, to complete [QC3741 Hilary's Necklace][G37.3,54.2 Redridge Mountains].
 [OC] When you [V] vendor don't sell the Murloc Fins or the ingredients for the Goulash.
 Turn in [QT20 Blackrock Menace].
 Turn in [QT125 The Lost Tools].
@@ -113,7 +111,7 @@ Turn in [QT130 Visit the Herbalist].\\Accept [QA131 Delivering Daffodils] and [Q
 Complete [QC34 An Unwelcome Guest].
 Turn in [QT34 An Unwelcome Guest].
 Turn in [QT92 Redridge Goulash].
-Turn in [QT131 Delivering Daffodils].
+Turn in [QT131 Delivering Daffodils] at Darcy, who wanders the inn.
 Turn in [QT127 Selling Fish] and [QT150 Murloc Poachers].
 Turn in [QT3741 Hilary's Necklace].
 Swim across and turn in [QT246 Assessing the Threat].

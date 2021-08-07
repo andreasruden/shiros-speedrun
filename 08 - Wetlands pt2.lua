@@ -44,7 +44,7 @@ Jump out [G54.4366,54.2405 Wetlands] behind the camp.
 Finish up [QC275 Blisters on The Land][G55,46.6 Wetlands].
 Turn in [QT275 Blisters on The Land].
 -- Dun Modr
-[OC] The next section (Dun Modir) is fairly challenging (Lv. 28-31 mobs). It is possible to skip it for now, and instead do it in the Hillsbrad Foothills file, in exchange for some worsened pathing. If so, either HS or run back to Menethil.
+[OC] The next section (Dun Modir) is fairly challenging (Lv. 28-31 mobs). It also involves a long run through Arathi/Hillsbrad on a timer. It is possible to skip it for now, and instead do it in the Hillsbrad Foothills file, in exchange for some worsened pathing. If so, either HS or run back to Menethil.
 Turn in [QT472 Fall of Dun Modr].\\Accept [QA304 A Grim Task].
 Accept [QA631 The Thandol Span].
 Accept [QA303 The Dark Iron War].

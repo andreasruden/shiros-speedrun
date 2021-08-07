@@ -18,6 +18,7 @@ Turn in [QT1250 The Missing Diplomat].\\Accept follow-up [QA1264 The Missing Dip
 Turn in [QT321 Lightforge Iron].\\Accept [QA324 The Lost Ingots].
 Complete [QC324 The Lost Ingots]. [G12,64]
 Turn in [QT324 The Lost Ingots].\\Accept [QA322 Blessed Arm].
+If you did not do Dun Modr earlier, load the 32-32 Dun Modr file, complete that, then come back here!
 Fly to [F Southshore].
 
 -- Southshore
