@@ -121,7 +121,8 @@ Swim across and turn in [QT246 Assessing the Threat].
 [A rogue] Pickpocket the guard circling *outside* of the tower to obtain [QC2359,2 Defias Tower Key].
 [A rogue] Stealth up the tower and use lockpicking (skill Lv.70) to obtain [QC2359,1 Klaven Mortwake's Journal].
 [A rogue] Fly to [F Stormwind City].
-[A rogue] Turn in [QA2359 Klaven's Tower]. Do *NOT* accept The Touch of Zanzil.
+[A rogue] Turn in [QT2359 Klaven's Tower].
+[A rogue] Now you know the poisons profession! Ask someone to cure the poison you got from opening the chest, or if you cannot, use an Anti-Venom from FA or buy a Jungle Remedy from the AH. Or, gasp, complete The Touch of Zanzil and its follow-up to get a cure.
 Hearth to [H Auberdine].
 
 -- Redridge chains:
