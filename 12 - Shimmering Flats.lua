@@ -12,7 +12,10 @@ Guidelime.registerGuide(
 Fly to [F Arathi].
 Turn in [QT690 Malin's Request].
 Accept [QA681 Northfold Manor].
-Complete [QC681 Northfold Manor].
+Enter [G26,56 Arathi Highlands] Stromgarde Keep.
+Hugh the right wall until you reach [G26.97,58.82 Arathi Highlands] Deneb Walker.
+At Deneb Walker, purchase [CI16084,1 Expert First Aid - Under Wraps], [CI16112,1 Manual: Heavy Silk Bandage] and [CI16113 Manual: Mageweave Bandage]. Learn the first manual, then learn the others at your own pace.
+Head out of Stromgarde Keep and complete [QC681 Northfold Manor].
 Turn in [QT681 Northfold Manor].
 
 Fly to [F Menethil Harbor].
@@ -28,7 +31,8 @@ Get the FP [P Mudsprocket].
 [OC] Continue to Barrens, then south to the lift. Once in Thousand Needles, head NW towards Feralas.
 Turn in [QT1059 Reclaiming the Charred Vale].
 Get FP [P Thalanaar].
-[OC] Run back east again all the way to Shimmering Flats. Warning: watch out for the guards at Freewind Post.
+Complete [QC1135 Highperch Venom].
+[OC] Keep running east towards Shimmering Flats. Watch out for the guards below Freewind Post.
 Accept [QA1110 Rocket Car Parts].
 Accept [QA1104 Salt Flat Venom].
 Accept [QA1105 Hardened Shells].

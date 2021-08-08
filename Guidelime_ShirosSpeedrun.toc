@@ -12,9 +12,10 @@
 05 - Redridge Mountains.lua
 06 - Ashenvale pt1.lua
 07 - Wetlands pt1.lua
-08 - Ashenvale pt2.lua
-09 - Wetlands pt2.lua
-10 - Duskwood.lua
+08 - Wetlands pt2.lua
+09 - Duskwood.lua
+10 - Ashenvale pt2.lua
+10.5 - Dun Modr.lua
 11 - Hillsbrad Foothills.lua
 12 - Shimmering Flats.lua
 13 - Stranglethorn Vale pt 1.lua

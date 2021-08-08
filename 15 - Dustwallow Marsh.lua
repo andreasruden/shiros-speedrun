@@ -15,6 +15,7 @@ Accept [QA11126 Traitors Among Us].
 [OC] As you're running around, complete [QC11126 Traitors Among Us].
 ?? Accept [QA1282 They Call Him Smiling Jim]. -- XXX: Sounds like you cannot actually get 1282 if you've completed James Hyal (which gives more xp)
 Set hearthstone in [S Theramore].
+[OC] Depending on level earlier you might not have this turn-in, but it's not a necessary prerequisite for the next quest.
 Turn in [QT1260 Morgan Stern].\\Accept [QA1204 Mudrock Soup and Bugs].
 Turn in [QT1282 They Call Him Smiling Jim].\\Accept [QA11123 Inspecting the Ruins].
 In the top of the tower, turn in [QT1265 The Missing Diplomat].\\Accept follow-up [QA1266 The Missing Diplomat].

@@ -102,6 +102,7 @@ Kill [QC1012,3 Mavoris Cloudsbreak][G75.046253,74.193507 Ashenvale].
 [OC] Follow this path out of the cave.
 
 -- To Ratchet
+[G62.1156,82.0034 Ashenvale]
 Turn in [QT9521 Report from the Northern Front].
 If you stand [G47.224599,5.450017,1 The Barrens] here, you can jump up on the fence and get into barrens without aggroing any guards.
 Avoid the guards by hugging the mountain. Then run south up onto the first big mountain and complete [QC1017 Mage Summoner].
@@ -120,8 +121,8 @@ Turn in [QT1140 The Tower of Althalaxx].\\Accept follow-up [QA1167 The Tower of 
 Fly to [F Rut'theran Village].
 
 -- Darnassus
-[OC] Can turn in wool/silk donation if you have 60 of either.
-[T] Train Lv.28 skills.
+[T] Train Lv.32 skills.
+If your First Aid is or can reach 150, learn *Silk Bandage* from [G51.7,12.4 Darnassus] Dannelor. Otherwise skip this step.
 Turn in [QT1037 Velinde Starsong].\\Accept [QA1038 Velinde's Effects].
 Run up at [G56.25,78.94,4 Darnassus].
 Loot her locker to complete [QC1038 Velinde's Effects].

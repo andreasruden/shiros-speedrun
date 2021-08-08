@@ -11,19 +11,22 @@ Fly to [F Southshore].
 Accept [QA659 Hints of a New Plague?]
 On the upper floor, turn in [QT1052 Down the Scarlet Path].
 Set hearthstone in [S Southshore].
-If not completed before, accept [QA500 Crushridge Bounty]. -- !OptionalFinish
-Else, accept [QA504 Crushridge Warmongers].
+If you had to skip it last time, accept [QA500 Crushridge Bounty] instead of the next one. -- !OptionalFinish
+Accept [QA504 Crushridge Warmongers].
 Turn in [QT525 Further Mysteries].\\Accept [QA512 Noble Deaths] and [QA537 Dark Council].
-Head north [G55, 11].
--- XXX: Pathing here is wrong, since we added magical analysis
-If not completed before, complete [QC500 Crushridge Bounty]. -- !OptionalFinish
-Else, complete [QC504 Crushridge Warmongers].
-Backtrack a bit, then head west to turn in [QT602 Magical Analysis].\\Accept [QA603 Ansirem's Key].
+Turn in [QT602 Magical Analysis].\\Accept [QA603 Ansirem's Key].
+[G33.291807,68.968439 Alterac Mountains]
+[G39.592844,63.365703,5 Alterac Mountains]
+[G37.824124,62.151205,5 Alterac Mountains]
+If you didn't complete it before, complete [QC500 Crushridge Bounty]. -- !OptionalFinish
+Complete [QC504 Crushridge Warmongers].
+Complete [QC537,1 Argus Shadow Mage][G62,44.2 Alterac Mountains] in Strahnbrad.
+Head into the [G57.7 33.8,40 Alterac Mountains] Uplands.
+[O] Try to *complete* [QC512 Noble Deaths] on the way. Drops from the syndicate mobs.
 Continue through the Uplands. Obtain [QC537,2 Head of Nagaz].
-Loot the Worn Wooden Chest next to Nagaz to obtain [CI3706,1 Ensorcelled Parchment].
+Loot the Worn Wooden Chest next to Nagaz to obtain *Ensorcelled Parchment*.
 From the item accept [QA551 The Ensorcelled Parchment].
-Finish [QC537 Dark Council] and [QC512 Noble Deaths].
--- XXX: Should we grab WPL flight point here? Or maybe in Hillsbrad Foothills file while doing turtles
+If not finished, finish up [QC512 Noble Deaths][G41.5,18.9 Alterac Mountains].
 Hearth to [H Southshore].
 Turn in [QT512 Noble Deaths] and [QT537 Dark Council].
 If you skipped bounty the first time, turn in [QT500 Crushridge Bounty] and skip the follow-up. -- !OptionalFinish
@@ -132,7 +135,9 @@ Turn in [QT732 Tremors of the Earth].
 
 -- Loch Modan
 Run back to Loch Modan and turn in [QT739 Murdaloc]. Skip follow-up.
-Fly to [F Stormwind]. -- XXX: 5m 33s. Tram better?
+Fly to [F Ironforge].
+If your first aid skill is at least 225, accept the quest [QA6625 Alliance Trauma].
+Take the [G75.74,50.87 Ironforge] tram to Stormwind City.
 
 -- Stormwind
 [T] If you're not night elf, train Lv.42 skills while in Stormwind.

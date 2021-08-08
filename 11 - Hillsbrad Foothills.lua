@@ -16,7 +16,7 @@ Turn in [QT1249 The Missing Diplomat].
 Accept [QA1250 The Missing Diplomat].
 Turn in [QT1250 The Missing Diplomat].\\Accept follow-up [QA1264 The Missing Diplomat].
 Turn in [QT321 Lightforge Iron].\\Accept [QA324 The Lost Ingots].
-Complete [QC324 The Lost Ingots]. [G12,64]
+Complete [QC324 The Lost Ingots]. [G12,64 Hillsbrad Foothills]
 Turn in [QT324 The Lost Ingots].\\Accept [QA322 Blessed Arm].
 If you did not do Dun Modr earlier, load the 32-32 Dun Modr file, complete that, then come back here!
 Fly to [F Southshore].
@@ -39,26 +39,29 @@ Turn in [QT561 Farren's Proof].\\Accept [QA562 Stormwind Ho!].
 On the beach SE of southshore, complete [QC562 Stormwind Ho!].
 
 -- Making the rounds
-After finishing, head to the [G55.4,58.5 river].
+After finishing, head to the [G55.4,58.5 Hillsbrad Foothills] river.
 [OC] Kill turtles for [QC555 Soothing Turtle Bisque] progress.
-Grind over to [G60.1267,43.8959,2 here], where you can climb up the left side of the waterfall by hugging the water + rock.
-Kill a turtle or two right after [G63.27,40.67 climbing] the waterfall.
+Grind over to [G60.1267,43.8959,2 Hillsbrad Foothills] here, where you can climb up the left side of the waterfall by hugging the water + rock.
+Kill a turtle or two right after [G63.27,40.67 Hillsbrad Foothills] climbing the waterfall.
 Then head over and complete [QC9435 Missing Crystals] inside the tower.
-Go back to the river and keep grinding turtles north until you complete [QC555 Soothing Turtle Bisque].
-From the river, go to [G67.19,8.96 in Hillsbrad Foothills] (66,69 if zone is Alterac Mountains).
+Go back to the river and keep grinding turtles north until [G83.4,52.5 Alterac Mountains].
+[G80,41.8 Alterac Mountains]
+Get FP in [G42.94,85.05 Western Plaguelands] [P Chillwind Camp].
+Head back to the river and grind south until you complete [QC555 Soothing Turtle Bisque].
+From the river, go to [G67.19,8.96 Hillsbrad Foothills].
 From here run up to Sofera's Naze and from the document on the table accept [QA510 Foreboding Plans] and [QA511 Encrypted Letter].
-Finish up [QC505 Syndicate Assassins] [G58.3,67.9].
+Finish up [QC505 Syndicate Assassins] [G58.3,67.9 Alterac Mountains].
 If you are strong enough, complete [QC500 Crushridge Bounty].
 Head out of the ogre area and continue heading west to complete [QC564 Costly Menace].
 Run back to southshore to turn in [QT564 Costly Menace].
 Turn in [QT511 Encrypted Letter].\\Accept [QA514 Letter to Stormpike].
-Purchase [CI3713,1 Soothing Spices] from [G48.93,55.03 Micha].
+Purchase [CI3713,1 Soothing Spices] from [G48.93,55.03 Hillsbrad Foothills] Micha.
 Turn in [QT9435 Missing Crystals].
 Turn in [QT562 Stormwind Ho!].\\Accept [QA563 Reassignment].
 At the chef, turn in [QT555 Soothing Turtle Bisque].
 If you completed it, turn in [QT500 Crushridge Bounty].
 Turn in [QT505 Syndicate Assassins] and [QT510 Foreboding Plans]. Skip follow-up for now.
-You should be Lv.33 by now, but if not grind the beaches until [XP33-11850]. -- XXX: Changed Lv from 32 to 33, double check that this value is still corect (i.e. no xp reductions)
+-- Not needed, Morgan Stern is not actually a preq for the quests. You should be Lv.33 by now, but if not grind the beaches until [XP33-11850].
 
 -- IF
 Fly to [F Ironforge].
@@ -77,7 +80,7 @@ Turn in [QT563 Reassignment].
 [OC] Passing by The Perenolde Tiara quest XXX: Do we wanna do this? Probably not.
 Turn in [QT293 Cleansing the Eye].
 Accept [QA690 Malin's Request].
-Accept [QA1260 Morgan Stern].
+If you're Lv. 33, accept [QA1260 Morgan Stern].
 Accept [QA1301 James Hyal].
 Fly to [F Sentinel Hill].
 Turn in [QT325 Armed and Ready].\\Accept [QA55 Morbent Fel].

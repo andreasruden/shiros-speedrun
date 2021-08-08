@@ -16,6 +16,7 @@ Guidelime.registerGuide(
 -- Accept [QA465 Nek'rosh's Gambit] inside the keep.
 
 -- Second round of Wetlands
+Turn in [QT306 In Search of The Excavation Team].
 Turn in [QT281 Reclaiming Goods].\\Accept [QA284 The Search Continues].
 Turn in [QT284 The Search Continues].\\Accept [QA285 Search More Hovels].
 Turn in [QT285 Search More Hovels].\\Accept [QA286 Return the Statuette].

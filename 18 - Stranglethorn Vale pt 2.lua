@@ -127,6 +127,11 @@ Run back to Nethergarde Keep and fly to [F Stormwind].
 Turn in [QT1448 In Search of the Temple].\\Accept [QA1449 To The Hinterlands].
 Speak with [G39.77,81.49 Archage Malin] by the Mage Quarter's tower to TP to dustwallow.
 -- XXX: Skipping Vital Supplies, which is a breadcrumb to Blasted Lands
+Turn in [QT6625 Alliance Trauma].
+Accept [QA6624 Triage].
+Complete [QC6624 Triage] by using the Bandage on the wounded soldiers. Prioritize the soldiers with the most wounded title.
+Turn in [QC6624 Triage].
+If you can reach first aid 240, then talk to the doctor and learn *Heavy Mageweave Bandage*.
 Turn in [QT11223 Return to Jaina]. (Disables this teleport, but it doesn't work at high-level anyway.)
 Turn in [QT623 Akiris by the Bundle].
 Turn in [QT1258 ... and Bugs].

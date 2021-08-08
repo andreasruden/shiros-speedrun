@@ -16,13 +16,12 @@ Turn in [QT1186 The Eighteenth Pilot].\\Accept [QA1187 Razzeric's Tweaking].
 Hearthstone to [H Menethil Harbor].
 
 -- Darnassus/Darkshore
--- XXX: This section feels a bit iffy, and needs to be tested if it's actually worth it time wise.
 Take the northern boat to Darkshore.
+Turn in [QT1135 Highperch Venom].
 [OC] The follow-ups to these quests do not lose XP until Lv.37. Bit of running though. Need testing if worth doing. But, probably not worth it if you don't have mount or hunter/druid/shaman.
 Run north to turn in [QT1167 The Tower of Althalaxx].\\Accept follow-up [QA1143 The Tower of Althalaxx].
 In the top of the tower, kill Narassin and loot head to complete [QC1143 The Tower of Althalaxx].\\Accept [QA981 The Tower of Althalaxx].
 Run back and fly to [F Rut'theran Village].
-[OC] This quest may or may not be worht the turn-in. It is full xp at Lv.35 (3050). It is 80.5% if you're Lv.36.
 Turn in [QT1044 Answered Questions].
 [T] Learn new skills while in Darnassus.
 Fly to [F Astranaar].
