@@ -121,8 +121,7 @@ Turn in [QT976 Supplies to Auberdine].
 Run back to Astranaar and turn in [QT1054 Culling the Threat].
 If not level 25, grind to [XP25].
 Fly to [F Auberdine].
-Turn in [QT994 Escape Through Force].
-Accept [QA990 Trek to Ashenvale] from the NE woman that comes running in.
+Turn in [QT994 Escape Through Force]. Ignore the Trek To Ashenvale quest.
 *Cooking*: From the Innkeeper buy as many *Refreshing Spring Water* as you have Clam Meat.
 [OC] Optional: can [T] learn skills in Darnassus if you want to save a bit of money or if Ironforge does not have your trainer.
 Take the boat to Menethil Harbor. Cook bear meat, then clam meat while waiting. Make some bandages on the boat.

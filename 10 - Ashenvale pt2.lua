@@ -22,7 +22,6 @@ Fly to [F Astranaar].
 -- To Forest Song
 Accept [QA4581 Kayneth Stillwind].
 Accept [QA9533 A Helping Hand].
-Turn in [QT990 Trek to Ashenvale]. -- XXX: Only 140 xp & 25 rep, even worth it?
 Run east to Forest Song, turn in [QT4581 Kayneth Stillwind].\\Accept [QA1011 Forsaken Diseases] and [QA9519 The Lost Chalice].
 Get the FP [P Forest Song].
 If you see Gnarl, accept [QA9526 Reclaiming Felfire Hill][O].
@@ -35,9 +34,9 @@ Accept [QA9526 Reclaiming Felfire Hill].
 
 -- Eastern Ashenvale
 Turn in [QT1021 Vile Satyr! Dryads in Danger!].\\Accept [QA1031 The Branch of Cenarius].
-Complete [QC1031 The Branch of Cenarius].
+Complete [QC1031 The Branch of Cenarius][G78.1,42.5 Ashenvale].
 Turn in [QT1031 The Branch of Cenarius] at [G87.08,43.49 Ashenvale] Illiyana.\\Accept [QA1032 Satyr Slaying!].
-Fly to [F Astranaar].
+[G73.3501,46.9087 Ashenvale]
 Follow the road toward Felwood and at [G66.62,56.98 Ashenvale] Night Run complete [QC1140,1 Free the Highborne soul in Night Run].
 Grind at Night run until you've acquired about 10 [CI5481,10 Satyr Horns].
 Continue north and acquire a [CI5475,1 Wooden Key] from the [G54.67,34.07 Ashenvale] Withered Ancients.
@@ -48,8 +47,9 @@ Open the [G54.40,35.38 Ashenvale] chest to complete [QC1026 Raene's Cleansing].
 [G53.20170,36.35719,1 Ashenvale]
 [G52.94187,36.52751,1 Ashenvale]
 Run through the cave-like tunnel. In the camp, on the table, read the book to complete [QC1022 The Howling Vale].
+Run up into Felwood and get the FP [P Emerald Circle][G51.5,81.6 Felwood].
 [OC] Been trying to find a way through the mountain to the moonwell, but can't seem to get up anywhere (XXX).
-Run around the mountain and turn in [QT1026 Raene's Cleansing].\\Accept [QA1027 Raene's Cleansing].
+Run back and around the mountain and turn in [QT1026 Raene's Cleansing].\\Accept [QA1027 Raene's Cleansing].
 While heading towards the next step, kill slimes until a chest spawns, then loot it, to complete [QC1027 Raene's Cleansing][G71.009,75.305 Ashenvale].
 On the table, loot the bottle to complete [QC1011 Forsaken Diseases]. Watch out for the stealthed rogues.
 Complete [QC9516 Destroy the Legion][G83,69 Ashenvale] and [QC9526 Reclaiming Felfire Hill][G83,69 Ashenvale].
