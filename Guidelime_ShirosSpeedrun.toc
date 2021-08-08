@@ -24,5 +24,8 @@
 16 - Alterac and Arathi.lua
 17 - Swamp of Sorrows.lua
 18 - Stranglethorn Vale pt 2.lua
-19 - Feralas.lua
-20 - Tanaris.lua
+19 - Tanaris pt 1.lua
+20 - Feralas pt 1.lua
+21 - Tanaris pt 2.lua
+22 - The Hinterlands.lua
+23 - Feralas pt 2.lua
