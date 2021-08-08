@@ -21,7 +21,7 @@ Turn in [QT1072 An Old Colleague]. Skip follow-up.
 Take the tram to stormwind. If First Aid is not at 115 already, make *Wool Bandages* to reach 115.
 If your FA skill is 115, or you can reach that, learn *Heavy Wool Bandage* from [G42.9525,26.2757 Stormwind City] Shaina in the Cathedral.
 If you are a class without movement speed increase (priest, warrior, warlock, mage, paladin; 15% cuts it very close), you should buy a [CI2459,1 Swiftness Potion] from the [G54.1879,59.0522 Stormwind City] AH for an upcoming quest. (Or skip the quest)
-Turn in [QT1075 A Scroll from Mauren] and [QT1078 Retrieval for Mauren].\\Accept [QA1076 Devils in Westfall]. -- XXX: Do we end up doing this?
+Turn in [QT1075 A Scroll from Mauren] and [QT1078 Retrieval for Mauren]. Skip follow-up.
 In the cellar of The Slaughtered Lamb, accept [QA335 A Noble Brew].
 Hearth back to [H Menethil Harbor].
 

@@ -4,7 +4,7 @@ Guidelime.registerGuide(
 [D Shiros 1-58 Speedrun for alliance (patch 2.3+)]
 [GA Alliance]
 [N 49-50 Feralas]
-[NX X-X X]
+[NX 50-51 Blasted Lands]
 
 -- Feralas
 Fly to [F Feathermoon].
@@ -37,18 +37,7 @@ Take the [G63.7,38.7 The Barrens] boat to Booty Bay.
 Turn in [QT2767 Rescue OOX-22/FE!], [QT648 Rescue OOX-17/TN!] and [QT836 Rescue OOX-09/HL!]
 Turn in [QT3721 An OOX of Your Own]. -- !FinishWithoutAccept
 Run towards the inn, in the building just before, turn in [QT2874 Deliver to MacKinley].
-In the inn, turn in [QT1118 Back to Booty Bay].\\Accept [QA1119 Zanzil's Mixture and a Fool's Stout].
-Hearth back to [H Ratchet].
-
--- Gadgetzan
-Fly to [F Gadgetzan].
-Turn in [QT3444 The Stone Circle].
-Turn in [QT2641 Sprinkle's Secret Ingredient].
-Turn in [QT1119 Zanzil's Mixture and a Fool's Stout].\\Accept [QA1120 Get the Gnomes Drunk].
-Turn in [QT1120 Get the Gnomes Drunk].
-Accept [QA1122 Report Back to Fizzlebub]. XXX: Do we do this?
-Accept [QA2661 Delivery for Marin].
-Turn in [QT2661 Delivery for Marin].\\Accept [QA2662 Noggenfogger Elixir].
-Turn in [QT2662 Noggenfogger Elixir].
+In the inn, turn in [QT580 Whiskey Slim's Lost Grog].
+Turn in [QT1118 Back to Booty Bay].-- \\Accept [QA1119 Zanzil's Mixture and a Fool's Stout].
 
 ]], 'Shiros Speedrun')

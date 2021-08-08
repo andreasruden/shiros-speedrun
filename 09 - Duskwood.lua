@@ -9,12 +9,12 @@ Guidelime.registerGuide(
 XXX: Would we be better off setting Hearthstone in here than leaving it in Wetlands?
 XXX: Add vendor/repair/ammo.
 XXX: Test that flying is better than running between raven hill/darkshire with 38%.
-XXX: Devils in Westfall give almost no XP, might be better dropping
 XXX: Is flying to sentinel hill actually quicker than running for a hunter?
 
 *HEADS UP*: Save *Raptor Egg* for cooking.
 
 -- First round
+[OC] If you find *An Old History Book*, hang on to it.
 [OC] If you didn't finish Look To The Stars last time, buy a Bronze Tube from Herble.
 Turn in [QT174 Look To The Stars]. -- !OptionalFinish
 Accept [QA175 Look To The Stars].
@@ -53,7 +53,6 @@ Finish [QC101,3 Skeleton Finger][G16,46 Duskwood].
 Turn in [QT157 Deliver the Thread].\\Accept [QA158 Zombie Juice].
 Accept [QA225 The Weathered Grave].
 Turn in [QT230 Sven's Camp].\\Accept [QA262 The Shadowy Figure].
-Run into Westfall. Kill the Dust Devil around [G63.2,51.9 Westfall].
 Turn in [QT67 The Legend of Stalvan].\\Accept follow-up [QA68 The Legend of Stalvan].
 Run to Sentinel Hill and fly to [F Darkshire].
 Turn in [QT262 The Shadowy Figure].\\Accept [QA265 The Shadowy Search Continues].
@@ -70,7 +69,6 @@ Turn in [QT156 Gather Rot Blossoms].\\Accept [QA159 Juice Delivery].
 
 -- Third round
 Fly to [F Sentinel Hill].
-If you didn't get the debris, kill the Dust Devil around [G63.2,51.9 Westfall].
 Turn in [QT453 Finding the Shadowy Figure].\\Accept [QA268 Return to Sven].
 Grind north and turn in [QT268 Return to Sven].\\Accept [QA323 Proving Your Worth].
 If you can, kill Mor'Ladim for [QC228 Mor'Ladim]. He's still elite in TBC. If you can't, skip this step, it's not worth grouping up for.
@@ -87,7 +85,6 @@ If not Lv.28 yet, grind to [XP28].
 Run north into Elwynn Forest, head up to Goldshire and turn in [QT69 The Legend of Stalvan].\\Accept [QA70 The Legend of Stalvan].
 Walk upstairs in the inn, to the room furthest in, and complete [QC70 The Legend of Stalvan].
 [OC] Run to stormwind. [T] Can train skills while in stormwind anyway.
-Turn in [QT1076 Devils in Westfall] if completed.
 Turn in [QT70 The Legend of Stalvan].\\Accept follow-up [QA72 The Legend of Stalvan].
 Turn in [QT72 The Legend of Stalvan].\\Accept follow-up [QA74 The Legend of Stalvan].
 Turn in [QT269 Seeking Wisdom].\\Accept [QA270 The Doomed Fleet].
@@ -120,8 +117,9 @@ Turn in [QT231 A Daughter's Love].
 Interact with the [G28.78,30.77 Duskwood] grave and use [QT254 Digging Through the Dirt] to spawn Eliza. -- !FinishWithoutAccept
 Kill her to get the heart and complete [QC253 Bride of the Embalmer].
 Complete [QC1244 The Missing Diplomat].
-If you didn't get the debris, now's the last chance to kill the Dust Devil [G63.2,51.9 Westfall].
-Fly back to [F Darkshire].
+If you have not found the book yet, grind mobs around Raven Hill to obtain [CI2794,1 An Old History Book].
+From An Old History Book, accept [QA337 An Old History Book].
+[OC] Run back to Darkshire, then follow the road north.
 Run up to the Manor [G75.8,40.4 Duskwood] here.
 Loot [QC335,1 Tear of Tilloa].
 Complete [QC98 The Legend of Stalvan].
@@ -130,12 +128,12 @@ Turn in [QT253 Bride of the Embalmer].
 Turn in [QT98 The Legend of Stalvan].
 Fly to [F Stormwind].
 Turn in [QT1245 The Missing Diplomat].\\Accept follow-up [QA1246 The Missing Diplomat].
-Turn in [QT1076 Devils in Westfall] if completed, else abandon it. -- !OptionalFinish
 Turn in [QT335 A Noble Brew].\\Accept follow-up [QA336 A Noble Brew].
 Turn in [QT1246 The Missing Diplomat].\\Accept follow-up [QA1447 The Missing Diplomat].
 Complete [QC1447 The Missing Diplomat].
 Turn in [QT1447 The Missing Diplomat].\\Accept follow-up [QA1247 The Missing Diplomat].
 Turn in [QT336 A Noble Brew].
+Turn in [QT337 An Old History Book].\\Accept [QA538 Southshore].
 Turn in [QT1247 The Missing Diplomat].\\Accept follow-up [QA1248 The Missing Diplomat].
 Hearthstone to [H Menethil Harbor].
 

@@ -8,16 +8,7 @@ Guidelime.registerGuide(
 
 [OC] As of patch 2.3+, quests Lv.30 or higher are rewarding increased xp.
 
--- Menethil Harbour: Finishing up weird quests
-Turn in [QT270 The Doomed Fleet].\\Accept [QA321 Lightforge Iron].
-Turn in [QT1248 The Missing Diplomat].\\Accept [QA1249 The Missing Diplomat].
-The guy at the inn entrance will stealth and start escaping. Head outside the inn and chase him. Then complete [QC1249 The Missing Diplomat].
-Turn in [QT1249 The Missing Diplomat].
-Accept [QA1250 The Missing Diplomat].
-Turn in [QT1250 The Missing Diplomat].\\Accept follow-up [QA1264 The Missing Diplomat].
-Turn in [QT321 Lightforge Iron].\\Accept [QA324 The Lost Ingots].
-Complete [QC324 The Lost Ingots]. [G12,64 Hillsbrad Foothills]
-Turn in [QT324 The Lost Ingots].\\Accept [QA322 Blessed Arm].
+-- Menethil Harbour
 If you did not do Dun Modr earlier, load the 32-32 Dun Modr file, complete that, then come back here!
 Fly to [F Southshore].
 
@@ -51,7 +42,7 @@ Head back to the river and grind south until you complete [QC555 Soothing Turtle
 From the river, go to [G67.19,8.96 Hillsbrad Foothills].
 From here run up to Sofera's Naze and from the document on the table accept [QA510 Foreboding Plans] and [QA511 Encrypted Letter].
 Finish up [QC505 Syndicate Assassins] [G58.3,67.9 Alterac Mountains].
-If you are strong enough, complete [QC500 Crushridge Bounty].
+If you are strong enough, complete [QC500 Crushridge Bounty]. Note: you will also get some Recovered Tomes.
 Head out of the ogre area and continue heading west to complete [QC564 Costly Menace].
 Run back to southshore to turn in [QT564 Costly Menace].
 Turn in [QT511 Encrypted Letter].\\Accept [QA514 Letter to Stormpike].

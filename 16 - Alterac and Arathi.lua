@@ -18,8 +18,9 @@ Turn in [QT602 Magical Analysis].\\Accept [QA603 Ansirem's Key].
 [G33.291807,68.968439 Alterac Mountains]
 [G39.592844,63.365703,5 Alterac Mountains]
 [G37.824124,62.151205,5 Alterac Mountains]
+Obtain [QC540,2 Worn Leather Book][G38.47,46.38 Alterac Mountains] from the bookcase.
 If you didn't complete it before, complete [QC500 Crushridge Bounty]. -- !OptionalFinish
-Complete [QC504 Crushridge Warmongers].
+Complete [QC504 Crushridge Warmongers] and obtain [QC540,1 Recovered Tome].
 Complete [QC537,1 Argus Shadow Mage][G62,44.2 Alterac Mountains] in Strahnbrad.
 Head into the [G57.7 33.8,40 Alterac Mountains] Uplands.
 [O] Try to *complete* [QC512 Noble Deaths] on the way. Drops from the syndicate mobs.
@@ -31,7 +32,7 @@ Hearth to [H Southshore].
 Turn in [QT512 Noble Deaths] and [QT537 Dark Council].
 If you skipped bounty the first time, turn in [QT500 Crushridge Bounty] and skip the follow-up. -- !OptionalFinish
 Else, turn in [QT504 Crushridge Warmongers].
-Turn in [QT551 The Ensorcelled Parchment].\\Accept [QA554 Stormpike's Deciphering].
+Turn in [QT551 The Ensorcelled Parchment] and [QT540 Preserving Knowledge].\\Accept [QA554 Stormpike's Deciphering] and [QA542 Return to Milton].
 
 -- Arathi Highlands
 Fly to [F Arathi].
@@ -142,6 +143,7 @@ Take the [G75.74,50.87 Ironforge] tram to Stormwind City.
 -- Stormwind
 [T] If you're not night elf, train Lv.42 skills while in Stormwind.
 Accept [QA1448 In Search of The Temple].
+Turn in [QT542 Return to Milton].
 Turn in [QT11222 Warn Bolvar!]\\Accept [QA11223 Return to Jaina].
 [OC] Return to Jaina can be used as a free TP to dustwallow, but not once it's gone gray.
 Turn in [QT697 Malin's Request].
