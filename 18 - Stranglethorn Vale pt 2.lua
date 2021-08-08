@@ -10,7 +10,7 @@ Guidelime.registerGuide(
 In the house next to the FP, accept [QA628 Excelsior].
 Go back to the FP, then into the inn, and accpet [QA2864 Tran'rek].
 Accept [QA209 Skullsplitter Tusks].
-Turn in [QT669 Sunken Treasure]. -- \\Accept [QA670 Sunken Treasure].
+Turn in [QT669 Sunken Treasure].\\Accept [QA670 Sunken Treasure].
 Run down the stairs and turn in [QT603 Ansirem's Key].\\Accept [QA610 "Pretty Boy" Duncan].
 On the bottom floor of the inn, accept [QA600 Venture Company Mining].
 Accept [QA580 Whiskey Slim's Lost Grog].
@@ -123,11 +123,31 @@ Turn in [QT576 Keep An Eye Out].
 Fly to [F Nethergarde Keep].
 Run up into Swamp of Sorrows and turn in [QT624 Cortello's Riddle].\\Accept follow-up [QA625 Cortello's Riddle].
 
--- Dustwallow Marsh (via Stormwind)
+-- Stormwind
 Run back to Nethergarde Keep and fly to [F Stormwind].
-Turn in [QT1448 In Search of the Temple].\\Accept [QA1449 To The Hinterlands].
+Set hearthstone in [S Stormwind City][G52.7,65.6 Stormwind City].
+[O][T] Learn skills in Stormwind or Ironforge.
 [O] For the next part, do *NOT* abandon A Meal Served Cold even though it says failed. Just talk to the quest NPC.
 Turn in [QT212 A Meal Served Cold].
+Turn in [QT1448 In Search of the Temple].\\Accept [QA1449 To The Hinterlands].
+Take the tram to IF.
+Fly to [F Southshore].
+
+-- Hinterlands
+Run to [G86.2,30.1,25 Hillsbrad Foothills] Hinterland's Entrance.
+At Aerie Peak, follow the path that goes up and turn in [QT1449 To The Hinterlands].\\Accept [QA1450 Gryphon Master Talonaxe].
+Continue up and get FP [P Aerie Peak].
+Turn in [QT1450 Gryphon Master Talonaxe].\\Accept [QA1451 Rhapsody Shindigger].
+Turn in [QT1451 Rhapsody Shindigger].\\Accept [QA1452 Rhapsody's Kalimdor Kocktail].
+Run back to Aerie Peak and fly to [F Refuge Pointe].
+
+-- Arathi Highlands
+Head to the pirate cove (Faldir's Cove) and turn in [QT670 Sunken Treasure].\\Accept [QA667 Death From Below].
+Defend the NPCs to complete [QC667 Death From Below].
+Turn in [QT667 Death From Below].
+
+-- Dustwallow Marsh (via Stormwind)
+Hearth to [H Stormwind City].
 Speak with [G39.77,81.49 Archage Malin] by the Mage Quarter's tower to TP to dustwallow.
 -- XXX: Skipping Vital Supplies, which is a breadcrumb to Blasted Lands
 Turn in [QT6625 Alliance Trauma].

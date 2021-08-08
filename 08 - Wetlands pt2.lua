@@ -45,7 +45,7 @@ Jump out [G54.4366,54.2405 Wetlands] behind the camp.
 Finish up [QC275 Blisters on The Land][G55,46.6 Wetlands].
 Turn in [QT275 Blisters on The Land].
 -- Dun Modr
-[OC] The next section (Dun Modir) is fairly challenging (Lv. 28-31 mobs). It also involves a long run through Arathi/Hillsbrad on a timer. It is possible to skip it for now, and instead do it in the Hillsbrad Foothills file, in exchange for some worsened pathing. If so, either HS or run back to Menethil.
+[OC] The next section (Dun Modir) is fairly challenging (Lv. 28-31 mobs). It also involves a long run through Arathi/Hillsbrad on a timer. It is possible to skip it for now, and instead do it in the Hillsbrad Foothills file, in exchange for some worsened pathing. If so, either HS or run back to Menethil, and turn in the completed quests.
 Turn in [QT472 Fall of Dun Modr].\\Accept [QA304 A Grim Task].
 Accept [QA631 The Thandol Span].
 Accept [QA303 The Dark Iron War].
@@ -59,11 +59,12 @@ Complete [QC633 The Thandol Span].
 Turn in [QT633 The Thandol Span].\\Accept [QA634 Plea To The Alliance].
 
 -- XXX: Don't know if we want to go to southshore or Arathi from here, for now we'll take the swim quest and assume we go southshore.
-Go around the bridge to [G42.9198,91.4482,1 Wetlands].
+Go around the bridge to [G42.9198,91.4482,1 Arathi Highlands].
 [OC] Pop a Swiftness Potion if you have no movement speed increase. Then make the jump over from the pointy metal ground.
-[OC] WARNING: You only have 15 minutes to do the upcoming steps. Read through them before. Even with no movement speed increase, you can complete this run with 3 mins remaining by just following the road. You cannot die or the quest will fail, though!
+[OC] *WARNING:* You only have 15 minutes to do the upcoming steps. Read through them before. Even with no movement speed increase, you can complete this run with 3 mins remaining by just following the road. You cannot die or the quest will fail, though!
+[OC] *WARNING #2* The optimal path runs through where the explosives were. These mobs are dangerous. An alternative path is to swim to southshore. But then you have to run to Arathi afterwards. It's slower, but safer! If you want that, you'll have to do some things in a different order.
 Accept [QA647 MacKreel's Moonshine].
-Jump in the water and loot [CI4433,1 Waterlogged Envelope]. [G44.2981,92.8869,1 Wetlands]
+Jump in the water and loot [CI4433,1 Waterlogged Envelope]. [G44.2981,92.8869,1 Arathi Highlands]
 [OC] Swim east to get out of the water. Watch out for the dwarves by the explosives.
 Follow the road to Refuge Point and turn in [QT634 Plea To The Alliance].
 Get the FP [P Refuge Point].
@@ -71,12 +72,12 @@ Get the FP [P Refuge Point].
 In the cellar of the inn, turn in [QT647 MacKreel's Moonshine].
 Accept [QA637 Sully Balloo's Letter] from the Waterlogged Envelope.
 Get the FP [P Southshore].
-Fly to [F Menethil Harbor].
+Hearth to [H Menethil Harbor].
 
 -- Turn in
 Turn in [QT286 Return the Statuette].
 Turn in [QT292 The Eye of Paleth].\\Accept [QA293 Cleansing the Eye].
-Turn in [QT474 Defeat Nek'rosh].
+Turn in [QT474 Defeat Nek'rosh] inside the keep.
 Turn in [QT471 Apprentice's Duties].
 
 -- Ironforge & Stormwind

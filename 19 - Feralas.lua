@@ -40,7 +40,7 @@ Turn in [QT1190 Keeping Pace].\\Accept [QA1194 Rizzle's Schematics].
 Turn in [QT1194 Rizzle's Schematics].
 
 -- Gadgetzan
-Turn in [QT1188 Safety First]. Skip follow-up for now. -- XXX: This is not worth to turn in XP wise, so we'll turn it in when we're going to shimmering flats anyway.
+Turn in [QT1188 Safety First]. Skip follow-up for now.
 Turn in [QT2864 Tran'rek]. Skip follow-up.
 Accept [QA2781 WANTED: Caliph Scorpidsting] and [QA2875 WANTED: Andre Firebeard].
 Accept [QA3022 Handle With Care].
@@ -112,6 +112,7 @@ Enter the [G73.578,64.088 Feralas] middle entrance (not the bottom ones) of the 
 Wait for him to monologue, which will complete [QC4265 Freed from the Hive].
 Complete [QC2982 The High Wilderness].
 Collect a [CI8564,1 Hippogryph Egg] [G58.17,75.93 Feralas] here.
+Collect [QC1452,2 Ironfur Liver][G57.5,60.5 Feralas] and [QC1452,3 Groddoc Liver][G57.5,60.5 Feralas].
 Complete [QC2821 The Mark of Quality].
 If not yet aquired, grind Gordunni (1.1% on wowhead) or Yeti (0.8%) to find [CI8705,1 OOX-22/FE Distress Beacon].
 From the beacon, accept [QA2766 Find OOX-22/FE!]
@@ -139,7 +140,7 @@ Accept [QA2940 Feralas: A History].
 Turn in [QT2940 Feralas: A History].\\Accept [QA2941 The Borrower].
 [T] Learn Lv.44 & 46 skills.
 [A Nightelf] Purchase a mount if you have not done so already.
-From the AH, purchase [CI3825,2 Elixir of Fortitude] or skip a questline later.
+From the AH, purchase [CI3825,2 Elixir of Fortitude] or you will have to skip a questline later.
 At the upper floor of Temple of the Moon, turn in [QT4267 Rise of the Silithid].
 Turn in [QT2972 Doling Justice].
 
@@ -163,6 +164,7 @@ Jump over the wall and head west to complete [QC992 Gadgetzan Water Survey].
 Turn in [QT992 Gadgetzan Water Survey].\\Accept [QA82 Noxious Lair Investigation].
 
 -- First round of Tanaris
+Kill rocs around the big bones in Tanaris to collect [QC1452,1 Roc Gizzard].
 Turn in [QT3445 The Sunken Temple].\\Accept [QA3444 The Stone Circle] and [QA3161 Gahz'ridian].
 Complete [QC82 Noxious Lair Investigation].
 Complete [QC5863 The Dunemaul Compound]. [G41.5,57.8 Tanaris]
@@ -178,6 +180,7 @@ Turn in [QT3362 Thistleshrub Valley].
 Turn in [QT5863 The Dunemaul Compound].
 
 -- Second round of Tanaris
+If not done, finish [QC1452,1 Roc Gizzard][G44.9,39.3 Tanaris].
 Turn in [QT3161 Gahz'ridian].
 Enter the hive and fight your way to the central room to complete [QC10 The Scrimshank Redemption].
 You should surely have the distress beacon at this point, so accept [QA351 Find OOX-17/TN!].
@@ -203,8 +206,7 @@ Run back to Gadgetzan and fly to [F Theramore].
 
 -- Aerie Peak
 XXX: Not worth going by arathi to do Sunken Treasure, is it? Maybe we should do that earlier, then we can also grab Rhapsody's Kalimdor Kocktail and have it for Feralas/Tanaris
-Fly to [F Southshore].
-Run to [G86.2,30.1,25 Hillsbrad Foothills] Hinterland's Entrance.
+Fly to [F Aerie Peak].
 Accept [QA9469 Featherbeard's Endorsement], [QA9470 A Gesture of Goodwill] and [QA9471 Preying on the Predators].
 In the keep, turn right and accept [QA2877 Skulk Rock Clean-up] and [QA2880 Troll Necklace Bounty].
 Head straight and down the stairs to the bottom of the keep to turn in [QT3843 The Newest Member of the Family].\\Accept [QA4297 Food for Baby].
@@ -220,7 +222,7 @@ Turn in [QT1450 Gryphon Master Talonaxe].\\Accept [QA1451 Rhapsody Shindigger] a
 During the next steps loot feathers off the ground for [QC3661 Favored of Elune?][O]
 Kill wolves during the next steps for [QC9471 Preying on the Predators][O].
 Turn in [QT9469 Featherbeard's Endorsement].\\Accept [QA9476 In Pursuit of Featherbeard].
-XXX: Turn in one of the Rhapsody quests here. See other XXX above.
+Turn in [QC1452 Rhapsody's Kalimdor Kocktail].\\Accept [QA1469 Rhapsody's Tale].
 Complete [QC2988,1 Check First Cage] and [QC2988,2 Check Second Cage]. Kill the entire camp for *Troll Tribal Necklaces* before moving on.
 Complete [QC2988,3 Check Third Cage].
 Finish up [QC2880 Troll Necklace Bounty][G31.8,58 The Hinterlands].
