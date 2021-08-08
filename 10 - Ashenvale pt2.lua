@@ -37,8 +37,8 @@ Turn in [QT1021 Vile Satyr! Dryads in Danger!].\\Accept [QA1031 The Branch of Ce
 Complete [QC1031 The Branch of Cenarius][G78.1,42.5 Ashenvale].
 Turn in [QT1031 The Branch of Cenarius] at [G87.08,43.49 Ashenvale] Illiyana.\\Accept [QA1032 Satyr Slaying!].
 [G73.3501,46.9087 Ashenvale]
-Follow the road toward Felwood and at [G66.62,56.98 Ashenvale] Night Run complete [QC1140,1 Free the Highborne soul in Night Run].
-Grind at Night run until you've acquired about 10 [CI5481,10 Satyr Horns].
+Complete [QC1140,1 Free the Highborne soul in Night Run] at [G66.62,56.98 Ashenvale] Night Run.
+Grind at Night run until you've acquired about 10 [CI5481,10 Satyr Horns][G66.62,56.98 Ashenvale].
 Continue north and acquire a [CI5475,1 Wooden Key] from the [G54.67,34.07 Ashenvale] Withered Ancients.
 Open the [G54.40,35.38 Ashenvale] chest to complete [QC1026 Raene's Cleansing].
 [G53.57399,35.07044,1 Ashenvale]
