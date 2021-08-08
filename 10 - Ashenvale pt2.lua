@@ -10,13 +10,8 @@ XXX: Lots of running & flying in this segment. Is this second run through the zo
 
 -- Menethil Harbor: Finishing up weird quests
 Turn in [QT270 The Doomed Fleet].\\Accept [QA321 Lightforge Iron].
-Turn in [QT1248 The Missing Diplomat].\\Accept [QA1249 The Missing Diplomat].
-The guy at the inn entrance will stealth and start escaping. Head outside the inn and chase him. Then complete [QC1249 The Missing Diplomat].
-Turn in [QT1249 The Missing Diplomat].
-Accept [QA1250 The Missing Diplomat].
-Turn in [QT1250 The Missing Diplomat].\\Accept follow-up [QA1264 The Missing Diplomat].
 Turn in [QT321 Lightforge Iron].\\Accept [QA324 The Lost Ingots].
-Complete [QC324 The Lost Ingots]. [G12,64 Hillsbrad Foothills]
+Complete [QC324 The Lost Ingots]. [G12,64 Wetlands]
 Turn in [QT324 The Lost Ingots].\\Accept [QA322 Blessed Arm].
 
 -- Back to Ashenvale

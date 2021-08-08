@@ -9,6 +9,11 @@ Guidelime.registerGuide(
 [OC] As of patch 2.3+, quests Lv.30 or higher are rewarding increased xp.
 
 -- Menethil Harbour
+Turn in [QT1248 The Missing Diplomat].\\Accept [QA1249 The Missing Diplomat].
+The guy at the inn entrance will stealth and start escaping. Head outside the inn and chase him. Then complete [QC1249 The Missing Diplomat].
+Turn in [QT1249 The Missing Diplomat].
+Accept [QA1250 The Missing Diplomat].
+Turn in [QT1250 The Missing Diplomat].\\Accept follow-up [QA1264 The Missing Diplomat].
 If you did not do Dun Modr earlier, load the 32-32 Dun Modr file, complete that, then come back here!
 Fly to [F Southshore].
 
