@@ -25,13 +25,13 @@ Accept [QA56 The Night Watch].
 Turn in [QT66 The Legend of Stalvan].\\Accept [QA67 The Legend of Stalvan].
 Behind the inn run up the mountain [G71.8991,43.0247,1 Duskwood].
 Complete [QC173 Worgen in the Woods]. [G64.34,37.55 Duskwood]
-Jump [G68.109,45.055 over here] to get back to Darkshire.
+Jump [G68.109,45.055 Duskwood] over here to get back to Darkshire.
 Turn in [QT173 Worgen in the Woods].\\Accept follow-up [QA221 Worgen in the Woods].
 Run up [G71.1073,45.9099,1 Duskwood] here.
 Complete [QC221 Worgen in the Woods]. [G63.7026,51.0763,1 Duskwood] (NW of here there's a camp too)
 Run back [G69.007,48.827,4 Duskwood]
 Turn in [QT221 Worgen in the Woods].\\Accept follow-up [QA222 Worgen in the Woods].
-Grind for [QC101 The Totem of Infliction][OC] while on the way.
+Grind for [QC101 The Totem of Infliction][O] while on the way.
 Turn in [QT149 Ghost Hair Thread] and [QT175 Look To The Stars].\\Accept [QA177 Look To The Stars] and [QA154 Return the Comb].
 Grind further south and complete [QC177 Look To The Stars]. [G79.51,70.35 Duskwood]
 In this area, also complete [QC56 The Night Watch].
@@ -53,7 +53,7 @@ Finish [QC101,3 Skeleton Finger][G16,46 Duskwood].
 Turn in [QT157 Deliver the Thread].\\Accept [QA158 Zombie Juice].
 Accept [QA225 The Weathered Grave].
 Turn in [QT230 Sven's Camp].\\Accept [QA262 The Shadowy Figure].
-Run into Westfall. Kill the Dust Devil around [G63.2,51.9 Duskwood].
+Run into Westfall. Kill the Dust Devil around [G63.2,51.9 Westfall].
 Turn in [QT67 The Legend of Stalvan].\\Accept follow-up [QA68 The Legend of Stalvan].
 Run to Sentinel Hill and fly to [F Darkshire].
 Turn in [QT262 The Shadowy Figure].\\Accept [QA265 The Shadowy Search Continues].
@@ -70,7 +70,7 @@ Turn in [QT156 Gather Rot Blossoms].\\Accept [QA159 Juice Delivery].
 
 -- Third round
 Fly to [F Sentinel Hill].
-If you didn't get the debris, kill the Dust Devil around [G63.2,51.9 Duskwood].
+If you didn't get the debris, kill the Dust Devil around [G63.2,51.9 Westfall].
 Turn in [QT453 Finding the Shadowy Figure].\\Accept [QA268 Return to Sven].
 Grind north and turn in [QT268 Return to Sven].\\Accept [QA323 Proving Your Worth].
 If you can, kill Mor'Ladim for [QC228 Mor'Ladim]. He's still elite in TBC. If you can't, skip this step, it's not worth grouping up for.
@@ -120,7 +120,7 @@ Turn in [QT231 A Daughter's Love].
 Interact with the [G28.78,30.77 Duskwood] grave and use [QT254 Digging Through the Dirt] to spawn Eliza. -- !FinishWithoutAccept
 Kill her to get the heart and complete [QC253 Bride of the Embalmer].
 Complete [QC1244 The Missing Diplomat].
-If you didn't get the debris, now's the last chance to kill the Dust Devil [G63.2,51.9 Duskwood].
+If you didn't get the debris, now's the last chance to kill the Dust Devil [G63.2,51.9 Westfall].
 Fly back to [F Darkshire].
 Run up to the Manor [G75.8,40.4 Duskwood] here.
 Loot [QC335,1 Tear of Tilloa].

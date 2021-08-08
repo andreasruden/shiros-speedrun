@@ -15,6 +15,7 @@ Accept [QA681 Northfold Manor].
 Enter [G26,56 Arathi Highlands] Stromgarde Keep.
 Hugh the right wall until you reach [G26.97,58.82 Arathi Highlands] Deneb Walker.
 At Deneb Walker, purchase [CI16084,1 Expert First Aid - Under Wraps], [CI16112,1 Manual: Heavy Silk Bandage] and [CI16113 Manual: Mageweave Bandage]. Learn the first manual, then learn the others at your own pace.
+*NOTE*: Do *NOT* sell *Silk Cloth* or *Mageweave Cloth* after you finish skilling. We need to have 60 of each for later.
 Head out of Stromgarde Keep and complete [QC681 Northfold Manor].
 Turn in [QT681 Northfold Manor].
 

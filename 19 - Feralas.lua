@@ -68,6 +68,7 @@ Complete [QC8366 Southsea Shakedown] and [QC8365 Pirate Hats Ahoy!]
 Grind pirates until [XP45-20200]. XXX: If this is far off then it'll be better to turn in quest at steamwheedle port, instead of hearthstoning out! Need to consider next 2 hearthstones in that case.
 [OC] Three map fragments gives [45] Cruego's Gold, which is completed at the southern tip of Tanaris. It gives no XP so we skip it in the guide.
 Hearthstone to [H Gadgetzan].
+-- Gadgetzan
 Turn in [QT1707 Water Pouch Bounty].
 Turn in [QT2781 WANTED: Caliph Scorpidsting] and [QT1691 More Wastewander Justice].
 Fly to [F Feathermoon].
@@ -172,6 +173,7 @@ At Eastmoon Ruins (47,66) and Southmoon Ruins (40,73) complete [QC3161 Gahz'ridi
 Complete [QC2605 The Thirsty Goblin] and [QC3362 Thistleshrub Valley].
 [O] We're skipping Tooga, since a player can occupy her for up to 30 minutes it's unreliable to find her even for an escort quest.
 Hearthstone to [H Gadgetzan]. If it's not up you'll have a long run :-(.
+-- Gadgetzan
 Turn in [QT2605 The Thirsty Goblin].\\Accept [QA2606 In Good Taste].
 Turn in [QT82 Noxious Lair Investigation].
 Accept [QA10 The Scrimshank Redemption].
@@ -195,7 +197,7 @@ Turn in [QT3520 Screecher Spirits]. Skip follow-up.
 -- Gadgetzan
 Turn in [QT10 The Scrimshank Redemption].\\Accept [QA110 Insect Part Analysis].
 Turn in [QT110 Insect Part Analysis].\\Accept follow-up [QA113 Insect Part Analysis].
-Turn in [QT113 Insect Part Analysis].\\Accept [QA162 Rise of the Silithid].
+Turn in [QT113 Insect Part Analysmis].\\Accept [QA162 Rise of the Silithid].
 
 -- Shimmering Flats
 Turn in [QT1189 Safety First].
@@ -251,21 +253,72 @@ Collect Grogs on the beach for [QC580 Whiskey Slim's Lost Grog][O] during the ne
 Turn in [QT626 Cortello's Riddle].
 Find Gammerita who patrols the beach, and use the *Super Snapper FX* item on her to complete [QC2944 The Super Snapper FX].
 Finish up [QC580 Whiskey Slim's Lost Grog].
-Hearth to [H Wildhammer Keep]. XXX: Can use deathwarp to Aerie Peak here I think (needs to be confirmed on retail), in case we need HS somewhere
--- Can technically use same turn-in order if not hearth-stoning. Although might want to put gesture/preying/eggs as first, and skulk/necklace as second to not feel awkward.
+Hearth to [H Wildhammer Keep].
 Run down to the bottom floor of the keep and turn in [QT4297 Food for Baby].\\Accept [QA4298 Becoming a Parent].
 Turn in [QT4298 Becoming a Parent].
 Head up to the ground level and turn in [QT2877 Skulk Rock Clean-up] and [QT2880 Troll Necklace Bounty].
 Go outside, turn in [QT9470 A Gesture of Goodwill], [QT9471 Preying on the Predators] and [QT9475 Reclaiming the Eggs].
 Run up to the aviary and turn in [QT2989 The Altar of Zul].\\Accept [QA2990 Thadius Grimshade]. XXX: Do we actually want the follow-up?
 
-XXX: This is not done yet
--- In Ratchet
-Loot the chest outside of Liv's shop to complete [QC3444 The Stone Circle].
+-- Arathi Highlands
+Fly to [F Refuge Pointe].
+[OC] The next quest summons a Lv.45 elite. Her adds have been nerfed in TBC, so she should be soloable by most classes. If you cannot, try finding a group, or skip it and move on.
+Complete [QC656 Summoning the Princess].
+Turn in [QT656 Summoning the Princess].
 
--- In Booty Bay
+-- Darnassus
+Fly to [F Menethil Harbor].
+Take the [G4.65,57.2 Wetlands] boat to Auberdine. Level first aid on the way.
+Fly to [F Rut'theran Village].
+Turn in [QT3661 Favored of Elune?]
+Turn in [QT2944 The Super Snapper FX].\\Accept [QA2943 Return to Troyas].
+[O] Go into Darnassus and train [T] Lv.48 skills while doing the next steps.
+Accept [QA3763 Assisting Arch Druid Staghelm].
+If you have 60 silk and mageweave, turn in  [QT7798 A Donation of Silk][G64,23 Darnassus] and [QT7799 A Donation of Mageweave][G64,23 Darnassus].
+Go up this [G35.56,10.73 Darnassus] building.
+Turn in [QT3763 Assisting ARch druid Staghelm].\\Accept [QA3764 Un'Goro Soil].
+In the temple of moon, second level, turn in [QT162 Rise of the Silithid].
+
+-- Feralas
+Fly to [F Feathermoon].
+Turn in [QT2943 Return to Troyas].\\Accept [QA2879 The Stave of Equinex].
+Head to the mainland and then north, accept [QA2844 The Giant Guardian].
+Loot [G38.5,15.8 Feralas] *Flame of Byltan*.
+Loot [G40.54,12.66 Feralas] *Flame of Samha*.
+Loot [G39.92,9.44 Feralas] *Flame of Imbel*.
+Loot [G37.75,12.17 Feralas] *Flame of Lhassa*.
+[G37.58,11.18 Feralas]
+Turn in [QT2844 The Giant Guardian].\\Accept [QA2845 Wandering Shay].
+Next to Shay, loot [CI9189,1 Shay's Bell]. Use it when she gets distracted.
+Use Troyas' Stave [G38.87,13.23 Feralas] here to complete [QC2879 The Stave of Equinex].
+Turn in [QT2879 The Stave of Equinex].\\Accept [QA2942 The Morrow Stone].
+Lead Shay to Rockbiter to complete [QC2845 Wandering Shay].
+Turn in [QT2845 Wandering Shay].
+In Feathermoon Stronghold, turn in [QT2942 The Morrow Stone].
+
+-- Booty bay
+Fly to [F Ratchet].
+Set hearthstone in [S Ratchet].
+Loot the chest outside of Liv's shop to complete [QC3444 The Stone Circle].
+Take the [G63.7,38.7 The Barrens] boat to Booty Bay.
+[G27.7767,76.6705 Stranglethorn vale]
+[G28.2333,76.1299 Stranglethorn vale]
+Turn in [QT2767 Rescue OOX-22/FE!], [QT648 Rescue OOX-17/TN!] and [QT836 Rescue OOX-09/HL!]
+Turn in [QT3721 An OOX of Your Own]. -- !FinishWithoutAccept
 Run towards the inn, in the building just before, turn in [QT2874 Deliver to MacKinley].
-In the inn, turn in [QT1118 Back to Booty Bay].
+In the inn, turn in [QT1118 Back to Booty Bay].\\Accept [QA1119 Zanzil's Mixture and a Fool's Stout].
+Hearth back to [H Ratchet].
+
+-- Gadgetzan
+Fly to [F Gadgetzan].
+Turn in [QT3444 The Stone Circle].
+Turn in [QT2641 Sprinkle's Secret Ingredient].
+Turn in [QT1119 Zanzil's Mixture and a Fool's Stout].\\Accept [QA1120 Get the Gnomes Drunk].
+Turn in [QT1120 Get the Gnomes Drunk].
+Accept [QA1122 Report Back to Fizzlebub]. XXX: Do we do this?
+Accept [QA2661 Delivery for Marin].
+Turn in [QT2661 Delivery for Marin].\\Accept [QA2662 Noggenfogger Elixir].
+Turn in [QT2662 Noggenfogger Elixir].
 
 -- Quest notes:
 -- The ruins of Solarsal is 6 quests, that all take place on the two western islands.
