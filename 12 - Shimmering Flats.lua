@@ -35,7 +35,7 @@ Complete [QC1135 Highperch Venom].
 [OC] Keep running east towards Shimmering Flats. Watch out for the guards below Freewind Post.
 Accept [QA1110 Rocket Car Parts].
 Accept [QA1104 Salt Flat Venom].
-Accept [QA1105 Hardened Shells].
+Turn in [QT1179 The Brassbolts Brothers].\\Accept [QA1105 Hardened Shells].
 Accept [QA1176 Load Lightening].
 Accept [QA1175 A Bump in the Road].
 [OC] There's a vulture camp to the east (87,65), a turtle camp in the north (82,55), a scorpid camp in the west (72,73) and a gazer/crystalhide camp in the south (78,88). Basilisks are common around the northern crater (78,62).

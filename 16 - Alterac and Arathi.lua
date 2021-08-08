@@ -146,6 +146,7 @@ Turn in [QT11222 Warn Bolvar!]\\Accept [QA11223 Return to Jaina].
 [OC] Return to Jaina can be used as a free TP to dustwallow, but not once it's gone gray.
 Turn in [QT697 Malin's Request].
 Accept [QA1477 Vital Supplies] at the top of the Mage Tower.
+In the Blue Recluse Inn, accept [QA212 A Meal Served Cold]. Ignore the timer.
 Fly to [F Darkshire].
 
 ]], 'Shiros Speedrun')

@@ -22,7 +22,7 @@ Turn in [QT284 The Search Continues].\\Accept [QA285 Search More Hovels].
 Turn in [QT285 Search More Hovels].\\Accept [QA286 Return the Statuette].
 If you spot any stealthed Fens, kill them for progress towards [QC275 Blisters on The Land][O]. They are stealthed in the inland water.
 On top of the boat, kill the captain to complete [QC290 Lifting the Curse].
-Jump in the water to the west, swim down and enter the western side of the boat at the sea bottom. Turn in [QT290 Lifting the Curse].\\Accept [QA292 The Eye of Paleth].
+Jump in the water to the north-west, swim down and enter the north-western side of the boat at the sea bottom. Turn in [QT290 Lifting the Curse].\\Accept [QA292 The Eye of Paleth].
 Complete [QC471 Apprentice's Duties] in the waters along the [G20.46,23.96 Wetlands] north-western shore.
 [OC] Follow this path to find a high concentration of Fens and probably complete the quest.
 [G18.9895,27.6867 Wetlands]

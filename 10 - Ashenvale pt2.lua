@@ -114,6 +114,7 @@ Turn in [QT9522 Never Again!]
 Fly to [F Astranaar].
 Turn in [QT1017 Mage Summoner].
 Turn in [QT1027 Raene's Cleansing].\\Accept [QA1028 Raene's Cleansing].
+Circle south around the mountain to around [G54.0139,53.4844 Ashenvale] here.
 The path up is at [G55.97,51.18 Ashenvale].
 Complete [QC1028 Raene's Cleansing].
 Turn in [QT1028 Raene's Cleansing]. Skip the follow-up. Keep the fancy furbolg rod if you care :-).

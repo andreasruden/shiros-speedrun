@@ -65,11 +65,10 @@ Turn in [QT505 Syndicate Assassins] and [QT510 Foreboding Plans]. Skip follow-up
 
 -- IF
 Fly to [F Ironforge].
-[OC] Possible to turn in donation of wool/silk here.
-Learn new bandages for FA, if you can [G54.92,58.43] (115 for heavy wool, 150 for silk).
 Accept [QA1453 Reclaimers' Business in Desolace].
 Turn in [QT514 Letter to Stormpike].\\Accept [QA525 Further Mysteries].
 Turn in [QT637 Sully Balloo's Letter].\\Accept [QA683 Sara Balloo's Plea].
+Accept [QA1179 The Brassbolts Brothers].
 Turn in [QT683 Sara Balloo's Plea].\\Accept [QA686 A King's Tribute].
 Turn in [QT686 A King's Tribute].--\\Accept follow-up [QA689 A King's Tribute]. Does not look like we would end up doing this.
 Take the tram to SW. Cook/FA while you wait.

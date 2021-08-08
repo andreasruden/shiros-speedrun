@@ -54,6 +54,7 @@ Obtain [QC609,1 Maury's Clubbed Foot].
 Finish up [QC621 Zanzil's Secret].
 Go south of Gurubashi Arena. [G30.1,54.1]
 Once you've continued circling around, kill Tethis and complete [QC197 Raptor Mastery].
+Run north-east and kill [G36.5,41.6 Stranglethorn Vale] Cold Eye Basilisk to get a *Chilled Basilisk Haunch*.
 Head east to the goblins and complete [QC600 Venture Company Mining].
 -- XXX: Is it worth to get and do https://tbc.wowhead.com/quest=735/the-star-the-hand-and-the-heart ? Starts in Badlands, goes here + alterac + dustwallow
 Continue north while following the mountain. [G43,38.5]
@@ -125,13 +126,15 @@ Run up into Swamp of Sorrows and turn in [QT624 Cortello's Riddle].\\Accept foll
 -- Dustwallow Marsh (via Stormwind)
 Run back to Nethergarde Keep and fly to [F Stormwind].
 Turn in [QT1448 In Search of the Temple].\\Accept [QA1449 To The Hinterlands].
+[O] For the next part, do *NOT* abandon A Meal Served Cold even though it says failed. Just talk to the quest NPC.
+Turn in [QT212 A Meal Served Cold].
 Speak with [G39.77,81.49 Archage Malin] by the Mage Quarter's tower to TP to dustwallow.
 -- XXX: Skipping Vital Supplies, which is a breadcrumb to Blasted Lands
 Turn in [QT6625 Alliance Trauma].
 Accept [QA6624 Triage].
 Complete [QC6624 Triage] by using the Bandage on the wounded soldiers. Prioritize the soldiers with the most wounded title.
 Turn in [QC6624 Triage].
-If you can reach first aid 240, then talk to the doctor and learn *Heavy Mageweave Bandage*.
+If you can, reach first aid 240, then talk to the doctor and learn *Heavy Mageweave Bandage*.
 Turn in [QT11223 Return to Jaina]. (Disables this teleport, but it doesn't work at high-level anyway.)
 Turn in [QT623 Akiris by the Bundle].
 Turn in [QT1258 ... and Bugs].
