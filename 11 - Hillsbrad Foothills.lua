@@ -77,7 +77,6 @@ Take the tram to SW. Cook/FA while you wait.
 Turn in [QT322 Blessed Arm].\\Accept [QA325 Armed and Ready].
 Turn in [QT563 Reassignment].
 [OC] Passing by The Perenolde Tiara quest XXX: Do we wanna do this? Probably not.
-Turn in [QT293 Cleansing the Eye].
 Accept [QA690 Malin's Request].
 If you're Lv. 33, accept [QA1260 Morgan Stern].
 Accept [QA1301 James Hyal].
