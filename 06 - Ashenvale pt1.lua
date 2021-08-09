@@ -68,10 +68,10 @@ Turn in [QT1008 The Zoram Strand].\\Accept [QA1134 Pridewings of Stonetalon].
 [G43.6209,45.9077 Ashenvale]
 Complete [QC1033 Elune's Tear].
 [OC] We can jump over the mountain here to get quickly to the moonwell.
-[G47.6831615,46.5580523,2 Ashenvale]
-[G47.9522764,46.5736926,2 Ashenvale]
-[G48.1265723,46.6632247,2 Ashenvale]
-[G48.3069599,46.7257082,2 Ashenvale]
+[G47.6831615,46.5580523,3 Ashenvale]
+[G47.9522764,46.5736926,3 Ashenvale]
+[G48.1265723,46.6632247,3 Ashenvale]
+[G48.3069599,46.7257082,3 Ashenvale]
 Turn in [QT1024 Raene's Cleansing].\\Accept follow-up [QA1026 Raene's Cleansing].
 Complete [QC1025 An Aggressive Defense].
 Accept [QA1016 Elemental Bracers].

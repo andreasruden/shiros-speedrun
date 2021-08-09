@@ -25,6 +25,7 @@ Accept [QA9435 Missing Crystals].
 Accept [QA536 Down the Coast].
 Set hearthstone in [S Southshore].
 From the chef, [QA555 Soothing Turtle Bisque].
+Turn in [QT538 Southshore].\\Accept [QA540 Preserving Knowledge].
 Accept [QA564 Costly Menace].
 Run southwest of Southshore and complete [QC536 Down the Coast].
 Turn in [QT536 Down the Coast].\\Accept [QA559 Farren's Proof].
@@ -36,18 +37,18 @@ On the beach SE of southshore, complete [QC562 Stormwind Ho!].
 
 -- Making the rounds
 After finishing, head to the [G55.4,58.5 Hillsbrad Foothills] river.
-[OC] Kill turtles for [QC555 Soothing Turtle Bisque] progress.
+Kill turtles for [QC555,1 Turtle Meat][O] progress.
 Grind over to [G60.1267,43.8959,2 Hillsbrad Foothills] here, where you can climb up the left side of the waterfall by hugging the water + rock.
 Kill a turtle or two right after [G63.27,40.67 Hillsbrad Foothills] climbing the waterfall.
 Then head over and complete [QC9435 Missing Crystals] inside the tower.
 Go back to the river and keep grinding turtles north until [G83.4,52.5 Alterac Mountains].
 [G80,41.8 Alterac Mountains]
 Get FP in [G42.94,85.05 Western Plaguelands] [P Chillwind Camp].
-Head back to the river and grind south until you complete [QC555 Soothing Turtle Bisque].
+Head back to the river and grind south until you complete gathering [QC555,1 Turtle Meat].
 From the river, go to [G67.19,8.96 Hillsbrad Foothills].
 From here run up to Sofera's Naze and from the document on the table accept [QA510 Foreboding Plans] and [QA511 Encrypted Letter].
 Finish up [QC505 Syndicate Assassins] [G58.3,67.9 Alterac Mountains].
-If you are strong enough, complete [QC500 Crushridge Bounty]. Note: you will also get some Recovered Tomes.
+If you are strong enough. Around the tower, kill the lower level ogres to complete [QC500 Crushridge Bounty][G47.5,58.7 Alterac Mountains]. Note: you will also get some Recovered Tomes.
 Head out of the ogre area and continue heading west to complete [QC564 Costly Menace].
 Run back to southshore to turn in [QT564 Costly Menace].
 Turn in [QT511 Encrypted Letter].\\Accept [QA514 Letter to Stormpike].
@@ -69,7 +70,7 @@ Turn in [QT683 Sara Balloo's Plea].\\Accept [QA686 A King's Tribute].
 Turn in [QT686 A King's Tribute]. Skip follow up.
 Take the tram to SW. Cook/FA while you wait.
 -- SW
-[T] While in SW, train Lv.32 skills.
+[O] [T] While in SW, train Lv.32 skills.
 Turn in [QT322 Blessed Arm].\\Accept [QA325 Armed and Ready].
 Turn in [QT563 Reassignment].
 [OC] Passing by The Perenolde Tiara quest XXX: Do we wanna do this? Probably not.

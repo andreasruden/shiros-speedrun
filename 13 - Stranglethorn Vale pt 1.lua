@@ -6,7 +6,7 @@ Guidelime.registerGuide(
 [N 34-36 Stranglethorn Vale]
 [NX 36-37 Desolace]
 
-[OC] Save Stranglethorn pages you find. Mail them to a second character or bank them.
+[O] Save Stranglethorn pages you find. Mail them to a second character or bank them.
 
 -- Booty Bay
 Turn in [QT1180 Goblin Sponsorship].\\Accept follow-up [QA1181 Goblin Sponsorship].
@@ -44,11 +44,11 @@ Complete [QC185 Tiger Mastery].
 -- North-east
 Turn in [QT185 Tiger Mastery].\\Accept follow-up [QA186 Tiger Mastery].
 Accept [QA190 Panther Mastery].
-Go east and complete [QC190 Panther Mastery] and [QC186 Tiger Mastery]. [G42,13]
+Go east and complete [QC190 Panther Mastery] and [QC186 Tiger Mastery][G42,13 Stranglethorn Vale].
 If you got the rare event, turn in [QT200 Bookie Herod]. Skip follow-up for now as we won't have space!
 Loot [QC204,2 Venom Fern Extract].
 Finish collecting [QC204,1 Jungle Remedy] and complete [QC203 The Second Rebellion].
-In the oil platform's control room kill [G42.7,18.3 Cozzle] to obtain [CI5851,1 Cozzle's Key].
+In the oil platform's control room kill [G42.7,18.3 Stranglethorn Vale] Cozzle to obtain [CI5851,1 Cozzle's Key].
 Loot the blueprints in the small hut to complete [QC1182 Goblin Sponsorship].
 Finish [QC213 Hostile Takeover].
 
@@ -63,10 +63,10 @@ Turn in [QT203 The Second Rebellion] and [QT204 Bad Medicine].\\Accept [QA574 Sp
 Accept [QA207 Kurzen's Mystery].
 
 -- North-west
-Head west and complete [QC191 Panther Mastery] and [QC194 Raptor Mastery]. [G28,15]
+Head west and complete [QC191 Panther Mastery] and [QC194 Raptor Mastery][G28,15 Stranglethorn Vale].
 Run back and turn in [QT191 Panther Mastery].\\Accept follow-up [QA192 Panther Mastery].
 Turn in [QT194 Raptor Mastery].\\Accept follow-up [QA195 Raptor Mastery].
-Grind through the big [G27.6,11.3 troll camp] to complete the next steps.
+Grind through the big [G27.6,11.3 Stranglethorn Vale] troll camp to complete the next steps.
 Head up to the upper-most area with the higher level trolls and read [QC207,4 The Fourth Troll Legend].
 Collect about [CI1519,12 Bloodscalp Ear] in this area.
 Read [QC207,3 The Third Troll Legend].
@@ -74,10 +74,10 @@ Jump out onto the beach, then head south and complete [QC605 Singing Blue Shards
 [OC] Use an Elixir of Water Breathing for the following 3 steps.
 Read [QC207,2 The Second Troll Legend].
 Complete [QC1107 Encrusted Tail Fins] and collect [CI4611,9 Blue Pearl] for a later quest. -- Pearl Diving (705)
-Complete [QC578 The Stone of the Tides]. [G21.46,21.88]
+Complete [QC578 The Stone of the Tides][G21.46,21.88 Stranglethorn Vale].
 Read [QC207,2 The First Troll Legend].
-Complete [QC189 Bloodscalp Ears]. [G30,19]
-Complete [QC195 Raptor Mastery]. [G30.7,23.6]
+Complete [QC189 Bloodscalp Ears][G30,19 Stranglethorn Vale].
+Complete [QC195 Raptor Mastery][G30.7,23.6 Stranglethorn Vale].
 Complete [QC187 Tiger Mastery].
 
 -- Nesingwary
@@ -101,10 +101,10 @@ Turn in [QT1182 Goblin Sponsorship].\\Accept follow-up [QA1183 Goblin Sponsorshi
 -- Back North
 Fly back to [F Rebel Camp].
 Complete [QC574 Special Forces].
-Follow the beach south as you kill crocolisks to complete [QC577 Some Assembly Required]. [G38,30]
-Kill all stealthed panters you find [G38,36 around Bangalash's plateau] for Panther Mastery progress.
+Follow the beach south as you kill crocolisks to complete [QC577 Some Assembly Required][G38,30 Stranglethorn Vale].
+Kill all stealthed panters you find [G38,36 Stranglethorn Vale] around Bangalash's plateau for Panther Mastery progress.
 Complete [QC196 Raptor Mastery].
-Finish up [QC192 Panther Mastery]. [G38,36]
+Finish up [QC192 Panther Mastery][G38,36 Stranglethorn Vale].
 Complete [QC188 Tiger Mastery].
 Complete [QC601 Water Elementals].
 Turn in [QT196 Raptor Mastery].\\Accept follow-up [QA197 Raptor Mastery].

@@ -71,7 +71,7 @@ Accept [QA1012 Insane Druids].
 Follow the path west and kill [QC9522,1 Gorgannon][G89.7,76.7 Ashenvale].
 Backtrack then follow the [G82.97,78.08 Ashenvale] glowing, tiny obelisks.
 Enter the cave [G78.3032,81.7281 Ashenvale].
-Diathorus has a bunch of different spawn points, follow the path to go past them. Keep using "/tar dia" to not miss him. Once you find him abort the path and head out again.
+[O] Diathorus has a bunch of different spawn points, follow the path to go past them. Keep using "/tar dia" to not miss him. Once you find him abort the path and head out again.
 [G77.862203,82.150555,5 Ashenvale]
 [G77.688852,83.560919,5 Ashenvale]
 [G77.395713,84.224647,5 Ashenvale]
@@ -79,12 +79,12 @@ Diathorus has a bunch of different spawn points, follow the path to go past them
 [G78.703802,84.679967,5 Ashenvale]
 [G78.514301,85.594886,5 Ashenvale]
 [G78.386825,83.742427,5 Ashenvale]
-[G79.358553,82.205128,5 Ashenvale]
-[G78.771901,82.358568,5 Ashenvale]
+Check the room downstairs to your left [G78.771901,82.358568,5 Ashenvale].
 Go [G79.261714,81.800150,3 Ashenvale] upstairs and check the balcony.
 You should've found him by now, so kill [QC9522,2 Diathorus the Seeker].
 If you ended up going all the way, this path leads out [G78.4965157,80.944925 Ashenvale] by hugging the right wall and going upwards.
-Head out of the vale, and over to the [G75.87,75.38 Ashenvale] cave for the insane druids.
+Head out of the vale [G84.2,77.1 Ashenvale].
+And over to the [G75.87,75.38 Ashenvale] cave for the insane druids.
 [G77.183532,76.241928,5 Ashenvale]
 [G77.335089,75.166028,5 Ashenvale]
 Kill [QC1012,1 Taneel Darkwood][G77.178299,73.990488 Ashenvale].
@@ -105,7 +105,8 @@ Kill [QC1012,3 Mavoris Cloudsbreak][G75.046253,74.193507 Ashenvale].
 [G75.871586,76.205778,5 Ashenvale]
 [G76.335150,74.931335,5 Ashenvale]
 [G76.335150,74.931335,5 Ashenvale]
-[OC] Follow this path out of the cave.
+[G77.336925,75.153172,5 Ashenvale]
+[G76.333963,75.653207,5 Ashenvale]
 
 -- To Ratchet
 [G62.1156,82.0034 Ashenvale]

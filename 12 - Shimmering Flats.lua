@@ -6,8 +6,6 @@ Guidelime.registerGuide(
 [N 33-34 Shimmering Flats]
 [NX 34-36 Stranglethorn Vale]
 
-[OC] Questcheck.\\*Alterac Mountains:* Further Mysteries (525), Crushridge Bounty (500), Noble Deaths (512).\\*Ashenvale*: Passage to Booty Bay (1040).\\*Darkshore*: The Tower of Althalaxx (1167).\\*Hillsbrad Foothills:* Hints of a New Plague? (659)\\*Stormwind City*: Malin's Request (690), The Missing Diplomat (1264), James Hyal (1301).
-
 -- Peak into Arathi
 Fly to [F Arathi].
 Turn in [QT690 Malin's Request].
@@ -27,7 +25,7 @@ Get the FP [P Theramore].
 Turn in [QT1302 James Hyal].
 Turn in [QT1264 The Missing Diplomat].\\Accept follow-up [QA1265 The Missing Diplomat].
 Complete [QC1265 The Missing Diplomat].
-Make your way over to [G42.86,72.43 Mudsprocket].
+Make your way over to [G42.86,72.43 Dustwallow Marsh] Mudsprocket.
 Get the FP [P Mudsprocket].
 [OC] Continue to Barrens, then south to the lift. Once in Thousand Needles, head NW towards Feralas.
 Turn in [QT1059 Reclaiming the Charred Vale].
