@@ -48,7 +48,7 @@ Open the [G54.40,35.38 Ashenvale] chest to complete [QC1026 Raene's Cleansing].
 [G52.94187,36.52751,1 Ashenvale]
 Run through the cave-like tunnel. In the camp, on the table, read the book to complete [QC1022 The Howling Vale].
 Run up into Felwood and get the FP [P Emerald Circle][G51.5,81.6 Felwood].
-[OC] Been trying to find a way through the mountain to the moonwell, but can't seem to get up anywhere (XXX).
+[OC] Note: At around 40% movespeed increase running becomes better than flying. If you have base-movement speed, flying to Astranaar and running up to Iris Lake and jumping over the mountain is quicker (about 25 secs).
 Run back and around the mountain and turn in [QT1026 Raene's Cleansing].\\Accept [QA1027 Raene's Cleansing].
 While heading towards the next step, kill slimes until a chest spawns, then loot it, to complete [QC1027 Raene's Cleansing][G71.009,75.305 Ashenvale].
 On the table, loot the bottle to complete [QC1011 Forsaken Diseases]. Watch out for the stealthed rogues.
