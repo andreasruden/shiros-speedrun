@@ -31,6 +31,8 @@ Turn in [QT7733 Improved Quality] and [QT7735 Pristine Yeti Hide].
 Fly to [F Ratchet].
 Set hearthstone in [S Ratchet].
 Loot the chest outside of Liv's shop to complete [QC3444 The Stone Circle].
+XXX: Make sure we're Lv.49 at this point.
+Accept [QA4502 Volcanic Acitivy].
 Take the [G63.7,38.7 The Barrens] boat to Booty Bay.
 [G27.7767,76.6705 Stranglethorn vale]
 [G28.2333,76.1299 Stranglethorn vale]

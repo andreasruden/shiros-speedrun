@@ -73,12 +73,10 @@ In the cellar of the inn, turn in [QT647 MacKreel's Moonshine].
 Accept [QA637 Sully Balloo's Letter] from the Waterlogged Envelope.
 Get the FP [P Southshore].
 Hearth to [H Menethil Harbor].
-
--- Turn in
-Turn in [QT286 Return the Statuette].
 Turn in [QT292 The Eye of Paleth].\\Accept [QA293 Cleansing the Eye].
 Turn in [QT474 Defeat Nek'rosh] inside the keep.
 Turn in [QT471 Apprentice's Duties].
+Turn in [QT286 Return the Statuette].
 
 -- Ironforge & Stormwind
 Fly to [F Ironforge].

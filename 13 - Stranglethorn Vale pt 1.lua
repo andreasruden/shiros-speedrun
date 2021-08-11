@@ -7,6 +7,7 @@ Guidelime.registerGuide(
 [NX 36-37 Desolace]
 
 [O] Save Stranglethorn pages you find. Mail them to a second character or bank them.
+[O] *NOTE*: Do *NOT* sell *Silk Cloth* or *Mageweave Cloth* after you finish skilling. We need to have 60 of each for later. (Last reminder)
 
 -- Booty Bay
 Turn in [QT1180 Goblin Sponsorship].\\Accept follow-up [QA1181 Goblin Sponsorship].
@@ -68,14 +69,14 @@ Run back and turn in [QT191 Panther Mastery].\\Accept follow-up [QA192 Panther M
 Turn in [QT194 Raptor Mastery].\\Accept follow-up [QA195 Raptor Mastery].
 Grind through the big [G27.6,11.3 Stranglethorn Vale] troll camp to complete the next steps.
 Head up to the upper-most area with the higher level trolls and read [QC207,4 The Fourth Troll Legend].
-Collect about [CI1519,12 Bloodscalp Ear] in this area.
 Read [QC207,3 The Third Troll Legend].
-Jump out onto the beach, then head south and complete [QC605 Singing Blue Shards]. [26,18]
+Collect about 10 [CI1519,10 Bloodscalp Ear] in this area.
+Jump out onto the beach, then head south and complete [QC605 Singing Blue Shards][G26,18 Stranglethorn Vale].
 [OC] Use an Elixir of Water Breathing for the following 3 steps.
 Read [QC207,2 The Second Troll Legend].
-Complete [QC1107 Encrusted Tail Fins] and collect [CI4611,9 Blue Pearl] for a later quest. -- Pearl Diving (705)
+Complete [QC1107 Encrusted Tail Fins] and collect 9 [CI4611,9 Blue Pearl] (from the clams on the sea ground) for a later quest. -- Pearl Diving (705)
 Complete [QC578 The Stone of the Tides][G21.46,21.88 Stranglethorn Vale].
-Read [QC207,2 The First Troll Legend].
+Read [QC207,1 The First Troll Legend].
 Complete [QC189 Bloodscalp Ears][G30,19 Stranglethorn Vale].
 Complete [QC195 Raptor Mastery][G30.7,23.6 Stranglethorn Vale].
 Complete [QC187 Tiger Mastery].
@@ -101,12 +102,13 @@ Turn in [QT1182 Goblin Sponsorship].\\Accept follow-up [QA1183 Goblin Sponsorshi
 -- Back North
 Fly back to [F Rebel Camp].
 Complete [QC574 Special Forces].
-Follow the beach south as you kill crocolisks to complete [QC577 Some Assembly Required][G38,30 Stranglethorn Vale].
+Follow the river south as you kill crocolisks to complete [QC577 Some Assembly Required][G38,30 Stranglethorn Vale].
 Kill all stealthed panters you find [G38,36 Stranglethorn Vale] around Bangalash's plateau for Panther Mastery progress.
-Complete [QC196 Raptor Mastery].
+Complete [QC196 Raptor Mastery]. *Warning*: This quest is high level and very difficult for some classes (mobs are 40-41). But it's really bad pathing to not do it now. Up to you if you can manage, wanna find a friend or backtrack later.
 Finish up [QC192 Panther Mastery][G38,36 Stranglethorn Vale].
-Complete [QC188 Tiger Mastery].
+Check if Sin'Dall is alive, if so complete [QC188 Tiger Mastery]. Otherwise, skip this step.
 Complete [QC601 Water Elementals].
+If not completed, complete [QC188 Tiger Mastery].
 Turn in [QT196 Raptor Mastery].\\Accept follow-up [QA197 Raptor Mastery].
 Turn in [QT188 Tiger Mastery].
 Turn in [QT192 Panther Mastery].\\Accept follow-up [QA193 Panther Mastery].

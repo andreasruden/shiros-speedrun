@@ -77,5 +77,7 @@ If you have 60 silk and mageweave, turn in  [QT7798 A Donation of Silk][G64,23 D
 Go up this [G35.56,10.73 Darnassus] building.
 Turn in [QT3763 Assisting ARch druid Staghelm].\\Accept [QA3764 Un'Goro Soil].
 In the temple of moon, second level, turn in [QT162 Rise of the Silithid].
+XXX: We need to somehow be Lv.50 at this point so we can accept
+Accept [QA4493 March of the Silithid].
 
 ]], 'Shiros Speedrun')

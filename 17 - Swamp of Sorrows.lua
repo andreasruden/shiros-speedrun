@@ -40,6 +40,7 @@ Turn in [QT1398 Driftwood].\\Accept [QA1425 Deliver the Shipment].
 [OC] As you enter Blasted Lands, run left past the mine. Don't follow the road.
 Turn in [QT1395 Supplies for Nethergarde] and [QT1425 Deliver the Shipment].
 Take the FP [P Nethergarde Keep].
+[OC] *Warning*: If you did not do [41] Raptor Mastery, skip the next step and instead fly to Rebel Camp to finish that up before going to Booty Bay.
 Fly to [F Booty Bay].
 
 ]], 'Shiros Speedrun')
