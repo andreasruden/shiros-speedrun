@@ -45,7 +45,7 @@ Turn in [QT1458 Reagents for Reclaimers Inc.]\\Accept follow-up [QA1459 Reagents
 Accept [QA5501 Bone Collector].
 Accept [QA5561 Kodo Roundup].
 Accept [QA6134 Ghost-o-plasm Round Up].
-Complete [QC1459,2 Aged Kodo Hide], [QC5561 Kodo Roundup] and [QC5501 Bone Collector]. [G53,58]
+Complete [QC1459,2 Aged Kodo Hide], [QC5561 Kodo Roundup] and [QC5501 Bone Collector]. [G53,58 Desolace]
 Turn in [QT5561 Kodo Roundup].
 Accept [QA5741 Sceptre of Light].
 Turn in [QT1454 The Karnitol Shipwreck].\\Accept follow-up [QA1455 The Karnitol Shipwreck].
@@ -56,7 +56,7 @@ In the other big building, complete [QC1439 Search for Tyranis].
 Turn in [QT1439 Search for Tyranis].
 Time to escort Dalinda out. Accept [QA1440 Return to Vahlarriel].
 Turn in [QT5501 Bone Collector].
-Finish collecting [QC1459,1 Scorpashi Venom]. [G70,30]
+Finish collecting [QC1459,1 Scorpashi Venom]. [G70,30 Desolace]
 Turn in [QT1440 Return to Vahlarriel].
 Turn in [QT1455 The Karnitol Shipwreck] and [QT1459 Reagents for Reclaimers Inc.]\\Accept follow-ups [QA1456 The Karnitol Shipwreck] and [QA1466 Reagents for Reclaimers Inc.]
 
@@ -76,7 +76,7 @@ Turn in [QT6134 Ghost-o-plasm Round Up].
 
 -- Feralas
 Run south towards [G41.2,92.4 Feralas].
-In Ferals, die from a bear/gorilla once you've run past the [G41.45765,8.98459,2 tree]. Or die by the harpies. Don't die more to the east or you end up by Dire Maul. Spirit Ress in Feathermoon.
+In Ferals, die from a bear/gorilla once you've run past the [G41.45765,8.98459,2 Feralas] tree. Or die by the harpies. Don't die more to the east or you end up by Dire Maul. Spirit Ress in Feathermoon.
 Get the FP [P Feathermoon].
 
 Hearth to [H Nijel's Point].

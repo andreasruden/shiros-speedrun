@@ -12,7 +12,7 @@ Guidelime.registerGuide(
 Accept [QA11191 This Old Lighthouse].
 Turn in [QT11191 This Old Lighthouse].\\Accept [QA11192 Thresher Oil].
 Accept [QA11126 Traitors Among Us].
-[OC] As you're running around, complete [QC11126 Traitors Among Us].
+As you're running around, complete [QC11126 Traitors Among Us][O].
 ?? Accept [QA1282 They Call Him Smiling Jim]. -- XXX: Sounds like you cannot actually get 1282 if you've completed James Hyal (which gives more xp)
 Set hearthstone in [S Theramore].
 [OC] Depending on level earlier you might not have this turn-in, but it's not a necessary prerequisite for the next quest.
@@ -45,7 +45,7 @@ Accept [QA1219 The Orc Report].
 Accept [QA11146 Raptor Captor].
 Turn in [QT1266 The Missing Diplomat].\\Accept follow-up [QA1324 The Missing Diplomat].
 Beat up the private to complete [QC1324 The Missing Diplomat].
-Complete [QC11146 Raptor Captor]. [G47,18]
+Complete [QC11146 Raptor Captor]. [G47,18 Dustwallow Marsh]
 Accept escort [QA1222 Stinky's Escape]. Grind raptors if you have to wait.
 Complete [QC1222 Stinky's Escape].
 Turn in [QT11146 Raptor Captor]. Skip follow-ups for now.
@@ -74,11 +74,11 @@ Fly to [F Mudsprocket].
 Accept [QA11184 WANTED: Goreclaw the Ravenous].
 Accept [QA11158 Bloodfen Feathers] and [QA11159 Spirits of Stonemaul Hold].
 Complete [QC11184 WANTED: Goreclaw the Ravenous].
-Kill raptors to finish up [QC11158 Bloodfen Feathers]. [G32,66]
+Kill raptors to finish up [QC11158 Bloodfen Feathers]. [G32,66 Dustwallow Marsh]
 Turn in [QT1286 The Deserters].\\Accept follow-up [QA1287 The Deserters].
 Turn in [QT11212 Tabetha's Farm]. Skip follow-up for now.
 Accept [QA11169 The Grimtotem Weapon] and [QA11173 The Reagent Thief].
-[G46,62 Circle around Tabetha's Farm] to complete [QC11173 The Reagent Thief] and [QC11169 The Grimtotem Weapon].
+[G46,62 Dustwallow Marsh] Circle around Tabetha's Farm to complete [QC11173 The Reagent Thief] and [QC11169 The Grimtotem Weapon].
 Turn in [QT11169 The Grimtotem Weapon] and [QT11173 The Reagent Thief].
 Accept [QA11172 The Zeppelin Crash].
 Turn in [QT11172 The Zeppelin Crash].\\Accept [QA11207 Secure the Cargo!] and [QA11174 Corrosion Prevention].
@@ -109,7 +109,7 @@ Complete [QC11139 Secondhand Diving Gear].
 Turn in [QT11139 Secondhand Diving Gear].\\Accept [QA11140 Recover the Cargo!]
 Open the Supplies, put on the helmet and complete [QC11140 Recover the Cargo!]
 Turn in [QT11140 Recover the Cargo!]\\Accept [QA11141 Jaina Must Know].
-Finish up [QC1204 Mudrock Soup and Bugs] and [QC1177 Hungry!] [G62,8]
+Finish up [QC1204 Mudrock Soup and Bugs] and [QC1177 Hungry!] [G62,8 Dustwallow Marsh]
 Finish up [QC11181 The Witch's Bane].
 Turn in [QT11181 The Witch's Bane].\\Accept [QA11183 Cleansing Witch Hill].
 Use the torch at the end of the dock and kill the spawn to complete [QC11183 Cleansing Witch Hill].
@@ -134,7 +134,7 @@ Turn in [QT11211 Help for Mudsprocket], [QT11184 WANTED: Goreclaw the Ravenous] 
 Turn in [QT11158 Bloodfen Feathers] and [QT11159 Spirits of Stonemaul Hold].\\Accept [QA11160 Banner of the Stonemaul], [QA11161 The Essence of Enmity] and [QA11162 Challenge to the Black Flight].
 Accept [QA11217 Catch a Dragon by the Tail].
 Complete [QC11160 Banner of the Stonemaul] inside the cave (keep to the left) and [QC11161 The Essence of Enmity] (use the totem on a corpse).
-On the way to Onyxia's Lair, complete [QC11217 Catch a Dragon by the Tail]. [G46.7,77.2]
+On the way to Onyxia's Lair, complete [QC11217 Catch a Dragon by the Tail]. [G46.7,77.2 Dustwallow Marsh]
 Complete [QC11162 Challenge to the Black Flight].
 Turn in [QT11217 Catch a Dragon by the Tail].
 Turn in [QT11160 Banner of the Stonemaul], [QT11161 The Essence of Enmity] and [QT11162 Challenge to the Black Flight].
@@ -144,8 +144,8 @@ Fly to [F Theramore]. -- XXX: The turn in order might be wrong, was hearth befor
 Turn in [QT1204 Mudrock Soup and Bugs].\\Accept [QA1258 ... and Bugs].
 Turn in [QT11141 Jaina Must Know].\\Accept [QA11142 Survey Alcaz Island]. -- XXX: Could save one run up the tower by turning in the diplomat chain here too.
 Turn in [QT11151 Justice for the Hyals].\\Accept [QA11152 Peace at Last].
-Use the Wreath to complete [QC11152 Peace at Last]. [G63.7,42.9]
-Complete [QC11142 Survey Alcaz Island]. [G67.3,51.2]
+Use the Wreath to complete [QC11152 Peace at Last]. [G63.7,42.9 Dustwallow Marsh]
+Complete [QC11142 Survey Alcaz Island]. [G67.3,51.2 Dustwallow Marsh]
 Turn in [QT11142 Survey Alcaz Island].\\Accept [QA11222 Warn Bolvar!]
 Turn in [QT11152 Peace at Last].
 Take the boat from the middle dock to Menethil Harbor.
