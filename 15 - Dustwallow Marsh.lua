@@ -133,7 +133,7 @@ Complete [QC11159 Spirits of Stonemaul Hold].
 Turn in [QT11211 Help for Mudsprocket], [QT11184 WANTED: Goreclaw the Ravenous] and [QT11208 Delivery for Drazzit].
 Turn in [QT11158 Bloodfen Feathers] and [QT11159 Spirits of Stonemaul Hold].\\Accept [QA11160 Banner of the Stonemaul], [QA11161 The Essence of Enmity] and [QA11162 Challenge to the Black Flight].
 Accept [QA11217 Catch a Dragon by the Tail].
-Complete [QC11160 Banner of the Stonemaul] inside the cave (keep to the left) and [QC11161 The Essence of Enmity] (use the totem on a corpse).
+Complete [QC11160 Banner of the Stonemaul] inside the cave (keep to the left) and [QC11161 The Essence of Enmity] (use the totem on corpses).
 On the way to Onyxia's Lair, complete [QC11217 Catch a Dragon by the Tail]. [G46.7,77.2 Dustwallow Marsh]
 Complete [QC11162 Challenge to the Black Flight].
 Turn in [QT11217 Catch a Dragon by the Tail].
@@ -154,8 +154,8 @@ Take the boat from the middle dock to Menethil Harbor.
 -- Discrediting the Deserters -> All around Theramore
 -- This Old Lighthouse: Around Theramore -> To Nat Page -> Tethyr fight
 -- They Call Him Smiling Jim -> Starts Theramore -> Loot 3 items at shady rest inn -> Theramore turn-in
-  -- One of the items (Lieutenant Paval Reethe) goes outside of theramore -> Theramore -> SE of inn -> Theramore
-  -- Once all 3 are done. Unlocks:
-    -- A Grim Connection (starts in Theramore) -> North Central Tower (starts Raptor Captor, ends Missing Diplomat) -> Northern Grimtotem Village (other one has no Elders) -> Armaments in same village (same time as elders?) -> Speak with Tabetha -> Burn southern Grimtotem Village -> Theramore
+--   One of the items (Lieutenant Paval Reethe) goes outside of theramore -> Theramore -> SE of inn -> Theramore
+--   Once all 3 are done. Unlocks:
+--     A Grim Connection (starts in Theramore) -> North Central Tower (starts Raptor Captor, ends Missing Diplomat) -> Northern Grimtotem Village (other one has no Elders) -> Armaments in same village (same time as elders?) -> Speak with Tabetha -> Burn southern Grimtotem Village -> Theramore
 
 ]], 'Shiros Speedrun')

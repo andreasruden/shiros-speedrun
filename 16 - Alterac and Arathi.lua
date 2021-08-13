@@ -13,7 +13,7 @@ On the upper floor, turn in [QT1052 Down the Scarlet Path].
 Set hearthstone in [S Southshore].
 If you had to skip it last time, accept [QA500 Crushridge Bounty] instead of the next one. -- !OptionalFinish
 Accept [QA504 Crushridge Warmongers].
-Turn in [QT525 Further Mysteries].\\Accept [QA512 Noble Deaths] and [QA537 Dark Council].
+Accept [QA512 Noble Deaths] and [QA537 Dark Council].
 Turn in [QT602 Magical Analysis].\\Accept [QA603 Ansirem's Key].
 [G33.291807,68.968439 Alterac Mountains]
 [G39.592844,63.365703,5 Alterac Mountains]
@@ -23,7 +23,7 @@ If you didn't complete it before, complete [QC500 Crushridge Bounty]. -- !Option
 Complete [QC504 Crushridge Warmongers] and obtain [QC540,1 Recovered Tome].
 Complete [QC537,1 Argus Shadow Mage][G62,44.2 Alterac Mountains] in Strahnbrad.
 Head into the [G57.7 33.8,40 Alterac Mountains] Uplands.
-[O] Try to *complete* [QC512 Noble Deaths] on the way. Drops from the syndicate mobs.
+Try to *complete* [QC512 Noble Deaths][O] on the way. Drops from the syndicate mobs.
 Continue through the Uplands. Obtain [QC537,2 Head of Nagaz].
 Loot the Worn Wooden Chest next to Nagaz to obtain *Ensorcelled Parchment*.
 From the item accept [QA551 The Ensorcelled Parchment].
@@ -40,11 +40,11 @@ Accept [QA682 Stromgarde Badges].
 Accept [QA684 Wanted!  Marez Cowl] and [QA685 Wanted!  Otto and Falconcrest].
 Accept [QA691 Worth Its Weight in Gold].
 Accept [QA642 The Princess Trapped].
-Head up the road here [G80.79,39.93].
+Head up the road here [G80.79,39.93 Arathi Highlands].
 In the cave, work your way towards the turn-in crystal, while completing [QC642 The Princess Trapped].
 Turn in [QT642 The Princess Trapped].\\Accept [QA651 Stones of Binding].
 Obtain [QC651,2 Cresting Key].
-Complete [QC691 Worth Its Weight in Gold]. [G68,75]
+Complete [QC691 Worth Its Weight in Gold]. [G68,75 Arathi Highlands]
 Turn in [QT659 Hints of a New Plague?].\\Accept follow-up [QA658 Hints of a New Plague?].
 Find the courier along the road to complete [QC658 Hints of a New Plague?].
 Turn in [QT658 Hints of a New Plague?]\\Accept follow-up [QA657 Hints of a New Plague?]
@@ -61,7 +61,7 @@ Turn in [QT651 Stones of Binding].\\Accept [QA652 Breaking the Keystone].
 Fozruk spawns NE at the Circle of East binding and then walks a path around the zone. Find him and complete [QC652 Breaking the Keystone].
 Turn in [QT652 Breaking the Keystone].\\Accept [QA653 Myzrael's Allies].
 -- Stromgarde keep
-[OC] We gather Badges on the way for [QC682 Stromgarde Badges].
+We gather Badges on the way for [QC682 Stromgarde Badges][O].
 Head into Stromgarde Keep. Follow the lower level left. Behind the building in the back complete [QC684 Wanted!  Marez Cowl].
 Inside the main keep complete [QC685 Wanted!  Otto and Falconcrest].
 Finish [QC682 Stromgarde Badges].
@@ -74,8 +74,8 @@ Turn in [QT695 An Apprentice's Enchantment].\\Accept [QA696 Attack on the Tower]
 [OC] There's a pedestal for tower defenses outside, but it can end up making things more annoying. YMMV.
 Complete [QC696 Attack on the Tower].
 -- Faldir's Cove
-Head out of Stromgarde Keep, and follow it to the [G31.1,65.8 west].
-Follow the road through the [G21.6,75.5 cave].
+Head out of Stromgarde Keep, and follow it to the [G31.1,65.8 Arathi Highlands] west.
+Follow the road through the [G21.6,75.5 Arathi Highlands] cave.
 Swim across the water, and accept low-level quest from Lolo (first ogre), [QA663 Land Ho!]
 Turn in [QT663 Land Ho!]
 Accept [QA662 Deep Sea Salvage].
@@ -84,7 +84,7 @@ Accept escort [QA665 Sunken Treasure].
 Follow the gnome and complete [QC665 Sunken Treasure].
 Turn in [QT665 Sunken Treasure].\\Accept follow-up [QA666 Sunken Treasure].
 -- Into the water
-[OC] Put on the goggles, and on the way get progress for [QC666 Sunken Treasure] and [QC664 Drowned Sorrows].
+Put on the goggles, and on the way get progress for [QC666 Sunken Treasure][O] and [QC664 Drowned Sorrows][O].
 [OC] Use an Elixir of Water Breathing.
 Enter Maiden's Folly through the windows. On the middle-floor collect both [QC662,1 Maiden's Folly Charts] and [QC662,2 Maiden's Folly Log].
 Spirit of Silver Pine has an logs at the bottom floor and charts in the middle. Can either enter via window or via hole in the hull along the ground. Obtain [QC662,4 Spirit of Silverpine Log] and [QC662,3 Spirit of Silverpine Charts].
@@ -110,10 +110,10 @@ Turn in [QT653 Myzrael's Allies].\\Accept [QA687 Theldurin the Lost].
 -- Loch Modan
 Fly to [F Thelsamar].
 Turn in [QT707 Ironband Wants You!]\\Accept [QA738 Find Agmond].
-Run [G46.9,77.4 south] to find Badlands.
+Run [G46.9,77.4 Loch Modan] to find Badlands.
 
 -- Badlands
--- XXX: If we don't end up going back to Badlands, skip Mirages and Tremors of the Earth!
+XXX: If we don't end up going back to Badlands, skip Mirages and Tremors of the Earth!
 Click the Crumpled Map to accept [QA720 A Sign of Hope].
 Turn in [QT720 A Sign of Hope].
 Accept [QA718 Mirages].

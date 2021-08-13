@@ -37,13 +37,16 @@ On the beach SE of southshore, complete [QC562 Stormwind Ho!].
 
 -- Making the rounds
 After finishing, head to the [G55.4,58.5 Hillsbrad Foothills] river.
-Kill turtles for [QC555,1 Turtle Meat][O] progress.
-Grind over to [G60.1267,43.8959,2 Hillsbrad Foothills] here, where you can climb up the left side of the waterfall by hugging the water + rock.
-Kill a turtle or two right after [G63.27,40.67 Hillsbrad Foothills] climbing the waterfall.
-Then head over and complete [QC9435 Missing Crystals] inside the tower.
-Go back to the river and keep grinding turtles north until [G83.4,52.5 Alterac Mountains].
+On the way up the river kill some turtles for [QC555,1 Turtle Meat][O] progress. There's plenty on the way.
+Follow the river to [G60.1267,43.8959,2 Hillsbrad Foothills] here, where you can climb up the left side of the waterfall by hugging the stone.
+[G63.27,40.67 Hillsbrad Foothills]
+Head west and complete [QC9435 Missing Crystals] inside the tower.
+Kill any [QC564,2 Hulking Mountain Lion][O] you spot during the next steps.
+Keep following the river north until [G80.84,58.63 Alterac Mountains] here. To the east there are usally some *Hulking Mountain Lion*, kill them.
+[G83.4,52.5 Alterac Mountains]
 [G80,41.8 Alterac Mountains]
 Get FP in [G42.94,85.05 Western Plaguelands] [P Chillwind Camp].
+[G78.69,55.05 Alterac Mountains]
 Head back to the river and grind south until you complete gathering [QC555,1 Turtle Meat].
 From the river, go to [G67.19,8.96 Hillsbrad Foothills].
 From here run up to Sofera's Naze and from the document on the table accept [QA510 Foreboding Plans] and [QA511 Encrypted Letter].
@@ -85,5 +88,6 @@ Turn in [QT55 Morbent Fel].
 XXX: Here is an okay time to grind for mount for those who want to. (Ideally we're one level higher, but there's a long run section coming up which it would be nice to get mount before, if you're gonna grind anyway.)
 
 Hearth to [H Southshore].
+Turn in [QT525 Further Mysteries].
 
 ]], 'Shiros Speedrun')
