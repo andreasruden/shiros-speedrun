@@ -8,13 +8,12 @@ Guidelime.registerGuide(
 
 -- Booty Bay
 In the house next to the FP, accept [QA628 Excelsior].
-Go back to the FP, then into the inn, and accpet [QA2864 Tran'rek].
+Go back to the FP, then into the inn, and turn in [QT1116 Dream Dust in the Swamp].\\Accept [QA2864 Tran'rek] and [QA1117 Rumors for Kravel].
 Accept [QA209 Skullsplitter Tusks].
 Turn in [QT669 Sunken Treasure].\\Accept [QA670 Sunken Treasure].
 Run down the stairs and turn in [QT603 Ansirem's Key].\\Accept [QA610 "Pretty Boy" Duncan].
-On the bottom floor of the inn, accept [QA600 Venture Company Mining].
+On the bottom floor of the inn, accept [QA600 Venture Company Mining] and [QA621 Zanzil's Secret].
 Accept [QA580 Whiskey Slim's Lost Grog].
-Turn in [QT1116 Dream Dust in the Swamp].\\Accept [QA1117 Rumors for Kravel] and [QA621 Zanzil's Secret].
 Accept [QA617 Akiris by the Bundle].
 Accept [QA348 Stranglethorn Fever].
 Accept [QA606 Scaring Shaky] and [QA2872 Stoley's Debt].
@@ -150,14 +149,14 @@ Turn in [QT667 Death From Below].
 Hearth to [H Stormwind City].
 Speak with [G39.77,81.49 Stormwind City] Archage Malin by the Mage Quarter's tower to TP to dustwallow.
 -- XXX: Skipping Vital Supplies, which is a breadcrumb to Blasted Lands
-Turn in [QT6625 Alliance Trauma].
+Turn in [QT11223 Return to Jaina]. (Disables this teleport, but it doesn't work at high-level anyway.)
+Turn in [QT1258 ... and Bugs].
+In the keep, turn in [QT6625 Alliance Trauma].
 Accept [QA6624 Triage].
 Complete [QC6624 Triage] by using the Bandage on the wounded soldiers. Prioritize the soldiers with the most wounded title.
-Turn in [QC6624 Triage].
-If you can, reach first aid 240, then talk to the doctor and learn *Heavy Mageweave Bandage*.
-Turn in [QT11223 Return to Jaina]. (Disables this teleport, but it doesn't work at high-level anyway.)
+Turn in [QT6624 Triage].
+Throw away the *Triage Bandage*. And, if you can, reach first aid 240, then talk to the doctor and learn *Heavy Mageweave Bandage*.
 Turn in [QT623 Akiris by the Bundle].
-Turn in [QT1258 ... and Bugs].
 Fly to [F Mudsprocket].
 In the cave of the area where we killed Goreclaw, turn in [QT625 Cortello's Riddle].\\Accept follow-up [QA626 Cortello's Riddle].
 Run back to Mudsprocket and fly to [F Tanaris].

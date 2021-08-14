@@ -33,9 +33,10 @@ Turn in [QT1117 Rumors for Kravel].\\Accept [QA1118 Back to Booty Bay].
 Turn in [QT1137 News for Fizzle].
 Turn in [QT1187 Razzeric's Tweaking].\\Accept [QA1188 Safety First].
 Accept [QA1190 Keeping Pace].
-Use [G79.82,77.03 Shimmering Flats] Zamek to create a distraction [QT1191 Zamek's Distraction]. -- !FinishWithoutAccept
+Use [G79.82,77.03 Thousand Needles] Zamek to create a distraction [QT1191 Zamek's Distraction]. -- !FinishWithoutAccept
 Turn in [QT1190 Keeping Pace].\\Accept [QA1194 Rizzle's Schematics].
 Turn in [QT1194 Rizzle's Schematics].
+[OC]Destroy the *Sample of Indurium Ore* item.
 
 -- Gadgetzan
 Turn in [QT1188 Safety First]. Skip follow-up for now.

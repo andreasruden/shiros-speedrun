@@ -112,7 +112,7 @@ Follow the river south as you kill crocolisks to complete [QC577 Some Assembly R
 Kill all stealthed panters you find [G38,36 Stranglethorn Vale] around Bangalash's plateau for Panther Mastery progress.
 Complete [QC196 Raptor Mastery]. *Warning*: This quest is high level and very difficult for some classes (mobs are 40-41). But it's really bad pathing to not do it now. Up to you if you can manage, wanna find a friend or backtrack later.
 Finish up [QC192 Panther Mastery][G38,36 Stranglethorn Vale].
-Check if Sin'Dall is alive, if so complete [QC188 Tiger Mastery]. Otherwise, skip this step.
+[OC]If you're on a busy server, you might want to check if Sin'Dall is alive, and kill him. He's at (32,17). Otherwise, we do him on the way back.
 Complete [QC601 Water Elementals].
 If not completed, complete [QC188 Tiger Mastery].
 Turn in [QT196 Raptor Mastery].\\Accept follow-up [QA197 Raptor Mastery].
