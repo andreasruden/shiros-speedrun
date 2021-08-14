@@ -17,11 +17,11 @@ Accept [QA1389 Draenethyst Crystals].
 -- Round of Swamp of Sorrows
 XXX: Can we do this round in less than an hour? Or should we do turn in first?
 [OC] Keep an eye on the 1 hour timer, if things get close, turn in the quest.
-Clear the whelps at [G13.7,61.8] for some dreadmust progress.
+Clear the whelps at [G13.7,61.8 Swamp of Sorrows] for some dreadmust progress.
 Turn in [QT9609 Help Watcher Biggs].\\Accept [QA1396 Encroaching Wildlife].
 Complete [QC1396 Encroaching Wildlife].
 Turn in [QT1396 Encroaching Wildlife].\\Accept [QA1421 The Lost Caravan].
-Around the [G66,51 pool] complete [QC9610 Pool of Tears] (underwater & by the shore), [QC1116 Dream Dust in the Swamp] (dragonkin on land) and [QC1448 In Search of The Temple].
+Around the [G66,51 Swamp of Sorrows] pool complete [QC9610 Pool of Tears] (underwater & by the shore), [QC1116 Dream Dust in the Swamp] (dragonkin on land) and [QC1448 In Search of The Temple].
 Complete [QC1421 The Lost Caravan].
 Accept [QA1393 Galen's Escape].
 [OC] Loot crystals and kill Cursed Lost One on the way.

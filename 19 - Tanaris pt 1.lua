@@ -8,25 +8,25 @@ Guidelime.registerGuide(
 
 -- Quests gotten out-of-zone:
 -- Hinterlands:
-  -- Accept & Complete: [43] Rhapsody's Kalimdor Kocktail (PRE.Q: 1448 In Search of The Temple, taken in SW at 38, goes by SoS)
-  -- Complete: [47] Favored of Elune? (accept & turn in outside of darnassus; collect wildkin feathers off the ground). follow up in WS
-    -- Turn in: [47] The Newest Member of the Family -> [47] Food for Baby (killing silvermane stalkers in eastern hinterlands)
-  -- Complete: [48] Super Snapper FX -> Unlocks [50] The Stave of Equinex
-    -- Complete: [49] Sprinkle's Secret Ingredient
-  -- [50] Whiskey Slim's Lost Grog (from booty bay)
-  -- [51] Cordello's Riddle
+--   Accept & Complete: [43] Rhapsody's Kalimdor Kocktail (PRE.Q: 1448 In Search of The Temple, taken in SW at 38, goes by SoS)
+--   Complete: [47] Favored of Elune? (accept & turn in outside of darnassus; collect wildkin feathers off the ground). follow up in WS
+--     Turn in: [47] The Newest Member of the Family -> [47] Food for Baby (killing silvermane stalkers in eastern hinterlands)
+--   Complete: [48] Super Snapper FX -> Unlocks [50] The Stave of Equinex
+--     Complete: [49] Sprinkle's Secret Ingredient
+--   [50] Whiskey Slim's Lost Grog (from booty bay)
+--   [51] Cordello's Riddle
 -- Tanaris:
-  -- Accept & Turn in: [44] Screecher Spirits
-    -- Accept: [47] The Newest Member of the Family
-    -- Complete & Turn in: [48] The Borrower -> Unlocks: [48] Super Snapper FX
-  -- Accept & Turn in: [49] Sprinkle's Secret Ingredient (from Thirsty Goblin)
-  -- Turn In: [51] The Sunken Temple -> [51] The Stone Circle (chest in Ratchet, then back to center of Tanaris)
+--   Accept & Turn in: [44] Screecher Spirits
+--     Accept: [47] The Newest Member of the Family
+--     Complete & Turn in: [48] The Borrower -> Unlocks: [48] Super Snapper FX
+--   Accept & Turn in: [49] Sprinkle's Secret Ingredient (from Thirsty Goblin)
+--   Turn In: [51] The Sunken Temple -> [51] The Stone Circle (chest in Ratchet, then back to center of Tanaris)
 -- Feralas:
-    -- Complete: [44] Screecher Spirits
-  -- (REQUIRES 2 elixir of fortitude) Accept: [47] An Orphan Looking For a Home (requires delivering Dolling Justice to Tyrande in Darnassus first) -> Leads to [47] The Newest Member of the Family
-  -- Accept: [47] In Search of Knowledge -> Unlocks: (via darnassus) [48] The Borrower
-    -- Accept & Complete: [50] The Stave of Equinex
-  -- Accept: [51] The Sunken Temple (req 46)
+--     Complete: [44] Screecher Spirits
+--   (REQUIRES 2 elixir of fortitude) Accept: [47] An Orphan Looking For a Home (requires delivering Dolling Justice to Tyrande in Darnassus first) -> Leads to [47] The Newest Member of the Family
+--   Accept: [47] In Search of Knowledge -> Unlocks: (via darnassus) [48] The Borrower
+--     Accept & Complete: [50] The Stave of Equinex
+--   Accept: [51] The Sunken Temple (req 46)
 
 -- Shimmering Flats
 Turn in [QT1117 Rumors for Kravel].\\Accept [QA1118 Back to Booty Bay].

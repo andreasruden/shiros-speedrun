@@ -31,7 +31,7 @@ If not finished, finish up [QC512 Noble Deaths][G41.5,18.9 Alterac Mountains].
 Hearth to [H Southshore].
 Turn in [QT512 Noble Deaths] and [QT537 Dark Council].
 If you skipped bounty the first time, turn in [QT500 Crushridge Bounty] and skip the follow-up. -- !OptionalFinish
-Else, turn in [QT504 Crushridge Warmongers].
+Turn in [QT504 Crushridge Warmongers].
 Turn in [QT551 The Ensorcelled Parchment] and [QT540 Preserving Knowledge].\\Accept [QA554 Stormpike's Deciphering] and [QA542 Return to Milton].
 
 -- Arathi Highlands
@@ -65,7 +65,7 @@ We gather Badges on the way for [QC682 Stromgarde Badges][O].
 Head into Stromgarde Keep. Follow the lower level left. Behind the building in the back complete [QC684 Wanted!  Marez Cowl].
 Inside the main keep complete [QC685 Wanted!  Otto and Falconcrest].
 Finish [QC682 Stromgarde Badges].
-Head into the ogre area (right from keep entrance) and complete [QC694 Trelane's Defenses].
+Head into the ogre area (right from area entrance) and complete [QC694 Trelane's Defenses].
 Turn in [QT682 Stromgarde Badges], [QT684 Wanted!  Marez Cowl] and [QT685 Wanted!  Otto and Falconcrest].
 Turn in [QT694 Trelane's Defenses].\\Accept [QA695 An Apprentice's Enchantment].
 Turn in [QT695 An Apprentice's Enchantment].\\Accept [QA696 Attack on the Tower].
@@ -87,7 +87,7 @@ Turn in [QT665 Sunken Treasure].\\Accept follow-up [QA666 Sunken Treasure].
 Put on the goggles, and on the way get progress for [QC666 Sunken Treasure][O] and [QC664 Drowned Sorrows][O].
 [OC] Use an Elixir of Water Breathing.
 Enter Maiden's Folly through the windows. On the middle-floor collect both [QC662,1 Maiden's Folly Charts] and [QC662,2 Maiden's Folly Log].
-Spirit of Silver Pine has an logs at the bottom floor and charts in the middle. Can either enter via window or via hole in the hull along the ground. Obtain [QC662,4 Spirit of Silverpine Log] and [QC662,3 Spirit of Silverpine Charts].
+Spirit of Silver Pine has the logs at the bottom floor and the charts in the middle. Can either enter via window or via hole in the hull along the ground. Obtain [QC662,4 Spirit of Silverpine Log] and [QC662,3 Spirit of Silverpine Charts].
 -- Back at Cove
 Turn in [QT662 Deep Sea Salvage].
 Turn in [QT664 Drowned Sorrows].

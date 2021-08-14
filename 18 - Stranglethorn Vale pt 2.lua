@@ -27,7 +27,7 @@ Kill & loot Duncan to complete [QC610 "Pretty Boy" Duncan].
 Turn in [QT595 The Bloodsail Buccaneers].\\Accept follow-up [QA597 The Bloodsail Buccaneers].
 -- XXX: There is no way in which it would be time efficient to get https://tbc.wowhead.com/quest=48/sweet-amber from westfall, right?
 Head north along the coast and complete [QC617 Akiris by the Bundle].
-Head out across the road to get to the Gorilla place. [G28.7,58.2]
+Head out across the road to get to the Gorilla place. [G28.7,58.2 Stranglethorn Vale]
 [OC] Loot a Gorilla Fang during next step.
 Head a bit further north and complete [QC606 Scaring Shaky].
 Start the event at Ubagwa and kill the waves of enemies to complete [QC348 Stranglethorn Fever].
@@ -52,13 +52,13 @@ Obtain [QC609,3 Chucky's Huge Ring]. Also clear the entire camp for Mixture prog
 Obtain [QC609,2 Jon-Jon's Golden Spyglass].
 Obtain [QC609,1 Maury's Clubbed Foot].
 Finish up [QC621 Zanzil's Secret].
-Go south of Gurubashi Arena. [G30.1,54.1]
+Go south of Gurubashi Arena. [G30.1,54.1 Stranglethorn Vale]
 Once you've continued circling around, kill Tethis and complete [QC197 Raptor Mastery].
 Run north-east and kill [G36.5,41.6 Stranglethorn Vale] Cold Eye Basilisk to get a *Chilled Basilisk Haunch*.
 Head east to the goblins and complete [QC600 Venture Company Mining].
 -- XXX: Is it worth to get and do https://tbc.wowhead.com/quest=735/the-star-the-hand-and-the-heart ? Starts in Badlands, goes here + alterac + dustwallow
-Continue north while following the mountain. [G43,38.5]
-Complete [QC209 Skullsplitter Tusks] and [QC205 Troll Witchery] either in Ziata'jai (small camp) or Zul'Mamwe (big). [G45.5,42.9]
+Continue north while following the mountain. [G43,38.5 Stranglethorn Vale]
+Complete [QC209 Skullsplitter Tusks] and [QC205 Troll Witchery] either in Ziata'jai (small camp) or Zul'Mamwe (big). [G45.5,42.9 Stranglethorn Vale]
 Complete [QC628 Excelsior] along the coast.
 Complete [QC611 The Curse of the Tides]. This quest is weird, on retail the goblin was just patrolling the island without using the Altar at (24,23) in the water???
 Hearth to [H Booty Bay].
@@ -100,7 +100,7 @@ Fly to [F Booty Bay].
 Turn in [QT613 Cracking Maury's Foot] (in the first building outside of the inn).
 
 -- Pirate's Finale
-If not already obtained, get the [CI4098,1 Carefully Folded Note]. [G34.3,73.7]
+If not already obtained, get the [CI4098,1 Carefully Folded Note]. [G34.3,73.7 Stranglethorn Vale]
 From the Carefully Folded Note accept [QA594 Message in a Bottle].
 Kill [QC608,2 Captain Keelhaul] on the western-most ship.
 Check for Cortello's Riddle in the lowest level of the ship.
@@ -109,7 +109,7 @@ Check for Cortello's Riddle in the lowest level of the ship.
 Kill [QC608,1 Captain Stillwater] on the eastern ship.
 Check for Cortello's Riddle in the middle *and* lowest level of the ship.
 From the item, accept [QA624 Cortello's Riddle].
-If [QC576 Keep An Eye Out] is not complted, try killing [G32.9,88.3 Brutus] by the ship's stearing wheel.
+If [QC576 Keep An Eye Out] is not complted, try killing [G32.9,88.3 Stranglethorn Vale] Brutus by the ship's stearing wheel.
 If you're close to finishing, finish up [QC587 Up to Snuff]. Otherwise abandon it (2.3k turn-in).
 Turn in [QT594 Message in a Bottle].\\Accept follow-up [QA630 Message in a Bottle].
 Complete [QC630 Message in a Bottle].
@@ -148,7 +148,7 @@ Turn in [QT667 Death From Below].
 
 -- Dustwallow Marsh (via Stormwind)
 Hearth to [H Stormwind City].
-Speak with [G39.77,81.49 Archage Malin] by the Mage Quarter's tower to TP to dustwallow.
+Speak with [G39.77,81.49 Stormwind City] Archage Malin by the Mage Quarter's tower to TP to dustwallow.
 -- XXX: Skipping Vital Supplies, which is a breadcrumb to Blasted Lands
 Turn in [QT6625 Alliance Trauma].
 Accept [QA6624 Triage].

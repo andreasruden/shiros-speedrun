@@ -30,17 +30,13 @@ Turn in [QT173 Worgen in the Woods].\\Accept follow-up [QA221 Worgen in the Wood
 Run up [G71.1073,45.9099,1 Duskwood] here.
 Complete [QC221 Worgen in the Woods]. [G63.7026,51.0763,1 Duskwood] (NW of here there's a camp too)
 Run back [G69.007,48.827,4 Duskwood]
-Turn in [QT221 Worgen in the Woods].\\Accept follow-up [QA222 Worgen in the Woods].
+Turn in [QT221 Worgen in the Woods]. Skip follow-up for now.
 Grind for [QC101 The Totem of Infliction][O] while on the way.
 Turn in [QT149 Ghost Hair Thread] and [QT175 Look To The Stars].\\Accept [QA177 Look To The Stars] and [QA154 Return the Comb].
 Grind further south and complete [QC177 Look To The Stars]. [G79.51,70.35 Duskwood]
 In this area, also complete [QC56 The Night Watch].
--- The Scythe of Elune (1043) is in this cave (Mound of Dirt), but I don't think there's any sensible way to have that quest line (it starts at 25 in Ashenvale)
-Jump over the mountain [G72.94,74.34 Duskwood] west to complete [QC222 Worgen in the Woods]. (Tainted Ones are in the cave)
 Run back to Darkshire, and turn in [QT56 The Night Watch].\\Accept follow-up [QA57 The Night Watch].
 Turn in [QT154 Return the Comb].\\Accept [QA157 Deliver the Thread].
-Turn in [QT222 Worgen in the Woods].\\Accept follow-up [QA223 Worgen in the Woods].
-Turn in [QT223 Worgen in the Woods].
 Turn in [QT177 Look To The Stars].\\Accept follow-up [QA181 Look To The Stars].
 
 -- Second round

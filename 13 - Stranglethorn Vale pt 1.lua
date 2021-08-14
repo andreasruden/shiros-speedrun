@@ -18,21 +18,26 @@ Accept [QA1116 Dream Dust in the Swamp], [QA198 Supplies to Private Thorsen], [Q
 Accept [QA189 Bloodscalp Ears] and [QA213 Hostile Takeover].
 Turn in [QT1181 Goblin Sponsorship].\\Accept follow-up [QA1182 Goblin Sponsorship].
 Turn in [QT616 The Haunted Isle].\\Accept [QA578 The Stone of the Tides].
-Run out towards the Alliance flightmaster, head down to the first house anc accept [QA575 Supply and Demand].
+Turn around inside again, then run out towards the Alliance flightmaster, head down to the first house and accept [QA575 Supply and Demand].
 Backtrack and get FP in [P Booty Bay].
 Fly to [F Darkshire].
 
 -- Darkshire
 -- XXX: We should turn this in and do it when we go to Duskwood anyway. This means going to booty bay beforehand, and having worse pathing in Ashenvale pt 2?
 Turn in [QT1041 The Caravan Road].\\Accept [QA1042 The Carevin Family].
+Accept [QA222 Worgen in the Woods].
 Turn in [QT1042 The Carevin Family].\\Accept [QA1043 The Scythe of Elune].
+Work on [QC222 Worgen in the Woods][O] during the next step.
 Interact with the mound in the Roland's Doom cave, to complete [QC1043 The Scythe of Elune].
+Finish up [QC222 Worgen in the Woods]. (Tainted Ones are in the cave)
+Turn in [QT222 Worgen in the Woods].\\Accept follow-up [QA223 Worgen in the Woods].
 Turn in [QT1043 The Scythe of Elune].\\Accept [QA1044 Answered Questions].
+Turn in [QT223 Worgen in the Woods].
 Fly to [F Rebel Camp]
 
 -- Rebel Camp
 If you happen to get lucky enough to spot Private Thorsen going on patrol, follow him and protect him. Then accept [QA215 Jungle Secrets] and turn in [QT215 Jungle Secrets]. Also accept the follow-up [QA200 Bookie Herod]. *Note*: The guide will assume you skip it as the event is way too infrequent.
-Turn in [QT198 Supplies to Private Thorsen].
+Turn in [QT198 Supplies to Private Thorsen][G37.96,3.42 Stranglethorn Vale].
 Accept [QA204 Bad Medicine] and [QA203 The Second Rebellion].
 
 -- Nesingwary
@@ -45,10 +50,11 @@ Complete [QC185 Tiger Mastery].
 -- North-east
 Turn in [QT185 Tiger Mastery].\\Accept follow-up [QA186 Tiger Mastery].
 Accept [QA190 Panther Mastery].
-Go east and complete [QC190 Panther Mastery] and [QC186 Tiger Mastery][G42,13 Stranglethorn Vale].
+Go east and complete [QC190 Panther Mastery][G42,13 Stranglethorn Vale]
 If you got the rare event, turn in [QT200 Bookie Herod]. Skip follow-up for now as we won't have space!
 Loot [QC204,2 Venom Fern Extract].
 Finish collecting [QC204,1 Jungle Remedy] and complete [QC203 The Second Rebellion].
+Complete [QC186 Tiger Mastery][G46.4,14.9 Stranglethorn Vale].
 In the oil platform's control room kill [G42.7,18.3 Stranglethorn Vale] Cozzle to obtain [CI5851,1 Cozzle's Key].
 Loot the blueprints in the small hut to complete [QC1182 Goblin Sponsorship].
 Finish [QC213 Hostile Takeover].
