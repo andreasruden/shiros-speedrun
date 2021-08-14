@@ -64,7 +64,7 @@ Complete [QC2875 WANTED: Andre Firebeard].
 In the house, second floor, complete [QC2873 Stoley's Shipment].
 Complete [QC8366 Southsea Shakedown] and [QC8365 Pirate Hats Ahoy!]
 Grind pirates until [XP45-20200]. XXX: If this is far off then it'll be better to turn in quest at steamwheedle port, instead of hearthstoning out! Need to consider next 2 hearthstones in that case.
-[OC] Three map fragments gives [45] Cruego's Gold, which is completed at the southern tip of Tanaris. It gives no XP so we skip it in the guide.
+[OC] Three map fragments gives (45) Cruego's Gold, which is completed at the southern tip of Tanaris. It gives no XP so we skip it in the guide.
 Hearthstone to [H Gadgetzan].
 -- Gadgetzan
 Turn in [QT1707 Water Pouch Bounty].

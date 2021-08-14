@@ -4,7 +4,7 @@ Guidelime.registerGuide(
 [D Shiros 1-58 Speedrun for alliance (patch 2.3+)]
 [GA Alliance]
 [N 40-42 Alterac and Arathi]
-[NX X-X X]
+[NX 42-42 Swamp of Sorrows]
 
 -- Alterac Mountains
 Fly to [F Southshore].
