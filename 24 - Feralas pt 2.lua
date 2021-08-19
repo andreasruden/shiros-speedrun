@@ -3,8 +3,8 @@ Guidelime.registerGuide(
 
 [D Shiros 1-58 Speedrun for alliance (patch 2.3+)]
 [GA Alliance]
-[N 49-50 Feralas]
-[NX 50-51 Blasted Lands]
+[N 51-52 Feralas]
+[NX 52-54 Un'Goro Crater]
 
 -- Feralas
 Fly to [F Feathermoon].
@@ -26,20 +26,5 @@ Lead Shay to Rockbiter to complete [QC2845 Wandering Shay].
 Turn in [QT2845 Wandering Shay].
 In Feathermoon Stronghold, turn in [QT2942 The Morrow Stone].
 Turn in [QT7733 Improved Quality] and [QT7735 Pristine Yeti Hide].
-
--- Booty bay
-Fly to [F Ratchet].
-Set hearthstone in [S Ratchet].
-Loot the chest outside of Liv's shop to complete [QC3444 The Stone Circle].
-XXX: Make sure we're Lv.49 at this point.
-Accept [QA4502 Volcanic Acitivy].
-Take the [G63.7,38.7 The Barrens] boat to Booty Bay.
-[G27.7767,76.6705 Stranglethorn vale]
-[G28.2333,76.1299 Stranglethorn vale]
-Turn in [QT2767 Rescue OOX-22/FE!], [QT648 Rescue OOX-17/TN!] and [QT836 Rescue OOX-09/HL!]
-Turn in [QT3721 An OOX of Your Own]. -- !FinishWithoutAccept
-Run towards the inn, in the building just before, turn in [QT2874 Deliver to MacKinley].
-In the inn, turn in [QT580 Whiskey Slim's Lost Grog].
-Turn in [QT1118 Back to Booty Bay].-- \\Accept [QA1119 Zanzil's Mixture and a Fool's Stout].
 
 ]], 'Shiros Speedrun')
