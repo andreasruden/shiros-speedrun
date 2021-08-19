@@ -26,9 +26,9 @@ Turn in [QT3444 The Stone Circle].
 The path into Un'Goro Crater is [G27.01,56.63 Tanaris] here.
 [O] Pick up the item *A Mangled Journal* if it drops. It's a zone-wide drop.
 [O] You will need to *aggressively* gather the power crystals: 7x[CI11184,7 Blue Power Crystal], 7x[CI11185,7 Green Power Crystal], 7x[CI11186,7 Red Power Crystal] and 7x[CI11188,7 Yellow Power Crystal]. We need 7 of each *asap*. They hide around the big trees and along the mountains.
-We also *need* the 5 [QC4496,2 Un'Goro Soil][O]. They come from killing raptors + looting on the ground.
+We also *need* the 5 [QC4496,2 Un'Goro Soil][O]. We'll get them from killing Raptors & Gorishi + looting on the ground.
 Accept [QA4289 The Apes of Un'Goro] and [QA4290 The Fare of Lar'korwi].
-[O] We'll trace a rough path, use it to grind some raptors and loot crystals.
+[O]We'll trace a rough path, use it to loot *crystals* and get some soil.
 [G69.89,68.88,25 Un'Goro Crater]
 [G72.38,63.57,25 Un'Goro Crater]
 [G75.01,60.87,25 Un'Goro Crater]
@@ -39,8 +39,8 @@ Loot the big dinosaur to complete [QC4290 The Fare of Lar'korwi].
 [G70.52,70.25,20 Un'Goro Crater]
 Run over the stone & waterfall [G71.447032,74.470466,7 Un'Goro Crater] here to get to the NPC.
 Turn in [QT4290 The Fare of Lar'korwi].\\Accept [QA4291 The Scent of Lar'korwi].
-Kill raptors to complete [QC4291 The Scent of Lar'korwi][O] on the way.
-[O] We'll trace a rough path, use it to grind raptors for the *glands* and loot *crystals*.
+Step on the raptor nests and kill the spawn to complete [QC4291 The Scent of Lar'korwi][O] on the way.
+[O]We'll trace a rough path, use it to loot *crystals* and get some soil.
 [G66.80,72.97,25 Un'Goro Crater]
 [G65.68,77.49,25 Un'Goro Crater]
 [G61.54,75.98,25 Un'Goro Crater]
@@ -55,7 +55,7 @@ Finish up [QC4291 The Scent of Lar'korwi][G66.9,72.9 Un'Goro Crater] in this are
 [G70.06,68.26,20 Un'Goro Crater]
 Run over the stone & waterfall [G71.447032,74.470466,7 Un'Goro Crater] here to get to the NPC.
 Turn in [QT4291 The Scent of Lar'korwi].\\Accept [QA4292 The Bait for Lar'korwi].
-Complete [QC4292 The Bait for Lar'korwi].
+Open Torwa's Pouch. Put down meat, then mixture on the stone. Then complete [QC4292 The Bait for Lar'korwi][G79.917,49.892 Un'Goro Crater].
 [O] Kill *Tar* elementals to progress [QC4504 Super Sticky][O].
 [G64.4,24.3,20 Un'Goro Crater]
 [G61.0,23.4,20 Un'Goro Crater]
