@@ -39,6 +39,7 @@ Turn in [QT1194 Rizzle's Schematics].
 [OC]Destroy the *Sample of Indurium Ore* item.
 
 -- Gadgetzan
+[OC] *Tip:* It's a good idea to start setting aside 60 *Mageweave Cloth*.
 Turn in [QT1188 Safety First]. Skip follow-up for now.
 Turn in [QT2864 Tran'rek]. Skip follow-up.
 Accept [QA2781 WANTED: Caliph Scorpidsting] and [QA2875 WANTED: Andre Firebeard].
@@ -54,10 +55,10 @@ Head back and turn in [QT1690 Wastewander Justice].\\Accept [QA1691 More Wastewa
 Complete [QC2781 WANTED: Caliph Scorpidsting], [QC1691 More Wastewander Justice] and [QC1707 Water Pouch Bounty].
 
 -- Steamwheedle Port
+Accept [QA8365 Pirate Hats Ahoy!]
 Accept [QA3520 Screecher Spirits].
 Turn in [QT2872 Stoley's Debt].\\Accept [QA2873 Stoley's Shipment].
 Accept [QA8366 Southsea Shakedown].
-Accept [QA8365 Pirate Hats Ahoy!]
 
 -- Pirates
 [OC] Open Pirate's Footlocker for chance at bonus quests.

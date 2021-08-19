@@ -42,6 +42,7 @@ Accept [QA2970 Doling Justice].
 Complete [QC2970 Doling Justice].
 Turn in [QT2970 Doling Justice].\\Accept follow-up [QA2972 Doling Justice].
 Turn in [QT4131 The Woodpaw Gnolls].\\Accept [QA4135 The Writhing Deep].
+From the *Undelivered Parcel* item, accept [QA4281 Thalanaar Delivery].
 Enter the [G73.578,64.088 Feralas] middle entrance (not the bottom ones) of the insect hive. Follow the path to the right and turn in [QT4135 The Writhing Deep].\\Accept [QA4265 Freed from the Hive].
 Wait for him to monologue, which will complete [QC4265 Freed from the Hive].
 Complete [QC2982 The High Wilderness].
@@ -64,7 +65,6 @@ If not already accepted, accept [QA3445 The Sunken Temple].
 
 -- Feathermoon
 Accept [QA2939 In Search of Knowledge].
-Seth hearthstone in
 Fly to [F Rut'theran Village]. This flight takes 9 minutes.
 
 -- Darnassus
@@ -74,15 +74,16 @@ Accept [QA2940 Feralas: A History].
 Turn in [QT2940 Feralas: A History].\\Accept [QA2941 The Borrower].
 [T] Learn Lv.44 & 46 skills.
 [A Nightelf] Purchase a mount if you have not done so already.
-From the AH, purchase [CI3825,2 Elixir of Fortitude] or you will have to skip a questline later.
+We need 2 [CI3825,2 Elixir of Fortitude] or you will have to skip a questline later. We have on from Dustwallow, so we'd need to buy one from the AH. It's entirely possible there won't be any sales. If you have no other way of getting it, you'll just have to skip the questline :-(.
 At the upper floor of Temple of the Moon, turn in [QT4267 Rise of the Silithid].
 Turn in [QT2972 Doling Justice].
 
 -- Feralas
 Hearthstone to [H Feathermoon Stronghold].
-[OC] If you did not get 2 Elixir of Fortitude, fly straight to Gadgetzan.
+[OC] If you did not get 2 Elixir of Fortitude, skip the next step and fly to Thalanaar.
 Run to Kindal and accept [QA3841 An Orphan Looking For a Home]. XXX: Is flying to Thalanaar better than running from feathermoon?
-Run east to Thalanaar and fly to [F Gadgezan].
+Run east to Thalanaar and turn in [QT4281 Thalanaar Delivery].
+Fly to [F Gadgezan].
 
 -- Quest notes:
 -- The ruins of Solarsal is 6 quests, that all take place on the two western islands.

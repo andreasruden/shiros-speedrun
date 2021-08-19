@@ -37,7 +37,7 @@ Accept [QA11136 A Disturbing Development].
 Turn in [QT11136 A Disturbing Development].\\Accept [QA11137 Defias in Dustwallow?]
 Turn in [QT11177 The Hermit of Swamplight Manor].\\Accept [QA1218 Marsh Frog Legs].
 Accept [QA11180 What's Haunting Witch Hill?]
-Complete [QC1218 Marsh Frog Legs] and [QC11180 What's Haunting Witch Hill?] around the hut.
+Complete [QC1218 Marsh Frog Legs] and [QC11180 What's Haunting Witch Hill?] by killing frogs and ghosts/zombies around the hut.
 Turn in [QT1218 Marsh Frog Legs].\\Accept [QA1206 Jarl Needs Eyes].
 Turn in [QT11180 What's Haunting Witch Hill?].\\Accept [QA11181 The Witch's Bane].
 Accept [QA1219 The Orc Report].
@@ -45,7 +45,7 @@ Accept [QA1219 The Orc Report].
 Accept [QA11146 Raptor Captor].
 Turn in [QT1266 The Missing Diplomat].\\Accept follow-up [QA1324 The Missing Diplomat].
 Beat up the private to complete [QC1324 The Missing Diplomat].
-Complete [QC11146 Raptor Captor]. [G47,18 Dustwallow Marsh]
+Use the *Sturdy Rope* on weakened raptors (<=20% hp) to complete [QC11146 Raptor Captor][G47,18 Dustwallow Marsh].
 Accept escort [QA1222 Stinky's Escape]. Grind raptors if you have to wait.
 Complete [QC1222 Stinky's Escape].
 Turn in [QT11146 Raptor Captor]. Skip follow-ups for now.
@@ -59,6 +59,7 @@ Hearth to [H Theramore].
 
 -- Theramore
 Turn in [QT1222 Stinky's Escape].
+[O]Do *NOT* sell the *Elixir of Fortitude* reward. Save it for a later quest!
 Accept [QA11212 Tabetha's Farm].
 Turn in [QT1284 Suspicious Hoofprints], [QT1252 Lieutenant Paval Reethe] and [QT1253 The Black Shield].\\Accept follow-ups [QA1259 Lieutenant Paval Reethe] and [QA1319 The Black Shield].
 Turn in [QT1259 Lieutenant Paval Reethe].\\Accept [QA1285 Daelin's Men].
@@ -72,7 +73,7 @@ Turn in [QT1220 Captain Vimes] and [QT1320 The Black Shield].
 -- Mudsprocket
 Fly to [F Mudsprocket].
 Accept [QA11184 WANTED: Goreclaw the Ravenous].
-Accept [QA11158 Bloodfen Feathers] and [QA11159 Spirits of Stonemaul Hold].
+Accept [QA11158 Bloodfen Feathers].
 Complete [QC11184 WANTED: Goreclaw the Ravenous].
 Kill raptors to finish up [QC11158 Bloodfen Feathers]. [G32,66 Dustwallow Marsh]
 Turn in [QT1286 The Deserters].\\Accept follow-up [QA1287 The Deserters].
@@ -129,15 +130,17 @@ Turn in [QT11156 Direhorn Raiders].
 Turn in [QT11150 Raze Direhorn Post!]\\Accept [QA11151 Justice for the Hyals].
 
 -- Finish up at Mudsprocket
-Complete [QC11159 Spirits of Stonemaul Hold].
 Turn in [QT11211 Help for Mudsprocket], [QT11184 WANTED: Goreclaw the Ravenous] and [QT11208 Delivery for Drazzit].
-Turn in [QT11158 Bloodfen Feathers] and [QT11159 Spirits of Stonemaul Hold].\\Accept [QA11160 Banner of the Stonemaul], [QA11161 The Essence of Enmity] and [QA11162 Challenge to the Black Flight].
-Accept [QA11217 Catch a Dragon by the Tail].
+Turn in [QT11158 Bloodfen Feathers].\\Accept [QA11160 Banner of the Stonemaul] and [QA11161 The Essence of Enmity].
 Complete [QC11160 Banner of the Stonemaul] inside the cave (keep to the left) and [QC11161 The Essence of Enmity] (use the totem on corpses).
+Turn in [QT11160 Banner of the Stonemaul] and [QT11161 The Essence of Enmity].\\Accept [QA11159 Spirits of Stonemaul Hold].
+Complete [QC11159 Spirits of Stonemaul Hold].
+Turn in [QT11159 Spirits of Stonemaul Hold].\\Accept [QA11162 Challenge to the Black Flight].
+Accept [QA11217 Catch a Dragon by the Tail].
 On the way to Onyxia's Lair, complete [QC11217 Catch a Dragon by the Tail]. [G46.7,77.2 Dustwallow Marsh]
 Complete [QC11162 Challenge to the Black Flight].
 Turn in [QT11217 Catch a Dragon by the Tail].
-Turn in [QT11160 Banner of the Stonemaul], [QT11161 The Essence of Enmity] and [QT11162 Challenge to the Black Flight].
+Turn in [QT11162 Challenge to the Black Flight].
 
 -- Theramore finish up
 Fly to [F Theramore]. -- XXX: The turn in order might be wrong, was hearth before

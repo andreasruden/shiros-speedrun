@@ -28,4 +28,5 @@
 20 - Feralas pt 1.lua
 21 - Tanaris pt 2.lua
 22 - The Hinterlands.lua
-23 - Feralas pt 2.lua
+24 - Feralas pt 2.lua
+25 - Ungoro.lua

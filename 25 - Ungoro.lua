@@ -4,7 +4,7 @@ Guidelime.registerGuide(
 [D Shiros 1-58 Speedrun for alliance (patch 2.3+)]
 [GA Alliance]
 [N 52-54 Un'Goro Crater]
-[NX X-X X]
+[NX 54-55 Felwood]
 
 Hearth to [H Ratchet].
 
@@ -149,7 +149,36 @@ Turn in [QT3883 Alien Ecology].
 Turn in [QT3881 Expedition Salvation].
 Turn in [QT3884 Williden's Journal].
 
+XXX: If doing The New Frontier, maybe we do this step during that time?
 *Hunters* can drop by Silithus to complete the quest *Wanted - Deathclasp, Terror of the Sands*, which rewards a nice blue bow (38.7 dps, 2.6 speed). Even though the quest is Lv.59, by kiting it's quite doable for a hunter.
 Afterwards, hearthstone to [H Gadgetzan].
+
+-- Gadgetzan
+Turn in [QT4507 Pawn Captures Queen].\\Accept [QA4508 Calm Before the Storm].
+
+-- Ratchet
+Fly to [F Ratchet].
+Turn in [QT4502 Volcanic Activity].
+XXX: Would we want to do blasted lands here instead? Could probably do the Lv. 56 quest fairly easily now.
+
+-- Darnassus
+Fly to [F Rut'theran Village].
+[O]While here, learn Lv. 52 and 54 skills.
+Turn in [QT3764 Un'Goro Soil].
+XXX: Not sure if doing The New Frontier stuff, but if we end up doing Linken, e.g., we might want it available
+[G35.5755,10.7903 Darnassus]
+In the highest room of the tree, accept [QA6761 The New Frontier].
+Going down one level, turn in [QT6761 The New Frontier].\\Accept [QA6762 Rabine Saturna].
+Go back up again, and accept [QA3781 Morrowgrain Research].
+Again, go back downstairs and turn in [QT3781 Morrowgrain Research].\\Accept [QA3785 Morrowgrain Research].
+Jump over the [G34.219443,5.854978,3 Darnassus] railing.
+Turn in [QT3764 Un'Goro Soil].
+If you happen to collide with Herald, you could accept [QA5091 Call to Arms: The Plaguelands!][O]
+Turn in [QT4508 Calm Before the Storm].\\Accept follow-up [QA4510 Calm Before the Storm].
+Turn in [QT4510 Calm Before the Storm].
+XXX: Don't know if we do these quests
+Outside of Darnassus, accept [QA978 Moontouched Wildkin].
+-- Starfall is equivalent and exclusive to To Winterspring!
+Fly to [F Emerald Sanctuary].
 
 ]], 'Shiros Speedrun')

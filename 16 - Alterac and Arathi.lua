@@ -19,15 +19,16 @@ Turn in [QT602 Magical Analysis].\\Accept [QA603 Ansirem's Key].
 [G39.592844,63.365703,5 Alterac Mountains]
 [G37.824124,62.151205,5 Alterac Mountains]
 Obtain [QC540,2 Worn Leather Book][G38.47,46.38 Alterac Mountains] from the bookcase.
+If you are strong enough, complete [QC543 The Perenolde Tiara]. Otherwise skip. He spawns in the cellar of the keep and walks to the town hall. He also has a chance to walk to the gates in his route.
 If you didn't complete it before, complete [QC500 Crushridge Bounty]. -- !OptionalFinish
 Complete [QC504 Crushridge Warmongers] and obtain [QC540,1 Recovered Tome].
-Complete [QC537,1 Argus Shadow Mage][G62,44.2 Alterac Mountains] in Strahnbrad.
-Head into the [G57.7 33.8,40 Alterac Mountains] Uplands.
-Try to *complete* [QC512 Noble Deaths][O] on the way. Drops from the syndicate mobs.
-Continue through the Uplands. Obtain [QC537,2 Head of Nagaz].
-Loot the Worn Wooden Chest next to Nagaz to obtain *Ensorcelled Parchment*.
+Ride out the [G44.747,46.594,15 Alterac Mountains] gate.
+[G51.601,35.524,20 Alterac Mountains]
+[G58.196,30.321,30 Alterac Mountains]
+From here to the west, there are 4 syndicate camps. Each has one Shadow Mage. On the way west, complete [QC537,1 Argus Shadow Mage][G47.639,17.305, 30 Alterac Mountains] and [QC512 Noble Deaths][G39.743,16.491 Alterac Mountains].
+In the building, obtain [QC537,2 Head of Nagaz].
+Loot the Worn Wooden Chest next to Nagaz to obtain [CI3706,1 Ensorcelled Parchment].
 From the item accept [QA551 The Ensorcelled Parchment].
-If not finished, finish up [QC512 Noble Deaths][G41.5,18.9 Alterac Mountains].
 Hearth to [H Southshore].
 Turn in [QT512 Noble Deaths] and [QT537 Dark Council].
 If you skipped bounty the first time, turn in [QT500 Crushridge Bounty] and skip the follow-up. -- !OptionalFinish
@@ -54,8 +55,8 @@ Turn in [QT660 Hints of a New Plague?]\\Accept follow-up [QA661 Hints of a New P
 Obtain [QC651,3 Thundering Key].
 Turn in [QT691 Worth Its Weight in Gold].
 Accept [QA693 Wand over Fist].
-Grind south and complete [QC693 Wand over Fist]. The objective is in the right cave. Keep to the left once inside.
-Grind back to Refuge Pointe and turn in [QT693 Wand over Fist].\\Accept [QA694 Trelane's Defenses].
+Head south and complete [QC693 Wand over Fist]. The objective is in the right cave. Keep to the left once inside.
+Head back to Refuge Pointe and turn in [QT693 Wand over Fist].\\Accept [QA694 Trelane's Defenses].
 Head west and obtain [QC651,1 Burning Key].
 Turn in [QT651 Stones of Binding].\\Accept [QA652 Breaking the Keystone].
 Fozruk spawns NE at the Circle of East binding and then walks a path around the zone. Find him and complete [QC652 Breaking the Keystone].
