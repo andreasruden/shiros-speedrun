@@ -83,7 +83,7 @@ Turn in [QT4243 Chasing A-Me 01].\\Accept follow-up [QA4244 Chasing A-Me 01].
 Turn in [QT4244 Chasing A-Me 01].\\Accept follow-up *escort* [QA4245 Chasing A-Me 01].
 Complete [QC4245 Chasing A-Me 01].
 Turn in [QT4245 Chasing A-Me 01].
-Turn in [QC4289 The Apes of Un'Goro] and [QC4292 The Bait for Lar'korwi].\\Accept [QA4301 The Mighty U'cha].
+Turn in [QT4289 The Apes of Un'Goro] and [QT4292 The Bait for Lar'korwi].\\Accept [QA4301 The Mighty U'cha].
 [O] Make sure to finish gathering *all* the crystals on the way back to the cave.
 Also, make sure to complete [QC4496,2 Un'Goro Soil][O] on the way.
 Head back to the ape cave. Hug the left wall to reach *U'cha*. Kill him to complete [QC4301 The Mighty U'cha].
@@ -94,18 +94,18 @@ Turn in [QT4504 Super Sticky].
 Turn in [QT4496 Bungle in the Jungle].\\Accept [QA4507 Pawn Captures Queen].
 Fly to [F Marshal's Refuge].
 Accept [QA4284 Crystals of Power].
-Turn in [QT4284 Crystals of Power].\\Accept [QA4285 The Northern Pylon], [QA6185 The Eastern Pylon] and [QA4288 The Western Pylon].
+Turn in [QT4284 Crystals of Power].\\Accept [QA4285 The Northern Pylon], [QA4287 The Eastern Pylon] and [QA4288 The Western Pylon].
 
 -- Un'Goro big circle
 [O] We're now going for a big circle in Un'Goro Crater, completing all the quests. Quests we will aim to complete "everywhere": [QC4141 Muigin and Larion][O], [QC3764 Un'Goro Soil][O], [QC4503 Shizzle's Flyer][O], [QC3882 Roll the Bones][O].
 [OC] Destroy any extra power crystals.
 Clear the *Pterrordax* in [G55.8,11.6 Un'Goro Crater] this area.
-Complete [QA4285 The Northern Pylon].
+Complete [QC4285 The Northern Pylon].
 Loot [QC3881,1 Crate of Foodstuffs].
-Complete [QC6185 The Eastern Pylon].
+Complete [QC4287 The Eastern Pylon].
 Turn in [QT4301 The Mighty U'cha].
 [G50.3, 80.0 Un'Goro Crater]
-As you enter the hive, take an immediate *lef* turn. Then complete [QC3883 Alien Ecology].
+As you enter the hive, take an immediate *left* turn. Then complete [QC3883 Alien Ecology].
 Head back to the entrance, and, as seen from the entrance, hug the *right* wall, taking only right turns. Then complete [QC4507 Pawn Captures Queen].
 Head out again, and [G45.5,87.3 Un'Goro Crater] here, finish killing [QC4501,1 Pterrordax].
 Complete [QC3882 Roll the Bones][G46.37,63.36 Un'Goro Crater] and [QC4503,1 Webbed Diemetradon Scale][G46.37,63.36 Un'Goro Crater]. (*Note*: Elders exist more to the west, but they have *worse* droprate than the ones around this area.)
@@ -142,7 +142,7 @@ Turn in [QT4491 A Little Help From My Friends] and [QT4501 Beware of Pterrordax]
 Turn in [QT4141 Muigin and Larion].\\Accept [QA4142 A Visit to Gregan].
 Turn in [QT3882 Roll the Bones].
 From the item *A Mangled Journal*, which you should've gotten by now (if not skip this step), accept [QA3884 Williden's Journal][O].
-In the cave, turn in [QT4285 The Northern Pylon], [QT6185 The Eastern Pylon] and [QT4288 The Western Pylon].\\Accept [QA4321 Making Sense of It].
+In the cave, turn in [QT4285 The Northern Pylon], [QT4287 The Eastern Pylon] and [QT4288 The Western Pylon].\\Accept [QA4321 Making Sense of It].
 Turn in [QT4321 Making Sense of It].
 Destroy the *Crystal Pylon User's Manual* item.
 Turn in [QT3883 Alien Ecology].

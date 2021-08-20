@@ -169,7 +169,7 @@ Turn in [QT5385 The Remains of Trey Lightforge].
 Fly to [F Forest Song].
 Turn in [QT4261 Ancient Spirit].
 
--- Darnassu
+-- Darnassus
 Fly to [F Rut'theran Village].
 Turn in [QT4901 Guardians of the Altar].\\Accept [QA4902 Wildkin of Elune].
 [O][T]If not Lv.56 last time, learn skills.
