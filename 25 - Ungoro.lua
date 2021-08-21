@@ -164,7 +164,6 @@ XXX: Would we want to do blasted lands here instead? Could probably do the Lv. 5
 -- Darnassus
 Fly to [F Rut'theran Village].
 [O]While here, learn Lv. 52 and 54 skills.
-Turn in [QT3764 Un'Goro Soil].
 XXX: Not sure if doing The New Frontier stuff, but if we end up doing Linken, e.g., we might want it available
 [G35.5755,10.7903 Darnassus]
 In the highest room of the tree, accept [QA6761 The New Frontier].
