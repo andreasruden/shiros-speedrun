@@ -114,31 +114,42 @@ Turn in [QT707 Ironband Wants You!]\\Accept [QA738 Find Agmond].
 Run [G46.9,77.4 Loch Modan] to find Badlands.
 
 -- Badlands
-XXX: If we don't end up going back to Badlands, skip Mirages and Tremors of the Earth!
 Click the Crumpled Map to accept [QA720 A Sign of Hope].
 Turn in [QT720 A Sign of Hope].
-Accept [QA718 Mirages].
-Loot the supply crate in Camp Kosh to complete [QC718 Mirages].
-Turn in [QT718 Mirages].
-Accept [QA732 Tremors of the Earth].
 [A rogue] If you're doing lockpicking, head over to Angor Fortress [G42.98,29.98 Badlands].
 [A rogue] Skill lockpicking here to 200. The *Battered Footlocker* can be opened right away, the *Dented Footlocker* requires skill of 175.
-[OC] During next steps, kill Boss Tho'grun (ogre) if you spot him.
 Turn in [QT1106 Martek the Exiled].\\Accept [QA1108 Indurium].
 Accept [QA705 Pearl Diving] and turn in [QT705 Pearl Diving].
 Turn in [QT738 Find Agmond].\\Accept [QA739 Murdaloc].
-Complete [QC1108 Indurium] and [QC739 Murdaloc].
+Complete [QC1108 Indurium] and [QC739 Murdaloc]. *Note:* Murdaloc has a shitty turn-in, but it's still worth riding to turn it in (2m58s back and forth on mount).
 Turn in [QT687 Theldurin the Lost].\\Accept [QA692 The Lost Fragments].
 Complete [QC692 The Lost Fragments] just behind the NPC.
 Turn in [QT692 The Lost Fragments].\\Accept [QA656 Summoning the Princess].
 Turn in [QT1108 Indurium].\\Accept [QA1137 News for Fizzle].
-Complete [QC732 Tremors of the Earth]. Spawns at (62,66).
-Turn in [QT732 Tremors of the Earth].
+
+-- Searing Gorge
+Run into [G6,60 Badlands] Searing Gorge.
+Accept [QA4449 Caught!]
+Kill Margol, use the horn he drops to accept [QA3181 The Horn of the Beast].
+Complete [QC4449 Caught!]
+Turn in [QT4449 Caught!]\\Accept [QA4450 Ledger from Tanaris].
+Loot the [QC4450,1 Goodsteel Ledger] next to the outhouse. If it's not there, ask the quest giver to spawn it.
+If you are strong enough (we're quite under-leveled), clear the northern path out of the camp and accept the escort [QA3367 Suntara Stones].
+Complete [QC3367 Suntara Stones]. Loot spiders on the way.
+Turn in [QT3367 Suntara Stones].\\Accept [QA3368 Suntara Stones].
+Finish up [QC4450,2 Solid Crystal Leg Shaft][G62,52 Searing Gorge].
+XXX: Can we deathwarp to thorium point? Middle spirit healer looks spooky
+Get FP at [P Thorium Point].
 
 -- Loch Modan
-Run back to Loch Modan and turn in [QT739 Murdaloc]. Skip follow-up.
+Fly to [F Thelsamar].
+Turn in [QT3181 The Horn of the Beast].\\Accept [QA3182 Proof of Deed].
+Turn in [QT739 Murdaloc]. Skip follow-up.
+
+-- Ironforge
 Fly to [F Ironforge].
 If your first aid skill is at least 225, accept the quest [QA6625 Alliance Trauma].
+Turn in [QT3368 Suntara Stones] and [QT3182 Proof of Deed].\\Accept [QA3201 At Last!] and [QA3371 Dwarven Justice].
 Take the [G75.74,50.87 Ironforge] tram to Stormwind City.
 
 -- Stormwind
