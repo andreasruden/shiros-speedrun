@@ -3,39 +3,50 @@ Guidelime.registerGuide(
 
 [D Shiros 1-58 Speedrun for alliance (patch 2.3+)]
 [GA Alliance]
-[N 42-43 Stranglethorn Vale]
+[N 43-45 Stranglethorn Vale]
 [NX 44-45 Tanaris]
 
+-- Rebel Camp
+Accept [QA202 Colonel Kurzen].
+[OC]Head to the Kurzen Cave.
+If you had the event, turn in [QT328 The Hidden Key].\\Accept [QA329 The Spy Revealed!]
+Obtain [QC202,3 Kurzen's Head].
+Finish up [QC202 Colonel Kurzen].
+Turn in [QT202 Colonel Kurzen].
+If you had the event, turn in [QT329 The Spy Revealed!]\\Accept [QA330 Patrol Schedules].
+Turn in [QT330 Patrol Schedules].\\Accept [QA331 Report to Doren].
+Turn in [QT331 Report to Doren].
+
 -- Booty Bay
+Fly to [F Booty Bay].
 In the house next to the FP, accept [QA628 Excelsior].
-Go back to the FP, then into the inn, and turn in [QT1116 Dream Dust in the Swamp].\\Accept [QA2864 Tran'rek] and [QA1117 Rumors for Kravel].
-Accept [QA209 Skullsplitter Tusks].
-Turn in [QT669 Sunken Treasure].\\Accept [QA670 Sunken Treasure].
-Run down the stairs and turn in [QT603 Ansirem's Key].\\Accept [QA610 "Pretty Boy" Duncan].
-On the bottom floor of the inn, accept [QA600 Venture Company Mining] and [QA621 Zanzil's Secret].
-Accept [QA580 Whiskey Slim's Lost Grog].
-Accept [QA617 Akiris by the Bundle].
+-- Go back to the FP, then into the inn, and accept [QA2864 Tran'rek].
+Go back to the FP, then into the inn, and accept [QA209 Skullsplitter Tusks].
+Turn in [QT669 Sunken Treasure].-- \\Accept [QA670 Sunken Treasure].
+Descened the inn and turn in [QT603 Ansirem's Key].\\Accept [QA610 "Pretty Boy" Duncan].
+On the bottom floor of the inn, turn in [QT1118 Back to Booty Bay].\\Accept [QA600 Venture Company Mining] and [QA621 Zanzil's Secret].
+-- Accept [QA580 Whiskey Slim's Lost Grog].
+Exit the inn, and by the bank, accept [QA617 Akiris by the Bundle].
 Accept [QA348 Stranglethorn Fever].
-Accept [QA606 Scaring Shaky] and [QA2872 Stoley's Debt].
+Accept [QA606 Scaring Shaky]. -- and [QA2872 Stoley's Debt].
 Accept [QA595 The Bloodsail Buccaneers].
-Accept [QA614 The Captain's Chest].
+Accept [QA8551 The Captain's Chest].
 
 -- Southern STV
 -- Just outside BB
 Kill & loot Duncan to complete [QC610 "Pretty Boy" Duncan].
 Turn in [QT595 The Bloodsail Buccaneers].\\Accept follow-up [QA597 The Bloodsail Buccaneers].
--- XXX: There is no way in which it would be time efficient to get https://tbc.wowhead.com/quest=48/sweet-amber from westfall, right?
 Head north along the coast and complete [QC617 Akiris by the Bundle].
 Head out across the road to get to the Gorilla place. [G28.7,58.2 Stranglethorn Vale]
 [OC] Loot a Gorilla Fang during next step.
-Head a bit further north and complete [QC606 Scaring Shaky].
+Complete [QC606 Scaring Shaky][G33.5,64.5 Stranglethorn Vale].
 Start the event at Ubagwa and kill the waves of enemies to complete [QC348 Stranglethorn Fever].
 -- Booty Bay
 Run back to Booy Bay and turn in [QT606 Scaring Shaky].\\Accept [QA607 Return to MacKinley].
 Turn in [QT597 The Bloodsail Buccaneers].\\Accept follow-up [QA599 The Bloodsail Buccaneers].
 Turn in [QT348 Stranglethorn Fever].
 Turn in [QT607 Return to MacKinley].\\Accept [QA609 Voodoo Dues].
-Turn in [QT617 Akiris by the Bundle].\\Accept follow-up [QA623 Akiris by the Bundle].
+Turn in [QT617 Akiris by the Bundle]. Skip follow-up for now. -- \\Accept follow-up [QA623 Akiris by the Bundle].
 Walk into the inn and set hearthstone in [S Booty Bay].
 Walk up the stairs of the inn, turn in [QT610 "Pretty Boy" Duncan].\\Accept [QA611 The Curse of the Tides].
 Continue up the in. Accept [QA587 Up to Snuff].
@@ -46,7 +57,7 @@ On the way out of BB run the upper route and accept [QA576 Keep An Eye Out] from
 [OC] Loot the bottles on the beach as you enter the area, to give them time to respawn.
 Go to the beach east of BB and complete [QC604 The Bloodsail Buccaneers].
 Loot bottles on the to obtain [CI4098,1 Carefully Folded Note]. Do not accept the quest yet. If you did not find the item, skip this step for now. There's a second chance.
-Complete [QC614 The Captain's Chest]. Skip if you can't solo it.
+Complete [QC8551 The Captain's Chest]. Skip if you can't solo it.
 Obtain [QC609,3 Chucky's Huge Ring]. Also clear the entire camp for Mixture progress.
 Obtain [QC609,2 Jon-Jon's Golden Spyglass].
 Obtain [QC609,1 Maury's Clubbed Foot].
@@ -69,14 +80,12 @@ Turn in [QT604 The Bloodsail Buccaneers].\\Accept follow-up [QA608 The Bloodsail
 Turn in [QT611 The Curse of the Tides].
 [OC] If you don't have all the pages, then consider having an alt mail the rest. Bring them with you. It'll be tight on space :-).
 Jump down and turn in [QT609 Voodoo Dues] in the house.\\Accept [QA613 Cracking Maury's Foot].
-If completed, turn in [QT614 The Captain's Chest] at end of the docks.
+If completed, turn in [QT8551 The Captain's Chest] at end of the docks.
 Walk upstairs towards the FP. Turn in [QT628 Excelsior].
 
 -- Finishing the North
 Fly to [F Rebel Camp].
 Turn in [QT205 Troll Witchery].\\Accept [QA206 Mai'Zoth].
-If you got the rare event, accept [QA328 The Hidden Key]. Together with the next quest, turn in [QT328 The Hidden Key] and accept follow-up [QA329 The Spy Revealed!]
-In the Kurzen Cave, complete [QC202 Colonel Kurzen].
 Complete [QC193 Panther Mastery].
 Head into the ogre cave and complete [QC206 Mai'Zoth].
 If not finished, complete [QC613 Cracking Maury's Foot].
@@ -88,7 +97,6 @@ Accept [QA208 Big Game Hunter] if you can find a group quickly or you're strong 
 Complete [QC208 Big Game Hunter].
 Turn in [QT208 Big Game Hunter].
 At Rebel Camp, turn in [QT206 Mai'Zoth].
-Turn in [QT202 Colonel Kurzen].
 If you got the rare event, turn in [QT329 The Spy Revealed!] and accept follow-up [QA330 Patrol Schedules].
 If you got the rare event, turn in [QT330 Patrol Schedules] and accept follow-up [QA331 Report to Doren].
 If you got the rare event, turn in [QT331 Report to Doren].

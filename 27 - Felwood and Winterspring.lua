@@ -125,12 +125,13 @@ Complete [QC977 Are We There, Yeti?]
 Keep an eye out for Brumeran of the Chillwind[O]. -- Keep an eye out for [QC5055 Brumeran of the Chillwind][O].
 Turn in [QT4861 Enraged Wildkin].\\Accept follow-up [QA4863 Enraged Wildkin].
 Turn in [QT4863 Enraged Wildkin].\\Accept follow-up [QA4864 Enraged Wildkin].
+Grab [QC4864,1 Jaron's Supplies].
 Ride across the ice bridge to complete [QC4842 Strange Sources].
 If you are able to, complete [QC969 Luck Be With You]. Either by distracting the giants, or finding unguarded ones. Otherwise abandon this quest.
 Turn in [QT979 Find Ranshalla].\\Accept the escort [QA4901 Guardians of the Altar].
-During the escort, loot the owlbeasts to maybe complete [QC4684 Enraged Wildkin].
+During the escort, loot the owlbeasts to maybe complete [QC4864 Enraged Wildkin][O].
 The mobs are a bit high level (up to 58), so be careful. Let the NPC pull aggro first. And if you can, complete [QC4901 Guardians of the Altar].
-Complete [QC4684 Enraged Wildkin].
+Complete [QC4864 Enraged Wildkin].
 Try to complete Brumeran of the Chillwind while heading towards Lake Kel'Theril. If you cannot find him, skip step and abandon the quest. -- Try to complete [QC5055 Brumeran of the Chillwind] while heading towards Lake Kel'Theril. If you cannot find him, skip step and abandon the quest.
 At the lake, complete [QC5245 Troubled Spirits of Kel'Theril].
 
@@ -150,9 +151,10 @@ Turn in [QT8464 Winterfall Activity].
 Head into felwood. Blow the *Flute of the Ancients* [G49.7,30.7 Felwood] here.
 Accept escort [QA4261 Ancient Spirit].
 The tree is fairly tanky. Complete [QC4261 Ancient Spirit].
-Use the salve to cleanse the [G40.2,56.5 Felwood] *Corrupted Songflower* to get a strong buff before we do the cave quests.
+Use the salve to cleanse the [G40.2,56.5 Felwood] *Corrupted Songflower*. Then loot the cleansed flower to get a strong buff before we do the cave quests.
 [G35.4,58.6 Felwood]
-Walk down into the first part of the cave, and accept the escort [QA5203 Rescue From Jaedenar].
+In the cave, kill Jaedenar mobs until you obtain the *Blood Red Key*, from it accept [QA5202 A Strange Red Key] (it goes into your keyring). If you get far enough to douse some braziers, do so.
+Turn in [QT5202 A Strange Red Key].\\Accept the escort [QA5203 Rescue From Jaedenar].
 During the escort you will go past the braziers, interact with them to complete [QC5165 Dousing the Flames of Protection][O].
 Complete [QC5203 Rescue From Jaedenar].
 If you missed some, complete [QC5165 Dousing the Flames of Protection].
@@ -163,7 +165,8 @@ Turn in [QT5128 Words of the High Chief].
 Follow the linear path of the cave until you reach Rakaiah. Kill her to complete [QC5204 Retribution of the Light].
 Turn in [QT5204 Retribution of the Light].\\Accept [QA5385 The Remains of Trey Lightforge].
 Continue deeper and complete [QC5242 A Final Blow].
-Head out again and south. Turn in [QT5242 A Final Blow].
+Deathwarp out. Then run up to the northern flight-point and fly to [F Emerald Song].
+Turn in [QT5242 A Final Blow].
 Turn in [QT5385 The Remains of Trey Lightforge].
 
 -- Ashenvale

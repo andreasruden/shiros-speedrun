@@ -3,7 +3,7 @@ Guidelime.registerGuide(
 
 [D Shiros 1-58 Speedrun for alliance (patch 2.3+)]
 [GA Alliance]
-[N 57-59 Western and Eastern Plaguelands]
+[N 57-60 Western and Eastern Plaguelands]
 [NX X-X X]
 
 -- Menethil Harbor
@@ -82,9 +82,7 @@ Turn in [QT5533 Scholomance].\\Accept [QA5537 Skeletal Fragments].
 During next steps, work on [QC5537 Skeletal Fragments][O].
 Head back to chromie, killing skeletons on the way. Turn in [QT4971 A Matter of Time].\\Accept [QA4972 Counting out Time].
 Loot small boxes for watches and kill skeletons for fragments. Complete [QA4972 Counting out Time].
-Turn in [QC4972 Counting out Time].
-[OC]Can throw away *Attuned Dampener* if you do not intend to kill Araj.
-Head towards WP. Finish up [QC5537 Skeletal Fragments][G50.4,67.6] on the way.
+Head towards [G50.4,67.6,30 Eastern Plaguelands] here. We'll finish up Skeletal Fragments later, if it doesn't finish up on the way.
 
 -- The Writhing Haunt
 Complete [QC5222 Target: Writhing Haunt].\\Accept [QA5223 Return to Chillwind Camp].
@@ -118,9 +116,11 @@ Complete [QC4985 The Wildlife Suffers Too], ending near EPL.
 Enter EPL [G12,73 Eastern Plaguelands].
 Accept [QA5542 Demon Dogs], [QA5543 Blood Tinged Skies] and [QA5544 Carrion Grubbage].
 During next steps, work *aggressively* on [QC5542 Demon Dogs][O], [QC5543 Blood Tinged Skies][O] and [QA5544 Carrion Grubbage][O].
-XXX: Eastern Plagues
+[OC]You can do Eastern Plagues without any danger, just stay clear of Nathanos.
+Loot [QC6185,3 SI:7 Insignia (Fredo)][G27.16,74.95 Eastern Plaguelands].
+Loot [QC6185,4 SI:7 Insignia (Turyen)][G28.80,74.88 Eastern Plaguelands].
+Loot [QC6185,2 SI:7 Insignia (Rutger)][G28.81,79.85 Eastern Plaguelands].
 [G27.9,85.5 Eastern Plaguelands]
-In the tome, accept [QA6024 Hameya's Plea] without aggroing Zaeldarr.
 Turn in [QT5142 Little Pamela].\\Accept [QA5149 Pamela's Doll].
 Complete [QC5149 Pamela's Doll]. The 3 parts are random spawns in the houses. Use to combine.
 Turn in [QT5149 Pamela's Doll].\\Accept [QA5152 Auntie Marlene] and [QA5241 Uncle Carlin].
@@ -130,23 +130,95 @@ Before you pass Corin's Crossing, make sure to have finished killing 20 [QC5542,
 Run toward Light's Hope Chapel. By the graveyard, accept [QA5281 The Restless Souls] and [QA6021 Zaeldarr the Outcast].
 Turn in [QT6030 Duke Nicholas Zverenhoff].
 At the same guy, turn in Scourgestones. *Save* one Argent Dawn Valor Tokens.
-Turn in [QT5241 Uncle Carlin].\\Accept [QA5211 Defenders of Darrowshire].
+Set hearthstone in [P Light's Hope Chapel].
 Get FP in [P Light's Hope Chapel].
 Accept [QA9141 They Call Me "The Rooster"].
 Turn in [QT9141 They Call Me "The Rooster"].
 Destroy the *Sealed Craftman's Writ*.
 
+-- Western Plaguelands
+Fly to [F Chillwind Camp].
+Turn in [QT5223 Return to Chillwind Camp].\\Accept [QA5225 Target: Gahrron's Withering].
+Turn in [QT9474 The Mark of the Lightbringer].\\Accept escort [QA9446 Tomb of the Lightbringer].
+Complete [QC9446 Tomb of the Lightbringer].
+Turn in [QT5152 Auntie Marlene].\\Accept [QA5153 A Strange Historian].
+Get the ring from the white tombstone to complete [QC5153 A Strange Historian].
+At Chromie, turn in [QT4972 Counting out Time] and [QT5153 A Strange Historian].\\Accept [QA5154 The Annals of Darrowshire].
+[OC]Can throw away *Attuned Dampener* if you do not intend to kill Araj.
+Complete [QA5154 The Annals of Darrowshire].
+Turn in [QT5154 The Annals of Darrowshire].\\Accept [QA5210 Brother Carlin].
+Finish up [QC964 Skeletal Fragments].
+Turn in [QT964 Skeletal Fragments].
+XXX: Would hearthstone reset in time for next usage?
+Fly to [F Light's Hope Chapel].
+
 -- Northern Eastern Plaguelands
-Kill 5 [QC5542,2 Plaguehound].
+Turn in [QT5210 Brother Carlin] and [QT5241 Uncle Carlin].\\Accept [QA5181 Villains of Darrowshire], [QA5168 Heroes of Darrowshire] and [QA5211 Defenders of Darrowshire].
+Kill 5 [QC5542,2 Plaguehound][O] on the way.
+Clear [G77.5,51 Eastern Plaguelands] this area for progress on Defenders of Darrowshire.
 Kill all *Frenzied Plaguehounds* [G69,43 Eastern Plaguelands] here.
-In Zul'Mashar, complete [QC6024 Hamey'as Plea].
+Clear [G66.7,40.5 Eastern Plaguelands] this area for progress on Defenders of Darrowshire.
+Obtain [QC5181,2 Shattered Sword of Marduk].
+Obtain [QC5181,1 Skull of Horgus].
 Turn in [QT5245 Troubled Spirits of Kel'Theril]. Skip follow-up.
 Finish up [QC5542,3 Frenzied Plaguehound][G52.5,39.0 Eastern Plaguelands].
 Finish up [QC5544 Carrion Grubbage][G53.6,38.2 Eastern Plaguelands] before you get to Plaguewood.
 Loot *Large Termite Mounds* to complete [QC5903 A Plague Upon Thee].
+Also finish up [QC5211 Defenders of Darrowshire][G17,31 Eastern Plaguelands].
 Turn in [QT5281 The Restless Souls]. Skip follow-up.
+[O]Augustus' Receipt Book only gives 2k xp, so unless you can do it in ~3 minutes, it's better skipped.
 Accept [QA6164 Augustus' Receipt Book].
 In the overran inn in Terrordale, on the second floor, in the furthest room in the back, loot the book to complete [QC6164 Augustus' Receipt Book].
 Turn in [QT6164 Augustus' Receipt Book].
+XXX: Do skip over the mountain.
+
+-- Tirion Fordring
+Turn in [QT5542 Demon Dogs], [QT5543 Blood Tinged Skies] and [QT5544 Carrion Grubbage].\\Accept [QA5742 Redemption].
+Talk to Tirion to complete [QC5742 Redemption].
+Turn in [QT5742 Redemption].\\Accept [QA5781 Of Forgotten Memories].
+Complete [QC5781 Of Forgotten Memories].
+Complete [QC6021 Zaeldarr the Outcast].
+Accept [QA6024 Hameya's Plea].
+Turn in [QT5781 Of Forgotten Memories].\\Accept [QA5845 Of Lost Honor].
+
+-- Western Plaguelands
+Obtain [QC5168,2 Redpath's Shield].
+Complete [QC5225 Target: Gahrron's Withering].
+Turn in [QT5225 Target: Gahrron's Withering].\\Accept [QA5226 Return to Chillwind Camp].
+Turn in [QT4985 The Wildlife Suffers Too].\\Accept [QA4986 Glyphed Oaken Branch].
+Turn in [QT9446 Tomb of the Lightbringer] and [QT5226 Return to Chillwind Camp].
+Turn in [QT5238 Mission Accomplished!]
+Turn in [QT6185 The Eastern Plagues].\\Accept [QA6186 The Blightcaller Cometh].
+Turn in [QT5903 A Plague Upon Thee].\\Accept follow-up [QA5904 A Plague Upon Thee].
+Complete [QT6025 Unfinished Business].
+In the house, obtain [QC5168,1 Davil's Libram].
+Drop down to the quest npc and turn in [QT6025 Unfinished Business].
+Interact with the crate to spawn a Termite Barrel. Turn in [QT5904 A Plague Upon Thee].\\Accept follow-up [QA6389 A Plague Upon Thee].
+
+-- Eastern Plaguelands
+Hearth to [H Light's Hope Chapel].
+Turn in [QT5181 Villains of Darrowshire], [QT5168 Heroes of Darrowshire] and [QT5211 Defenders of Darrowshire].\\Accept [QA5206 Marauders of Darrowshire].
+Turn in [QT6021 Zaeldarr the Outcast].
+[G77.7,46.9 Eastern Plaguelands].
+Kill *Scourge Champion*, loot *Fetid Skull*, and use *Mystic Crystal*, to complete [QC5206 Marauders of Darrowshire][G83,40 Eastern Plaguelands].
+In the water pool next to Northdale, complete [QC5845 Of Lost Honor].
+In Zul'Mashar, complete [QC6024 Hameya's Plea].
+Turn in [QT5206 Marauders of Darrowshire].\\Accept [QA5941 Return to Chromie].
+Outside of the tomb, turn in [QT6024 Hameya's Plea].
+Turn in [QT5845 Of Lost Honor].\\Accept [QA5846 Of Love and Family].
+
+-- Western Plaguelands
+Turn in [QT5846 Of Love and Family]. Skip follow-up.
+At Chromie, turn in [QT5941 Return to Chromie]. Skip follow-up.
+Turn in [QT6389 A Plague Upon Thee].
+
+-- Ironforge
+Fly to [F Ironforge].
+If you can get a portal to Darnassu & hearth back, turn in [QT4986 Glyphed Oaken Branch]. Otherwise, skip.
+
+-- Stormwind
+Take the [G72.7,50.3 Ironforge] tram to Stormwind.
+Turn in [QT5022 Better Late Than Never]. Skip follow-up.
+Fly to [F Blasted Lands] and start on Hellfire? Or do we need Silithus for Lv.60?
 
 ]], 'Shiros Speedrun')

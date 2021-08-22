@@ -3,8 +3,8 @@ Guidelime.registerGuide(
 
 [D Shiros 1-58 Speedrun for alliance (patch 2.3+)]
 [GA Alliance]
-[N 40-42 Alterac and Arathi]
-[NX 42-42 Swamp of Sorrows]
+[N 40-43 Alterac and Arathi]
+[NX 43-45 Stranglethorn Vale]
 
 -- Alterac Mountains
 Fly to [F Southshore].
@@ -121,7 +121,7 @@ Turn in [QT720 A Sign of Hope].
 Turn in [QT1106 Martek the Exiled].\\Accept [QA1108 Indurium].
 Accept [QA705 Pearl Diving] and turn in [QT705 Pearl Diving].
 Turn in [QT738 Find Agmond].\\Accept [QA739 Murdaloc].
-Complete [QC1108 Indurium] and [QC739 Murdaloc]. *Note:* Murdaloc has a shitty turn-in, but it's still worth riding to turn it in (2m58s back and forth on mount).
+Complete [QC1108 Indurium] and [QC739 Murdaloc]. *Note:* Murdaloc has a shitty turn-in, but it's still worth riding to turn it in.
 Turn in [QT687 Theldurin the Lost].\\Accept [QA692 The Lost Fragments].
 Complete [QC692 The Lost Fragments] just behind the NPC.
 Turn in [QT692 The Lost Fragments].\\Accept [QA656 Summoning the Princess].
@@ -145,22 +145,26 @@ Get FP at [P Thorium Point].
 Fly to [F Thelsamar].
 Turn in [QT3181 The Horn of the Beast].\\Accept [QA3182 Proof of Deed].
 Turn in [QT739 Murdaloc]. Skip follow-up.
+[OC]If you had a way to suicide, you could deathwarp to Thelsamar, saving 1m30s of riding.
 
 -- Ironforge
+[A mage]Skip the flying step and teleport to Ironforge.
 Fly to [F Ironforge].
 If your first aid skill is at least 225, accept the quest [QA6625 Alliance Trauma].
 Turn in [QT3368 Suntara Stones] and [QT3182 Proof of Deed].\\Accept [QA3201 At Last!] and [QA3371 Dwarven Justice].
+[A mage]Skip the tram and teleport to Stormwind. Mind the order of accept/turn-in in SW, as it'll differ for you.
 Take the [G75.74,50.87 Ironforge] tram to Stormwind City.
 
 -- Stormwind
 [T] If you're not night elf, train Lv.42 skills while in Stormwind.
 Accept [QA1448 In Search of The Temple].
-Turn in [QT542 Return to Milton].
+Enter the Stormwind Keep. Head left into the library, and turn in [QT542 Return to Milton].
 Turn in [QT11222 Warn Bolvar!]\\Accept [QA11223 Return to Jaina].
+Turn in [QT543 The Perenolde Tiara].
 [OC] Return to Jaina can be used as a free TP to dustwallow, but not once it's gone gray.
 Turn in [QT697 Malin's Request].
 Accept [QA1477 Vital Supplies] at the top of the Mage Tower.
 In the Blue Recluse Inn, accept [QA212 A Meal Served Cold]. Ignore the timer.
-Fly to [F Darkshire].
+Fly to [F Rebel Camp].
 
 ]], 'Shiros Speedrun')
