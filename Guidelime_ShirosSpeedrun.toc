@@ -31,3 +31,4 @@
 24 - Feralas pt 2.lua
 25 - Ungoro.lua
 27 - Felwood and Winterspring.lua
+28 - Western and Eastern Plaguelands.lua
