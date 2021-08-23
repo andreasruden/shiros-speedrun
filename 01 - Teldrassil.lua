@@ -4,7 +4,7 @@ Guidelime.registerGuide(
 [D Shiros 1-58 Speedrun for alliance (patch 2.3+)]
 [GA Alliance]
 [N 1-12 Teldrassil]
-[NX 12-15 Darkshore]
+[NX 12-17 Darkshore and Bloodmyst Isle]
 
 [OC] *Some speedrun tips*:
 [OC] *Speedrunning is best done with a class that can kill while moving*. Always try to run towards your next objective while killing. And always look to kill/grind while headed somewhere.
