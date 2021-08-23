@@ -6,7 +6,7 @@ Guidelime.registerGuide(
 [N 20-22 Redridge Mountains]
 [NX 22-25 Ashenvale]
 
-[OC] In patch 2.3 they made it so that starting at level 20, you will need less experience per level than in vanilla. This guide assumes we're at that patch's values.
+NOTE: This file is no longer in use, as doing Bloodmyst Isle is much better than doing Redridge Mountains.
 
 [O] *HEADS UP*: Save *Bear Meat*, *Boar Ribs*, *Clam Meat*, *Crawler Meat* and *Crawler Leg* for cooking.
 

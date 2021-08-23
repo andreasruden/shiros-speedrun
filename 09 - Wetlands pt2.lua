@@ -58,7 +58,6 @@ Turn in [QT632 The Thandol Span].\\Accept follow-up [QA633 The Thandol Span].
 Complete [QC633 The Thandol Span].
 Turn in [QT633 The Thandol Span].\\Accept [QA634 Plea To The Alliance].
 
--- XXX: Don't know if we want to go to southshore or Arathi from here, for now we'll take the swim quest and assume we go southshore.
 Go around the bridge to [G42.9198,91.4482,1 Arathi Highlands].
 [OC] Pop a Swiftness Potion if you have no movement speed increase. Then make the jump over from the pointy metal ground.
 [OC] *WARNING:* You only have 15 minutes to do the upcoming steps. Read through them before. Even with no movement speed increase, you can complete this run with 3 mins remaining by just following the road. You cannot die or the quest will fail, though!

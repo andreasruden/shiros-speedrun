@@ -7,6 +7,7 @@ Guidelime.registerGuide(
 [NX 25-27 Wetlands]
 
 [O] *HEADS UP*: Save *Bear Meat*, *Boar Ribs*, *Clam Meat*, *Crawler Meat* and *Crawler Leg* for cooking.
+[OC] In patch 2.3 they made it so that starting at level 20, you will need less experience per level than in vanilla. This guide assumes we're at that patch's values.
 
 -- Finishing Darkshore
 Turn in [QT1132 Fiora Longears]. Skip follow-up unless you want it for completion. It has no reward at all.

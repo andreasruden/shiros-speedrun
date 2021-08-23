@@ -9,7 +9,7 @@
 02 - Darkshore and Bloodmyst pt1.lua
 # 03 - Loch Modan.lua
 04 - Darkshore pt2.lua
-05 - Redridge Mountains.lua
+# 05 - Redridge Mountains.lua
 06 - Ashenvale pt1.lua
 07 - Wetlands pt1.lua
 08 - Wetlands pt2.lua
