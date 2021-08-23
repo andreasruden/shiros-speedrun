@@ -45,17 +45,21 @@ Obtain [QC9648,4 Fel Cone Fungus][G42.26,79.75 Bloodmyst Isle].
 Kill Tzerak. From the Armor Plate, accept [QA9594 Signs of the Legion].
 Behind Tzerak, loot the glyph to complete [QC9567 Know Thine Enemy].
 Complete [QC9594 Signs of the Legion].
-Complete [QC9694 Blood Watch].
 
 -- Blood Watch
-Turn in [QT9581 Learning from the Crystals].\\Accept [QA9620 The Missing Survey Team].
 Turn in [QT9629 Catch and Release].\\Accept [QA9574 Victims of Corruption].
-Turn in [QT9694 Blood Watch].\\Accept [QA9779 Intercepting the Message].
+Turn in [QT9581 Learning from the Crystals].\\Accept [QA9620 The Missing Survey Team].
 Turn in [QT9594 Signs of the Legion] and [QT9567 Know Thine Enemy].\\Accept [QA9569 Containing the Threat].
 
 -- Loreth'Aran
-Obtain [QC9648,3 Ruinous Polyspore][G42.26,79.75 Bloodmyst Isle].
 Turn in [QT9620 The Missing Survey Team].\\Accept [QA9628 Salvaging the Data].
-Kill nagas to complete [QC9628 Salvaging the Data].
+Kill nagas to complete [QC9628 Salvaging the Data] and obtain a [QC9648,3 Ruinous Polyspore][G42.26,79.75 Bloodmyst Isle].
+Complete [QC9694 Blood Watch].
+If not Lv.14, grind to [XP14 level 14].
+
+-- Blood Watch
+Turn in [QT9628 Salvaging the Data].\\Accept [QA9584 The Second Sample].
+Turn in [QT9648 Mac'Aree Mushroom Menagerie].
+Turn in [QT9694 Blood Watch].\\Accept [QA9779 Intercepting the Message].
 
 ]], 'Shiros Speedrun')

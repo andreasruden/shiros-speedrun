@@ -102,36 +102,7 @@ Turn in [QT4762 The Cliffspring River]. Skip follow-up for now.
 Turn in [QT947 Cave Mushrooms].
 Turn in [QT4813 The Fragments Within].
 Turn in [QT4723 Beached Sea Creature] and [QT4725 Beached Sea Turtle].
-Take the boat to Menethil Harbor. Craft Linen Bandage to level first aid to 40 while waiting.
 
--- To Loch Modan
-When arriving in Menethil, accept the flight point [P Menethil Harbor].
-Jump from the [G5.86,64.16 Wetlands] pier at this point.
-Swim to the [G3.28,75.93 Wetlands] coast. (This avoids the murlocs)
-Walk to this [G0.07, 77.51 Wetlands] spot.
-Swim forward, you will come to more walkable land. [G33,8 Dun Morogh].
-[G27,7 Dun Morogh] Here we start swimming again. Follow the coast line closely.
-[G20,11 Dun Morogh] Around here, just as we get very close to the fatigue area and start turning inwards, start draining your breath to prepare to deathwarp. Don't die before it says "Dun Morogh" on your minimap though!
-If you follow the terrain, it will show you as actually in Dun Morogh at [G17,15 Dun Morogh]. This is when it's okay to die :-).
-Deathwarp to Kharanos.
-Follow the road to Ironforge [G15.35, 85.68 Ironforge].
-Enter the Herbalism building [G53.56,55.45 Ironforge].
-Learn *Heavy Linen Bandage* from Nissa at the second level.
-Make 10 [CI2581,10 Heavy Linen Bandage] to skill first aid to 50.
-Learn First Aid (Journeyman) from Nissa, too.
-Accept the flight point in [P Ironforge].
-Accept [QA2039 Find Bingles].
-Run to Rudra and accept [QA314 Protecting the Herd].
-Backtrack the road you came from, then run around the mountain and follow the path up [G59.77,50.04 Dun Morogh].
-Complete [QC314 Protecting the Herd].
-Jump down and turn in [QT314 Protecting the Herd].
-Run east until the road splits [G78,49.6 Dun Morogh].
-Run north and accept [QA419 The Lost Pilot] (it has a 6.8 dps dagger/1h mace reward, and is probably worth it xp wise? - was not tested)
-Turn in [QT419 The Lost Pilot].\\Accept [QA417 A Pilot's Revenge].
-Complete [QC417 A Pilot's Revenge].
-Turn in [QT417 A Pilot's Revenge].
-Run back to the junction [G78,49.6 Dun Morogh] and head south instead.
-Enter Loch Modan, then head over to the next part of the guide.
 
 -- Quest Chains of Darkshore:
 -- Buzzbox -> kill crawlers -> Auberdine -> kill Thresher -> NW coast -> Moonstalker Fang (together with rabid bears in north) -> Cliffspring River waterfall -> Grizzled Scalp in south (around lost master / expedition) -> Grove of the Ancients

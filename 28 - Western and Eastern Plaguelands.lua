@@ -223,6 +223,7 @@ If you can get a portal to Darnassu & hearth back, turn in [QT4986 Glyphed Oaken
 -- Stormwind
 Take the [G72.7,50.3 Ironforge] tram to Stormwind.
 Turn in [QT5022 Better Late Than Never]. Skip follow-up.
+Turn in [QT6186 The Blightcaller Cometh]. Skip follow-up.
 Fly to [F Blasted Lands] and start on Hellfire? Or do we need Silithus for Lv.60?
 
 ]], 'Shiros Speedrun')
