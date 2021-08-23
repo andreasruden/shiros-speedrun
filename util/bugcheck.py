@@ -122,6 +122,14 @@ def process_line(line, route, linenum):
             realQuestInfo = questsDB[quest.id]
             if realQuestInfo['name'] != quest.name:
                 warning(linenum, quest.id, 'Incorrectly named (%s). Should be: "%s"' % (quest.name, realQuestInfo['name']))
+    # Check for !Abandon instruction
+    abandon = line.find('!Abandon ')
+    if abandon != -1:
+        for qid in line[abandon+len('!Abandon '):].split()[0].split(','):
+            if qid in route.accepted:
+                route.accepted.remove(qid)
+            if qid in route.completed:
+                route.completed.remove(qid)
 
 def find_next_quest_with_start(line, n=0):
     instr = ''

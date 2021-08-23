@@ -26,15 +26,15 @@ Hearth to [H Deepwater Tavern].
 Fly to [F Chillwind Camp].
 Accept [QA9474 The Mark of the Lightbringer].
 Accept [QA5903 A Plague Upon Thee].
-Turn in [QT5066 A Call to Arms: The Plaguelands!]\\Accept [QA5092 Clear the Way].
-Accept [QA5405 Argent Dawn Commision].
-Turn in [QT5405 Argent Dawn Commision].
+Turn in [QT5066 A Call to Arms: The Plaguelands!]\\Accept [QA5092 Clear the Way][G49.4,79.2 Western Plaguelands].
+Accept [QA5401 Argent Dawn Commision].
+Turn in [QT5401 Argent Dawn Commision].
 Equip the insignia and save any *Scourgestones* you get.
 Turn in [QT6028 The Everlook Report].
 Turn in [QT6184 Flint Shadowmore].\\Accept [QA6185 The Eastern Plagues].
 
 -- Sorrow Hill
-Accept [QA5142 Little Pamela].
+Accept [QA5142 Little Pamela]. Kill the undeads on the way.
 Finish up [QC5092 Clear the Way].
 
 -- Chillwind Camp
@@ -55,23 +55,23 @@ From here [G37.156075,69.719827 Western Plaguelands], hug the terrain to get ove
 Turn in [QT5217 Return to Chillwind Camp].\\Accept [QA5219 Target: Dalson's Tears].
 
 -- Ruins of Andorhal & Dalson's Tears
-Use the Beacon Torch to complete [QC5097,1 Tower One Marked][G40,71 Western Plaguelands].
+Use the Beacon Torch to complete [QC5097,1 Tower One Marked][G40.050,71.613 Western Plaguelands].
 [G39.6,68.4 Western Plaguelands]
 On the second floor, in the furthest room in the back, accept [QA4971 A Matter of Time].
-Complete [QC5097,2 Tower Two Marked][G42,66 Western Plaguelands].
-Complete [QC5097,3 Tower Three Marked][G44,63 Western Plaguelands].
+Complete [QC5097,2 Tower Two Marked][G42.318,66.255 Western Plaguelands].
+Complete [QC5097,3 Tower Three Marked][G44.267,63.249 Western Plaguelands].
 Use the Temporal Displacer next to a silo and kill parasites to complete [QC4971 A Matter of Time][G46,63 Western Plaguelands].
 Complete [QC5219 Target: Dalson's Tears].
 Turn in [QT5219 Target: Dalson's Tears].\\Accept [QA5220 Return to Chillwind Camp].
-Go inside the barn and turn in [QT5058 Mrs. Dalson's Diary].
-Kill a *Wandering Skeleton* to obtain [CI12738,1 Dalson Outhouse Key][G47.75,49.78 Western Plaguelands].
-Turn in [QT5059 Locked Away][G48.09,49.70 Western Plaguelands] at the outhouse.
+Go inside the barn and interact with the book [QA5058 Mrs. Dalson's Diary] [QT5058 Mrs. Dalson's Diary].
+Kill the *Wandering Skeleton* to obtain [CI12738,1 Dalson Outhouse Key][G47.75,49.78 Western Plaguelands]. If she's not nearby, the scarlet mobs might've killed her. Kill some skeletons while waiting for her to spawn.
+Interact with the [G48.09,49.70 Western Plaguelands] outhouse [QA5059 Locked Away] [QT5059 Locked Away].
 Kill Farmer Dalson, who spawns, to obtain [CI12739,1 Dalson Cabinet Key].
-Go to the second floor of the building and turn in [QT5060 Locked Away][G47.36,49.64 Western Plaguelands].
+Go to the second floor of the building and interact with the [G47.36,49.64 Western Plaguelands] cabin [QA5060 Locked Away] [QT5060 Locked Away].
 [G50.991052,69.435888 Western Plaguelands]
 Jump from here [G50.399160,69.947099,3 Western Plaguelands]
 [G49.388274,69.891130 Western Plaguelands]
-Complete [QC5097,4 Tower Four Marked][G46,71 Western Plaguelands].
+Complete [QC5097,4 Tower Four Marked][G46.616,71.080 Western Plaguelands].
 
 -- Chillwind Camp
 Ride through Sorrow Hill to turn in [QT5220 Return to Chillwind Camp].\\Accept [QA5222 Target: Writhing Haunt].
@@ -81,11 +81,12 @@ Turn in [QT5533 Scholomance].\\Accept [QA5537 Skeletal Fragments].
 -- Ruins of Andorhal
 During next steps, work on [QC5537 Skeletal Fragments][O].
 Head back to chromie, killing skeletons on the way. Turn in [QT4971 A Matter of Time].\\Accept [QA4972 Counting out Time].
-Loot small boxes for watches and kill skeletons for fragments. Complete [QA4972 Counting out Time].
-Head towards [G50.4,67.6,30 Eastern Plaguelands] here. We'll finish up Skeletal Fragments later, if it doesn't finish up on the way.
+Loot small boxes for watches and kill skeletons for fragments. Complete [QC4972 Counting out Time].
+Head towards [G50.4,67.6,30 Western Plaguelands] here. We'll finish up Skeletal Fragments later, if it doesn't finish up on the way.
 
 -- The Writhing Haunt
-Complete [QC5222 Target: Writhing Haunt].\\Accept [QA5223 Return to Chillwind Camp].
+Complete [QC5222 Target: Writhing Haunt].
+Turn in [QT5222 Target: Writhing Haunt].\\Accept [QA5223 Return to Chillwind Camp].
 Accept [QA4984 The Wildlife Suffers Too].
 
 -- Unfinished Business chain
@@ -117,20 +118,20 @@ Enter EPL [G12,73 Eastern Plaguelands].
 Accept [QA5542 Demon Dogs], [QA5543 Blood Tinged Skies] and [QA5544 Carrion Grubbage].
 During next steps, work *aggressively* on [QC5542 Demon Dogs][O], [QC5543 Blood Tinged Skies][O] and [QA5544 Carrion Grubbage][O].
 [OC]You can do Eastern Plagues without any danger, just stay clear of Nathanos.
-Loot [QC6185,3 SI:7 Insignia (Fredo)][G27.16,74.95 Eastern Plaguelands].
-Loot [QC6185,4 SI:7 Insignia (Turyen)][G28.80,74.88 Eastern Plaguelands].
-Loot [QC6185,2 SI:7 Insignia (Rutger)][G28.81,79.85 Eastern Plaguelands].
-[G27.9,85.5 Eastern Plaguelands]
+Loot [QC6185,2 SI:7 Insignia (Fredo)][G27.16,74.95 Eastern Plaguelands].
+Loot [QC6185,3 SI:7 Insignia (Turyen)][G28.80,74.88 Eastern Plaguelands].
+Loot [QC6185,1 SI:7 Insignia (Rutger)][G28.81,79.85 Eastern Plaguelands].
+[QC6185]. -- Should not be necessary, but just in case.
 Turn in [QT5142 Little Pamela].\\Accept [QA5149 Pamela's Doll].
 Complete [QC5149 Pamela's Doll]. The 3 parts are random spawns in the houses. Use to combine.
 Turn in [QT5149 Pamela's Doll].\\Accept [QA5152 Auntie Marlene] and [QA5241 Uncle Carlin].
-Before you pass Corin's Crossing, make sure to have finished killing 20 [QC5542,1 Plaguehound Runt][G53,77 Western Plaguelands] and [QC5543 Blood Tinged Skies][G53,77 Western Plaguelands].
+Before you pass Corin's Crossing, make sure to have finished killing 20 [QC5542,1 Plaguehound Runt][G53,77 Eastern Plaguelands] and [QC5543 Blood Tinged Skies][G53,77 Eastern Plaguelands].
 
 -- Light's Hope Chapel
 Run toward Light's Hope Chapel. By the graveyard, accept [QA5281 The Restless Souls] and [QA6021 Zaeldarr the Outcast].
 Turn in [QT6030 Duke Nicholas Zverenhoff].
 At the same guy, turn in Scourgestones. *Save* one Argent Dawn Valor Tokens.
-Set hearthstone in [P Light's Hope Chapel].
+Set hearthstone in [S Light's Hope Chapel].
 Get FP in [P Light's Hope Chapel].
 Accept [QA9141 They Call Me "The Rooster"].
 Turn in [QT9141 They Call Me "The Rooster"].
@@ -144,21 +145,23 @@ Complete [QC9446 Tomb of the Lightbringer].
 Turn in [QT5152 Auntie Marlene].\\Accept [QA5153 A Strange Historian].
 Get the ring from the white tombstone to complete [QC5153 A Strange Historian].
 At Chromie, turn in [QT4972 Counting out Time] and [QT5153 A Strange Historian].\\Accept [QA5154 The Annals of Darrowshire].
-[OC]Can throw away *Attuned Dampener* if you do not intend to kill Araj.
-Complete [QA5154 The Annals of Darrowshire].
+[O]Can throw away *Attuned Dampener* if you do not intend to kill Araj.
+Complete [QC5154 The Annals of Darrowshire].
 Turn in [QT5154 The Annals of Darrowshire].\\Accept [QA5210 Brother Carlin].
-Finish up [QC964 Skeletal Fragments].
-Turn in [QT964 Skeletal Fragments].
+Finish up [QC5537 Skeletal Fragments].
+Turn in [QT5537 Skeletal Fragments].
 XXX: Would hearthstone reset in time for next usage?
 Fly to [F Light's Hope Chapel].
 
 -- Northern Eastern Plaguelands
 Turn in [QT5210 Brother Carlin] and [QT5241 Uncle Carlin].\\Accept [QA5181 Villains of Darrowshire], [QA5168 Heroes of Darrowshire] and [QA5211 Defenders of Darrowshire].
 Kill 5 [QC5542,2 Plaguehound][O] on the way.
+On the way, kill Ghouls (Cannibal Ghouls, Gibbering Ghouls and Diseased Flayers) and talk to spirit for [QC5211 Defenders of Darrowshire][O].
 Clear [G77.5,51 Eastern Plaguelands] this area for progress on Defenders of Darrowshire.
 Kill all *Frenzied Plaguehounds* [G69,43 Eastern Plaguelands] here.
 Clear [G66.7,40.5 Eastern Plaguelands] this area for progress on Defenders of Darrowshire.
 Obtain [QC5181,2 Shattered Sword of Marduk].
+Finish killing the [QC5542,2 Plaguehound].
 Obtain [QC5181,1 Skull of Horgus].
 Turn in [QT5245 Troubled Spirits of Kel'Theril]. Skip follow-up.
 Finish up [QC5542,3 Frenzied Plaguehound][G52.5,39.0 Eastern Plaguelands].
@@ -187,10 +190,10 @@ Complete [QC5225 Target: Gahrron's Withering].
 Turn in [QT5225 Target: Gahrron's Withering].\\Accept [QA5226 Return to Chillwind Camp].
 Turn in [QT4985 The Wildlife Suffers Too].\\Accept [QA4986 Glyphed Oaken Branch].
 Turn in [QT9446 Tomb of the Lightbringer] and [QT5226 Return to Chillwind Camp].
-Turn in [QT5238 Mission Accomplished!]
+Get your final reward for all the Cauldron quests [QA5237 Mission Accomplished!]
 Turn in [QT6185 The Eastern Plagues].\\Accept [QA6186 The Blightcaller Cometh].
 Turn in [QT5903 A Plague Upon Thee].\\Accept follow-up [QA5904 A Plague Upon Thee].
-Complete [QT6025 Unfinished Business].
+Complete [QC6025 Unfinished Business].
 In the house, obtain [QC5168,1 Davil's Libram].
 Drop down to the quest npc and turn in [QT6025 Unfinished Business].
 Interact with the crate to spawn a Termite Barrel. Turn in [QT5904 A Plague Upon Thee].\\Accept follow-up [QA6389 A Plague Upon Thee].
@@ -202,6 +205,7 @@ Turn in [QT6021 Zaeldarr the Outcast].
 [G77.7,46.9 Eastern Plaguelands].
 Kill *Scourge Champion*, loot *Fetid Skull*, and use *Mystic Crystal*, to complete [QC5206 Marauders of Darrowshire][G83,40 Eastern Plaguelands].
 In the water pool next to Northdale, complete [QC5845 Of Lost Honor].
+[OC]Don't walk on the graves, they spawn mobs.
 In Zul'Mashar, complete [QC6024 Hameya's Plea].
 Turn in [QT5206 Marauders of Darrowshire].\\Accept [QA5941 Return to Chromie].
 Outside of the tomb, turn in [QT6024 Hameya's Plea].
