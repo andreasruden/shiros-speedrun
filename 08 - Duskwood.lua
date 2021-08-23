@@ -14,8 +14,8 @@ XXX: Is flying to sentinel hill actually quicker than running for a hunter?
 *HEADS UP*: Save *Raptor Egg* for cooking.
 
 -- First round
-[OC] If you find *An Old History Book*, hang on to it.
-[OC] If you didn't finish Look To The Stars last time, buy a Bronze Tube from Herble.
+[OC]If you find *An Old History Book*, hang on to it.
+[OC]If you didn't finish Look To The Stars last time, buy a Bronze Tube from Herble.
 Turn in [QT174 Look To The Stars]. -- !OptionalFinish
 Accept [QA175 Look To The Stars].
 Accept [QA173 Worgen in the Woods].

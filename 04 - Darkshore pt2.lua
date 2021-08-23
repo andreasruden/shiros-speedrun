@@ -3,8 +3,8 @@ Guidelime.registerGuide(
 
 [D Shiros 1-58 Speedrun for alliance (patch 2.3+)]
 [GA Alliance]
-[N 18-20 Darkshore]
-[NX 20-22 Redridge Mountains]
+[N 18-22 Darkshore and Bloodmyst]
+[NX 22-25 Ashenvale]
 
 [O] *HEADS UP*: Save *Bear Meat*, *Boar Ribs*, *Chunk of Boar Meat*, *Small Spider Leg*, *Clam Meat*, *Crawler Meat* and *Crawler Claw* for cooking.
 
@@ -84,12 +84,10 @@ Fly to [F Darnassus].
 Withdraw all the cooking materials from the bank.
 [T] Train only *essential* level 20 skills, we need to mega save for mount.
 Turn in [QT741 The Absent Minded Prospector] (outside of the temple again).\\Accept follow-up [QA942 The Absent Minded Prospector].
-Hearth to [H Auberdine] or fly if on cooldown.
-While waiting for the boat do some cooking. First cook the Chunk of Boar Meat (yellow at 45), then the Small Spider Legs (yellow at 50). Learn *Recipe: Smoked Bear Meat*, and cook as many as you have, up to skill 75. *Stop at 50* and ignore any further cooking leveling instructions if you do not intend to mount grind.
-On the actual boat make some Heavy Linen Bandages.
-In the menethil harbor inn's upper floor, turn in [QT942 The Absent Minded Prospector].\\Accept [QA943 The Absent Minded Prospector].
+Fly to [F Auberdine]. Hearth if you're not going at turbo-speed (we need it again in about 45 mins if you're going quick).
+
+XXX: While waiting for the boat do some cooking. First cook the Chunk of Boar Meat (yellow at 45), then the Small Spider Legs (yellow at 50). Learn *Recipe: Smoked Bear Meat*, and cook as many as you have, up to skill 75. *Stop at 50* and ignore any further cooking leveling instructions if you do not intend to mount grind.
+XXX: On the actual boat make some Heavy Linen Bandages.
 XXX: Cook to 50 here in inn.
-Accept [QA1132 Fiora Longears].
-Fly to [F Ironforge].
 
 ]], 'Shiros Speedrun')

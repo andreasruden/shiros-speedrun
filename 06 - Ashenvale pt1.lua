@@ -41,8 +41,6 @@ Turn in [QT1010 Bathran's Hair].\\Accept [QA1020 Orendil's Cure].
 Turn in [QT945 Therylune's Escape].
 Run to Astranaar and get the [F Astranaar] flightpoint. [G34.42,48.07 Ashenvale]
 Accept [QA1008 The Zoram Strand].
-Accept [QA1070 On Guard in Stonetalon].
-Accept [QA1056 Journey to Stonetalon Peak].
 Turn in [QT10752 Onward to Ashenvale].\\Accept [QA991 Raene's Cleansing] and [QA1054 Culling the Threat].
 Set hearthstone in [S Astranaar].
 Turn in [QT1020 Orendil's Cure].\\Accept [QA1033 Elune's Tear].
@@ -84,37 +82,37 @@ Turn in [QT1025 An Aggressive Defense].
 
 -- Stonetalon Mountains
 Complete [QC1034 The Ruins of Stardust].
-Grind your way to [G42.28,71.06 Ashenvale] Talondeep Path. Run through to Stonetalon Mountains.
-Kill pridewings you run past for progress on [QC1134 Pridewings of Stonetalon][O].
-Accept [QA1093 Super Reaper 6000].
-Turn in [QT1070 On Guard in Stonetalon].\\Accept follow-up [QA1085 On Guard in Stonetalon].
-Turn in [QT1085 On Guard in Stonetalon].\\Accept [QA1071 A Gnome's Respite].
-Complete [QC1093 Super Reaper 6000][G66.3,52.5 Stonetalon Mountains] (drop from operators) while killing Venture Co. workers.
-Finish up [QC1071 A Gnome's Respite].
-Turn in [QT1093 Super Reaper 6000].\\Accept [QA1094 Further Instructions].  -- Waste of time, unless we need ratchet FP before we're in BB
-Turn in [QT1071 A Gnome's Respite].\\Accept [QA1072 An Old Colleague] and [QA1075 A Scroll from Mauren].
-[OC] We're skipping Gerenzo's Orders in the cave, because it's just too difficult.
-Grind you way north and finish up [QC1134 Pridewings of Stonetalon][G53.86,39.71 Stonetalon Mountains].
-Continue grinding north, then turn in [QT1056 Journey to Stonetalon Peak].\\Accept [QA1057 Reclaiming the Charred Vale].
-Learn of the flight path [P Stonetalon Peak].
-[OC] You should be Lv.24 by now (if not some mobs of the next quest will be orange). Grind you way to the Charred Vale.
-[OC] Harpies seem to partially share spawns. E.g., it seems like Roguefeather/Slayer/Storm Witch can respawn as eachother. So, it's a good idea to kill while running around rather than just looking for specific harpies.
-Complete [QC1078 Retrieval for Mauren] and [QC1057 Reclaiming the Charred Vale].
-Run to Desolace and get the FP in [P Nijel's Point].
-Fly to [F Stonetalon Peak].
-Turn in [QT1057 Reclaiming the Charred Vale].\\Accept follow-up [QA1059 Reclaiming the Charred Vale].
-Fly to [F Astranaar].
+-- Grind your way to [G42.28,71.06 Ashenvale] Talondeep Path. Run through to Stonetalon Mountains.
+-- Kill pridewings you run past for progress on [QC1134 Pridewings of Stonetalon][O].
+-- Accept [QA1093 Super Reaper 6000].
+-- Turn in [QT1070 On Guard in Stonetalon].\\Accept follow-up [QA1085 On Guard in Stonetalon].
+-- Turn in [QT1085 On Guard in Stonetalon].\\Accept [QA1071 A Gnome's Respite].
+-- Complete [QC1093 Super Reaper 6000][G66.3,52.5 Stonetalon Mountains] (drop from operators) while killing Venture Co. workers.
+-- Finish up [QC1071 A Gnome's Respite].
+-- Turn in [QT1093 Super Reaper 6000].\\Accept [QA1094 Further Instructions].  -- Waste of time, unless we need ratchet FP before we're in BB
+-- Turn in [QT1071 A Gnome's Respite].\\Accept [QA1072 An Old Colleague] and [QA1075 A Scroll from Mauren].
+-- [OC] We're skipping Gerenzo's Orders in the cave, because it's just too difficult.
+-- Grind you way north and finish up [QC1134 Pridewings of Stonetalon][G53.86,39.71 Stonetalon Mountains].
+-- Continue grinding north, then turn in [QT1056 Journey to Stonetalon Peak].\\Accept [QA1057 Reclaiming the Charred Vale].
+-- Learn of the flight path [P Stonetalon Peak].
+-- [OC] You should be Lv.24 by now (if not some mobs of the next quest will be orange). Grind you way to the Charred Vale.
+-- [OC] Harpies seem to partially share spawns. E.g., it seems like Roguefeather/Slayer/Storm Witch can respawn as eachother. So, it's a good idea to kill while running around rather than just looking for specific harpies.
+-- Complete [QC1078 Retrieval for Mauren] and [QC1057 Reclaiming the Charred Vale].
+-- Run to Desolace and get the FP in [P Nijel's Point].
+-- Fly to [F Stonetalon Peak].
+-- Turn in [QT1057 Reclaiming the Charred Vale].\\Accept follow-up [QA1059 Reclaiming the Charred Vale].
+-- Fly to [F Astranaar].
 
 -- Finishing up pt.1 of Ashenvale
 Turn in [QT1034 The Ruins of Stardust]. Skip follow-up for now.
-Turn in [QT1134 Pridewings of Stonetalon]. Skip follow-up for now.
+-- Turn in [QT1134 Pridewings of Stonetalon]. Skip follow-up for now.
 Complete [QC973 The Tower of Althalaxx].
 Run north to the furbolg camp and complete [QC1054 Culling the Threat].
 [G37.48,32.3 Ashenvale]
 Jump down from the [G38,30 Ashenvale] tree.
-[OC] Continue climbing down, then head to Maestra's Post.
+[OC]Continue climbing down, then head to Maestra's Post.
 Turn in [QT973 The Tower of Althalaxx].\\Accept follow-up [QA1140 The Tower of Althalaxx].
-[OC] Warning: This next quest is very difficult, and not doable for all classes. First two spawns has 4 mobs. Third and last spawn just before finish has 3 very nasty Satyrs. If you die during the 3 satyrs, release and hurry back, GY is right next to the fight. The mob to protect is quite squishy, too.
+[OC]Warning: This next quest is very difficult, and not doable for all classes. First two spawns has 4 mobs. Third and last spawn just before finish has 3 very nasty Satyrs. If you die during the 3 satyrs, release and hurry back, GY is right next to the fight. The mob to protect is quite squishy, too.
 [A mage][OC] *MAGE*: while being strong generally, mages struggle cus it's hard to protect the NPC. Frost nova => NPC in trouble :-).
 Accept [QA976 Supplies to Auberdine] if you're a strong solo class, otherwise skip it.
 Complete [QC976 Supplies to Auberdine].

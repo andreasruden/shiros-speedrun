@@ -82,8 +82,9 @@ Fly to [F Ironforge].
 If you did not get the bandage last time, learn *Heavy Wool Bandage* at [G55.1,58.2 Ironforge] Nissa.
 *Cooking*: Learn the *Crab Cake* recipe [G59.56,37.61 Ironforge]. Buy *Mild Spices* downstairs.
 [OC] Note: We skip turning in Sully Balloo's Letter now, as it's higher level than some quests we're about to do, and we go past here later anyway.
-Take the [G76.2,51.1 Ironforge] tram. Cook Boiled Clams, then Crab Cakes while waiting.
-*Cooking*: In stormwind, at [G72.94, 38.45 Stormwind City] the cooking trainer, try to get cooking to 130. Kendor sells Cooked Crab Claw (yellow at 125, green at 145). The trainer downstairs has Dry Pork Ribs (yellow at 120, green at 140).
+
+XXX: Take the [G76.2,51.1 Ironforge] tram. Cook Boiled Clams, then Crab Cakes while waiting.
+XXX: *Cooking*: In stormwind, at [G72.94, 38.45 Stormwind City] the cooking trainer, try to get cooking to 130. Kendor sells Cooked Crab Claw (yellow at 125, green at 145). The trainer downstairs has Dry Pork Ribs (yellow at 120, green at 140).
 *Cooking*: After that buy and learn *Recipe: Curiously Tasty Omelet* from Kendor.
 If you're willing to use the AH and didn't get one last time we were in Duskwood from the limited stock NPC, buy a [CI4371,1 Bronze Tube]. (You could of course try the NPC again, but if he doesn't have it you'll have to fly back.)
 Fly to [F Darkshire].

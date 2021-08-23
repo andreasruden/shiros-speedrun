@@ -10,36 +10,38 @@ Guidelime.registerGuide(
 
 --- To Ironforge
 Take the boat to Menethil Harbor.
-[A nightelf]When arriving in Menethil, accept the flight point [P Menethil Harbor].
-[A nightelf]Jump from the [G5.86,64.16 Wetlands] pier at this point.
-[A nightelf]Swim to the [G3.28,75.93 Wetlands] coast. (This avoids the murlocs)
-[A nightelf]Walk to this [G0.07, 77.51 Wetlands] spot.
-[A nightelf]Swim forward, you will come to more walkable land. [G33,8 Dun Morogh].
-[A nightelf][G27,7 Dun Morogh] Here we start swimming again. Follow the coast line closely.
-[A nightelf][G20,11 Dun Morogh] Around here, just as we get very close to the fatigue area and start turning inwards, start draining your breath to prepare to deathwarp.
-[A nightelf]Don't die before it says "Dun Morogh" on your minimap though!
-[A nightelf]If you follow the terrain, it will show you as actually in Dun Morogh at [G17,15 Dun Morogh]. This is when it's okay to die :-).
-[A nightelf]Deathwarp to Kharanos.
-[A nightelf]Follow the road to Ironforge [G15.35, 85.68 Ironforge].
--- Enter the Herbalism building [G53.56,55.45 Ironforge].
--- Learn *Heavy Linen Bandage* from Nissa at the second level.
-[A nightelf]Accept the flight point in [P Ironforge].
-Take the XXX tram to Stormwind. XXX: Get FP sometime.
-
--- Stormwind
-Accept [QA484 Young Crocolisk Skins]. -- (XXX: On private servers you need honored with IF to get this, is that correct? We do have that though because of Loch Modan)
+[A nightelf,draenei]When arriving in Menethil, accept the flight point [P Menethil Harbor].
+Accept [QA484 Young Crocolisk Skins].
 Accept [QA279 Claws from the Deep].
 Accept [QA288 The Third Fleet] and [QA463 The Greenwarden].
+In the menethil harbor inn's upper floor, turn in [QT942 The Absent Minded Prospector].\\Accept [QA943 The Absent Minded Prospector].
 Set hearthstone in [S Menethil Harbor].
 Buy a [CI2594,1 Flagon of Dwarven Honeymead] from the inkeeper.
 Turn in [QT288 The Third Fleet].\\Accept [QA289 The Cursed Crew].
-Fly to [F Ironforge].
+Accept [QA1132 Fiora Longears].
+[A dwarf,gnome,human] Fly to [F Ironforge].
+[A nightelf,draenei]Jump from the [G5.86,64.16 Wetlands] pier at this point.
+[A nightelf,draenei]Swim to the [G3.28,75.93 Wetlands] coast. (This avoids the murlocs)
+[A nightelf,draenei]Walk to this [G0.07, 77.51 Wetlands] spot.
+[A nightelf,draenei]Swim forward, you will come to more walkable land. [G33,8 Dun Morogh].
+[A nightelf,draenei][G27,7 Dun Morogh] Here we start swimming again. Follow the coast line closely.
+[A nightelf,draenei][G20,11 Dun Morogh] Around here, just as we get very close to the fatigue area and start turning inwards, start draining your breath to prepare to deathwarp.
+[A nightelf,draenei]Don't die before it says "Dun Morogh" on your minimap though!
+[A nightelf,draenei]If you follow the terrain, it will show you as actually in Dun Morogh at [G17,15 Dun Morogh]. This is when it's okay to die :-).
+[A nightelf,draenei]Deathwarp to Kharanos.
+[A nightelf,draenei]Follow the road to Ironforge [G15.35, 85.68 Ironforge].
+-- Enter the Herbalism building [G53.56,55.45 Ironforge].
+-- Learn *Heavy Linen Bandage* from Nissa at the second level.
+[A nightelf,draenei]Accept the flight point in [P Ironforge].
+Take the XXX tram to Stormwind. XXX: Get FP sometime.
+
+-- Stormwind
 Learn Skinning (Expert) from [G39.894,32.547,1 Stormwind City] Balthus.
-Turn in [QT1072 An Old Colleague]. Skip follow-up.
+-- Turn in [QT1072 An Old Colleague]. Skip follow-up.
 Take the tram to stormwind. If First Aid is not at 115 already, make *Wool Bandages* to reach 115.
 If your FA skill is 115, or you can reach that, learn *Heavy Wool Bandage* from [G42.9525,26.2757 Stormwind City] Shaina in the Cathedral.
 If you are a class without movement speed increase (priest, warrior, warlock, mage, paladin; 15% cuts it very close), you should buy a [CI2459,1 Swiftness Potion] from the [G54.1879,59.0522 Stormwind City] AH for an upcoming quest. (Or skip the quest)
-Turn in [QT1075 A Scroll from Mauren] and [QT1078 Retrieval for Mauren]. Skip follow-up.
+-- Turn in [QT1075 A Scroll from Mauren] and [QT1078 Retrieval for Mauren]. Skip follow-up.
 In the cellar of The Slaughtered Lamb, accept [QA335 A Noble Brew].
 Hearth back to [H Menethil Harbor].
 
