@@ -132,6 +132,7 @@ Complete [QC9584 The Second Sample] and [QC9779 Intercepting the Message][G45.6,
 
 -- Blood Watch
 Turn in [QT9779 Intercepting the Message].\\Accept [QA9696 Translations...]
+Accept [QA9632 Newfound Allies].
 Turn in [QT9696 Translations...]\\Accept [QA9698 Audience with the Prophet].
 Turn in [QT9584 The Second Sample].\\Accept [QA9585 The Final Sample].
 Turn in [QT9574 Victims of Corruption].
