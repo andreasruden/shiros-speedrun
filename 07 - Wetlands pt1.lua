@@ -8,6 +8,24 @@ Guidelime.registerGuide(
 
 *HEADS UP*: Save *Bear Meat*, *Boar Ribs*, *Clam Meat*, *Crawler Meat*, *Crawler Leg* and *Raptor Egg* for cooking.
 
+--- To Ironforge
+Take the boat to Menethil Harbor.
+[A nightelf]When arriving in Menethil, accept the flight point [P Menethil Harbor].
+[A nightelf]Jump from the [G5.86,64.16 Wetlands] pier at this point.
+[A nightelf]Swim to the [G3.28,75.93 Wetlands] coast. (This avoids the murlocs)
+[A nightelf]Walk to this [G0.07, 77.51 Wetlands] spot.
+[A nightelf]Swim forward, you will come to more walkable land. [G33,8 Dun Morogh].
+[A nightelf][G27,7 Dun Morogh] Here we start swimming again. Follow the coast line closely.
+[A nightelf][G20,11 Dun Morogh] Around here, just as we get very close to the fatigue area and start turning inwards, start draining your breath to prepare to deathwarp.
+[A nightelf]Don't die before it says "Dun Morogh" on your minimap though!
+[A nightelf]If you follow the terrain, it will show you as actually in Dun Morogh at [G17,15 Dun Morogh]. This is when it's okay to die :-).
+[A nightelf]Deathwarp to Kharanos.
+[A nightelf]Follow the road to Ironforge [G15.35, 85.68 Ironforge].
+-- Enter the Herbalism building [G53.56,55.45 Ironforge].
+-- Learn *Heavy Linen Bandage* from Nissa at the second level.
+[A nightelf]Accept the flight point in [P Ironforge].
+Take the XXX tram to Stormwind. XXX: Get FP sometime.
+
 -- Stormwind
 Accept [QA484 Young Crocolisk Skins]. -- (XXX: On private servers you need honored with IF to get this, is that correct? We do have that though because of Loch Modan)
 Accept [QA279 Claws from the Deep].

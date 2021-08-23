@@ -3,12 +3,12 @@ Guidelime.registerGuide(
 
 [D Shiros 1-58 Speedrun for alliance (patch 2.3+)]
 [GA Alliance]
-[N 12-15 Darkshore]
-[NX 15-18 Loch Modan]
+[N 12-17 Darkshore and Bloodmyst Isle]
+[NX 17-22 Darkshore and Bloodmyst Isle]
 
 [O] *HEADS UP*: Save any *Bear Meat*, *Boar Ribs*, *Chunk of Boar Meat*, *Small Spider Leg*, *Clam Meat*, *Crawler Meat* and *Crawler Leg* for cooking.
 
--- Initial quest-state setup
+-- Darkshore: Initial quest-state setup
 Accept [QA3524 Washed Ashore].
 Turn in [QT6342 Flight to Auberdine]. Skip follow-up for now.
 Set hearthstone in [S Auberdine].
@@ -71,7 +71,60 @@ Hearth to [H Auberdine].
 In the moonwell, fill the Moonwell Water Tube to complete [QC4812 As Water Cascades].
 Turn in [QT730 Trouble In Darkshore?]. Skip follow-up for now.
 
--- Making the first round deep North
+-- To Bloodmyst Isle
+Take the [G XXX] boat to Azuremyst Isle.
+Get FP at [P Exodar][G68.3,63.4 The Exodar].
+[G42.4,5.5 Azuremyst Isle]
+
+-- Kessel's Crossing
+Accept [QA9624 A Favorite Treat].
+Accept [QA9634 Alien Predators].
+Accept [QA9663 The Kessel Run].
+Follow the road to [G54.171,61.116,20 Bloodmyst Isle] Blood Watch. You'll get dismounted at the first bridge. Once you dismount, abandon The Kessel Run. -- !Abandon 9663
+
+-- Blood Watch
+Accept [QA9629 Catch and Release].
+Accept [QA9693 What Argus Means to Me].
+Accept [QA9581 Learning from the Crystals].
+Turn in [QT9693 What Argus Means to Me].\\Accept [QA9694 Blood Watch] and [QA9641 Irradiated Crystal Shards].
+Accept [QA10063 Explorers' League. Is That Something For Gnomes?]
+Get FP [P Blood Watch].
+Accept [QA9648 Mac'Aree Mushroom Menagerie].
+Accept [QA9567 Know Thine Enemy].
+Accept [QA9646 WANTED: Deathclaw].
+
+-- Lost Fold + Shore
+On the way, kill animals to collect [QC9641 Irradiated Crystal Shards].
+Obtain [QC9648,2 Blood Mushroom][G53.23,75.40 Bloodmyst Isle].
+Obtain [QC9648,1 Aquatic Stinkhorn][G56.04,79.49 Bloodmyst Isle].
+Use the *Crystal Mining Pick* to complete [QC9581 Learning from the Crystals].
+Complete [QA9624 A Favorite Treat] and [QA9634 Alien Predators].
+[V]Vendor at [G63.054,87.251 Bloodmyst Isle] Little Azimi.
+Accept [QA9663 The Kessel Run].
+Turn in [QT9624 A Favorite Treat].
+Turn in [QT9634 Alien Predators].
+Ride as far west as the mount lets you, then on the beach use the *Murloc Tagger* to mark scouts in order to complete [QC9629 Catch and Release]. Also abandon The Kessel Run. -- !Abandon 9663
+Obtain [QC9648,4 Fel Cone Fungus][G42.26,79.75 Bloodmyst Isle].
+Kill Tzerak. From the Armor Plate, accept [QA9594 Signs of the Legion].
+Behind Tzerak, loot the glyph to complete [QC9567 Know Thine Enemy].
+Complete [QC9594 Signs of the Legion].
+
+-- Blood Watch
+Turn in [QT9629 Catch and Release].\\Accept [QA9574 Victims of Corruption].
+Turn in [QT9581 Learning from the Crystals].\\Accept [QA9620 The Missing Survey Team].
+Turn in [QT9594 Signs of the Legion] and [QT9567 Know Thine Enemy].\\Accept [QA9569 Containing the Threat].
+
+-- Loreth'Aran
+Turn in [QT9620 The Missing Survey Team].\\Accept [QA9628 Salvaging the Data].
+Kill nagas to complete [QC9628 Salvaging the Data] and obtain a [QC9648,3 Ruinous Polyspore][G42.26,79.75 Bloodmyst Isle].
+Complete [QC9694 Blood Watch].
+
+-- Blood Watch
+Turn in [QT9628 Salvaging the Data].\\Accept [QA9584 The Second Sample].
+Turn in [QT9648 Mac'Aree Mushroom Menagerie].
+Turn in [QT9694 Blood Watch].\\Accept [QA9779 Intercepting the Message].
+
+-- Darkshore: Making the first round deep North
 Finish [QC1001 Buzzbox 411] on the way north.
 Enter the [G38.24,29.40 Darkshore] boat's south-western window, and swim down to your left.
 Loot [QC982,1 Silver Dawning's Lockbox].
@@ -87,7 +140,6 @@ Jump into the waterfall and fill the sampling tube to complete [QC4762 The Cliff
 Turn in [QT965 The Tower of Althalaxx].\\Accept follow-up [QA966 The Tower of Althalaxx].
 Complete [QC966 The Tower of Althalaxx].
 Turn in [QT966 The Tower of Althalaxx]. Skip follow-up for now.
-If not level 15, grind to [XP15 level 15].
 Go to the cave above Cliffspring River and complete [QC947 Cave Mushrooms]. Note: Head right after entering the cave, chance for easy death cap.
 Turn in [QT957 Bashal'Aran].
 At the red crystal, turn in [QT4812 As Water Cascades].\\Accept [QA4813 The Fragments Within].
@@ -102,7 +154,6 @@ Turn in [QT4762 The Cliffspring River]. Skip follow-up for now.
 Turn in [QT947 Cave Mushrooms].
 Turn in [QT4813 The Fragments Within].
 Turn in [QT4723 Beached Sea Creature] and [QT4725 Beached Sea Turtle].
-
 
 -- Quest Chains of Darkshore:
 -- Buzzbox -> kill crawlers -> Auberdine -> kill Thresher -> NW coast -> Moonstalker Fang (together with rabid bears in north) -> Cliffspring River waterfall -> Grizzled Scalp in south (around lost master / expedition) -> Grove of the Ancients

@@ -6,8 +6,8 @@
 ## Notes: This is a speedrun route for alliance. Currently only supports Night Elf start. Very much a WIP, don't expect much yet.
 
 01 - Teldrassil.lua
-02 - Darkshore pt1.lua
-03 - Loch Modan.lua
+02 - Darkshore and Bloodmyst pt1.lua
+# 03 - Loch Modan.lua
 04 - Darkshore pt2.lua
 05 - Redridge Mountains.lua
 06 - Ashenvale pt1.lua
