@@ -123,8 +123,26 @@ Complete [QC9694 Blood Watch].
 Turn in [QT9628 Salvaging the Data].\\Accept [QA9584 The Second Sample].
 Turn in [QT9648 Mac'Aree Mushroom Menagerie].
 Turn in [QT9694 Blood Watch].\\Accept [QA9779 Intercepting the Message].
+XXX: Probably wanna do this later. Accept [QA9578 Searching for Galaen].
+
+-- South & North of Blood Watch
+Complete [QA9574 Victims of Corruption][G51.2,74.5 Bloodmyst Isle].
+XXX: Probably wanna do Searching for Galaen later. Lv.16-17 mobs.
+Complete [QC9584 The Second Sample] and [QC9779 Intercepting the Message][G45.6,47.7 Bloodmyst Isle].
+
+-- Blood Watch
+Turn in [QT9779 Intercepting the Message].\\Accept [QA9696 Translations...]
+Turn in [QT9696 Translations...]\\Accept [QA9698 Audience with the Prophet].
+Turn in [QT9584 The Second Sample].\\Accept [QA9585 The Final Sample].
+Turn in [QT9574 Victims of Corruption].
+
+-- Exodar
+Fly to [F The Exodar].
+[T][OC]*Optional:* Train skills & weapon proficiencies in Exodar.
+Turn in [QT9698 Audience with the Prophet].\\Accept [QA9699 Truth or Fiction].
 
 -- Darkshore: Making the first round deep North
+Hearth to [H Auberdine].
 Finish [QC1001 Buzzbox 411] on the way north.
 Enter the [G38.24,29.40 Darkshore] boat's south-western window, and swim down to your left.
 Loot [QC982,1 Silver Dawning's Lockbox].
