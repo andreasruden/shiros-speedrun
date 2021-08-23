@@ -79,7 +79,41 @@ Turn in [QT40 A Fishy Peril].\\Accept [QA35 Further Concerns].
 Turn in [QT60 Kobold Candles].\\Accept [QA61 Shipment to Stormwind].
 [T]Train skills.
 
-Turn in princess and goldtooth together.
+-- Eastvale Logging Camp
+Complete [QC88 Princess Must Die!]
+Turn in [QT35 Further Concerns].\\Accept [QA37 Find the Lost Guards], [QA46 Bounty on Murlocs] and [QA52 Protect the Frontier].
+Accept [QA83 Red Linen Goods].
+Accept [QA5545 A Bundle of Trouble].
+If you spot a [QC52,2 Young Forest Bear], kill it!
+Kill 8 [QC52,1 Prowler][G79.6,62.1 Elwynn Forest] and complete [QC5545 A Bundle of Trouble][G79.6,62.1 Elwynn Forest]. If you finish the wood before the prowlers, move on and take them on the way.
+Turn in [QC37 Find the Lost Guards].\\Accept [QA45 Discover Rolf's Fate].
+Kill your way through the murloc camp and turn in [QT45 Discover Rolf's Fate] (can be kind of difficult!)\\Accept [QA71 Report to Thomas].
+Finish up [QC46 Bounty on Murlocs].
+Complete [QC83 Red Linen Goods][G74.5,51.9 Elwynn Forest].
+Deathwarp to Eastvale Logging Camp.
+Turn in [QT5545 A Bundle of Trouble].
+Turn in [QT83 Red Linen Goods].
+If not finished, finish up [QC52 Protect the Frontier][G77.9,78.8 Elwynn Forest].
+Turn in [QT46 Bounty on Murlocs], [QT52 Protect the Frontier] and [QT71 Report to Thomas].\\Accept [QA39 Deliver Thomas' Report] and [QA109 Report to Gryan Stoutmantle].
+[OC]Time dying to when the quest finishes.
+Run into the mine to complete [QC76 The Jasperlode Mine].
+Deathwarp to Goldshire.
+Accept [1097 Elmore's Task]. XXX: Is this even worth accepting?
+Turn in [QT39 Deliver Thomas' Report]. Skip follow-up.
+Turn in [QT76 The Jasperlode Mine].\\Accept [QA239 Westbrook Garrison Needs Help!]
+
+-- Westbrook Garrison
+Turn in [QT87 Goldtooth].
+Turn in [QT88 Princess Must Die!]
+Accept [QA176 Wanted:  "Hogger"].
+Turn in [QT239 Westbrook Garrison Needs Help!]\\Accept [QA11 Riverpaw Gnoll Bounty].
+Hogger is still elite in TBC, if you're strong enough or can find someone nearby complete [QA176 Wanted:  "Hogger"]. Otherwise, abandon it.
+Complete [QC11 Riverpaw Gnoll Bounty].
+If you killed Hogger, deathwarp back to Goldshire and turn in [QT176 Wanted:  "Hogger"]. XXX: If we go on to Westfall, then is it even worth doing this? What's the xp/hr compared to the zone xp/hr? Do we need to go on to westfall to get Lv.12?
+Turn in [QT11 Riverpaw Gnoll Bounty]
+
+XXX: Cooking
+XXX: Route to ironforge then menethil
 
 ]], 'Shiros Speedrun')
 
