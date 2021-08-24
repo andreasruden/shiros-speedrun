@@ -110,6 +110,7 @@ If you obtained *Gold Pickup Schedule*, accept [QA123 The Collector]. Otherwise 
 Turn in [QT11 Riverpaw Gnoll Bounty].\\Accept [QA109 Report to Gryan Stoutmantle][G24.2,74.6 Elwynn Forest].
 
 -- Westfall
+[O]Save Chunk of Boar Meat and Small Egg for cooking.
 [A paladin]*Paladin*: You have to save 10 Linen Cloth for Lv.12.
 Turn in [QT184 Furlbrow's Deed].\\Accept [QA64 The Forgotten Heirloom].
 Accept [QA36 Westfall Stew] and [QA151 Poor Old Blanchy].
@@ -147,6 +148,7 @@ Turn in [QT12 The People's Militia].
 If you completed it, turn in [QT153 Red Leather Bandanas].
 
 -- Paladin
+XXX: Do we need the Goldshire breadcrumb?
 [A paladin]*Paladin*: Make sure you get Lv.12 for Redemption quest.
 [A paladin]*Paladin*: Fly to Stormwind.
 [A paladin]*Paladin*: [T]Train skills.
@@ -175,12 +177,25 @@ Accept [QA1097 Elmore's Task].
 
 -- Stormwind
 Turn in [QT1097 Elmore's Task].
-Accept [QA6661 Deeprun Rat Roundup].
-In the tram area, complete [QC6661 Deeprun Rat Roundup].
+Take [G63.7,8.4 Stormwind City] tram to IF.
+At IF side, accept [QA6661 Deeprun Rat Roundup].
+In the tram area, run close to rats and use the flute on them to complete [QC6661 Deeprun Rat Roundup].
 Turn in [QT6661 Deeprun Rat Roundup].
 
-XXX: Cooking
-XXX: Route to ironforge then menethil
+-- Ironforge
+Get FP in [P Ironforge].
+Learn Cooking and Spice Bread at [G60.0,36.4 Ironforge] Daryl.
+Below, there's a vendor. Cook Spice Bread to 35. Then use the rest of the materials you'ee gotten to cook up to skill 50, if you can.
+
+-- To Darkshore
+Exit IF and head west in Dun Morogh to [G30.51,34.57,30 Dun Morogh] here.
+[G31.029623,32.602357 Dun Morogh]
+[G31.462031,32.609915 Dun Morogh]
+[G31.565922,31.046783 Dun Morogh]
+[G32.890605,27.835369 Dun Morogh]
+Once it says The Great Sea, jump to your death.
+Spirit ress in Wetlands and get FP [P Menethil Harbor].
+Take the [G4.6,57.2 Wetlands] boat to Darkshore.
 
 ]], 'Shiros Speedrun')
 

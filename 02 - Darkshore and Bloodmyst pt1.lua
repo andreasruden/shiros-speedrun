@@ -72,7 +72,7 @@ In the moonwell, fill the Moonwell Water Tube to complete [QC4812 As Water Casca
 Turn in [QT730 Trouble In Darkshore?]. Skip follow-up for now.
 
 -- To Bloodmyst Isle
-Take the [G XXX] boat to Azuremyst Isle.
+Take the XXX boat to Azuremyst Isle.
 Get FP at [P Exodar][G68.3,63.4 The Exodar].
 [G42.4,5.5 Azuremyst Isle]
 
