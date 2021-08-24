@@ -9,11 +9,18 @@ Guidelime.registerGuide(
 [O] *HEADS UP*: Save any *Bear Meat*, *Boar Ribs*, *Chunk of Boar Meat*, *Small Spider Leg*, *Clam Meat*, *Crawler Meat* and *Crawler Leg* for cooking.
 
 -- Darkshore: Initial quest-state setup
-Accept [QA3524 Washed Ashore].
-Turn in [QT6342 Flight to Auberdine]. Skip follow-up for now.
-Set hearthstone in [S Auberdine].
-Accept [QA963 For Love Eternal].
-Accept [QA983 Buzzbox 827] in the room above the innkeeper.
+-- Non night elf
+[A human,dwarf,draenei]Accept [QA963 For Love Eternal].
+[A human,dwarf,draenei]Accept [QA983 Buzzbox 827] in the room above the innkeeper.
+[A human,dwarf,draenei]Set hearthstone in [S Auberdine].
+[A human,dwarf,draenei]Accept [QA3524 Washed Ashore].
+[A human,dwarf,draenei]Get FP in [P Auberdine].
+-- Night elf
+[A nightelf]Accept [QA3524 Washed Ashore].
+[A nightelf]Turn in [QT6342 Flight to Auberdine]. Skip follow-up for now.
+[A nightelf]Set hearthstone in [S Auberdine].
+[A nightelf]Accept [QA963 For Love Eternal].
+[A nightelf]Accept [QA983 Buzzbox 827] in the room above the innkeeper.
 If you have 6 *Darkshore Grouper*: Accept [QA1141 The Family and the Fishing Pole], and turn in [QT1141 The Family and the Fishing Pole]. Note: It has no follow-up, and we're assuming you skip it!
 Grind crawlers on the way to the next objective.[OC]
 Loot the big, dead dinosaur to complete [QC3524 Washed Ashore].
@@ -31,8 +38,7 @@ Accept [QA954 Bashal'Aran] and [QA958 Tools of the Highborne].
 If you don't have a full array of bags at this point, you should buy 6 slots from [G37.48,40.48 Darkshore] Dalmond.
 
 -- Round around Auberdine (Bashal'aran and Ameth'aran)
-[OC] Throughout Darkshore pt 1, kill all the level-appropriate mobs you come accross. And don't forget to skin them too!
-Turn in [QT954 Bashal'Aran].\\Accept follow-up [QA955 Bashal'Aran].
+Jump in the water and head east to turn in [QT954 Bashal'Aran].\\Accept follow-up [QA955 Bashal'Aran].
 Complete [QC955 Bashal'Aran].
 Turn in [QT955 Bashal'Aran].\\Accept follow-up [QA956 Bashal'Aran].
 Complete [QC956 Bashal'Aran].
@@ -58,21 +64,25 @@ Turn in [QT984 How Big a Threat?].\\Accept [QA985 How Big a Threat?] and [QA4761
 Accept [QA965 The Tower of Althalaxx] in the upper floor of the house.
 Accept [QA982 Deep Ocean, Vast Sea].
 Turn in [QT958 Tools of the Highborne] and [QT4761 Thundris Windweaver].\\Accept [QA4762 The Cliffspring River].
-Turn in [QT963 For Love Eternal].
-You should be level 14, if not grind to [XP14 level 14].
+[A human,dwarf,draenei]Turn in [QT4722 Beached Sea Turtle].
+[A nightelf]Turn in [QT963 For Love Eternal].
 Accept [QA6343 Return to Nessa].
-Turn in [QT4722 Beached Sea Turtle].
-Fly to [F Rut'theran Village].
+[A human,dwarf,draenei]Turn in [QT963 For Love Eternal].
+[A nightelf]Turn in [QT4722 Beached Sea Turtle].
+You should be level 14, if not grind to [XP14 level 14].
+[A nightelf]Fly to [F Rut'theran Village].
+[A human,dwarf,draenei]Take the [G33.2,40.2 Darkshore] boat to Darnassus.
+[A human,dwarf,draenei]Get FP in [P Rut'theran Village].
 Turn in [QT6343 Return to Nessa].
-[OC] Put all the cooking materials on the bank.
-*Outside* of the Temple of Moon in Darnassus, accept [QA730 Trouble In Darkshore?].
-[T] Learn *only essential* skills at your trainer. We need to start saving for mount!
+[OC]Put all the cooking materials on the bank.
+*Outside* of the Temple of the Moon in Darnassus, accept [QA730 Trouble In Darkshore?].
+[T]Learn *only essential* skills at your trainer. We need to start saving for mount!
 Hearth to [H Auberdine].
 In the moonwell, fill the Moonwell Water Tube to complete [QC4812 As Water Cascades].
 Turn in [QT730 Trouble In Darkshore?]. Skip follow-up for now.
 
 -- To Bloodmyst Isle
-Take the XXX boat to Azuremyst Isle.
+Take the [G31.1,41.2 Darkshore] boat to Azuremyst Isle.
 Get FP at [P Exodar][G68.3,63.4 The Exodar].
 [G42.4,5.5 Azuremyst Isle]
 
