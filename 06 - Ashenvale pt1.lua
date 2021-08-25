@@ -3,39 +3,37 @@ Guidelime.registerGuide(
 
 [D Shiros 1-58 Speedrun for alliance (patch 2.3+)]
 [GA Alliance]
-[N 22-25 Ashenvale]
-[NX 25-27 Wetlands]
+[N 22-24 Ashenvale]
+[NX 24-27 Wetlands]
 
 [O] *HEADS UP*: Save *Bear Meat*, *Boar Ribs*, *Clam Meat*, *Crawler Meat* and *Crawler Leg* for cooking.
 [OC] In patch 2.3 they made it so that starting at level 20, you will need less experience per level than in vanilla. This guide assumes we're at that patch's values.
 
 -- Finishing Darkshore
-Turn in [QT1132 Fiora Longears]. Skip follow-up unless you want it for completion. It has no reward at all.
+--Turn in [QT1132 Fiora Longears]. Skip follow-up unless you want it for completion. It has no reward at all.
 Accept [QA10752 Onward to Ashenvale].
-Turn in [QT3765 The Corruption Abroad].
+--Turn in [QT3765 The Corruption Abroad].
+Accept [QA1275 Researching the Corruption].
 Accept [QA993 A Lost Master].
 Run south and turn in [QT951 Mathystra Relics].
-XXX: Need to check that we have time to do Volcor on the way.
 Accept [QA5321 The Sleeper Has Awakened].
 Loot [CI13536,1 Horn of Awakening] next to where the druid slept. Use the item when he falls asleep.
-Avoid the road to not trigger mob spawns. Instead run through the forest to the southern cave and turn in [QT993 A Lost Master].
+If you failed it last time, complete [QC731 The Absent Minded Prospector].
+Turn in [QT993 A Lost Master].
 Accept [QA994 Escape Through Force], unless you really want the other reward, as it gives 1000 more xp.
 Complete [QC994 Escape Through Force].
-Run onward to [G45.9,90.34 Darkshore] Aynasha.
-Accept [QA5713 One Shot.  One Kill.]. XXX: This might be better skipped, it's lost 400 xp from being gray.
-Guard Anyasha and complete [QC5713 One Shot.  One Kill.].
+[OC]Anyasha's quest One Shot.  One Kill. is not worth doing at our level.
 Continue avoiding the roads and run south into [G44.97,94.34 Darkshore] Ashenvale.
 Then run all the way to [G26,37 Ashenvale] Maestra's Post.
 
 -- Maestra's Post
-Turn in [QT5713 One Shot.  One Kill.]
 Turn in [QT5321 The Sleeper Has Awakened].
 Turn in [QT967 The Tower of Althalaxx].\\Accept follow-up [QA970 The Tower of Althalaxx].
 Accept [QA1010 Bathran's Hair].
 Complete [QC970 The Tower of Althalaxx] (pretty bad drop rate).
 Complete [QC1010 Bathran's Hair].
-Turn in [QT970 The Tower of Althalaxx].\\Accept follow-up [QA973 The Tower of Althalaxx].
 Turn in [QT1010 Bathran's Hair].\\Accept [QA1020 Orendil's Cure].
+Turn in [QT970 The Tower of Althalaxx].\\Accept follow-up [QA973 The Tower of Althalaxx].
 
 -- Onward to Astranaar
 Turn in [QT945 Therylune's Escape].
@@ -43,7 +41,6 @@ Run to Astranaar and get the [F Astranaar] flightpoint. [G34.42,48.07 Ashenvale]
 Accept [QA1008 The Zoram Strand].
 Turn in [QT10752 Onward to Ashenvale].\\Accept [QA991 Raene's Cleansing] and [QA1054 Culling the Threat].
 Set hearthstone in [S Astranaar].
-Turn in [QT1020 Orendil's Cure].\\Accept [QA1033 Elune's Tear].
 
 -- Western Ashenvale + Zoram Strand
 Turn in [QT991 Raene's Cleansing].\\Accept follow-up [QA1023 Raene's Cleansing].
@@ -54,12 +51,14 @@ While doing the next objectives, also kill nagas for [QC1008 The Zoram Strand][O
 Loot the [G14.20,20.64 Ashenvale] statuette to complete [QC1007 The Ancient Statuette].
 Turn in [QT1007 The Ancient Statuette].\\Accept [QA1009 Ruuzel].
 Head over to the island and kill [QC1009 Ruuzel], who patrols around with an escort.
-Finish [QC1008 The Zoram Strand][G Ashenvale] on the way back to the turn in.
 Turn in [QT1009 Ruuzel].
-Hearth to [H Astranaar]. XXX: This seems like it might still be on cooldown. Should we put stonetalon first? Or farm a bit extra at Tower quest? E.g. farm until HS is on 30 mins
+Finish [QC1008 The Zoram Strand][G43.96,35.37 Ashenvale] on the way to BFD.
+Jump down and head in and complete [QC1275 Researching the Corruption].
+Hearth to [H Astranaar].
 Turn in [QT1023 Raene's Cleansing].\\Accept [QA1025 An Aggressive Defense] and [QA1024 Raene's Cleansing].
-Turn in [QT1008 The Zoram Strand].\\Accept [QA1134 Pridewings of Stonetalon].
+Turn in [QT1008 The Zoram Strand].
 [OC] The biggest building has arrows (right from entering) and repair (left).
+Turn in [QT1020 Orendil's Cure].\\Accept [QA1033 Elune's Tear].
 
 -- Around Astranaar
 [G41.3,50.97,25 Ashenvale]
@@ -74,6 +73,7 @@ Complete [QC1033 Elune's Tear].
 Turn in [QT1024 Raene's Cleansing].\\Accept follow-up [QA1026 Raene's Cleansing].
 Complete [QC1025 An Aggressive Defense].
 Accept [QA1016 Elemental Bracers].
+[OC]For the next quest you can just stay on the island. Or, if you prefer, you could use an Elixir of Water Breathing to go into the water.
 Kill water elementals to collect 5 [CI12220,5 Intact Elemental Bracers][O].
 Once you've got 5, use the Divining Scroll to complete [QC1016 Elemental Bracers].
 Turn in [QT1016 Elemental Bracers].\\Accept [QA1017 Mage Summoner].
@@ -82,6 +82,8 @@ Turn in [QT1025 An Aggressive Defense].
 
 -- Stonetalon Mountains
 Complete [QC1034 The Ruins of Stardust].
+Climb up [G31.249374,64.800870 Ashenvale] here.
+[G29.988849,63.536156 Ashenvale]
 -- Grind your way to [G42.28,71.06 Ashenvale] Talondeep Path. Run through to Stonetalon Mountains.
 -- Kill pridewings you run past for progress on [QC1134 Pridewings of Stonetalon][O].
 -- Accept [QA1093 Super Reaper 6000].
@@ -104,7 +106,6 @@ Complete [QC1034 The Ruins of Stardust].
 -- Fly to [F Astranaar].
 
 -- Finishing up pt.1 of Ashenvale
-Turn in [QT1034 The Ruins of Stardust]. Skip follow-up for now.
 -- Turn in [QT1134 Pridewings of Stonetalon]. Skip follow-up for now.
 Complete [QC973 The Tower of Althalaxx].
 Run north to the furbolg camp and complete [QC1054 Culling the Threat].
@@ -118,11 +119,15 @@ Accept [QA976 Supplies to Auberdine] if you're a strong solo class, otherwise sk
 Complete [QC976 Supplies to Auberdine].
 Turn in [QT976 Supplies to Auberdine].
 Run back to Astranaar and turn in [QT1054 Culling the Threat].
-If not level 25, grind to [XP25].
+Turn in [QT1034 The Ruins of Stardust]. Skip follow-up for now.
+If not already turned in, fly to Auberdine and turn in [QT731 The Absent Minded Prospector].\\Accept follow-up [QA741 The Absent Minded Prospector].
+Fly to [F Rut'theran Village].
+[O]While in Darnassus, [T] train skills.
+Turn in [QT741 The Absent Minded Prospector].\\Accept follow-up [QA942 The Absent Minded Prospector].
 Fly to [F Auberdine].
+Turn in [QT1275 Researching the Corruption].
 Turn in [QT994 Escape Through Force]. Ignore the Trek To Ashenvale quest.
 *Cooking*: From the Innkeeper buy as many *Refreshing Spring Water* as you have Clam Meat.
-[OC] Optional: can [T] learn skills in Darnassus if you want to save a bit of money or if Ironforge does not have your trainer.
-Take the boat to Menethil Harbor. Cook bear meat, then clam meat while waiting. Make some bandages on the boat.
+Take the [G32.42,43.78 Ashenvale] boat to Menethil Harbor. Cook bear meat, then clam meat while waiting. Make some bandages on the boat.
 
 ]], 'Shiros Speedrun')

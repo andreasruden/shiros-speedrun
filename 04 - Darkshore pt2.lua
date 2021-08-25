@@ -3,7 +3,7 @@ Guidelime.registerGuide(
 
 [D Shiros 1-58 Speedrun for alliance (patch 2.3+)]
 [GA Alliance]
-[N 17-22 Darkshore and Bloodmyst]
+[N 17-22 Darkshore and Bloodmyst Isle]
 [NX 22-25 Ashenvale]
 
 [O] *HEADS UP*: Save *Bear Meat*, *Boar Ribs*, *Chunk of Boar Meat*, *Small Spider Leg*, *Clam Meat*, *Crawler Meat* and *Crawler Claw* for cooking.
@@ -19,7 +19,7 @@ Accept [QA9649 Ysera's Tears].
 Accept [QA9580 The Bear Necessities] and [QA9643 Constrictor Vines].
 Accept [QA9569 Containing the Threat].
 Accept [QA9646 WANTED: Deathclaw].
-Set hearthstone in [S Blood Watch].
+Set hearthstone in [S Blood Watch][G55.8,59.8 Bloodmyst Isle].
 Accept [QA9578 Searching for Galaen].
 Accept [QA9669 The Missing Expedition].
 Accept [QA9585 The Final Sample] and [QA10064 Talk to the Hand].
@@ -27,15 +27,15 @@ Turn in [QT9699 Truth or Fiction].\\Accept [QA9700 I Shoot Magic Into the Darkne
 Accept [QA10063 Explorers' League, Is That Something for Gnomes?]
 
 -- Bloodmyst Isle: North
-On the way, kill Constrictors and Elder Bears for progress on [QC9580 The Bear Necessities][O] and [QC9643 Constrictor Vines][O].
 Accept [QA9687 Restoring Sanctity].
-Complete [QC9687 Restoring Sanctity].
+Complete [QC9687 Restoring Sanctity][G56.8,34.3 Bloodmyst Isle].
 Complete [QC9700 I Shoot Magic Into the Darkness].
 Hearth to [H Blood Watch].
 Turn in [QT9700 I Shoot Magic Into the Darkness].
 Accept [QA9703 The Cryo-Core].
 
 -- The Cryo Core
+On the way, kill Constrictors and Elder Bears for progress on [QC9580 The Bear Necessities][O] and [QC9643 Constrictor Vines][O].
 Turn in [QT9578 Searching for Galaen].\\Accept [QA9579 Galaen's Fate].
 From the book next to Galaen's corpse, accept [QA9706 Galaen's Journal - The Fate of Vindicator Saruan].
 Complete [QC9579 Galaen's Fate].
@@ -51,8 +51,8 @@ Accept [QA9748 Don't Drink the Water].
 Complete [QC9585 The Final Sample].
 Finish up [QC9569 Containing the Threat].
 In the waterfall, use the *Water Sample Flask* to complete [QC9748 Don't Drink the Water].
-Turn in [QT10063 Explorers' League, Is That Something for Gnomes?]\\Accept [QA9548 Pilfered Equipment] and [QA9549 Artifacts of the Blacksilt].
 Complete [QC9646 WANTED: Deathclaw].
+Turn in [QT10063 Explorers' League, Is That Something for Gnomes?]\\Accept [QA9548 Pilfered Equipment] and [QA9549 Artifacts of the Blacksilt].
 Complete [QC9548 Pilfered Equipment] and [QC9549 Artifacts of the Blacksilt] along the beach.
 Turn in [QT9548 Pilfered Equipment] and [QT9549 Artifacts of the Blacksilt].
 From the *Weathered Treasure Map*, accept [QA9550 A Map to Where?]
@@ -67,17 +67,16 @@ Turn in [QT9585 The Final Sample] and [QT9646 WANTED: Deathclaw].
 Turn in [QT9557 Deciphering the Book].\\Accept [QA9561 Nolkai's Words].
 
 -- Bloodmyst Isle: West
-On the way, work on [QC9647 Culling the Flutterers][O].
+On the way, *aggressively* work on [QC9647 Culling the Flutterers][O] (really shitty drop rate).
 [OC]Keep an eye out for Matis and if you spot him finish the quest now instead of later (use the *Flare Gun* on him and kill him).
 Accept [QA10066 Oh, the Tangled Webs They Weave] and [QA10067 Fouled Water Spirits].
 Turn in [QT10064 Talk to the Hand].\\Accept [QA10065 Cutting a Path].
 Accept [QA9741 Critters of the Void].
-Accept [QA9670 They're Alive! Maybe...]
-Complete [QC9647 Culling the Flutterers][G35,44 Bloodmyst Isle].
 Complete [QC10067 Fouled Water Spirits][G29,37 Bloodmyst Isle].
+Accept [QA9670 They're Alive! Maybe...]
 Follow this [G21.95,36.81 Bloodmyst Isle] path up.
 You'll get some progress for [QC10065 Cutting a Path][O] during the next steps.
-Complete [QC9669 The Missing Expedition] and [QC9670 They're Alive! Maybe...]
+Follow the path up and complete [QC9669 The Missing Expedition][G18.1,37.8 Bloodmyst Isle] and [QC9670 They're Alive! Maybe...]
 Turn in [QT9670 They're Alive! Maybe...]
 Complete [QC9746 Limits of Physical Exhaustion][G24.4,50.9 Bloodmyst Isle].
 Follow the road towards Blood Watch. Look for Matis. Get close to him then use the *Flare Gun* to call in help. Complete [QC9711 Matis the Cruel].
@@ -85,16 +84,17 @@ Follow the road towards Blood Watch. Look for Matis. Get close to him then use t
 -- Blood Watch
 Turn in [QT9711 Matis the Cruel].
 Turn in [QT9746 Limits of Physical Exhaustion].\\Accept [QA9740 The Sun Gate].
-Turn in [QT9647 Culling the Flutterers].
 Turn in [QT9669 The Missing Expedition].
 
 -- West again
+Complete [QC9647 Culling the Flutterers][G39.3,50.9 Bloodmyst Isle].
 Complete [QC10065 Cutting a Path][G33,55 Bloodmyst Isle] and [QC10066 Oh, the Tangled Webs They Weave][G33,55 Bloodmyst Isle].
 Turn in [QT10067 Fouled Water Spirits].
 Turn in [QT10065 Cutting a Path] and [QT10066 Oh, the Tangled Webs They Weave].
 In the lake, complete [QC9740 The Sun Gate] and [QC9741 Critters of the Void].
 Hearth to [H Blood Watch].
 Turn in [QT9740 The Sun Gate] and [QT9741 Critters of the Void].
+Turn in [QT9647 Culling the Flutterers].
 
 -- Bloodmyst Isle: Wyrmscar Island
 Turn in [QT9561 Nolkai's Words].
@@ -109,7 +109,7 @@ Turn in [QT9649 Ysera's Tears].
 
 -- Exodar
 Fly to [F The Exodar].
-[T] train skills in Exodar.
+[T] Train skills in Exodar.
 Take the [G29.3,28.2 Azuremyst Isle] boat to Darkshore.
 Set hearthstone in [S Auberdine].
 

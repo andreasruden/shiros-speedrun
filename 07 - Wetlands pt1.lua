@@ -3,13 +3,12 @@ Guidelime.registerGuide(
 
 [D Shiros 1-58 Speedrun for alliance (patch 2.3+)]
 [GA Alliance]
-[N 25-27 Wetlands]
+[N 24-27 Wetlands]
 [NX 27-29 Wetlands]
 
 *HEADS UP*: Save *Bear Meat*, *Boar Ribs*, *Clam Meat*, *Crawler Meat*, *Crawler Leg* and *Raptor Egg* for cooking.
 
 --- To Ironforge
-Take the boat to Menethil Harbor.
 [A nightelf,draenei]When arriving in Menethil, accept the flight point [P Menethil Harbor].
 Accept [QA484 Young Crocolisk Skins].
 Accept [QA279 Claws from the Deep].
@@ -18,7 +17,6 @@ In the menethil harbor inn's upper floor, turn in [QT942 The Absent Minded Prosp
 Set hearthstone in [S Menethil Harbor].
 Buy a [CI2594,1 Flagon of Dwarven Honeymead] from the inkeeper.
 Turn in [QT288 The Third Fleet].\\Accept [QA289 The Cursed Crew].
-Accept [QA1132 Fiora Longears].
 [A dwarf,gnome,human] Fly to [F Ironforge].
 [A nightelf,draenei]Jump from the [G5.86,64.16 Wetlands] pier at this point.
 [A nightelf,draenei]Swim to the [G3.28,75.93 Wetlands] coast. (This avoids the murlocs)
@@ -33,23 +31,55 @@ Accept [QA1132 Fiora Longears].
 -- Enter the Herbalism building [G53.56,55.45 Ironforge].
 -- Learn *Heavy Linen Bandage* from Nissa at the second level.
 [A nightelf,draenei]Accept the flight point in [P Ironforge].
-Take the XXX tram to Stormwind. XXX: Get FP sometime.
+Take the [G72,50 Ironforge] tram to Stormwind.
 
 -- Stormwind
+[T]Train skills while in SW if you couldn't in Darnassus.
 Learn Skinning (Expert) from [G39.894,32.547,1 Stormwind City] Balthus.
 -- Turn in [QT1072 An Old Colleague]. Skip follow-up.
 Take the tram to stormwind. If First Aid is not at 115 already, make *Wool Bandages* to reach 115.
 If your FA skill is 115, or you can reach that, learn *Heavy Wool Bandage* from [G42.9525,26.2757 Stormwind City] Shaina in the Cathedral.
+From the Canals, go to [G64.2,60.6 Stormwind City] Felicia Gump's shop and purchase [CI2665,1 Stormwind Seasoning Herbs].
 If you are a class without movement speed increase (priest, warrior, warlock, mage, paladin; 15% cuts it very close), you should buy a [CI2459,1 Swiftness Potion] from the [G54.1879,59.0522 Stormwind City] AH for an upcoming quest. (Or skip the quest)
 -- Turn in [QT1075 A Scroll from Mauren] and [QT1078 Retrieval for Mauren]. Skip follow-up.
+If you're Lv.25, in the cellar of The Slaughtered Lamb, accept [QA335 A Noble Brew]. Otherwise skip this step.
+[A nightelf,draenei]Get the FP in [P Stormwind].
+
+-- Duskwood
+[A human]Fly to [F Sentinel Hill].
+Head to Duskwood and accept [QA226 Wolves at Our Heels]. (Do *not* accept Sven's Revenge.)
+[A nightelf,draenei,dwarf,gnome]Run west into Westfall and get Sentinell Hill FP [P Sentinel Hill].
+If you spot wolves, kill them for [QC226 Wolves at Our Heels][O].
+Accept [QA245 Eight-Legged Menaces].
+In Darkshire, accept [QA163 Raven Hill], [QA165 The Hermit] and [QA164 Deliveries to Sven].
+Accept the Darkshire FP [P Darkshire].
+Buy a [CI4371,1 Bronze Tube] from [G78.05,48.28 Duskwood] Herble. (If he's out you're willing to use AH, you can buy one from AH later)
+If you have a Bronze Tube. Accept [QA174 Look To The Stars] and then turn in [QT174 Look To The Stars]. Skip follow up.
+[OC]Run north out of Darkshire, then slowly grind your way west along the river bank, trying to complete [QC226 Wolves at Our Heels][O] and making progress on [QC245 Eight-Legged Menaces][O], as well as gathering all 10 [CI1015,10 Lean Wolf Flank][O] and some [CI2251,6 Goey Spider Leg][O].
+Turn in [QT165 The Hermit].\\Accept [QA148 Supplies from Darkshire].
+Finish up [QC226 Wolves at Our Heels].
+Make sure you have 10 [CI1015,10 Lean Wolf Flank].
+Turn in [QT226 Wolves at Our Heels].
+Turn in [QT164 Deliveries to Sven].\\Accept [QA95 Sven's Revenge].
+Finish up [QC245 Eight-Legged Menaces] on the way to Raven Hill. [G11.7,52.7 Duskwood].
+Make sure you have 6 [CI2251,6 Goey Spider Leg].
+Turn in [QT163 Raven Hill].\\Accept [QA5 Jitters' Growling Gut].
+Turn in [QT245 Eight-Legged Menaces].
+Run south into STV and get the flight-point at [P Rebel Camp].
+Fly to [F Darkshire].
+Turn in [QT148 Supplies from Darkshire]. Skip follow-up.
+Turn in [QT5 Jitters' Growling Gut] to the chef.\\Accept [QA93 Dusky Crab Cakes] and [QA90 Seasoned Wolf Kabobs].
+Turn in [QT90 Seasoned Wolf Kabobs] and [QT93 Dusky Crab Cakes]. Skip follow-up.
+If not Lv.25, grind to [XP25 level 25].
+If you don't have A Noble Brew, fly to [F Stormwind]. Otherwise skip this step.
 In the cellar of The Slaughtered Lamb, accept [QA335 A Noble Brew].
-Hearth back to [H Menethil Harbor].
 
 -- Accepting quests
+Hearth back to [H Menethil Harbor].
 [R][V] Repair/vendor/arrows at [G11.29,58.47 Wetlands] Naela.
 Accept [QA470 Digging Through the Ooze].
-Accept [QA473 Report to Captain Stoutfist]. XXX: This is only available on retail if you've done algaz gauntlet. Follow up war banners is always available.
-Turn in [QT473 Report to Captain Stoutfist].\\Accept [QA464 War Banners].
+Accept [QA1132 Fiora Longears].
+Accept [QA464 War Banners].
 Accept [QA305 In Search of The Excavation Team].
 
 -- First round
