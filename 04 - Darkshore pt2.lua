@@ -3,7 +3,7 @@ Guidelime.registerGuide(
 
 [D Shiros 1-58 Speedrun for alliance (patch 2.3+)]
 [GA Alliance]
-[N 18-22 Darkshore and Bloodmyst]
+[N 17-22 Darkshore and Bloodmyst]
 [NX 22-25 Ashenvale]
 
 [O] *HEADS UP*: Save *Bear Meat*, *Boar Ribs*, *Chunk of Boar Meat*, *Small Spider Leg*, *Clam Meat*, *Crawler Meat* and *Crawler Claw* for cooking.
@@ -12,8 +12,108 @@ Guidelime.registerGuide(
 -- Follow the road until [G41.19,44.19].
 -- Then head east through the trees and jump down. [G39.97,43.88]
 
--- Making the first southern round
-[OC] *Optional:* Fly to darnassus and grab [T] Lv.16 & 18 skills. (Only what is essential)
+-- Bloodmyst Isle
+Take the [G31.1,41.2 Darkshore] boat to Azuremyst Isle.
+Fly to [F Blood Watch].
+Accept [QA9649 Ysera's Tears].
+Accept [QA9580 The Bear Necessities] and [QA9643 Constrictor Vines].
+Accept [QA9569 Containing the Threat].
+Accept [QA9646 WANTED: Deathclaw].
+Set hearthstone in [S Blood Watch].
+Accept [QA9578 Searching for Galaen].
+Accept [QA9669 The Missing Expedition].
+Accept [QA9585 The Final Sample] and [QA10064 Talk to the Hand].
+Turn in [QT9699 Truth or Fiction].\\Accept [QA9700 I Shoot Magic Into the Darkness].
+Accept [QA10063 Explorers' League, Is That Something for Gnomes?]
+
+-- Bloodmyst Isle: North
+On the way, kill Constrictors and Elder Bears for progress on [QC9580 The Bear Necessities][O] and [QC9643 Constrictor Vines][O].
+Accept [QA9687 Restoring Sanctity].
+Complete [QC9687 Restoring Sanctity].
+Complete [QC9700 I Shoot Magic Into the Darkness].
+Hearth to [H Blood Watch].
+Turn in [QT9700 I Shoot Magic Into the Darkness].
+Accept [QA9703 The Cryo-Core].
+
+-- The Cryo Core
+Turn in [QT9578 Searching for Galaen].\\Accept [QA9579 Galaen's Fate].
+From the book next to Galaen's corpse, accept [QA9706 Galaen's Journal - The Fate of Vindicator Saruan].
+Complete [QC9579 Galaen's Fate].
+Finish up [QC9703 The Cryo-Core].
+
+-- Blood Watch
+Turn in [QT9579 Galaen's Fate].
+Turn in [QT9703 The Cryo-Core] and [QT9706 Galaen's Journal - The Fate of Vindicator Saruan].\\Accept [QA9711 Matis the Cruel].
+Accept [QA9748 Don't Drink the Water].
+
+-- Bloodmyst Isle: North again
+[G45.85,34.97,25 Bloodmyst Isle]
+Complete [QC9585 The Final Sample].
+Finish up [QC9569 Containing the Threat].
+In the waterfall, use the *Water Sample Flask* to complete [QC9748 Don't Drink the Water].
+Turn in [QT10063 Explorers' League, Is That Something for Gnomes?]\\Accept [QA9548 Pilfered Equipment] and [QA9549 Artifacts of the Blacksilt].
+Complete [QC9646 WANTED: Deathclaw].
+Complete [QC9548 Pilfered Equipment] and [QC9549 Artifacts of the Blacksilt] along the beach.
+Turn in [QT9548 Pilfered Equipment] and [QT9549 Artifacts of the Blacksilt].
+From the *Weathered Treasure Map*, accept [QA9550 A Map to Where?]
+Finish up [QC9580 The Bear Necessities][G46,36 Bloodmyst Isle] and [QC9643 Constrictor Vines][G46,36 Bloodmyst Isle].
+
+-- Blood Watch + outside of Blood Watch
+Turn in [QT9550 A Map to Where?]\\Accept [QA9557 Deciphering the Book].
+Turn in [QT9748 Don't Drink the Water].\\Accept [QA9746 Limits of Physical Exhaustion].
+Turn in [QT9580 The Bear Necessities] and [QT9643 Constrictor Vines].\\Accept [QA9647 Culling the Flutterers].
+Turn in [QT9569 Containing the Threat].
+Turn in [QT9585 The Final Sample] and [QT9646 WANTED: Deathclaw].
+Turn in [QT9557 Deciphering the Book].\\Accept [QA9561 Nolkai's Words].
+
+-- Bloodmyst Isle: West
+On the way, work on [QC9647 Culling the Flutterers][O].
+[OC]Keep an eye out for Matis and if you spot him finish the quest now instead of later (use the *Flare Gun* on him and kill him).
+Accept [QA10066 Oh, the Tangled Webs They Weave] and [QA10067 Fouled Water Spirits].
+Turn in [QT10064 Talk to the Hand].\\Accept [QA10065 Cutting a Path].
+Accept [QA9741 Critters of the Void].
+Accept [QA9670 They're Alive! Maybe...]
+Complete [QC9647 Culling the Flutterers][G35,44 Bloodmyst Isle].
+Complete [QC10067 Fouled Water Spirits][G29,37 Bloodmyst Isle].
+Follow this [G21.95,36.81 Bloodmyst Isle] path up.
+You'll get some progress for [QC10065 Cutting a Path][O] during the next steps.
+Complete [QC9669 The Missing Expedition] and [QC9670 They're Alive! Maybe...]
+Turn in [QT9670 They're Alive! Maybe...]
+Complete [QC9746 Limits of Physical Exhaustion][G24.4,50.9 Bloodmyst Isle].
+Follow the road towards Blood Watch. Look for Matis. Get close to him then use the *Flare Gun* to call in help. Complete [QC9711 Matis the Cruel].
+
+-- Blood Watch
+Turn in [QT9711 Matis the Cruel].
+Turn in [QT9746 Limits of Physical Exhaustion].\\Accept [QA9740 The Sun Gate].
+Turn in [QT9647 Culling the Flutterers].
+Turn in [QT9669 The Missing Expedition].
+
+-- West again
+Complete [QC10065 Cutting a Path][G33,55 Bloodmyst Isle] and [QC10066 Oh, the Tangled Webs They Weave][G33,55 Bloodmyst Isle].
+Turn in [QT10067 Fouled Water Spirits].
+Turn in [QT10065 Cutting a Path] and [QT10066 Oh, the Tangled Webs They Weave].
+In the lake, complete [QC9740 The Sun Gate] and [QC9741 Critters of the Void].
+Hearth to [H Blood Watch].
+Turn in [QT9740 The Sun Gate] and [QT9741 Critters of the Void].
+
+-- Bloodmyst Isle: Wyrmscar Island
+Turn in [QT9561 Nolkai's Words].
+During the Wyrmscar Island quests, keep an eye out for mushrooms for [QC9649 Ysera's Tears][O].
+Turn in [QT9687 Restoring Sanctity].\\Accept [QA9688 Into the Dream].
+Complete [QC9688 Into the Dream].
+Turn in [QT9688 Into the Dream].\\Accept [QA9689 Razormaw].
+The next quest involves fighting an elite mob that has a fear and flame breath (hits for 100) and he melees for (50). His health is roughly 1,000. If you think you can do that, follow the path up the mountain, clear around the bonfire and then interact with it. Kill Razormaw to complete [QC9689 Razormaw].
+Finish up [QC9649 Ysera's Tears].
+Turn in [QT9689 Razormaw].
+Turn in [QT9649 Ysera's Tears].
+
+-- Exodar
+Fly to [F The Exodar].
+[T] train skills in Exodar.
+Take the [G29.3,28.2 Azuremyst Isle] boat to Darkshore.
+Set hearthstone in [S Auberdine].
+
+-- Darkshore: Making the first southern round
 Accept [QA4740 WANTED: Murkdeep!]
 Accept [QA948 Onu].
 Accept [QA729 The Absent Minded Prospector].
@@ -22,7 +122,7 @@ Accept [QA2139 Tharnariun's Hope].
 Accept [QA986 A Lost Master].
 Accept [QA4728 Beached Sea Creature].
 Kill murlocs [G36.49,76.67 Darkshore] here to trigger the Murkdeep event.
-[OC] There will be 3 waves: 3xLv.13 murlocs, 2xLv.15 murlocs, then Murkdeep (Lv.19) + add (Lv.15).
+[OC]There will be 3 waves: 3xLv.13ish murlocs, 2xLv.15ish murlocs, then Murkdeep (Lv.19) + add (Lv.17). If you stand at a distance from the camp you can eat/drink in between waves.
 Complete [QC4740 WANTED: Murkdeep!].
 During the next steps, kill any Moonstalker sire/matriarchs or Grizzled thistle bear you encounter, for [QC986 A Lost Master][O] and [QC1003 Buzzbox 525][O].
 Turn in [QT952 Grove of the Ancients] and [QT948 Onu].\\Accept [QA944 The Master's Glaive].
@@ -32,8 +132,7 @@ Turn in [QT944 The Master's Glaive].\\Accept [QA949 The Twilight Camp].
 Turn in [QT949 The Twilight Camp].\\Accept [QA950 Return to Onu].
 Accept [QA945 Therylune's Escape].
 Complete [QC945 Therylune's Escape].
-[OC] If there are respwns in the Twilight Camp, murder them as well on the way to the next objective. If the book still doesn't drop, move on.
-[OC] This next escort quest really sucks, so read these tips carefully before accepting the quest. First of, always let Remtravel aggro, or he will ignore you fighting something and run ahead. But after he aggros, you need to quickly pull aggro because he's squishy. There are 3 mob spawn points. First one is when he walks up the small wooden ramp, single spawn that aggros you for some reason. Then after he searches the tent, 2 more mobs spawn. The last spawn is after he's done his route and is on the way back. On the "hill" to the left of the second wooden ramp (36,86) there will spawn one caster + one melee mob. The caster hits *very* hard, so immediately pull aggro on it. Oh, and lastly, some of the stone guys in this area respawn very quickly (especially the guys around the second ramp). Good luck :-). If you fail, respawn time is like 5 minutes, so grind some Grizzled Thistle Bear NW of quest NPC while waiting.
+[OC]This next escort quest really sucks, so read these tips carefully before accepting the quest. First of, always let Remtravel aggro, or he will ignore you fighting something and run ahead. But after he aggros, you need to quickly pull aggro because he's squishy. There are 3 mob spawn points. First one is when he walks up the small wooden ramp, single spawn that aggros you for some reason. Then after he searches the tent, 2 more mobs spawn. The last spawn is after he's done his route and is on the way back. On the "hill" to the left of the second wooden ramp (36,86) there will spawn one caster + one melee mob. The caster hits *very* hard, so immediately pull aggro on it. Oh, and lastly, some of the stone guys in this area respawn very quickly (especially the guys around the second ramp). Good luck :-). If you fail, respawn time is like 5 minutes, so grind some Grizzled Thistle Bear NW of quest NPC while waiting.
 Turn in [QT729 The Absent Minded Prospector].
 Accept [QA731 The Absent Minded Prospector].
 Complete [QC731 The Absent Minded Prospector].
@@ -44,7 +143,7 @@ Accept [QA4730 Beached Sea Creature].
 Accept [QA4731 Beached Sea Turtle].
 Accept [QA4732 Beached Sea Turtle].
 Accept [QA4733 Beached Sea Creature].
-[OC] If hearthstone is still on CD, grind for the Book of Powers at the twilight camp and A Lost Master.
+[OC]If hearthstone is on CD, grind for the Book of Powers at the twilight camp and A Lost Master.
 Hearth to [H Auberdine].
 Turn in [QT4728 Beached Sea Creature], [QT4730 Beached Sea Creature], [QT4731 Beached Sea Turtle], [QT4732 Beached Sea Turtle] and [QT4733 Beached Sea Creature].
 Turn in [QT4740 WANTED: Murkdeep!]
@@ -55,7 +154,7 @@ Fill the *Empty Cleansing Bowl* to get [CI12347 Filled Cleansing Bowl].
 Loot [CI12342,1 Blackwood Grain Sample] at the barrel. [G50.64,34.95 Darkshore]
 Loot [CI12343,1 Blackwood Nut Sample] at the barrel. [G51.83,33.48 Darkshore]
 Kill your way through the camp and loot [CI12341,1 Blackwood Fruit Sample] at the barrel. [G52.86,33.42 Darkshore]
-Clear out the camp, then use the *Filled Cleansing Bowl* at the campfire. [G52.4,33.4 Darkshore]
+Use the *Filled Cleansing Bowl* at the campfire. [G52.4,33.4 Darkshore]
 Some friendly furbolgs (that do nothing) and Xabraxxis, level 19 satyr, will spawn. After killing him loot the talisman *off the ground* to complete [QC4763 The Blackwood Corrupted].
 Complete [QC2139 Tharnariun's Hope].
 Accept [QA967 The Tower of Althalaxx].
