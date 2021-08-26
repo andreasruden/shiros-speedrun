@@ -111,7 +111,6 @@ Interact with the [G28.78,30.77 Duskwood] grave and use [QT254 Digging Through t
 Interact with the grave, kill the summon and get the heart to complete [QC253 Bride of the Embalmer].
 If you have not found the book yet, you could grind mobs around Raven Hill to obtain [CI2794,1 An Old History Book]. You could also skip this step, there's a bit of killing remaining in the zone.
 Complete [QC1244 The Missing Diplomat].
-From An Old History Book, accept [QA337 An Old History Book].
 [OC] Run back to Darkshire, then follow the road north.
 Run up to the Manor [G75.8,40.4 Duskwood] here.
 Loot [QC335,1 Tear of Tilloa].
@@ -121,14 +120,17 @@ Turn in [QT253 Bride of the Embalmer].
 Turn in [QT98 The Legend of Stalvan].
 If you have not found the book yet, you could grind Nightbane just next to Darkshire to obtain [CI2794,1 An Old History Book]. Or just skip this questline.
 Fly to [F Stormwind].
+[O][T]Can learn Lv.30 skills while in Stormwind.
 Turn in [QT1245 The Missing Diplomat].\\Accept follow-up [QA1246 The Missing Diplomat].
 Turn in [QT335 A Noble Brew].\\Accept follow-up [QA336 A Noble Brew].
 Turn in [QT1246 The Missing Diplomat].\\Accept follow-up [QA1447 The Missing Diplomat].
 Complete [QC1447 The Missing Diplomat].
 Turn in [QT1447 The Missing Diplomat].\\Accept follow-up [QA1247 The Missing Diplomat].
 Turn in [QT336 A Noble Brew].
+From An Old History Book, accept [QA337 An Old History Book].
 Turn in [QT337 An Old History Book].\\Accept [QA538 Southshore].
 Turn in [QT1247 The Missing Diplomat].\\Accept follow-up [QA1248 The Missing Diplomat].
+[O]Might be a good idea, if you have gold from previous characters, to get a mount. Next segment has a large amount of running.
 Hearthstone to [H Menethil Harbor].
 
 ]], 'Shiros Speedrun')

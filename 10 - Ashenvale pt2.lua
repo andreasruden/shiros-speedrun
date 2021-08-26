@@ -6,12 +6,6 @@ Guidelime.registerGuide(
 [N 31-32 Ashenvale]
 [NX 32-33 Hillsbrad Foothills]
 
--- Menethil Harbor: Finishing up weird quests
-Turn in [QT270 The Doomed Fleet].\\Accept [QA321 Lightforge Iron].
-Turn in [QT321 Lightforge Iron].\\Accept [QA324 The Lost Ingots].
-Complete [QC324 The Lost Ingots]. [G12,64 Wetlands]
-Turn in [QT324 The Lost Ingots].\\Accept [QA322 Blessed Arm].
-
 -- Back to Ashenvale
 Take the [G4.6,57.2 Wetlands] northern boat to Darkshore. Cook/first aid while waiting.
 Accept [QA1135 Highperch Venom].

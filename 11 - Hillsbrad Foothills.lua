@@ -61,25 +61,6 @@ Turn in [QT562 Stormwind Ho!].\\Accept [QA563 Reassignment].
 At the chef, turn in [QT555 Soothing Turtle Bisque].
 If you completed it, turn in [QT500 Crushridge Bounty].
 Turn in [QT505 Syndicate Assassins] and [QT510 Foreboding Plans]. Skip follow-up for now.
--- Not needed, Morgan Stern is not actually a preq for the quests. You should be Lv.33 by now, but if not grind the beaches until [XP33-11850].
-
--- IF
-Fly to [F Ironforge].
-Accept [QA1453 Reclaimers' Business in Desolace].
-Turn in [QT514 Letter to Stormpike].\\Accept [QA525 Further Mysteries].
-Turn in [QT637 Sully Balloo's Letter].\\Accept [QA683 Sara Balloo's Plea].
-Accept [QA1179 The Brassbolts Brothers].
-Turn in [QT683 Sara Balloo's Plea].\\Accept [QA686 A King's Tribute].
-Turn in [QT686 A King's Tribute]. Skip follow up.
-Take the tram to SW. Cook/FA while you wait.
--- SW
-[O][T]While in SW, train Lv.32 skills.
-Turn in [QT322 Blessed Arm].\\Accept [QA325 Armed and Ready].
-Turn in [QT563 Reassignment].
-[OC]Passing by The Perenolde Tiara quest XXX: Do we wanna do this? Probably not.
-Accept [QA690 Malin's Request].
-If you're Lv. 33, accept [QA1260 Morgan Stern].
-Accept [QA1301 James Hyal].
 
 -- Duskwood
 Fly to [F Sentinel Hill].

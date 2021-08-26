@@ -7,6 +7,11 @@ Guidelime.registerGuide(
 [NX 31-32 Ashenvale]
 
 -- Menethil Harbor
+[O]We skip the Missing Diplomat for now, Lv.34 with 2 adds.
+Turn in [QT270 The Doomed Fleet].\\Accept [QA321 Lightforge Iron].
+Turn in [QT321 Lightforge Iron].\\Accept [QA324 The Lost Ingots].
+Complete [QC324 The Lost Ingots]. [G12,64 Wetlands]
+Turn in [QT324 The Lost Ingots].\\Accept [QA322 Blessed Arm].
 -- Accept [QA290 Lifting the Curse].
 -- Accept [QA281 Reclaiming Goods].
 -- Accept [QA471 Apprentice's Duties].
@@ -43,7 +48,6 @@ Jump out [G54.4366,54.2405 Wetlands] behind the camp.
 Finish up [QC275 Blisters on The Land][G55,46.6 Wetlands].
 Turn in [QT275 Blisters on The Land].
 -- Dun Modr
-[OC] The next section (Dun Modir) is fairly challenging (Lv. 28-31 mobs). It also involves a long run through Arathi/Hillsbrad on a timer. It is possible to skip it for now, and instead do it in the Hillsbrad Foothills file, in exchange for some worsened pathing. If so, either HS or run back to Menethil, and turn in the completed quests.
 Turn in [QT472 Fall of Dun Modr].\\Accept [QA304 A Grim Task].
 Accept [QA631 The Thandol Span].
 Accept [QA303 The Dark Iron War].
@@ -69,22 +73,29 @@ Get the FP [P Refuge Point].
 In the cellar of the inn, turn in [QT647 MacKreel's Moonshine].
 Accept [QA637 Sully Balloo's Letter] from the Waterlogged Envelope.
 Get the FP [P Southshore].
+
+-- Ironforge
+Fly to [F Ironforge].
+-- Accept [QA1453 Reclaimers' Business in Desolace].
+Turn in [QT514 Letter to Stormpike].\\Accept [QA525 Further Mysteries].
+Turn in [QT637 Sully Balloo's Letter].\\Accept [QA683 Sara Balloo's Plea].
+Accept [QA1179 The Brassbolts Brothers].
+Turn in [QT683 Sara Balloo's Plea].\\Accept [QA686 A King's Tribute].
+Turn in [QT686 A King's Tribute].\\Accept [QA689 A King's Tribute].
+Take the tram to SW. Cook/FA while you wait.
+-- SW
+Turn in [QT322 Blessed Arm].\\Accept [QA325 Armed and Ready].
+Turn in [QT563 Reassignment].
+Accept [QA690 Malin's Request].
+If you're Lv. 33, accept [QA1260 Morgan Stern].
+Accept [QA1301 James Hyal].
+
+-- Menethil Harbor
 Hearth to [H Menethil Harbor].
 Turn in [QT292 The Eye of Paleth].\\Accept [QA293 Cleansing the Eye].
 Turn in [QT474 Defeat Nek'rosh] inside the keep.
 Turn in [QT471 Apprentice's Duties].
 Turn in [QT286 Return the Statuette].
-
--- Ironforge & Stormwind
-Fly to [F Ironforge].
-If you did not get the bandage last time, learn *Heavy Wool Bandage* at [G55.1,58.2 Ironforge] Nissa.
-*Cooking*: Learn the *Crab Cake* recipe [G59.56,37.61 Ironforge]. Buy *Mild Spices* downstairs.
-[OC] Note: We skip turning in Sully Balloo's Letter now, as it's higher level than some quests we're about to do, and we go past here later anyway.
-
-XXX: Take the [G76.2,51.1 Ironforge] tram. Cook Boiled Clams, then Crab Cakes while waiting.
-XXX: *Cooking*: In stormwind, at [G72.94, 38.45 Stormwind City] the cooking trainer, try to get cooking to 130. Kendor sells Cooked Crab Claw (yellow at 125, green at 145). The trainer downstairs has Dry Pork Ribs (yellow at 120, green at 140).
-*Cooking*: After that buy and learn *Recipe: Curiously Tasty Omelet* from Kendor.
-If you're willing to use the AH and didn't get one last time we were in Duskwood from the limited stock NPC, buy a [CI4371,1 Bronze Tube]. (You could of course try the NPC again, but if he doesn't have it you'll have to fly back.)
-Fly to [F Darkshire].
+Turn in [QT1301 James Hyal].\\Accept [QA1302 James Hyal].
 
 ]], 'Shiros Speedrun')
