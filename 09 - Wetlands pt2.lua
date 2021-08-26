@@ -77,7 +77,6 @@ Get the FP [P Southshore].
 -- Ironforge
 Fly to [F Ironforge].
 -- Accept [QA1453 Reclaimers' Business in Desolace].
-Turn in [QT514 Letter to Stormpike].\\Accept [QA525 Further Mysteries].
 Turn in [QT637 Sully Balloo's Letter].\\Accept [QA683 Sara Balloo's Plea].
 Accept [QA1179 The Brassbolts Brothers].
 Turn in [QT683 Sara Balloo's Plea].\\Accept [QA686 A King's Tribute].

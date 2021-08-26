@@ -62,23 +62,7 @@ At the chef, turn in [QT555 Soothing Turtle Bisque].
 If you completed it, turn in [QT500 Crushridge Bounty].
 Turn in [QT505 Syndicate Assassins] and [QT510 Foreboding Plans]. Skip follow-up for now.
 
--- Duskwood
-Fly to [F Sentinel Hill].
-Turn in [QT325 Armed and Ready].\\Accept [QA55 Morbent Fel].
-Equip the off-hand early to let 30 sec CD reset. Use on Morbent and kill him to complete [QC55 Morbent Fel].
-Turn in [QT55 Morbent Fel].
-Fly to [F Darkshire]. XXX: Is riding better?
-Turn in [QT1041 The Caravan Road].\\Accept [QA1042 The Carevin Family].
-Accept [QA222 Worgen in the Woods].
-Turn in [QT1042 The Carevin Family].\\Accept [QA1043 The Scythe of Elune].
-Work on [QC222 Worgen in the Woods][O] during the next step.
-Interact with the mound in the Roland's Doom cave, to complete [QC1043 The Scythe of Elune].
-Finish up [QC222 Worgen in the Woods]. (Tainted Ones are in the cave)
-Turn in [QT222 Worgen in the Woods].\\Accept follow-up [QA223 Worgen in the Woods].
-Turn in [QT1043 The Scythe of Elune].\\Accept [QA1044 Answered Questions].
-Turn in [QT223 Worgen in the Woods].
-
-Hearth to [H Southshore].
+XXX: Sometime Turn in [QT514 Letter to Stormpike].\\Accept [QA525 Further Mysteries].
 Turn in [QT525 Further Mysteries]. Skip follow-up for now.
 
 ]], 'Shiros Speedrun')
