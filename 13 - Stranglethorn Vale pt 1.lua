@@ -120,7 +120,7 @@ Complete [QC1393 Galen's Escape].
 Finish up [QC9448 Mercy for the Cursed] and [QC1389 Draenethyst Crystals].
 If you missed Noboru last time, look for him to get [QA1392 Noboru the Cudgel].
 Turn in [QT1393 Galen's Escape].
-Turn in [QT1389 Draenethyst Crystals] and [QT NOBORU].
+Turn in [QT1389 Draenethyst Crystals] and [QT1392 Noboru the Cudgel].
 Turn in [QT9448 Mercy for the Cursed].
 Turn in [QT1421 The Lost Caravan].
 
