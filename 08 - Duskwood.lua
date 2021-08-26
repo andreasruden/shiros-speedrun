@@ -86,7 +86,7 @@ Accept [QA1274 The Missing Diplomat].
 Turn in [QT1274 The Missing Diplomat].\\Accept follow-up [QA1241 The Missing Diplomat].
 Turn in [QT1241 The Missing Diplomat].\\Accept follow-up [QA1242 The Missing Diplomat].
 Turn in [QT1242 The Missing Diplomat].\\Accept follow-up [QA1243 The Missing Diplomat].
-[OC] In the next-step, classes with no movement speed increase can save roughly 40 seconds by flying to Lakeshire and backtracking. For hunter, etc, this is a slow-down.
+-- [OC] In the next-step, classes with no movement speed increase can save roughly 40 seconds by flying to Lakeshire and backtracking. For hunter, etc, this is a slow-down.
 Run to Eastvale Logging camp and turn in [QT74 The Legend of Stalvan].\\Accept [QA75 The Legend of Stalvan].
 Go upstair and complete [QC75 The Legend of Stalvan].
 Turn in [QT75 The Legend of Stalvan].\\Accept [QA78 The Legend of Stalvan].
@@ -108,9 +108,9 @@ Turn in [QT181 Look To The Stars].
 Fly to [F Sentinel Hill].
 Turn in [QT231 A Daughter's Love].
 Interact with the [G28.78,30.77 Duskwood] grave and use [QT254 Digging Through the Dirt] to spawn Eliza. -- !FinishWithoutAccept
-Kill her to get the heart and complete [QC253 Bride of the Embalmer].
+Interact with the grave, kill the summon and get the heart to complete [QC253 Bride of the Embalmer].
+If you have not found the book yet, you could grind mobs around Raven Hill to obtain [CI2794,1 An Old History Book]. You could also skip this step, there's a bit of killing remaining in the zone.
 Complete [QC1244 The Missing Diplomat].
-If you have not found the book yet, grind mobs around Raven Hill to obtain [CI2794,1 An Old History Book].
 From An Old History Book, accept [QA337 An Old History Book].
 [OC] Run back to Darkshire, then follow the road north.
 Run up to the Manor [G75.8,40.4 Duskwood] here.
@@ -119,6 +119,7 @@ Complete [QC98 The Legend of Stalvan].
 Turn in [QT1244 The Missing Diplomat].\\Accept follow-up [QA1245 The Missing Diplomat].
 Turn in [QT253 Bride of the Embalmer].
 Turn in [QT98 The Legend of Stalvan].
+If you have not found the book yet, you could grind Nightbane just next to Darkshire to obtain [CI2794,1 An Old History Book]. Or just skip this questline.
 Fly to [F Stormwind].
 Turn in [QT1245 The Missing Diplomat].\\Accept follow-up [QA1246 The Missing Diplomat].
 Turn in [QT335 A Noble Brew].\\Accept follow-up [QA336 A Noble Brew].
