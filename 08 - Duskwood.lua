@@ -42,7 +42,6 @@ Turn in [QT177 Look To The Stars].\\Accept follow-up [QA181 Look To The Stars].
 Fly to [F Sentinel Hill].
 Turn in [QT240 Return to Jitters].
 Complete [QC57 The Night Watch][G16,46 Duskwood].
-Finish [QC101,3 Skeleton Finger][G16,46 Duskwood].
 Turn in [QT157 Deliver the Thread].\\Accept [QA158 Zombie Juice].
 Accept [QA225 The Weathered Grave].
 Turn in [QT230 Sven's Camp].\\Accept [QA262 The Shadowy Figure].
@@ -54,10 +53,11 @@ Turn in [QT57 The Night Watch].\\Accept follow-up [QA58 The Night Watch].
 Turn in [QT265 The Shadowy Search Continues] and [QT68 The Legend of Stalvan].\\Accept [QA266 Inquire at the Inn] and [QA69 The Legend of Stalvan].
 Turn in [QT225 The Weathered Grave].\\Accept [QA227 Morgan Ladimore].
 Turn in [QT227 Morgan Ladimore].\\Accept [QA228 Mor'Ladim].
-[OC] Destroy the item [The Story of Morgan Ladimore].
+[OC] Destroy the item The Story of Morgan Ladimore.
 [V] Vendor & restock arrows at [G74.1927,44.8141,3 Duskwood] Mabel in the inn.
 Turn in [QT266 Inquire at the Inn].\\Accept [QA453 Finding the Shadowy Figure].
-Back at Mary complete [QC156 Gather Rot Blossoms]. [G81,59 Duskwood]
+Back at Mary complete [QC156 Gather Rot Blossoms][G81,59 Duskwood].
+Finish [QC101,3 Skeleton Finger][G81,59 Duskwood].
 Turn in [QT156 Gather Rot Blossoms].\\Accept [QA159 Juice Delivery].
 
 -- Third round
