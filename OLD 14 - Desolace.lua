@@ -8,13 +8,6 @@ Guidelime.registerGuide(
 
 -- XXX: Look over Hearthstone usage in this route.
 
--- Shimmering Flats
-Fly to [F Tanaris].
-Turn in [QT1107 Encrusted Tail Fins].
-Turn in [QT1183 Goblin Sponsorship].\\Accept [QA1186 The Eighteenth Pilot].
-Turn in [QT1186 The Eighteenth Pilot].\\Accept [QA1187 Razzeric's Tweaking].
-Hearthstone to [H Menethil Harbor].
-
 -- Darnassus/Darkshore
 Take the northern boat to Darkshore.
 Turn in [QT1135 Highperch Venom].

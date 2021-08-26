@@ -4,7 +4,7 @@ Guidelime.registerGuide(
 [D Shiros 1-58 Speedrun for alliance (patch 2.3+)]
 [GA Alliance]
 [N 37-40 Dustwallow Marsh]
-[NX X-X X]
+[NX 40-43 Alterac and Arathi]
 
 -- XXX: First Aid
 

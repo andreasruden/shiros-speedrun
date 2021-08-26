@@ -3,8 +3,8 @@ Guidelime.registerGuide(
 
 [D Shiros 1-58 Speedrun for alliance (patch 2.3+)]
 [GA Alliance]
-[N 34-36 Stranglethorn Vale]
-[NX 36-37 Desolace]
+[N 34-37 Stranglethorn Vale]
+[NX 37-40 Dustwallow Marsh]
 
 [O] Save Stranglethorn pages you find. Mail them to a second character or bank them.
 [O] *NOTE*: Do *NOT* sell *Silk Cloth* or *Mageweave Cloth* after you finish skilling. We need to have 60 of each for later. (Last reminder)
@@ -20,22 +20,9 @@ Turn in [QT1181 Goblin Sponsorship].\\Accept follow-up [QA1182 Goblin Sponsorshi
 Turn in [QT616 The Haunted Isle].\\Accept [QA578 The Stone of the Tides].
 Turn around inside again, then run out towards the Alliance flightmaster, head down to the first house and accept [QA575 Supply and Demand].
 Backtrack and get FP in [P Booty Bay].
-Fly to [F Darkshire].
-
--- Darkshire
--- XXX: We should turn this in and do it when we go to Duskwood anyway. This means going to booty bay beforehand, and having worse pathing in Ashenvale pt 2?
-Turn in [QT1041 The Caravan Road].\\Accept [QA1042 The Carevin Family].
-Accept [QA222 Worgen in the Woods].
-Turn in [QT1042 The Carevin Family].\\Accept [QA1043 The Scythe of Elune].
-Work on [QC222 Worgen in the Woods][O] during the next step.
-Interact with the mound in the Roland's Doom cave, to complete [QC1043 The Scythe of Elune].
-Finish up [QC222 Worgen in the Woods]. (Tainted Ones are in the cave)
-Turn in [QT222 Worgen in the Woods].\\Accept follow-up [QA223 Worgen in the Woods].
-Turn in [QT1043 The Scythe of Elune].\\Accept [QA1044 Answered Questions].
-Turn in [QT223 Worgen in the Woods].
-Fly to [F Rebel Camp]
 
 -- Rebel Camp
+Fly to [F Rebel Camp].
 If you happen to get lucky enough to spot Private Thorsen going on patrol, follow him and protect him. Then accept [QA215 Jungle Secrets] and turn in [QT215 Jungle Secrets]. Also accept the follow-up [QA200 Bookie Herod]. *Note*: The guide will assume you skip it as the event is way too infrequent.
 Turn in [QT198 Supplies to Private Thorsen][G37.96,3.42 Stranglethorn Vale].
 Accept [QA204 Bad Medicine] and [QA203 The Second Rebellion].
@@ -96,6 +83,11 @@ Complete [QC575 Supply and Demand].
 Turn in [QT207 Kurzen's Mystery].\\Accept [QA205 Troll Witchery].
 Accept [QA210 Krazek's Cookery].
 
+-- Blasted Lands
+[OC] As you enter Blasted Lands, run left past the mine. Don't follow the road.
+Take the FP [P Nethergarde Keep][G].
+Fly to [F Rebel Camp].
+
 -- Booty Bay
 Fly to [F Booty Bay].
 Turn in [QT575 Supply and Demand].\\Accept [QA577 Some Assembly Required].
@@ -105,8 +97,35 @@ Turn in [QT189 Bloodscalp Ears] and [QT213 Hostile Takeover].
 Turn in [QT578 The Stone of the Tides].\\Accept [QA601 Water Elementals].
 Turn in [QT1182 Goblin Sponsorship].\\Accept follow-up [QA1183 Goblin Sponsorship].
 
+-- Darkshire -> Swamp
+Fly to [F Darkshire].
+[OC]Run east through Deadwind Pass into Swamp of Sorrows.
+We will complete [QC1116 Dream Dust in the Swamp][O] over multiple steps.
+Kill all the whelps at [G14.6 61.2 Swamp of Sorrows] for some dreamdust progress.
+Accept [QA9609 Help Watcher Biggs] and [QA9448 Mercy for the Cursed].
+Accept [QA1389 Draenethyst Crystals].
+
+-- Round of Swamp of Sorrows
+Turn in [QT9609 Help Watcher Biggs].\\Accept [QA1396 Encroaching Wildlife].
+Kill mobs on the way to work on [QC1396 Encroaching Wildlife][O].
+Kill all the whelps at [G14.6 61.2 Swamp of Sorrows] for some dreamdust progress.
+Turn in [QT1396 Encroaching Wildlife].\\Accept [QA1421 The Lost Caravan].
+Kill Noboru, and from his Cudgel, accept [QA1392 Noboru the Cudgel]. If you didn't spot him there's a second chance later.
+Noboru's Cudgel! Lv.39 with 2 Lv.37 adds. Try to single out main mob, loot cudgel and then run.
+[OC]Work on [QC9448 Mercy for the Cursed][O] and [QC1389 Draenethyst Crystals][O] during the next steps.
+Complete [QC1421 The Lost Caravan].
+Clear out this [G 64.858567,22.322712 Swamp of Sorrows] camp right before accepting the escort.
+Accept [QA1393 Galen's Escape].
+Complete [QC1393 Galen's Escape].
+Finish up [QC9448 Mercy for the Cursed] and [QC1389 Draenethyst Crystals].
+If you missed Noboru last time, look for him to get [QA1392 Noboru the Cudgel].
+Turn in [QT1393 Galen's Escape].
+Turn in [QT1389 Draenethyst Crystals] and [QT NOBORU].
+Turn in [QT9448 Mercy for the Cursed].
+Turn in [QT1421 The Lost Caravan].
+
 -- Back North
-Fly back to [F Rebel Camp].
+Fly to [F Rebel Camp].
 Complete [QC574 Special Forces].
 Follow the river south as you kill crocolisks to complete [QC577 Some Assembly Required][G38,30 Stranglethorn Vale].
 Kill all stealthed panters you find [G38,36 Stranglethorn Vale] around Bangalash's plateau for Panther Mastery progress.
@@ -123,7 +142,16 @@ Turn in [QT574 Special Forces].\\Accept [QA202 Colonel Kurzen].
 -- Booty Bay
 Fly to [F Booty Bay].
 Turn in [QT577 Some Assembly Required]. Skip follow-up for now.
+Turn in [QT1116 Dream Dust in the Swamp].\\Accept [QA1117 Rumors for Kravel].
 Turn in [QT601 Water Elementals].\\Accept [QA602 Magical Analysis].
 Take the boat to Ratchet.
+
+-- Shimmering Flats
+Fly to [F Tanaris].
+Turn in [QT1117 Rumors for Kravel].\\Accept [QA1118 Back to Booty Bay].
+Turn in [QT1107 Encrusted Tail Fins].
+Turn in [QT1183 Goblin Sponsorship].\\Accept [QA1186 The Eighteenth Pilot].
+Turn in [QT1186 The Eighteenth Pilot].\\Accept [QA1187 Razzeric's Tweaking].
+Hearthstone to [H Menethil Harbor].
 
 ]], 'Shiros Speedrun')

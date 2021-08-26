@@ -16,7 +16,6 @@
 08 - Wetlands pt2.lua
 09 - Duskwood.lua
 10 - Ashenvale pt2.lua
-10.5 - Dun Modr.lua
 11 - Hillsbrad Foothills.lua
 12 - Shimmering Flats.lua
 13 - Stranglethorn Vale pt 1.lua

@@ -6,8 +6,6 @@ Guidelime.registerGuide(
 [N 31-32 Ashenvale]
 [NX 32-33 Hillsbrad Foothills]
 
-XXX: Lots of running & flying in this segment. Is this second run through the zone actually worth it?
-
 -- Menethil Harbor: Finishing up weird quests
 Turn in [QT270 The Doomed Fleet].\\Accept [QA321 Lightforge Iron].
 Turn in [QT321 Lightforge Iron].\\Accept [QA324 The Lost Ingots].
@@ -48,7 +46,7 @@ Open the [G54.40,35.38 Ashenvale] chest to complete [QC1026 Raene's Cleansing].
 [G52.94187,36.52751,1 Ashenvale]
 Run through the cave-like tunnel. In the camp, on the table, read the book to complete [QC1022 The Howling Vale].
 Run up into Felwood and get the FP [P Emerald Circle][G51.5,81.6 Felwood].
-[OC] Note: At around 40% movespeed increase running becomes better than flying. If you have base-movement speed, flying to Astranaar and running up to Iris Lake and jumping over the mountain is quicker (about 25 secs).
+[OC]Note: At around 40% movespeed increase running becomes better than flying. If you have base-movement speed, flying to Astranaar and running up to Iris Lake and jumping over the mountain is quicker (about 25 secs).
 Run back and around the mountain and turn in [QT1026 Raene's Cleansing].\\Accept [QA1027 Raene's Cleansing].
 While heading towards the next step, kill slimes until a chest spawns, then loot it, to complete [QC1027 Raene's Cleansing][G71.009,75.305 Ashenvale].
 On the table, loot the bottle to complete [QC1011 Forsaken Diseases]. Watch out for the stealthed rogues.
@@ -67,24 +65,26 @@ Turn in [QT9516 Destroy the Legion] and [QT9520 Diabolical Plans].\\Accept [QA95
 Turn in [QT1032 Satyr Slaying!].
 Turn in [QT9517 A Shameful Waste] and [QT9526 Reclaiming Felfire Hill].
 Accept [QA1012 Insane Druids].
-[G84.6,74.2 Ashenvale].
-Follow the path west and kill [QC9522,1 Gorgannon][G89.7,76.7 Ashenvale].
-Backtrack then follow the [G82.97,78.08 Ashenvale] glowing, tiny obelisks.
-Enter the cave [G78.3032,81.7281 Ashenvale].
-[O] Diathorus has a bunch of different spawn points, follow the path to go past them. Keep using "/tar dia" to not miss him. Once you find him abort the path and head out again.
-[G77.862203,82.150555,5 Ashenvale]
-[G77.688852,83.560919,5 Ashenvale]
-[G77.395713,84.224647,5 Ashenvale]
-[G77.837133,85.136097,5 Ashenvale]
-[G78.703802,84.679967,5 Ashenvale]
-[G78.514301,85.594886,5 Ashenvale]
-[G78.386825,83.742427,5 Ashenvale]
-Check the room downstairs to your left [G78.771901,82.358568,5 Ashenvale].
-Go [G79.261714,81.800150,3 Ashenvale] upstairs and check the balcony.
-You should've found him by now, so kill [QC9522,2 Diathorus the Seeker].
-If you ended up going all the way, this path leads out [G78.4965157,80.944925 Ashenvale] by hugging the right wall and going upwards.
-Head out of the vale [G84.2,77.1 Ashenvale].
-And over to the [G75.87,75.38 Ashenvale] cave for the insane druids.
+
+-- Darnassus
+Fly to [F Astranaar].
+Turn in [QT1027 Raene's Cleansing].\\Accept [QA1028 Raene's Cleansing].
+Circle south around the mountain to around [G54.0139,53.4844 Ashenvale] here.
+The path up is at [G55.97,51.18 Ashenvale].
+Complete [QC1028 Raene's Cleansing].
+Turn in [QT1028 Raene's Cleansing]. Skip the follow-up. Keep the fancy furbolg rod if you care :-).
+Turn in [QT1140 The Tower of Althalaxx].\\Accept follow-up [QA1167 The Tower of Althalaxx].
+Fly to [F Rut'theran Village].
+[O]While in Darnassus, [T] Train skills.
+If your First Aid is or can reach 150, learn *Silk Bandage* from [G51.7,12.4 Darnassus] Dannelor. Otherwise skip this step.
+Turn in [QT1037 Velinde Starsong].\\Accept [QA1038 Velinde's Effects].
+Run up at [G56.25,78.94,4 Darnassus].
+Loot her locker to complete [QC1038 Velinde's Effects].
+Turn in [QT1038 Velinde's Effects].\\Accept [QA1039 The Barrens Port].
+
+-- Back to Ashenvale
+Fly to [F Astranaar].
+Head over to the [G75.87,75.38 Ashenvale] cave for the insane druids.
 [G77.183532,76.241928,5 Ashenvale]
 [G77.335089,75.166028,5 Ashenvale]
 Kill [QC1012,1 Taneel Darkwood][G77.178299,73.990488 Ashenvale].
@@ -107,34 +107,35 @@ Kill [QC1012,3 Mavoris Cloudsbreak][G75.046253,74.193507 Ashenvale].
 [G76.335150,74.931335,5 Ashenvale]
 [G77.336925,75.153172,5 Ashenvale]
 [G76.333963,75.653207,5 Ashenvale]
+Next, go to the [G84.6,74.2 Ashenvale] demons area.
+Follow the path west and kill [QC9522,1 Gorgannon][G89.7,76.7 Ashenvale].
+Backtrack then follow the [G82.97,78.08 Ashenvale] glowing, tiny obelisks.
+Enter the cave [G78.3032,81.7281 Ashenvale].
+[O] Diathorus has a bunch of different spawn points, follow the path to go past them. Keep using "/tar dia" to not miss him. Once you find him abort the path and head out again.
+[G77.862203,82.150555,5 Ashenvale]
+[G77.688852,83.560919,5 Ashenvale]
+[G77.395713,84.224647,5 Ashenvale]
+[G77.837133,85.136097,5 Ashenvale]
+[G78.703802,84.679967,5 Ashenvale]
+[G78.514301,85.594886,5 Ashenvale]
+[G78.386825,83.742427,5 Ashenvale]
+Check the room downstairs to your left [G78.771901,82.358568,5 Ashenvale].
+Go [G79.261714,81.800150,3 Ashenvale] upstairs and check the balcony.
+You should've found him by now, so kill [QC9522,2 Diathorus the Seeker].
+If you ended up going all the way, this path leads out [G78.4965157,80.944925 Ashenvale] by hugging the right wall and going upwards.
+Head out of the vale [G84.2,77.1 Ashenvale].
+Run back to Forest Song and turn in [QT1012 Insane Druids].
+Turn in [QT9522 Never Again!]
 
 -- To Ratchet
 [G62.1156,82.0034 Ashenvale]
 Turn in [QT9521 Report from the Northern Front].
 If you stand [G47.224599,5.450017,1 The Barrens] here, you can jump up on the fence and get into barrens without aggroing any guards.
-Avoid the guards by hugging the mountain. Then run south up onto the first big mountain and complete [QC1017 Mage Summoner].
-Continue to ratchet. Turn in [QT1094 Further Instructions]. Skip follow-up.
+Avoid the guards by hugging the mountain. Then run south up onto the first big mountain and complete [QC1017 Mage Summoner]. XXX: Should skip this quest, not worth it.
 Get FP in [P Ratchet].
-Fly to [F Forest Song].
-Turn in [QT1012 Insane Druids].
-Turn in [QT9522 Never Again!]
-Fly to [F Astranaar].
-Turn in [QT1017 Mage Summoner].
-Turn in [QT1027 Raene's Cleansing].\\Accept [QA1028 Raene's Cleansing].
-Circle south around the mountain to around [G54.0139,53.4844 Ashenvale] here.
-The path up is at [G55.97,51.18 Ashenvale].
-Complete [QC1028 Raene's Cleansing].
-Turn in [QT1028 Raene's Cleansing]. Skip the follow-up. Keep the fancy furbolg rod if you care :-).
-Turn in [QT1140 The Tower of Althalaxx].\\Accept follow-up [QA1167 The Tower of Althalaxx].
-Fly to [F Rut'theran Village].
-
--- Darnassus
-[T] Train Lv.32 skills.
-If your First Aid is or can reach 150, learn *Silk Bandage* from [G51.7,12.4 Darnassus] Dannelor. Otherwise skip this step.
-Turn in [QT1037 Velinde Starsong].\\Accept [QA1038 Velinde's Effects].
-Run up at [G56.25,78.94,4 Darnassus].
-Loot her locker to complete [QC1038 Velinde's Effects].
-Turn in [QT1038 Velinde's Effects].\\Accept [QA1039 The Barrens Port].
+Continue to ratchet. Turn in [QT1039 The Barrens Port].\\Accept [QA1040 Passage to Booty Bay].
+Take the [G63.67,38.61 The Barrens] boat to Booty Bay.
+Turn in [QT1040 Passage to Booty Bay].\\Accept [QA1041 The Caravan Road].
 Hearthstone to [H Menethil Harbor].
 
 ]], 'Shiros Speedrun')

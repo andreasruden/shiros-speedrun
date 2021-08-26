@@ -83,7 +83,6 @@ Accept [QA464 War Banners].
 Accept [QA305 In Search of The Excavation Team].
 
 -- First round
-Kill all the young crocolisk in this area [G19.2,47.6 Wetlands]. Then continue onwards. XXX: Doesn't seem that there are many on retail?
 Complete [QC279 Claws from the Deep]. Keep an eye out for Gobbler, who patrols the camp.
 [OC] Warning: This next quest is quite challenging at our level. Range pull one mob at a time and be careful.
 [G14.289,30.948 Wetlands]
@@ -95,9 +94,9 @@ Head south to [G34.09,40.88 Wetlands].
 Turn in [QT305 In Search of The Excavation Team]. Skip follow-up for now.
 Accept [QA294 Ormer's Revenge].
 [OC] Save *Raptor Egg* for cooking.
-Kill slimes during next step to hopefully complete [QC470 Digging Through the Ooze][OC].
+Kill slimes during next step to hopefully complete [QC470 Digging Through the Ooze][O].
 Leave excavation site, immediately heading west along the mountain.\\Complete [QC294 Ormer's Revenge] and [QC943,1 Stone of Relu].
-Following the same waters east as before, complete [QC484 Young Crocolisk Skins]. If you reach the turn before it finishes, skip for now.
+Following the same waters east as before, complete [QC484 Young Crocolisk Skins][G32.4,36.9 Wetlands]. If you reach the turn before it finishes, skip for now.
 Turn in [QT294 Ormer's Revenge].\\Accept follow-up [QA295 Ormer's Revenge].
 Accept [QA299 Uncovering the Past].
 Complete [QC299 Uncovering the Past][O]. Random spawns. If unlucky, one can hide by Sarltooth's spawn or on the platform below. If that happens, get it together with Sarltooth quest.
@@ -129,13 +128,12 @@ Hearth to [H Menethil Harbor].
 
 -- Turn ins
 Upstairs, turn in [QT943 The Absent Minded Prospector].
-Turn in [QT289 The Cursed Crew].\\Accept [QA290 Lifting the Curse].
-Turn in [QT279 Claws from the Deep].\\Accept [QA281 Reclaiming Goods].
-Turn in [QT469 Daily Delivery] and [QT484 Young Crocolisk Skins].\\Accept [QA471 Apprentice's Duties].
--- Turn in [QT306 In Search of The Excavation Team].
-Accept [QA472 Fall of Dun Modr].
-Turn in [QT455 The Algaz Gauntlet]. XXX: Not doing, probably
-Turn in [QT464 War Banners] in the keep.\\Accept [QA465 Nek'rosh's Gambit].
+Turn in [QT289 The Cursed Crew].-- \\Accept [QA290 Lifting the Curse].
+Turn in [QT279 Claws from the Deep].-- \\Accept [QA281 Reclaiming Goods].
+Turn in [QT469 Daily Delivery] and [QT484 Young Crocolisk Skins].-- \\Accept [QA471 Apprentice's Duties].
+Turn in [QT306 In Search of The Excavation Team].
+-- Accept [QA472 Fall of Dun Modr].
+Turn in [QT464 War Banners] in the keep.-- \\Accept [QA465 Nek'rosh's Gambit].
 Turn in [QT470 Digging Through the Ooze].
 [R][V] Repair/vendor/arrows at [G11.29,58.47 Wetlands] Naela.
 

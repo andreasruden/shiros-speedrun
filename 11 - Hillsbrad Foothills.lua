@@ -73,21 +73,31 @@ Turn in [QT683 Sara Balloo's Plea].\\Accept [QA686 A King's Tribute].
 Turn in [QT686 A King's Tribute]. Skip follow up.
 Take the tram to SW. Cook/FA while you wait.
 -- SW
-[O] [T] While in SW, train Lv.32 skills.
+[O][T]While in SW, train Lv.32 skills.
 Turn in [QT322 Blessed Arm].\\Accept [QA325 Armed and Ready].
 Turn in [QT563 Reassignment].
-[OC] Passing by The Perenolde Tiara quest XXX: Do we wanna do this? Probably not.
+[OC]Passing by The Perenolde Tiara quest XXX: Do we wanna do this? Probably not.
 Accept [QA690 Malin's Request].
 If you're Lv. 33, accept [QA1260 Morgan Stern].
 Accept [QA1301 James Hyal].
+
+-- Duskwood
 Fly to [F Sentinel Hill].
 Turn in [QT325 Armed and Ready].\\Accept [QA55 Morbent Fel].
 Equip the off-hand early to let 30 sec CD reset. Use on Morbent and kill him to complete [QC55 Morbent Fel].
 Turn in [QT55 Morbent Fel].
-
-XXX: Here is an okay time to grind for mount for those who want to. (Ideally we're one level higher, but there's a long run section coming up which it would be nice to get mount before, if you're gonna grind anyway.)
+Fly to [F Darkshire]. XXX: Is riding better?
+Turn in [QT1041 The Caravan Road].\\Accept [QA1042 The Carevin Family].
+Accept [QA222 Worgen in the Woods].
+Turn in [QT1042 The Carevin Family].\\Accept [QA1043 The Scythe of Elune].
+Work on [QC222 Worgen in the Woods][O] during the next step.
+Interact with the mound in the Roland's Doom cave, to complete [QC1043 The Scythe of Elune].
+Finish up [QC222 Worgen in the Woods]. (Tainted Ones are in the cave)
+Turn in [QT222 Worgen in the Woods].\\Accept follow-up [QA223 Worgen in the Woods].
+Turn in [QT1043 The Scythe of Elune].\\Accept [QA1044 Answered Questions].
+Turn in [QT223 Worgen in the Woods].
 
 Hearth to [H Southshore].
-Turn in [QT525 Further Mysteries].
+Turn in [QT525 Further Mysteries]. Skip follow-up for now.
 
 ]], 'Shiros Speedrun')

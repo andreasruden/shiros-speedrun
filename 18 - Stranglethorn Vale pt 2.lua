@@ -126,12 +126,23 @@ Turn in [QT587 Up to Snuff].
 Turn in [QT608 The Bloodsail Buccaneers].
 Turn in [QT576 Keep An Eye Out].
 
--- Swamp of Sorrows
+-- Darkshire
+[A human] Humans: If you have no mount but the gold, run up to the Eastvale Logging Camp and buy one. (Honored: 41.5g, Revered: 38.25g)
+Turn in [QT1477 Vital Supplies].\\Accept [QA1395 Supplies for Nethergarde].
 Fly to [F Nethergarde Keep].
-Run up into Swamp of Sorrows and turn in [QT624 Cortello's Riddle].\\Accept follow-up [QA625 Cortello's Riddle].
+Turn in [QT1395 Supplies for Nethergarde].
+[OC]On your way to Swamp of Sorrows, run past the mine, don't follow the road.
+Accept [QA1398 Driftwood].
+Turn in [QT624 Cortello's Riddle].\\Accept follow-up [QA625 Cortello's Riddle].
+Accept [QA9610 Pool of Tears].
+Around the [G66,51 Swamp of Sorrows] pool complete [QC9610 Pool of Tears] (underwater & by the shore).
+At the beach complete [QC1398 Driftwood] and [QC1258 ... and Bugs].
+Turn in [QT1398 Driftwood].\\Accept [QA1425 Deliver the Shipment].
+[OC]Again, ignore the road, run past the mine.
+Turn in [QT1425 Deliver the Shipment].
 
 -- Stormwind
-Run back to Nethergarde Keep and fly to [F Stormwind].
+Fly to [F Stormwind].
 Set hearthstone in [S Stormwind City][G52.7,65.6 Stormwind City].
 [O][T] Learn skills in Stormwind or Ironforge.
 [O] For the next part, do *NOT* abandon A Meal Served Cold even though it says failed. Just talk to the quest NPC.
@@ -156,7 +167,6 @@ Turn in [QT667 Death From Below].
 -- Dustwallow Marsh (via Stormwind)
 Hearth to [H Stormwind City].
 Speak with [G39.77,81.49 Stormwind City] Archage Malin by the Mage Quarter's tower to TP to dustwallow.
--- XXX: Skipping Vital Supplies, which is a breadcrumb to Blasted Lands
 Turn in [QT11223 Return to Jaina]. (Disables this teleport, but it doesn't work at high-level anyway.)
 Turn in [QT1258 ... and Bugs].
 In the keep, turn in [QT6625 Alliance Trauma].

@@ -47,11 +47,19 @@ Turn in [QT1105 Hardened Shells].
 Accept [QA1107 Encrusted Tail Fins].
 Accept [QA1106 Martek the Exiled].
 Turn in [QT1110 Rocket Car Parts].\\Accept [QA1111 Wharfmaster Dizzywig] and [QA5762 Hemet Nesingwary Jr.]
-[OC] Some annoying ping-pong flying incoming. In total about 3x4 minutes.
 Get FP in [P Tanaris].
+
+-- Darnassus
+Hearth to [H Menethil Harbor].
+Take the [G4.60,57.16 Wetlands] boat to Darkshore.
+Turn in [QT1135 Highperch Venom].
+Fly to [F Rut'theran Village].
+[O][T]Train skills while in Darnassus.
+Turn in [QT1044 Answered Questions].
+
+-- Ping-pong
 Fly to [F Ratchet].
 Turn in [QT1178 Goblin Sponsorship].\\Accept follow-up [QA1180 Goblin Sponsorship].
-Turn in [QT1039 The Barrens Port].\\Accept [QA1040 Passage to Booty Bay].
 Turn in [QT1111 Wharfmaster Dizzywig].\\Accept [QA1112 Parts for Kravel].
 Fly back to [F Tanaris].
 Turn in [QT1112 Parts for Kravel].\\Accept [QA1114 Delivery to the Gnomes].
