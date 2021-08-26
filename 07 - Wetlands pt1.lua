@@ -128,12 +128,12 @@ Hearth to [H Menethil Harbor].
 
 -- Turn ins
 Upstairs, turn in [QT943 The Absent Minded Prospector].
-Turn in [QT289 The Cursed Crew].-- \\Accept [QA290 Lifting the Curse].
-Turn in [QT279 Claws from the Deep].-- \\Accept [QA281 Reclaiming Goods].
-Turn in [QT469 Daily Delivery] and [QT484 Young Crocolisk Skins].-- \\Accept [QA471 Apprentice's Duties].
+Turn in [QT289 The Cursed Crew].\\Accept [QA290 Lifting the Curse].
+Turn in [QT279 Claws from the Deep].\\Accept [QA281 Reclaiming Goods].
+Turn in [QT469 Daily Delivery] and [QT484 Young Crocolisk Skins].\\Accept [QA471 Apprentice's Duties].
 Turn in [QT306 In Search of The Excavation Team].
 -- Accept [QA472 Fall of Dun Modr].
-Turn in [QT464 War Banners] in the keep.-- \\Accept [QA465 Nek'rosh's Gambit].
+Turn in [QT464 War Banners] in the keep.\\Accept [QA465 Nek'rosh's Gambit].
 Turn in [QT470 Digging Through the Ooze].
 [R][V] Repair/vendor/arrows at [G11.29,58.47 Wetlands] Naela.
 

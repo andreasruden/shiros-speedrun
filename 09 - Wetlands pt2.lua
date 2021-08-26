@@ -7,11 +7,11 @@ Guidelime.registerGuide(
 [NX 31-32 Ashenvale]
 
 -- Menethil Harbor
-Accept [QA290 Lifting the Curse].
-Accept [QA281 Reclaiming Goods].
-Accept [QA471 Apprentice's Duties].
+-- Accept [QA290 Lifting the Curse].
+-- Accept [QA281 Reclaiming Goods].
+-- Accept [QA471 Apprentice's Duties].
 Accept [QA472 Fall of Dun Modr].
-Accept [QA465 Nek'rosh's Gambit] inside the keep.
+-- Accept [QA465 Nek'rosh's Gambit] inside the keep.
 
 -- Second round of Wetlands
 -- Turn in [QT306 In Search of The Excavation Team].
