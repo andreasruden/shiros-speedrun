@@ -29,7 +29,9 @@ Guidelime.registerGuide(
 --   Accept: [51] The Sunken Temple (req 46)
 
 -- Shimmering Flats
-Turn in [QT1117 Rumors for Kravel].\\Accept [QA1118 Back to Booty Bay].
+Turn in [QT1119 Zanzil's Mixture and a Fool's Stout].\\Accept [QA1120 Get the Gnomes Drunk].
+Turn in [QT1120 Get the Gnomes Drunk].
+Accept [QA1122 Report Back to Fizzlebub].
 Turn in [QT1137 News for Fizzle].
 Turn in [QT1187 Razzeric's Tweaking].\\Accept [QA1188 Safety First].
 Accept [QA1190 Keeping Pace].

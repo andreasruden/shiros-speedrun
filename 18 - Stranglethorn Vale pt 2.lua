@@ -12,6 +12,9 @@ Accept [QA202 Colonel Kurzen].
 If you had the event, turn in [QT328 The Hidden Key].\\Accept [QA329 The Spy Revealed!]
 Obtain [QC202,3 Kurzen's Head].
 Finish up [QC202 Colonel Kurzen].
+If you skipped them last time, complete [QC196 Raptor Mastery] and [QC192 Panther Mastery][G38,36 Stranglethorn Vale].
+Turn in [QT196 Raptor Mastery].\\Accept follow-up [QA197 Raptor Mastery].
+Turn in [QT192 Panther Mastery].\\Accept follow-up [QA193 Panther Mastery].
 Turn in [QT202 Colonel Kurzen].
 If you had the event, turn in [QT329 The Spy Revealed!]\\Accept [QA330 Patrol Schedules].
 Turn in [QT330 Patrol Schedules].\\Accept [QA331 Report to Doren].
@@ -74,7 +77,9 @@ Complete [QC611 The Curse of the Tides]. This quest is weird, on retail the gobl
 Hearth to [H Booty Bay].
 
 -- Booty Bay
-Turn in [QT600 Venture Company Mining] and [QT621 Zanzil's Secret].
+[OC]XXX: Can you accept this together with A Meal Served Cold?
+Turn in [QT600 Venture Company Mining] and [QT621 Zanzil's Secret].\\Accept [QA1119 Zanzil's Mixture and a Fool's Stout].
+[O]Don't log off or do other stuff until you turn Zanzil's Mixture in, it has a 2hr timer that continues while offline.
 Head up the inn. Turn in [QT209 Skullsplitter Tusks].
 Turn in [QT604 The Bloodsail Buccaneers].\\Accept follow-up [QA608 The Bloodsail Buccaneers]
 Turn in [QT611 The Curse of the Tides].
@@ -145,7 +150,7 @@ Turn in [QT1425 Deliver the Shipment].
 Fly to [F Stormwind].
 Set hearthstone in [S Stormwind City][G52.7,65.6 Stormwind City].
 [O][T] Learn skills in Stormwind or Ironforge.
-[O] For the next part, do *NOT* abandon A Meal Served Cold even though it says failed. Just talk to the quest NPC.
+[O]For the next part, do *NOT* abandon A Meal Served Cold even though it says failed. Just talk to the quest NPC.
 Turn in [QT212 A Meal Served Cold].
 Turn in [QT1448 In Search of the Temple].\\Accept [QA1449 To The Hinterlands].
 Take the tram to IF.
