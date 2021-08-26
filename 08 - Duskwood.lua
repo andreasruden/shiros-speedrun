@@ -15,7 +15,7 @@ XXX: Is flying to sentinel hill actually quicker than running for a hunter?
 
 -- First round
 [OC]If you find *An Old History Book*, hang on to it.
-Turn in [QT174 Look To The Stars]. -- !OptionalFinish
+Accept [QA174 Look To The Stars]. Turn in [QT174 Look To The Stars]. -- !OptionalFinish
 Accept [QA175 Look To The Stars].
 Accept [QA173 Worgen in the Woods].
 Accept [QA66 The Legend of Stalvan], [QA101 The Totem of Infliction] and [QA149 Ghost Hair Thread].
@@ -39,9 +39,7 @@ Turn in [QT154 Return the Comb].\\Accept [QA157 Deliver the Thread].
 Turn in [QT177 Look To The Stars].\\Accept follow-up [QA181 Look To The Stars].
 
 -- Second round
-[OC] Flying to Rebel Camp saves 20 secons over running. But I'm choosing to value the 6 silver more.
-[V][R] Vendor/repair at [G73.912,48.746 Duskwood] Morg (arrows in the inn).
-Turn in [QT95 Sven's Revenge].\\Accept [QA230 Sven's Camp].
+Fly to [F Sentinel Hill].
 Turn in [QT240 Return to Jitters].
 Complete [QC57 The Night Watch][G16,46 Duskwood].
 Finish [QC101,3 Skeleton Finger][G16,46 Duskwood].

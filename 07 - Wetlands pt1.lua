@@ -65,6 +65,7 @@ Finish up [QC245 Eight-Legged Menaces] on the way to Raven Hill. [G11.7,52.7 Dus
 Make sure you have 6 [CI2251,6 Goey Spider Leg].
 Turn in [QT163 Raven Hill].\\Accept [QA5 Jitters' Growling Gut].
 Turn in [QT245 Eight-Legged Menaces].
+Turn in [QT95 Sven's Revenge].\\Accept [QA230 Sven's Camp].
 Run south into STV and get the flight-point at [P Rebel Camp].
 Fly to [F Darkshire].
 Turn in [QT148 Supplies from Darkshire]. Skip follow-up.
