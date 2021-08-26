@@ -3,7 +3,7 @@ Guidelime.registerGuide(
 
 [D Shiros 1-58 Speedrun for alliance (patch 2.3+)]
 [GA Alliance]
-[N 29-31 Duskwood]
+[N 27-30 Duskwood]
 [NX 30-31 Ashenvale]
 
 XXX: Would we be better off setting Hearthstone in here than leaving it in Wetlands?
@@ -15,7 +15,6 @@ XXX: Is flying to sentinel hill actually quicker than running for a hunter?
 
 -- First round
 [OC]If you find *An Old History Book*, hang on to it.
-[OC]If you didn't finish Look To The Stars last time, buy a Bronze Tube from Herble.
 Turn in [QT174 Look To The Stars]. -- !OptionalFinish
 Accept [QA175 Look To The Stars].
 Accept [QA173 Worgen in the Woods].

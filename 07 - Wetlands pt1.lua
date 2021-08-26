@@ -137,4 +137,11 @@ Turn in [QT464 War Banners] in the keep.\\Accept [QA465 Nek'rosh's Gambit].
 Turn in [QT470 Digging Through the Ooze].
 [R][V] Repair/vendor/arrows at [G11.29,58.47 Wetlands] Naela.
 
+-- IF & SW
+[O]Learn skills while in IF or SW.
+Fly to [F Ironforge].
+Take the [G72.5,50.9 Ironforge] tram to SW.
+If you didn't get one last time, purchase a [CI4371,1 Bronze Tube] from the [G54.5,60.5 Stormwind City] AH.
+Fly to [F Darkshire].
+
 ]], 'Shiros Speedrun')
