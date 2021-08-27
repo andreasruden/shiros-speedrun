@@ -3,7 +3,7 @@ Guidelime.registerGuide(
 
 [D Shiros 1-58 Speedrun for alliance (patch 2.3+)]
 [GA Alliance]
-[N 32-33 Hillsbrad Foothills]
+[N 33-34 Hillsbrad Foothills]
 [NX 33-34 Shimmering Flats]
 
 [OC] As of patch 2.3+, quests Lv.30 or higher are rewarding increased xp.
@@ -14,7 +14,6 @@ The guy at the inn entrance will stealth and start escaping. Head outside the in
 Turn in [QT1249 The Missing Diplomat].
 Accept [QA1250 The Missing Diplomat].
 Turn in [QT1250 The Missing Diplomat].\\Accept follow-up [QA1264 The Missing Diplomat].
-If you did not do Dun Modr earlier, load the 32-32 Dun Modr file, complete that, then come back here!
 Fly to [F Southshore].
 
 -- Southshore
@@ -23,7 +22,7 @@ Accept [QA500 Crushridge Bounty].
 Accept [QA505 Syndicate Assassins].
 Accept [QA9435 Missing Crystals].
 Accept [QA536 Down the Coast].
-Set hearthstone in [S Southshore].
+-- Set hearthstone in [S Southshore].
 From the chef, [QA555 Soothing Turtle Bisque].
 Turn in [QT538 Southshore].\\Accept [QA540 Preserving Knowledge].
 Accept [QA564 Costly Menace].

@@ -3,8 +3,10 @@ Guidelime.registerGuide(
 
 [D Shiros 1-58 Speedrun for alliance (patch 2.3+)]
 [GA Alliance]
-[N 31-32 Ashenvale]
+[N 31-33 Ashenvale]
 [NX 32-33 Hillsbrad Foothills]
+
+[OC]Self-note: If we skip Insane Druids, and get Diabolic Plans on the way to Forest Song, we could do the zone in one run-through. Which would probably be quicker than the current route. Needs testing. Not sure if you can get the drop without having "Destroy The Legion".
 
 -- Back to Ashenvale
 Take the [G4.6,57.2 Wetlands] northern boat to Darkshore. Cook/first aid while waiting.
@@ -51,25 +53,17 @@ From the dropped plans, accept [QA9520 Diabolical Plans].
 Get kills and lumber for the next step, while progressing towards [QC9518,1 Overseer Gorthak].
 Finish [QC9517,1 Warsong Lumber][G87,58 Ashenvale] and [QC9518 Agents of Destruction][G87,58 Ashenvale].
 Complete [QC9519 The Lost Chalice] (on the red pagoda), [QC1140,2 Free the Highborne soul in Satyrnaar] and gather the [QC9517,2 Satyrnaar Fel Wood][G81.6202,48.1346 Ashenvale].
-Finish up [QC1032 Satyr Slaying!].
+Finish up [QC1032 Satyr Slaying!]
 Run back to Forest Song and turn in [QT9519 The Lost Chalice] and [QT1011 Forsaken Diseases].
 If you see Gnarl, turn in [QT9517 A Shameful Waste][O].
 Turn in [QT1022 The Howling Vale].\\Accept [QA1037 Velinde Starsong].
 Turn in [QT9518 Agents of Destruction].\\Accept [QA9521 Report from the Northern Front].
 Turn in [QT9520 Diabolical Plans].\\Accept [QA9522 Never Again!].
-Turn in [QT1032 Satyr Slaying!].
-Turn in [QT9517 A Shameful Waste] and [QT9526 Reclaiming Felfire Hill].
+Turn in [QT1032 Satyr Slaying!]
+Turn in [QT9517 A Shameful Waste].
 Accept [QA1012 Insane Druids].
 
 -- Darnassus
-Fly to [F Astranaar].
-Turn in [QT1035 Fallen Sky Lake].
-Turn in [QT1027 Raene's Cleansing].\\Accept [QA1028 Raene's Cleansing].
-Circle south around the mountain to around [G54.0139,53.4844 Ashenvale] here.
-The path up is at [G55.97,51.18 Ashenvale].
-Complete [QC1028 Raene's Cleansing].
-Turn in [QT1028 Raene's Cleansing]. Skip the follow-up. Keep the fancy furbolg rod if you care :-).
-Turn in [QT1140 The Tower of Althalaxx].\\Accept follow-up [QA1167 The Tower of Althalaxx].
 Fly to [F Rut'theran Village].
 [O]While in Darnassus, [T] Train skills.
 If your First Aid is or can reach 150, learn *Silk Bandage* from [G51.7,12.4 Darnassus] Dannelor. Otherwise skip this step.
@@ -80,6 +74,14 @@ Turn in [QT1038 Velinde's Effects].\\Accept [QA1039 The Barrens Port].
 
 -- Back to Ashenvale
 Fly to [F Astranaar].
+Turn in [QT1140 The Tower of Althalaxx]. Skip follow-up.
+Turn in [QT1035 Fallen Sky Lake].
+[OC]Note: it's quicker to go over the mountain as we did last time, rather than around.
+Turn in [QT1027 Raene's Cleansing].\\Accept [QA1028 Raene's Cleansing].
+Circle south around the mountain to around [G54.0139,53.4844 Ashenvale] here.
+The path up is at [G55.97,51.18 Ashenvale].
+Complete [QC1028 Raene's Cleansing].
+Turn in [QT1028 Raene's Cleansing]. Skip the follow-up. Keep the fancy furbolg rod if you care :-).
 Head over to the [G75.87,75.38 Ashenvale] cave for the insane druids.
 [G77.183532,76.241928,5 Ashenvale]
 [G77.335089,75.166028,5 Ashenvale]
@@ -103,9 +105,9 @@ Kill [QC1012,3 Mavoris Cloudsbreak][G75.046253,74.193507 Ashenvale].
 [G76.335150,74.931335,5 Ashenvale]
 [G77.336925,75.153172,5 Ashenvale]
 [G76.333963,75.653207,5 Ashenvale]
-Complete [QC9526 Reclaiming Felfire Hill][G83,69 Ashenvale].
 During the next steps, work on [QC9516 Destroy the Legion][O].
-Next, go to the [G84.6,74.2 Ashenvale] demons area.
+Complete [QC9526 Reclaiming Felfire Hill][G83,69 Ashenvale].
+Next, go [G84.6,74.2 Ashenvale] deeper into the demons area.
 Kill [QC9522,1 Gorgannon][G89.7,76.7 Ashenvale].
 Backtrack then follow the [G82.97,78.08 Ashenvale] glowing, tiny obelisks.
 Enter the cave [G78.3032,81.7281 Ashenvale].
@@ -139,6 +141,7 @@ Take the [G63.67,38.61 The Barrens] boat to Booty Bay.
 Turn in [QT1040 Passage to Booty Bay].\\Accept [QA1041 The Caravan Road].
 
 -- Duskwood
+Get FP in [P Booty Bay].
 Fly to [F Darkshire].
 Turn in [QT1041 The Caravan Road].\\Accept [QA1042 The Carevin Family].
 Accept [QA222 Worgen in the Woods].
@@ -149,6 +152,7 @@ Finish up [QC222 Worgen in the Woods]. (Tainted Ones are in the cave)
 Turn in [QT222 Worgen in the Woods].\\Accept follow-up [QA223 Worgen in the Woods].
 Turn in [QT1043 The Scythe of Elune].\\Accept [QA1044 Answered Questions].
 Turn in [QT223 Worgen in the Woods].
+Fly to [F Sentinel Hill].
 Turn in [QT325 Armed and Ready].\\Accept [QA55 Morbent Fel].
 Equip the off-hand early to let 30 sec CD reset. Use on Morbent and kill him to complete [QC55 Morbent Fel].
 Turn in [QT55 Morbent Fel].

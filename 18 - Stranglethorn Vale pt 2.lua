@@ -131,7 +131,7 @@ Turn in [QT587 Up to Snuff].
 Turn in [QT608 The Bloodsail Buccaneers].
 Turn in [QT576 Keep An Eye Out].
 
--- Darkshire
+-- Swamp of Sorrows
 [A human] Humans: If you have no mount but the gold, run up to the Eastvale Logging Camp and buy one. (Honored: 41.5g, Revered: 38.25g)
 Turn in [QT1477 Vital Supplies].\\Accept [QA1395 Supplies for Nethergarde].
 Fly to [F Nethergarde Keep].
@@ -141,7 +141,8 @@ Accept [QA1398 Driftwood].
 Turn in [QT624 Cortello's Riddle].\\Accept follow-up [QA625 Cortello's Riddle].
 Accept [QA9610 Pool of Tears].
 Around the [G66,51 Swamp of Sorrows] pool complete [QC9610 Pool of Tears] (underwater & by the shore).
-At the beach complete [QC1398 Driftwood] and [QC1258 ... and Bugs].
+At the beach kill Jarquia for [QC4450,4 Goodsteel's Balanced Flameberge] and complete [QC1398 Driftwood] and [QC1258 ... and Bugs].
+Turn in [QT9610 Pool of Tears].
 Turn in [QT1398 Driftwood].\\Accept [QA1425 Deliver the Shipment].
 [OC]Again, ignore the road, run past the mine.
 Turn in [QT1425 Deliver the Shipment].
@@ -181,6 +182,7 @@ Turn in [QT6624 Triage].
 Throw away the *Triage Bandage*. And, if you can, reach first aid 240, then talk to the doctor and learn *Heavy Mageweave Bandage*.
 Turn in [QT623 Akiris by the Bundle].
 Fly to [F Mudsprocket].
+Over at the goblin crash site, loot [QC4450,3 Overdue Package].
 In the cave of the area where we killed Goreclaw, turn in [QT625 Cortello's Riddle].\\Accept follow-up [QA626 Cortello's Riddle].
 Run back to Mudsprocket and fly to [F Tanaris].
 

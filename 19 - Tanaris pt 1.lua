@@ -49,6 +49,7 @@ Accept [QA3022 Handle With Care].
 Set hearthstone in [S Gadgetzan].
 Accept [QA1707 Water Pouch Bounty].
 Accept [QA1690 Wastewander Justice].
+Turn in [QT4450 Ledger from Tanaris].
 
 -- Wastewanders
 [OC] If you find the Distress Beacon, save it.
