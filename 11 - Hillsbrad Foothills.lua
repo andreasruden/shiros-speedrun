@@ -39,7 +39,6 @@ After finishing, head to the [G55.4,58.5 Hillsbrad Foothills] river.
 On the way up the river kill some turtles for [QC555,1 Turtle Meat][O] progress. There's plenty on the way.
 Follow the river to [G60.1267,43.8959,2 Hillsbrad Foothills] here, where you can climb up the left side of the waterfall by hugging the stone.
 [G63.27,40.67 Hillsbrad Foothills]
-Head west and complete [QC9435 Missing Crystals] inside the tower.
 Kill any [QC564,2 Hulking Mountain Lion][O] you spot during the next steps.
 Keep following the river north until [G80.84,58.63 Alterac Mountains] here. To the east there are usally some *Hulking Mountain Lion*, kill them.
 [G83.4,52.5 Alterac Mountains]
@@ -50,18 +49,26 @@ Head back to the river and grind south until you complete gathering [QC555,1 Tur
 From the river, go to [G67.19,8.96 Hillsbrad Foothills].
 From here run up to Sofera's Naze and from the document on the table accept [QA510 Foreboding Plans] and [QA511 Encrypted Letter].
 Finish up [QC505 Syndicate Assassins] [G58.3,67.9 Alterac Mountains].
-If you are strong enough. Around the tower, kill the lower level ogres to complete [QC500 Crushridge Bounty][G47.5,58.7 Alterac Mountains]. Note: you will also get some Recovered Tomes.
+Around the tower, kill the lower level ogres to complete [QC500 Crushridge Bounty][G47.5,58.7 Alterac Mountains]. Note: you will likely get all the Recovered Tomes (but don't *need* to finish it).
 Head out of the ogre area and continue heading west to complete [QC564 Costly Menace].
+[G46.64,32.31 Hillsbrad Foothills]
+In the Yeti Cave, complete [QC689 A King's Tribute].
+Complete [QC9435 Missing Crystals] inside the tower.
 Run back to southshore to turn in [QT564 Costly Menace].
 Turn in [QT511 Encrypted Letter].\\Accept [QA514 Letter to Stormpike].
 Purchase [CI3713,1 Soothing Spices] from [G48.93,55.03 Hillsbrad Foothills] Micha.
 Turn in [QT9435 Missing Crystals].
 Turn in [QT562 Stormwind Ho!].\\Accept [QA563 Reassignment].
 At the chef, turn in [QT555 Soothing Turtle Bisque].
-If you completed it, turn in [QT500 Crushridge Bounty].
+Turn in [QT500 Crushridge Bounty].
 Turn in [QT505 Syndicate Assassins] and [QT510 Foreboding Plans]. Skip follow-up for now.
 
-XXX: Sometime Turn in [QT514 Letter to Stormpike].\\Accept [QA525 Further Mysteries].
-Turn in [QT525 Further Mysteries]. Skip follow-up for now.
+-- Ironforge
+Fly to [F Ironforge].
+[O][T] While in IF, train Lv.34 skills.
+Turn in [QT689 A King's Tribute].\\Accept follow-up [QA700 A King's Tribute].
+Turn in [QT700 A King's Tribute].
+Turn in [QT514 Letter to Stormpike].\\Accept [QA525 Further Mysteries].
+Hearth to [H 
 
 ]], 'Shiros Speedrun')
