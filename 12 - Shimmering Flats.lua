@@ -3,7 +3,7 @@ Guidelime.registerGuide(
 
 [D Shiros 1-58 Speedrun for alliance (patch 2.3+)]
 [GA Alliance]
-[N 33-34 Shimmering Flats]
+[N 34-35 Shimmering Flats]
 [NX 34-36 Stranglethorn Vale]
 
 -- Peak into Arathi

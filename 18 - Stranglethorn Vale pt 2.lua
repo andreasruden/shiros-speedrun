@@ -67,21 +67,19 @@ Obtain [QC609,1 Maury's Clubbed Foot].
 Finish up [QC621 Zanzil's Secret].
 Go south of Gurubashi Arena. [G30.1,54.1 Stranglethorn Vale]
 Once you've continued circling around, kill Tethis and complete [QC197 Raptor Mastery].
-Run north-east and kill [G36.5,41.6 Stranglethorn Vale] Cold Eye Basilisk to get a *Chilled Basilisk Haunch*.
+Run north-east and kill [G36.5,41.6 Stranglethorn Vale] Cold Eye Basilisk to get a *Chilled Basilisk Haunch*. It's okay that the quest says that it has failed.
 Head east to the goblins and complete [QC600 Venture Company Mining].
--- XXX: Is it worth to get and do https://tbc.wowhead.com/quest=735/the-star-the-hand-and-the-heart ? Starts in Badlands, goes here + alterac + dustwallow
 Continue north while following the mountain. [G43,38.5 Stranglethorn Vale]
 Complete [QC209 Skullsplitter Tusks] and [QC205 Troll Witchery] either in Ziata'jai (small camp) or Zul'Mamwe (big). [G45.5,42.9 Stranglethorn Vale]
 Complete [QC628 Excelsior] along the coast.
-Complete [QC611 The Curse of the Tides]. This quest is weird, on retail the goblin was just patrolling the island without using the Altar at (24,23) in the water???
+Complete [QC611 The Curse of the Tides][G20.2,23.7 Stranglethorn Vale]. This quest is weird on retail. Despite what the quest says to do, the goblin is just patrolling the island and you don't need to get into the water to use the Altar at (24,23). *Note*: He perodically goes invisible, so sometimes you'll have to look a bit.
 Hearth to [H Booty Bay].
 
 -- Booty Bay
-[OC]XXX: Can you accept this together with A Meal Served Cold?
 Turn in [QT600 Venture Company Mining] and [QT621 Zanzil's Secret].\\Accept [QA1119 Zanzil's Mixture and a Fool's Stout].
 [O]Don't log off or do other stuff until you turn Zanzil's Mixture in, it has a 2hr timer that continues while offline.
 Head up the inn. Turn in [QT209 Skullsplitter Tusks].
-Turn in [QT604 The Bloodsail Buccaneers].\\Accept follow-up [QA608 The Bloodsail Buccaneers]
+Turn in [QT604 The Bloodsail Buccaneers].\\Accept follow-up [QA608 The Bloodsail Buccaneers].
 Turn in [QT611 The Curse of the Tides].
 [OC] If you don't have all the pages, then consider having an alt mail the rest. Bring them with you. It'll be tight on space :-).
 Jump down and turn in [QT609 Voodoo Dues] in the house.\\Accept [QA613 Cracking Maury's Foot].
@@ -107,7 +105,6 @@ If you got the rare event, turn in [QT330 Patrol Schedules] and accept follow-up
 If you got the rare event, turn in [QT331 Report to Doren].
 
 -- Booty Bay
--- XXX: Can we do this turn-in on the way later sometime and still get full xp? Right now it's a bit awkward to fly BB and then back.
 Fly to [F Booty Bay].
 Turn in [QT613 Cracking Maury's Foot] (in the first building outside of the inn).
 
@@ -126,12 +123,16 @@ If you're close to finishing, finish up [QC587 Up to Snuff]. Otherwise abandon i
 Turn in [QT594 Message in a Bottle].\\Accept follow-up [QA630 Message in a Bottle].
 Complete [QC630 Message in a Bottle].
 Turn in [QT630 Message in a Bottle].
-Hearthstone to [H Booty Bay] or run back.
-Turn in [QT587 Up to Snuff].
-Turn in [QT608 The Bloodsail Buccaneers].
+[OC]Run back to Booty Bay.
 Turn in [QT576 Keep An Eye Out].
+From Mackinley in the building close to the bank & inn, accept [QA2872 Stoley's Debt].
+By the bank, accept [QA623 Akiris by the Bundle].
+In the inn, accept [QA580 Whiskey Slim's Lost Grog]
+Head up the inn, turn in [QT587 Up to Snuff].
+Turn in [QT608 The Bloodsail Buccaneers].\\Accept [QA670 Sunken Treasure].
 
 -- Swamp of Sorrows
+Fly to [F Darkshire].
 [A human] Humans: If you have no mount but the gold, run up to the Eastvale Logging Camp and buy one. (Honored: 41.5g, Revered: 38.25g)
 Turn in [QT1477 Vital Supplies].\\Accept [QA1395 Supplies for Nethergarde].
 Fly to [F Nethergarde Keep].

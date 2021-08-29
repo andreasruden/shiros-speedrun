@@ -13,16 +13,16 @@ Accept [QA11191 This Old Lighthouse].
 Turn in [QT11191 This Old Lighthouse].\\Accept [QA11192 Thresher Oil].
 Accept [QA11126 Traitors Among Us].
 As you're running around, complete [QC11126 Traitors Among Us][O].
-?? Accept [QA1282 They Call Him Smiling Jim]. -- XXX: Sounds like you cannot actually get 1282 if you've completed James Hyal (which gives more xp)
 Set hearthstone in [S Theramore].
 [OC] Depending on level earlier you might not have this turn-in, but it's not a necessary prerequisite for the next quest.
 Turn in [QT1260 Morgan Stern].\\Accept [QA1204 Mudrock Soup and Bugs].
-Turn in [QT1282 They Call Him Smiling Jim].\\Accept [QA11123 Inspecting the Ruins].
+Accept [QA11123 Inspecting the Ruins].
 If not turned in, in the top of the tower, turn in [QT1265 The Missing Diplomat].\\Accept follow-up [QA1266 The Missing Diplomat].
 Finish up [QC11126 Traitors Among Us].
 Turn in [QT11126 Traitors Among Us].\\Accept [QA11128 Propaganda War].
 On the ship, in the captain's hut, complete [QC11128 Propaganda War].
-Jump in the water and complete [QC11192 Thresher Oil].
+[OC]Use Elixir of Water Breathing for the next quest, if desired.
+Jump in the water and work your way north while completing [QC11192 Thresher Oil][G68,59.6 Dustwallow Marsh].
 Turn in [QT11192 Thresher Oil].\\Accept [QA11193 Dastardly Denizens of the Deep].
 Turn in [QT11193 Dastardly Denizens of the Deep].\\Accept [QA11194 Is it Real?].
 Turn in [QT11128 Propaganda War].\\Accept [QA11133 Discrediting the Deserters].
