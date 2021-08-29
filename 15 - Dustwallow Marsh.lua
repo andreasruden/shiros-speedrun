@@ -3,7 +3,7 @@ Guidelime.registerGuide(
 
 [D Shiros 1-58 Speedrun for alliance (patch 2.3+)]
 [GA Alliance]
-[N 37-40 Dustwallow Marsh]
+[N 38-41 Dustwallow Marsh]
 [NX 40-43 Alterac and Arathi]
 
 -- XXX: First Aid
@@ -41,7 +41,7 @@ Complete [QC1218 Marsh Frog Legs] and [QC11180 What's Haunting Witch Hill?] by k
 Turn in [QT1218 Marsh Frog Legs].\\Accept [QA1206 Jarl Needs Eyes].
 Turn in [QT11180 What's Haunting Witch Hill?].\\Accept [QA11181 The Witch's Bane].
 Accept [QA1219 The Orc Report].
-[OC] Go through marsh rather than road. Loot Witchbanes during next two steps.
+Go through marsh rather than road. Loot Witchbanes for [QC11181 The Witch's Bane][O] during the next two steps.
 Accept [QA11146 Raptor Captor].
 Turn in [QT1266 The Missing Diplomat].\\Accept follow-up [QA1324 The Missing Diplomat].
 Beat up the private to complete [QC1324 The Missing Diplomat].
@@ -99,23 +99,23 @@ Turn in [QT1287 The Deserters].\\Accept [QA11143 A Grim Connection].
 -- XXX: Mission to Mudsprocket is exclusive to the one from Tabetha on priv servers, is this true for retail too?
 
 -- Full Round
+Kill turtles on the way during the next steps for [QC1204 Mudrock Soup and Bugs][O].
 Kill Garn Mathers and complete [QC11137 Defias in Dustwallow?]
 Turn in [QT11137 Defias in Dustwallow?]\\Accept [QA11138 Renn McGill].
+[OC]Collect more Witchbane on the way.
 Turn in [QT1206 Jarl Needs Eyes].\\Accept [QA1203 Jarl Needs a Blade].
-[OC] Collect Witchbanes on the way.
 Kill Razorspine and loot him to complete [QC1203 Jarl Needs a Blade].
-[OC] Kill any turtle you spot.
 Turn in [QT11138 Renn McGill].\\Accept [QA11139 Secondhand Diving Gear].
 Complete [QC11139 Secondhand Diving Gear].
 Turn in [QT11139 Secondhand Diving Gear].\\Accept [QA11140 Recover the Cargo!]
 Open the Supplies, put on the helmet and complete [QC11140 Recover the Cargo!]
 Turn in [QT11140 Recover the Cargo!]\\Accept [QA11141 Jaina Must Know].
 Finish up [QC1204 Mudrock Soup and Bugs] and [QC1177 Hungry!] [G62,8 Dustwallow Marsh]
-Finish up [QC11181 The Witch's Bane].
+Finish collecting witchbane on the way for [QC11181 The Witch's Bane][G55.6,26.2 Dustwallow Marsh].
+Turn in [QT1203 Jarl Needs a Blade].
 Turn in [QT11181 The Witch's Bane].\\Accept [QA11183 Cleansing Witch Hill].
 Use the torch at the end of the dock and kill the spawn to complete [QC11183 Cleansing Witch Hill].
 Turn in [QT11183 Cleansing Witch Hill].
-Turn in [QT1203 Jarl Needs a Blade].
 Turn in [QT11143 A Grim Connection].\\Accept [QA11144 Confirming the Suspicion] and [QA11148 Arms of the Grimtotems].
 Accept [QA11145 Prisoners of the Grimtotems] and [QA11147 Unleash the Raptors].
 [OC] Elders drop fragments for battle plans. Keys drop from all mobs.
@@ -123,29 +123,33 @@ Complete [QC11147 Unleash the Raptors], [QC11144 Confirming the Suspicion], [QC1
 Turn in [QT11145 Prisoners of the Grimtotems] and [QT11147 Unleash the Raptors].
 Turn in [QT11144 Confirming the Suspicion] and [QT11148 Arms of the Grimtotems].\\Accept [QA11149 Tabetha's Assistance].
 Turn in [QT1177 Hungry!]
-Grind your way over to Tabetha and turn in [QT11149 Tabetha's Assistance].\\Accept [QA11150 Raze Direhorn Post!] and [QA11211 Help for Mudsprocket].
+Head over to Tabetha and turn in [QT11149 Tabetha's Assistance].\\Accept [QA11150 Raze Direhorn Post!] and [QA11211 Help for Mudsprocket].
 Accept [QA11156 Direhorn Raiders].
+Kill the Apothecary to obtain the letter and accept [QA11185 The Apothecary's Letter].
 Complete [QC11150 Raze Direhorn Post!] and [QC11156 Direhorn Raiders].
 Turn in [QT11156 Direhorn Raiders].
 Turn in [QT11150 Raze Direhorn Post!]\\Accept [QA11151 Justice for the Hyals].
+Turn in [QT11185 The Apothecary's Letter].
 
 -- Finish up at Mudsprocket
 Turn in [QT11211 Help for Mudsprocket], [QT11184 WANTED: Goreclaw the Ravenous] and [QT11208 Delivery for Drazzit].
 Turn in [QT11158 Bloodfen Feathers].\\Accept [QA11160 Banner of the Stonemaul] and [QA11161 The Essence of Enmity].
+[G38.9,65.6 Dustwallow Marsh]
 Complete [QC11160 Banner of the Stonemaul] inside the cave (keep to the left) and [QC11161 The Essence of Enmity] (use the totem on corpses).
 Turn in [QT11160 Banner of the Stonemaul] and [QT11161 The Essence of Enmity].\\Accept [QA11159 Spirits of Stonemaul Hold].
-Complete [QC11159 Spirits of Stonemaul Hold].
+Interact with the bones on the ground and kill the ogres that spawn to complete [QC11159 Spirits of Stonemaul Hold].
 Turn in [QT11159 Spirits of Stonemaul Hold].\\Accept [QA11162 Challenge to the Black Flight].
 Accept [QA11217 Catch a Dragon by the Tail].
-On the way to Onyxia's Lair, complete [QC11217 Catch a Dragon by the Tail]. [G46.7,77.2 Dustwallow Marsh]
+On the way to and from Onyxia's Lair, complete [QC11217 Catch a Dragon by the Tail][O].
 Complete [QC11162 Challenge to the Black Flight].
+Make sure [QC11217 Catch a Dragon by the Tail][G43.5,75.2 Dustwallow Marsh] is complete by this point.
 Turn in [QT11217 Catch a Dragon by the Tail].
 Turn in [QT11162 Challenge to the Black Flight].
 
 -- Theramore finish up
 Fly to [F Theramore]. -- XXX: The turn in order might be wrong, was hearth before
 Turn in [QT1204 Mudrock Soup and Bugs].\\Accept [QA1258 ... and Bugs].
-Turn in [QT11141 Jaina Must Know].\\Accept [QA11142 Survey Alcaz Island]. -- XXX: Could save one run up the tower by turning in the diplomat chain here too.
+In the tower, turn in [QT11141 Jaina Must Know].\\Accept [QA11142 Survey Alcaz Island]. -- XXX: Could save one run up the tower by turning in the diplomat chain here too.
 Turn in [QT11151 Justice for the Hyals].\\Accept [QA11152 Peace at Last].
 Use the Wreath to complete [QC11152 Peace at Last]. [G63.7,42.9 Dustwallow Marsh]
 Complete [QC11142 Survey Alcaz Island]. [G67.3,51.2 Dustwallow Marsh]

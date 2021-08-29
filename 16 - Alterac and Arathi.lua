@@ -3,13 +3,13 @@ Guidelime.registerGuide(
 
 [D Shiros 1-58 Speedrun for alliance (patch 2.3+)]
 [GA Alliance]
-[N 40-43 Alterac and Arathi]
+[N 41-44 Alterac and Arathi]
 [NX 43-45 Stranglethorn Vale]
 
 -- Alterac Mountains
 Fly to [F Southshore].
 Accept [QA659 Hints of a New Plague?]
-On the upper floor, turn in [QT1052 Down the Scarlet Path].
+-- On the upper floor, turn in [QT1052 Down the Scarlet Path].
 Set hearthstone in [S Southshore].
 If you had to skip it last time, accept [QA500 Crushridge Bounty] instead of the next one. -- !OptionalFinish
 Accept [QA504 Crushridge Warmongers].
@@ -75,7 +75,7 @@ Turn in [QT695 An Apprentice's Enchantment].\\Accept [QA696 Attack on the Tower]
 [OC] There's a pedestal for tower defenses outside, but it can end up making things more annoying. YMMV.
 Complete [QC696 Attack on the Tower].
 -- Faldir's Cove
-Head out of Stromgarde Keep, and follow it to the [G31.1,65.8 Arathi Highlands] west.
+Head out of Stromgarde Keep, and follow it to the [G31.1,65.8 Arathi Highlands] east.
 Follow the road through the [G21.6,75.5 Arathi Highlands] cave.
 Swim across the water, and accept low-level quest from Lolo (first ogre), [QA663 Land Ho!]
 Turn in [QT663 Land Ho!]
@@ -85,10 +85,11 @@ Accept escort [QA665 Sunken Treasure].
 Follow the gnome and complete [QC665 Sunken Treasure].
 Turn in [QT665 Sunken Treasure].\\Accept follow-up [QA666 Sunken Treasure].
 -- Into the water
+[O]Use an Elixir of Water Breathing.
 Put on the goggles, and on the way get progress for [QC666 Sunken Treasure][O] and [QC664 Drowned Sorrows][O].
-[OC] Use an Elixir of Water Breathing.
 Enter Maiden's Folly through the windows. On the middle-floor collect both [QC662,1 Maiden's Folly Charts] and [QC662,2 Maiden's Folly Log].
 Spirit of Silver Pine has the logs at the bottom floor and the charts in the middle. Can either enter via window or via hole in the hull along the ground. Obtain [QC662,4 Spirit of Silverpine Log] and [QC662,3 Spirit of Silverpine Charts].
+Complete [QC666 Sunken Treasure] and [QC664 Drowned Sorrows].
 -- Back at Cove
 Turn in [QT662 Deep Sea Salvage].
 Turn in [QT664 Drowned Sorrows].
@@ -104,12 +105,14 @@ Turn in [QT661 Hints of a New Plague?]
 
 -- Ironforge
 Fly to [F Ironforge].
+[O][T] Train Lv.42 skills while in Ironforge. (Or later in SW!)
 Turn in [QT1457 The Karnitol Shipwreck] and [QT1467 Reagents for Reclaimers Inc.]
 Turn in [QT554 Stormpike's Deciphering].\\Accept [QA707 Ironband Wants You!]
 Turn in [QT653 Myzrael's Allies].\\Accept [QA687 Theldurin the Lost].
+Set hearthstone in [S Ironforge].
 
 -- Loch Modan
-Fly to [F Thelsamar].
+Rid to Loch Modan, and get FP in [P Thelsamar].
 Turn in [QT707 Ironband Wants You!]\\Accept [QA738 Find Agmond].
 Run [G46.9,77.4 Loch Modan] to find Badlands.
 
@@ -121,6 +124,7 @@ Turn in [QT720 A Sign of Hope].
 Turn in [QT1106 Martek the Exiled].\\Accept [QA1108 Indurium].
 Accept [QA705 Pearl Diving] and turn in [QT705 Pearl Diving].
 Turn in [QT738 Find Agmond].\\Accept [QA739 Murdaloc].
+[OC]If you run out of spawns, do the Lost Fragments quest while waiting.
 Complete [QC1108 Indurium] and [QC739 Murdaloc]. *Note:* Murdaloc has a shitty turn-in, but it's still worth riding to turn it in.
 Turn in [QT687 Theldurin the Lost].\\Accept [QA692 The Lost Fragments].
 Complete [QC692 The Lost Fragments] just behind the NPC.
@@ -138,30 +142,27 @@ If you are strong enough (we're quite under-leveled), clear the northern path ou
 Complete [QC3367 Suntara Stones]. Loot spiders on the way.
 Turn in [QT3367 Suntara Stones].\\Accept [QA3368 Suntara Stones].
 Finish up [QC4450,2 Solid Crystal Leg Shaft][G62,52 Searing Gorge].
-XXX: Can we deathwarp to thorium point? Middle spirit healer looks spooky
 Get FP at [P Thorium Point].
 
 -- Loch Modan
 Fly to [F Thelsamar].
 Turn in [QT3181 The Horn of the Beast].\\Accept [QA3182 Proof of Deed].
 Turn in [QT739 Murdaloc]. Skip follow-up.
-[OC]If you had a way to suicide, you could deathwarp to Thelsamar, saving 1m30s of riding.
+Hearth to [H Ironforge].
 
 -- Ironforge
-[A mage]Skip the flying step and teleport to Ironforge.
-Fly to [F Ironforge].
 If your first aid skill is at least 225, accept the quest [QA6625 Alliance Trauma].
 Turn in [QT3368 Suntara Stones] and [QT3182 Proof of Deed].\\Accept [QA3201 At Last!] and [QA3371 Dwarven Justice].
 [A mage]Skip the tram and teleport to Stormwind. Mind the order of accept/turn-in in SW, as it'll differ for you.
 Take the [G75.74,50.87 Ironforge] tram to Stormwind City.
 
 -- Stormwind
-[T] If you're not night elf, train Lv.42 skills while in Stormwind.
+[O][T] Train Lv.44 skills in Stormwind.
 Accept [QA1448 In Search of The Temple].
 Enter the Stormwind Keep. Head left into the library, and turn in [QT542 Return to Milton].
 Turn in [QT11222 Warn Bolvar!]\\Accept [QA11223 Return to Jaina].
 Turn in [QT543 The Perenolde Tiara].
-[OC] Return to Jaina can be used as a free TP to dustwallow, but not once it's gone gray.
+[OC]Return to Jaina can be used as a free TP to dustwallow, but not once it's gone gray.
 Turn in [QT697 Malin's Request].
 Accept [QA1477 Vital Supplies] at the top of the Mage Tower.
 In the Blue Recluse Inn, accept [QA212 A Meal Served Cold]. Ignore the timer.

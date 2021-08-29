@@ -4,7 +4,7 @@ Guidelime.registerGuide(
 [D Shiros 1-58 Speedrun for alliance (patch 2.3+)]
 [GA Alliance]
 [N 35-38 Stranglethorn Vale]
-[NX 37-40 Dustwallow Marsh]
+[NX 38-41 Dustwallow Marsh]
 
 [O] Save Stranglethorn pages you find. Mail them to a second character or bank them.
 [O] *NOTE*: Do *NOT* sell *Silk Cloth* or *Mageweave Cloth* after you finish skilling. We need to have 60 of each for later. (Last reminder)
