@@ -70,14 +70,14 @@ Once you've continued circling around, kill Tethis and complete [QC197 Raptor Ma
 Run north-east and kill [G36.5,41.6 Stranglethorn Vale] Cold Eye Basilisk to get a *Chilled Basilisk Haunch*. It's okay that the quest says that it has failed.
 Head east to the goblins and complete [QC600 Venture Company Mining].
 Continue north while following the mountain. [G43,38.5 Stranglethorn Vale]
+[OC]If your tusks droprate is shit, it's okay to abandon Skullsplitter Tusks. It has no follow up.
 Complete [QC209 Skullsplitter Tusks] and [QC205 Troll Witchery] either in Ziata'jai (small camp) or Zul'Mamwe (big). [G45.5,42.9 Stranglethorn Vale]
 Complete [QC628 Excelsior] along the coast.
-Complete [QC611 The Curse of the Tides][G20.2,23.7 Stranglethorn Vale]. This quest is weird on retail. Despite what the quest says to do, the goblin is just patrolling the island and you don't need to get into the water to use the Altar at (24,23). *Note*: He perodically goes invisible, so sometimes you'll have to look a bit.
+Complete [QC611 The Curse of the Tides][G20.2,23.7 Stranglethorn Vale]. This quest is weird on retail. Despite what the quest says to do, the goblin is just patrolling the island and you don't need to get into the water to use the Altar at (24,23). *Note*: He perodically goes invisible, so sometimes you'll have to search a bit.
 Hearth to [H Booty Bay].
 
 -- Booty Bay
-Turn in [QT600 Venture Company Mining] and [QT621 Zanzil's Secret].\\Accept [QA1119 Zanzil's Mixture and a Fool's Stout].
-[O]Don't log off or do other stuff until you turn Zanzil's Mixture in, it has a 2hr timer that continues while offline.
+Turn in [QT600 Venture Company Mining] and [QT621 Zanzil's Secret].
 Head up the inn. Turn in [QT209 Skullsplitter Tusks].
 Turn in [QT604 The Bloodsail Buccaneers].\\Accept follow-up [QA608 The Bloodsail Buccaneers].
 Turn in [QT611 The Curse of the Tides].
@@ -90,12 +90,17 @@ Walk upstairs towards the FP. Turn in [QT628 Excelsior].
 Fly to [F Rebel Camp].
 Turn in [QT205 Troll Witchery].\\Accept [QA206 Mai'Zoth].
 Complete [QC193 Panther Mastery].
+[G50.0,27.8 Stranglethorn Vale]
 Head into the ogre cave and complete [QC206 Mai'Zoth].
 If not finished, complete [QC613 Cracking Maury's Foot].
 At Nessingwary, turn in [QT197 Raptor Mastery].
 Turn in [QT193 Panther Mastery].
-If you've got the pages, accept [QA338 The Green Hills of Stranglethorn]. If not, skip this. The guide assumes this is *NOT* completed.
-Then complete the chapters (quests from Barnil) and turn in [QT338 The Green Hills of Stranglethorn].
+If you've got the pages, accept [QA338 The Green Hills of Stranglethorn]. If not, skip these steps.
+Assemble [QA339 Chapter I] [QT339 Chapter I].
+Assemble [QA340 Chapter II] [QT340 Chapter II].
+Assemble [QA341 Chapter III] [QT341 Chapter III].
+Assemble [QA342 Chapter IV] [QT342 Chapter IV].
+Turn in [QT338 The Green Hills of Stranglethorn].
 Accept [QA208 Big Game Hunter] if you can find a group quickly or you're strong enough to solo. Otherwise skip.
 Complete [QC208 Big Game Hunter].
 Turn in [QT208 Big Game Hunter].
@@ -127,7 +132,9 @@ Turn in [QT630 Message in a Bottle].
 Turn in [QT576 Keep An Eye Out].
 From Mackinley in the building close to the bank & inn, accept [QA2872 Stoley's Debt].
 By the bank, accept [QA623 Akiris by the Bundle].
-In the inn, accept [QA580 Whiskey Slim's Lost Grog]
+In the inn, accept [QA580 Whiskey Slim's Lost Grog].
+Accept [QA1119 Zanzil's Mixture and a Fool's Stout].
+[O]Don't log off or do other stuff until you turn Zanzil's Mixture in, it has a 2hr timer that continues while offline.
 Head up the inn, turn in [QT587 Up to Snuff].
 Turn in [QT608 The Bloodsail Buccaneers].\\Accept [QA670 Sunken Treasure].
 
