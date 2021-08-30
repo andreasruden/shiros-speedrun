@@ -3,7 +3,7 @@ Guidelime.registerGuide(
 
 [D Shiros 1-58 Speedrun for alliance (patch 2.3+)]
 [GA Alliance]
-[N 43-45 Stranglethorn Vale]
+[N 43-46 Stranglethorn Vale]
 [NX 44-45 Tanaris]
 
 -- Rebel Camp
@@ -93,16 +93,15 @@ Complete [QC193 Panther Mastery].
 [G50.0,27.8 Stranglethorn Vale]
 Head into the ogre cave and complete [QC206 Mai'Zoth].
 If not finished, complete [QC613 Cracking Maury's Foot].
-At Nessingwary, turn in [QT197 Raptor Mastery].
-Turn in [QT193 Panther Mastery].
+At Nessingwary, turn in [QT193 Panther Mastery].
+Turn in [QT197 Raptor Mastery].\\Accept [QA208 Big Game Hunter].
 If you've got the pages, accept [QA338 The Green Hills of Stranglethorn]. If not, skip these steps.
 Assemble [QA339 Chapter I] [QT339 Chapter I].
 Assemble [QA340 Chapter II] [QT340 Chapter II].
 Assemble [QA341 Chapter III] [QT341 Chapter III].
 Assemble [QA342 Chapter IV] [QT342 Chapter IV].
 Turn in [QT338 The Green Hills of Stranglethorn].
-Accept [QA208 Big Game Hunter] if you can find a group quickly or you're strong enough to solo. Otherwise skip.
-Complete [QC208 Big Game Hunter].
+Complete [QC208 Big Game Hunter] if you can find a group quickly or you're strong enough to solo. Otherwise skip.
 Turn in [QT208 Big Game Hunter].
 At Rebel Camp, turn in [QT206 Mai'Zoth].
 If you got the rare event, turn in [QT329 The Spy Revealed!] and accept follow-up [QA330 Patrol Schedules].
@@ -117,14 +116,14 @@ Turn in [QT613 Cracking Maury's Foot] (in the first building outside of the inn)
 If not already obtained, get the [CI4098,1 Carefully Folded Note]. [G34.3,73.7 Stranglethorn Vale]
 From the Carefully Folded Note accept [QA594 Message in a Bottle].
 Kill [QC608,2 Captain Keelhaul] on the western-most ship.
-Check for Cortello's Riddle in the lowest level of the ship.
+Check for Cortello's Riddle in the middle and lowest level of the ship.
 Kill [QC608,3 Fleet Master Firallon] on the middle ship.
-Check for Cortello's Riddle in the lowest level of the ship.
+Check for Cortello's Riddle in the middles and lowest level of the ship.
 Kill [QC608,1 Captain Stillwater] on the eastern ship.
-Check for Cortello's Riddle in the middle *and* lowest level of the ship.
+Check for Cortello's Riddle in the middle and lowest level of the ship.
 From the item, accept [QA624 Cortello's Riddle].
 If [QC576 Keep An Eye Out] is not complted, try killing [G32.9,88.3 Stranglethorn Vale] Brutus by the ship's stearing wheel.
-If you're close to finishing, finish up [QC587 Up to Snuff]. Otherwise abandon it (2.3k turn-in).
+If you're close to finishing, finish up [QC587 Up to Snuff][G33.6,88.1 Stranglethorn Vale]. Otherwise abandon it (2.3k turn-in).
 Turn in [QT594 Message in a Bottle].\\Accept follow-up [QA630 Message in a Bottle].
 Complete [QC630 Message in a Bottle].
 Turn in [QT630 Message in a Bottle].
@@ -136,6 +135,7 @@ In the inn, accept [QA580 Whiskey Slim's Lost Grog].
 Accept [QA1119 Zanzil's Mixture and a Fool's Stout].
 [O]Don't log off or do other stuff until you turn Zanzil's Mixture in, it has a 2hr timer that continues while offline.
 Head up the inn, turn in [QT587 Up to Snuff].
+Accept [QA2864 Tran'rek].
 Turn in [QT608 The Bloodsail Buccaneers].\\Accept [QA670 Sunken Treasure].
 
 -- Swamp of Sorrows
