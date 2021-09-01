@@ -20,7 +20,7 @@ Jump over the wall and head west to complete [QC992 Gadgetzan Water Survey].
 Turn in [QT992 Gadgetzan Water Survey].\\Accept [QA82 Noxious Lair Investigation].
 
 -- First round of Tanaris
-Kill rocs around the big bones in Tanaris to collect [QC1452,1 Roc Gizzard].
+While about, kill rocs around the big bones in Tanaris to collect [QC1452,1 Roc Gizzard][O].
 Turn in [QT3445 The Sunken Temple].\\Accept [QA3444 The Stone Circle] and [QA3161 Gahz'ridian].
 Complete [QC82 Noxious Lair Investigation].
 Complete [QC5863 The Dunemaul Compound]. [G41.5,57.8 Tanaris]

@@ -122,7 +122,7 @@ Check for Cortello's Riddle in the middles and lowest level of the ship.
 Kill [QC608,1 Captain Stillwater] on the eastern ship.
 Check for Cortello's Riddle in the middle and lowest level of the ship.
 From the item, accept [QA624 Cortello's Riddle].
-If [QC576 Keep An Eye Out] is not complted, try killing [G32.9,88.3 Stranglethorn Vale] Brutus by the ship's stearing wheel.
+If [QC576 Keep An Eye Out] is not compelted, try killing [G32.9,88.3 Stranglethorn Vale] Brutus by the ship's stearing wheel for some wowhead approved voodoo... :-). P.S. I've had this work.
 If you're close to finishing, finish up [QC587 Up to Snuff][G33.6,88.1 Stranglethorn Vale]. Otherwise abandon it (2.3k turn-in).
 Turn in [QT594 Message in a Bottle].\\Accept follow-up [QA630 Message in a Bottle].
 Complete [QC630 Message in a Bottle].
@@ -148,7 +148,8 @@ Turn in [QT1395 Supplies for Nethergarde].
 Accept [QA1398 Driftwood].
 Turn in [QT624 Cortello's Riddle].\\Accept follow-up [QA625 Cortello's Riddle].
 Accept [QA9610 Pool of Tears].
-Around the [G66,51 Swamp of Sorrows] pool complete [QC9610 Pool of Tears] (underwater & by the shore).
+Around the [G66,51 Swamp of Sorrows] pool complete [QC9610 Pool of Tears] (by the shore & underwater). *Note*: Can use an Elixir of Water Breathing here if you get unlucky with the shore spawns.
+Complete [QC1448 In Search of the Temple].
 At the beach kill Jarquia for [QC4450,4 Goodsteel's Balanced Flameberge] and complete [QC1398 Driftwood] and [QC1258 ... and Bugs].
 Turn in [QT9610 Pool of Tears].
 Turn in [QT1398 Driftwood].\\Accept [QA1425 Deliver the Shipment].
@@ -159,8 +160,8 @@ Turn in [QT1425 Deliver the Shipment].
 Fly to [F Stormwind].
 Set hearthstone in [S Stormwind City][G52.7,65.6 Stormwind City].
 [O][T] Learn skills in Stormwind or Ironforge.
-[O]For the next part, do *NOT* abandon A Meal Served Cold even though it says failed. Just talk to the quest NPC.
-Turn in [QT212 A Meal Served Cold].
+[O]For the next part, do *NOT* abandon A Meal Served Cold even though it says failed. Just accept the quest again, then turn it in.
+Manually accept A Meal Served Cold [G41.5,89.4 Stormwind City] (yes, we can accept it while having it). Then manually turn it in.
 Turn in [QT1448 In Search of the Temple].\\Accept [QA1449 To The Hinterlands].
 Take the tram to IF.
 Fly to [F Southshore].
@@ -180,7 +181,7 @@ Turn in [QT667 Death From Below].
 
 -- Dustwallow Marsh (via Stormwind)
 Hearth to [H Stormwind City].
-Speak with [G39.77,81.49 Stormwind City] Archage Malin by the Mage Quarter's tower to TP to dustwallow.
+Speak with [G39.77,81.49 Stormwind City] Archmage Malin by the Mage Quarter's tower to TP to dustwallow.
 Turn in [QT11223 Return to Jaina]. (Disables this teleport, but it doesn't work at high-level anyway.)
 Turn in [QT1258 ... and Bugs].
 In the keep, turn in [QT6625 Alliance Trauma].

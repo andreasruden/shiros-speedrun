@@ -35,7 +35,7 @@ Accept [QA1122 Report Back to Fizzlebub].
 Turn in [QT1137 News for Fizzle].
 Turn in [QT1187 Razzeric's Tweaking].\\Accept [QA1188 Safety First].
 Accept [QA1190 Keeping Pace].
-Use [G79.82,77.03 Thousand Needles] Zamek to create a distraction [QT1191 Zamek's Distraction]. -- !FinishWithoutAccept
+Use [G79.82,77.03,4 Thousand Needles] Zamek to create a distraction.
 Turn in [QT1190 Keeping Pace].\\Accept [QA1194 Rizzle's Schematics].
 Turn in [QT1194 Rizzle's Schematics].
 [OC]Destroy the *Sample of Indurium Ore* item.

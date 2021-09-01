@@ -21,9 +21,9 @@ Turn in [QT3130 Against the Hatecrest].\\Accept [QA2869 Against the Hatecrest].
 [OC] Save distress beacon if you find it.
 [OC] If the boat is here, take it to the shore. Otherwise swim. -- XXX: Actually time the difference!
 Accept [QA7003 Zapped Giants] and [QA7721 Fuel for the Zapping].
-[OC] During the next step. If you spot a Screecher, kill them & use the bramble for progress on [QC3250 Screecher Spirits].
-Complete [QC7003 Zapped Giants] and [QC7721 Fuel for the Zapping], ending up in the south for the next quest.
-Turn in [QT4125 The Missing Courier].\\Accept [QA4127 Boat Wreckage].
+During the next step. If you spot a Screecher, kill them & use the bramble for progress on [QC3520 Screecher Spirits][O].
+Work on the next step (giants + elementals) on the way south, then turn in [QT4125 The Missing Courier].\\Accept [QA4127 Boat Wreckage].
+Along the beach, finish [QC7003 Zapped Giants][G45,46.8 Feralas] and [QC7721 Fuel for the Zapping][G45,46.8 Feralas].
 -- XXX: Ideally we would swim across to the southern island here, but unless you go even further south you'll die to fatigue. And going that far south seems slower than running back and taking the boat.
 Turn in [QT7003 Zapped Giants] and [QT7721 Fuel for the Zapping].
 Take the boat and jump off at the southern island to complete [QC2869 Against the Hatecrest]. (Also drops on northern island, which drop rate is better might need checking.)
@@ -34,7 +34,7 @@ Turn in [QT4130 Psychometric Reading].\\Accept [QA4131 The Woodpaw Gnolls].
 
 -- Central Feralas
 [OC] Save distress beacon if you find it.
-Take the boat or swim to shore. Finish up [QC3250 Screecher Spirits] by the beach. [G46.6,47.9 Feralas]
+Take the boat or swim to shore. Finish up [QC3520 Screecher Spirits] by the beach. [G46.6,47.9 Feralas]
 Accept [QA2969 Freedom for All Creatures].
 Open the big cage and protect some of the sprites to complete [QC2969 Freedom for All Creatures].
 Turn in [QT2969 Freedom for All Creatures].
@@ -53,7 +53,7 @@ If not yet aquired, grind Gordunni (1.1% on wowhead) or Yeti (0.8%) to find [CI8
 From the beacon, accept [QA2766 Find OOX-22/FE!]
 Grind around this area until [XP46-36650 36650 from level 46].
 Turn in [QT2766 Find OOX-22/FE!]\\Accept escort [QA2767 Rescue OOX-22/FE!]
-Complete [QT2767 Rescue OOX-22/FE!]
+Complete [QC2767 Rescue OOX-22/FE!]
 Take the boat and jump off at Isle of Dread. Head into the cave and go straight forward & up to run into Lord Shalzaru. Complete [QC2870 Against Lord Shalzaru].
 Swim back to Feathermoon and turn in [QT2870 Against Lord Shalzaru].\\Accept [QA2871 Delivering the Relic].
 Turn in [QT2871 Delivering the Relic].

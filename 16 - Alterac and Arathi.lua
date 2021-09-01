@@ -162,7 +162,7 @@ Accept [QA1448 In Search of The Temple].
 Enter the Stormwind Keep. Head left into the library, and turn in [QT542 Return to Milton].
 Turn in [QT11222 Warn Bolvar!]\\Accept [QA11223 Return to Jaina].
 Turn in [QT543 The Perenolde Tiara].
-[OC]Return to Jaina can be used as a free TP to dustwallow, but not once it's gone gray.
+[OC]Return to Jaina can be used as a free TP to dustwallow, but does not work all the way up to Lv.70.
 Turn in [QT697 Malin's Request].
 Accept [QA1477 Vital Supplies] at the top of the Mage Tower.
 In the Blue Recluse Inn, accept [QA212 A Meal Served Cold]. Ignore the timer.
