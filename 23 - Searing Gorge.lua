@@ -16,11 +16,11 @@ Curse These Fat Fingers, Fiery Menace! and Incendosaurs? Whateverosaur is More L
 WANTED: Overseer Maltorius, STOLEN: Smithing Tuyere and Lookout's Spyglass and JOB OPPORTUNITY: Culling the Competition
 
 Accept [QA3441 Divine Retribution].
-List to his story to complete [QC3441 Divine Retribution].
+Listen to his story to complete [QC3441 Divine Retribution].
 Turn in [QT3441 Divine Retribution].\\Accept [QA3442 The Flawless Flame].
 During the next steps, kill *Heavy War Golems* as you spot them for [QC7723 Curse These Fat Fingers][O].
 Clear out the Steamsmiths around [G40.03,49.10 Searing Gorge] here. We're trying to get the *Smithing Tuyere*.
-If you spot any *Greater Lava Spider*, kill them on the way for [QC7724 Fiery Menace!]
+If you spot any *Greater Lava Spider*, kill them on the way for [QC7724 Fiery Menace!][O]
 Once they're all dead, jump from [G37.113,51.847 Searing Gorge] here to the middle level. Then all the way down to the bottom level.
 [G36.535,54.992 Searing Gorge]
 [G40.283,57.571 Searing Gorge]

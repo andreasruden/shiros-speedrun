@@ -41,21 +41,18 @@ Turn in [QT1194 Rizzle's Schematics].
 [OC]Destroy the *Sample of Indurium Ore* item.
 
 -- Gadgetzan
-[OC] *Tip:* It's a good idea to start setting aside 60 *Mageweave Cloth*.
 Turn in [QT1188 Safety First]. Skip follow-up for now.
 Turn in [QT2864 Tran'rek]. Skip follow-up.
 Accept [QA2781 WANTED: Caliph Scorpidsting] and [QA2875 WANTED: Andre Firebeard].
 Accept [QA3022 Handle With Care].
-Set hearthstone in [S Gadgetzan].
 Accept [QA1707 Water Pouch Bounty].
 Accept [QA1690 Wastewander Justice].
 Turn in [QT4450 Ledger from Tanaris].
 
 -- Wastewanders
-[OC] If you find the Distress Beacon, save it.
+[O]If you find the Distress Beacon, save it.
 Complete [QC1690 Wastewander Justice].
 Head back and turn in [QT1690 Wastewander Justice].\\Accept [QA1691 More Wastewander Justice].
-Complete [QC2781 WANTED: Caliph Scorpidsting], [QC1691 More Wastewander Justice] and [QC1707 Water Pouch Bounty].
 
 -- Steamwheedle Port
 Accept [QA8365 Pirate Hats Ahoy!]
@@ -63,17 +60,24 @@ Accept [QA3520 Screecher Spirits].
 Turn in [QT2872 Stoley's Debt].\\Accept [QA2873 Stoley's Shipment].
 Accept [QA8366 Southsea Shakedown].
 
+Complete [QC2781 WANTED: Caliph Scorpidsting], [QC1691 More Wastewander Justice] and [QC1707 Water Pouch Bounty].
+
 -- Pirates
-[OC] Open Pirate's Footlocker for chance at bonus quests.
+[OC]Open Pirate's Footlocker for chance at bonus quests. Save the schedule if it drops.
 Complete [QC2875 WANTED: Andre Firebeard].
 In the house, second floor, complete [QC2873 Stoley's Shipment].
 Complete [QC8366 Southsea Shakedown] and [QC8365 Pirate Hats Ahoy!]
 Grind pirates until [XP45-20200]. XXX: If this is far off then it'll be better to turn in quest at steamwheedle port, instead of hearthstoning out! Need to consider next 2 hearthstones in that case.
-[OC] Three map fragments gives (45) Cruego's Gold, which is completed at the southern tip of Tanaris. It gives no XP so we skip it in the guide.
-Hearthstone to [H Gadgetzan].
+[OC]Three map fragments gives (45) Cruego's Gold, which is completed at the southern tip of Tanaris. It gives no XP so we skip it in the guide.
+
+-- Steamwheedle Port
+Turn in [QT2873 Stoley's Shipment].\\Accept [QA2874 Deliver to MacKinley].
+Turn in [QT8366 Southsea Shakedown] and [QT2875 WANTED: Andre Firebeard].
+Turn in [QT8365 Pirate Hats Ahoy!]
+
 -- Gadgetzan
 Turn in [QT1707 Water Pouch Bounty].
 Turn in [QT2781 WANTED: Caliph Scorpidsting] and [QT1691 More Wastewander Justice].
-Fly to [F Feathermoon].
+Fly to [F Thalanaar].
 
 ]], 'Shiros Speedrun')
