@@ -36,15 +36,9 @@ Hearth to [H Astranaar].
 
 -- Booty Bay
 Fly to [F Ratchet].
-Set hearthstone in [S Ratchet].
-Loot the chest outside of Liv's shop to complete [QC3444 The Stone Circle].
-Accept [QA4502 Volcanic Acitivy].
 Take the [G63.7,38.7 The Barrens] boat to Booty Bay.
 [G27.7767,76.6705 Stranglethorn vale]
 [G28.2333,76.1299 Stranglethorn vale]
-Turn in [QT2767 Rescue OOX-22/FE!], [QT648 Rescue OOX-17/TN!] and [QT836 Rescue OOX-09/HL!]
-Turn in [QT3721 An OOX of Your Own]. -- !FinishWithoutAccept
-Run towards the inn, in the building just before, turn in [QT2874 Deliver to MacKinley].
-In the inn, turn in [QT580 Whiskey Slim's Lost Grog].
+
 
 ]], 'Shiros Speedrun')

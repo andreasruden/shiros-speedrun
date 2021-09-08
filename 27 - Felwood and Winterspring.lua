@@ -9,7 +9,7 @@ Guidelime.registerGuide(
 XXX: Need to have A Little Slime Goes a Long Way from IF.
 XXX: Need hearthstone set in Ratchet before this.
 
--- Emerald Song
+-- Emerald Sanctuary
 Accept [QA5155 Forces of Jaedenar].
 Accept [QA4421 The Corruption of the Jadefire].
 Accept [QA5156 Verifying the Corruption].
@@ -165,7 +165,7 @@ Turn in [QT5128 Words of the High Chief].
 Follow the linear path of the cave until you reach Rakaiah. Kill her to complete [QC5204 Retribution of the Light].
 Turn in [QT5204 Retribution of the Light].\\Accept [QA5385 The Remains of Trey Lightforge].
 Continue deeper and complete [QC5242 A Final Blow].
-Deathwarp out. Then run up to the northern flight-point and fly to [F Emerald Song].
+Deathwarp out. Then run up to the northern flight-point and fly to [F Emerald Sanctuary].
 Turn in [QT5242 A Final Blow].
 Turn in [QT5385 The Remains of Trey Lightforge].
 

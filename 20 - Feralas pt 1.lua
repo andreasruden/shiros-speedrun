@@ -16,7 +16,11 @@ Turn in [QT2970 Doling Justice].\\Accept follow-up [QA2972 Doling Justice].
 
 -- Feathermoon
 Set hearthstone in [S Feathermoon Stronghold].
+Accept [QA2866 The Ruins of Solarsal].
+Accept [QA4124 The Missing Courier].
 Accept [QA2939 In Search of Knowledge].
+Accept [QA2982 The High Wilderness].
+Turn in [QT4124 The Missing Courier].\\Accept follow-up [QA4125 The Missing Courier].
 Accept [QA2821 The Mark of Quality].
 Fly to [F Rut'theran Village]. This flight takes 9 minutes.
 
@@ -33,10 +37,6 @@ Turn in [QT2972 Doling Justice].
 
 -- Feathermoon
 Hearth to [H Feathermoon Stronghold].
-Accept [QA2866 The Ruins of Solarsal].
-Accept [QA4124 The Missing Courier].
-Accept [QA2982 The High Wilderness].
-Turn in [QT4124 The Missing Courier].\\Accept follow-up [QA4125 The Missing Courier].
 Turn in [QT2866 The Ruins of Solarsal].\\Accept [QA2867 Return to Feathermoon Stronghold].
 Turn in [QT2867 Return to Feathermoon Stronghold].\\Accept [QA3130 Against the Hatecrest].
 Turn in [QT3130 Against the Hatecrest].\\Accept [QA2869 Against the Hatecrest].

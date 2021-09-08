@@ -6,10 +6,7 @@ Guidelime.registerGuide(
 [N 52-54 Un'Goro Crater]
 [NX 54-55 Felwood]
 
-Hearth to [H Ratchet].
-
 -- Gadgetzan
-Fly to [F Gadgetzan].
 Turn in [QT4493 March of the Silithid].\\Accept [QA4496 Bungle in the Jungle].
 Turn in [QT2641 Sprinkle's Secret Ingredient].
 Accept [QA4504 Super Sticky].
@@ -25,7 +22,7 @@ Turn in [QT2662 Noggenfogger Elixir].
 Turn in [QT3444 The Stone Circle].
 The path into Un'Goro Crater is [G27.01,56.63 Tanaris] here.
 [O] Pick up the item *A Mangled Journal* if it drops. It's a zone-wide drop.
-[O] You will need to *aggressively* gather the power crystals: 7x[CI11184,7 Blue Power Crystal], 7x[CI11185,7 Green Power Crystal], 7x[CI11186,7 Red Power Crystal] and 7x[CI11188,7 Yellow Power Crystal]. We need 7 of each *asap*. They hide around the big trees and along the mountains.
+[O]You will need to *aggressively* gather the power crystals: 7x[CI11184,7 Blue Power Crystal], 7x[CI11185,7 Green Power Crystal], 7x[CI11186,7 Red Power Crystal] and 7x[CI11188,7 Yellow Power Crystal]. We need 7 of each *asap*. They hide around the big trees and along the mountains. This tracking might make you *lag*, if so disable it.
 We also *need* the 5 [QC4496,2 Un'Goro Soil][O]. We'll get them from killing Raptors & Gorishi + looting on the ground.
 Accept [QA4289 The Apes of Un'Goro] and [QA4290 The Fare of Lar'korwi].
 [O]We'll trace a rough path, use it to loot *crystals* and get some soil.
@@ -106,7 +103,7 @@ Complete [QC4287 The Eastern Pylon].
 Turn in [QT4301 The Mighty U'cha].
 [G50.3, 80.0 Un'Goro Crater]
 As you enter the hive, take an immediate *left* turn. Then complete [QC3883 Alien Ecology].
-Head back to the entrance, and, as seen from the entrance, hug the *right* wall, taking only right turns. Then complete [QC4507 Pawn Captures Queen].
+Head back to the entrance, and, as seen from the entrance, hug the *right* wall, taking only right turns. Then complete [QC4507 Pawn Captures Queen]. *Warning*: This quest is *really* hard. Try to find a nearby friend if you can. The xp is great.
 Head out again, and [G45.5,87.3 Un'Goro Crater] here, finish killing [QC4501,1 Pterrordax].
 Complete [QC3882 Roll the Bones][G46.37,63.36 Un'Goro Crater] and [QC4503,1 Webbed Diemetradon Scale][G46.37,63.36 Un'Goro Crater]. (*Note*: Elders exist more to the west, but they have *worse* droprate than the ones around this area.)
 Loot [QC3881,2 Research Equipment].

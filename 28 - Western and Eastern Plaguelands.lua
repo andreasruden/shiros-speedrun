@@ -79,7 +79,7 @@ Turn in [QT5097 All Along the Watchtowers].\\Accept [QA5533 Scholomance].
 Turn in [QT5533 Scholomance].\\Accept [QA5537 Skeletal Fragments].
 
 -- Ruins of Andorhal
-During next steps, work on [QC5537 Skeletal Fragments][O].
+During the next steps, work on [QC5537 Skeletal Fragments][O].
 Head back to chromie, killing skeletons on the way. Turn in [QT4971 A Matter of Time].\\Accept [QA4972 Counting out Time].
 Loot small boxes for watches and kill skeletons for fragments. Complete [QC4972 Counting out Time].
 Head towards [G50.4,67.6,30 Western Plaguelands] here. We'll finish up Skeletal Fragments later, if it doesn't finish up on the way.
@@ -132,10 +132,10 @@ Run toward Light's Hope Chapel. By the graveyard, accept [QA5281 The Restless So
 Turn in [QT6030 Duke Nicholas Zverenhoff].
 At the same guy, turn in Scourgestones. *Save* one Argent Dawn Valor Tokens.
 Set hearthstone in [S Light's Hope Chapel].
-Get FP in [P Light's Hope Chapel].
 Accept [QA9141 They Call Me "The Rooster"].
 Turn in [QT9141 They Call Me "The Rooster"].
 Destroy the *Sealed Craftman's Writ*.
+Get FP in [P Light's Hope Chapel].
 
 -- Western Plaguelands
 Fly to [F Chillwind Camp].

@@ -27,7 +27,7 @@ Complete [QC5863 The Dunemaul Compound]. [G41.5,57.8 Tanaris]
 At Eastmoon Ruins (47,66) and Southmoon Ruins (40,73) complete [QC3161 Gahz'ridian]. [G47,66 Tanaris]
 Complete [QC2605 The Thirsty Goblin] and [QC3362 Thistleshrub Valley].
 [O] We're skipping Tooga, since a player can occupy her for up to 30 minutes it's unreliable to find her even for an escort quest.
-Hearthstone to [H Gadgetzan]. If it's not up you'll have a long run :-(.
+Hearthstone to [H Gadgetzan].
 -- Gadgetzan
 Turn in [QT2605 The Thirsty Goblin].\\Accept [QA2606 In Good Taste].
 Turn in [QT82 Noxious Lair Investigation].
@@ -58,7 +58,6 @@ Turn in [QT113 Insect Part Analysmis].\\Accept [QA162 Rise of the Silithid].
 Turn in [QT1189 Safety First].
 Turn in [QT3841 An Orphan Looking For a Home].\\Accept [QA3842 A Short Incubation].
 Turn in [QT3842 A Short Incubation].\\Accept [QA3843 The Newest Member of the Family].
-XXX: Back to Booty Bay was acceptable here??? Did I not take that earlier? When can we turn that in?
 Run back to Gadgetzan and fly to [F Theramore].
 
 ]], 'Shiros Speedrun')

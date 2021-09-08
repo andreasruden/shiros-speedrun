@@ -3,8 +3,8 @@ Guidelime.registerGuide(
 
 [D Shiros 1-58 Speedrun for alliance (patch 2.3+)]
 [GA Alliance]
-[N 49-50 The Hinterlands]
-[NX 50-51 Azshara]
+[N 49-51 The Hinterlands]
+[NX 51-52 Searing Gorge]
 
 -- Aerie Peak
 Fly to [F Aerie Peak].
@@ -12,10 +12,9 @@ Accept [QA9469 Featherbeard's Endorsement], [QA9470 A Gesture of Goodwill] and [
 In the keep, turn right and accept [QA2877 Skulk Rock Clean-up] and [QA2880 Troll Necklace Bounty].
 Head straight and down the stairs to the bottom of the keep to turn in [QT3843 The Newest Member of the Family].\\Accept [QA4297 Food for Baby].
 -- Next two steps are only for setting hearthstone.
-Head back up to the entrance floor. Walk into the room with the big cannons. Walk into the [G13.90123,42.18432 The Hinterlands] right doorway.
+Head back up to the entrance floor. Walk into the room with the big cannons. Walk into one of the [G13.90123,42.18432 The Hinterlands] doorways.
 Head up the stairs, and at Thulfram, set your hearthstone to [S Wildhammer Keep].
 Head back out of the keep and then follow the path that goes up and turn in [QT1449 To The Hinterlands].\\Accept [QA1450 Gryphon Master Talonaxe].
-Continue up and get FP [P Aerie Peak].
 Turn in [QT1450 Gryphon Master Talonaxe].\\Accept [QA1451 Rhapsody Shindigger] and [QA2988 Witherbark Cages].
 
 -- Hinterlands (Lv. 47 start, 48 end)
@@ -26,7 +25,7 @@ Turn in [QT9469 Featherbeard's Endorsement].\\Accept [QA9476 In Pursuit of Feath
 Turn in [QT1452 Rhapsody's Kalimdor Kocktail].\\Accept [QA1469 Rhapsody's Tale].
 Complete [QC2988,1 Check First Cage] and [QC2988,2 Check Second Cage]. Kill the entire camp for *Troll Tribal Necklaces* before moving on.
 Complete [QC2988,3 Check Third Cage].
-Finish up [QC2880 Troll Necklace Bounty][G31.8,58 The Hinterlands].
+If you've finished [QT9471 Preying on the Predators][O], turn it in while in Aerie Peak. It might lose XP otherwise.
 Run back to the Aviary in Aerie Peak and turn in [QT2988 Witherbark Cages].\\Accept [QA2989 The Altar of Zul].
 On the way to this waypoint, finish [QC9471,1 Mangy Silvermane][G21.4,55.1 The Hinterlands].
 Complete [QC9470 A Gesture of Goodwill].
@@ -40,18 +39,19 @@ If not finished, checek where [G33.74,75.19 The Hinterlands] Atal'ai Exile is st
 Complete [QC9475 Reclaiming the Eggs].
 Head north out of Shandra'Alor, then swim into the lake and complete [QC2641 Sprinkle's Secret Ingredient]. Don't eat it! :-)
 Run up to the Altar of Zul to complete [QC2989 The Altar of Zul][G48.9,68.5 The Hinterlands].
+Finish up [QC2880 Troll Necklace Bounty][G47.2,66.1 The Hinterlands].
 Try to finish up [QC3661 Favored of Elune?][G51.2,58.6 The Hinterlands]. The density of feathers is a lot less past this point.
 During the next steps kill any *Silvermane Stalker* you spot for progress on [QC4297 Food for Baby][O]. *Note*: They are stealthed!
 At Skulk Rock complete [QC2877 Skulk Rock Clean-up][G57.4,38.5 The Hinterlands].
 If you've found the beacon, accept [QA485 Find OOX-09/HL!] Otherwise, we'll have to backtrack for it later.
 Turn in [QT485 Find OOX-09/HL!]\\Accept the escort [QA836 Rescue OOX-09/HL!]
 Complete [QC836 Rescue OOX-09/HL!] There's a 3 trolls ambush along the way.
-Walk back up and finish up [QC4297 Food for Baby][G69.7,56.2 The Hinterlands]. Run around and let the wolves aggro you. Work your way towards the Waterfall at (80,46). Once finished jump down into the water.
+Walk back up and finish up [QC4297 Food for Baby][G80,46 The Hinterlands]. Run around and let the wolves aggro you. Work your way towards the Waterfall (next wp). Once finished jump down into the water.
 Collect Grogs on the beach for [QC580 Whiskey Slim's Lost Grog][O] during the next two steps.
 Turn in [QT626 Cortello's Riddle].
+Farm the turtles until you get the beacon. Accept [QA485 Find OOX-09/HL!][O]
 Find Gammerita who patrols the beach, and use the *Super Snapper FX* item on her to complete [QC2944 The Super Snapper FX].
 Finish up [QC580 Whiskey Slim's Lost Grog].
-Farm the turtles until you get the beacon. Accept [QA485 Find OOX-09/HL!]
 Turn in [QT485 Find OOX-09/HL!]\\Accept the escort [QA836 Rescue OOX-09/HL!]
 Complete [QC836 Rescue OOX-09/HL!] There's a 3 trolls ambush along the way.
 Hearth to [H Wildhammer Keep].
@@ -59,15 +59,18 @@ Run down to the bottom floor of the keep and turn in [QT4297 Food for Baby].\\Ac
 Turn in [QT4298 Becoming a Parent].
 Head up to the ground level and turn in [QT2877 Skulk Rock Clean-up] and [QT2880 Troll Necklace Bounty].
 Go outside, turn in [QT9470 A Gesture of Goodwill], [QT9471 Preying on the Predators] and [QT9475 Reclaiming the Eggs].
-Run up to the aviary and turn in [QT2989 The Altar of Zul].\\Accept [QA2990 Thadius Grimshade]. XXX: Do we actually want the follow-up?
+Run up to the aviary and turn in [QT2989 The Altar of Zul]. Skip follow-up.
 
 -- Arathi Highlands
 Fly to [F Refuge Pointe].
-[OC] The next quest summons a Lv.45 elite. Her adds have been nerfed in TBC, so she should be soloable by most classes. If you cannot, try finding a group, or skip it and move on.
+[OC]The next quest summons a Lv.45 elite. Her adds have been nerfed in TBC, so she should be soloable by most classes. If you cannot, try finding a group, or skip it and move on.
 Complete [QC656 Summoning the Princess].
 Turn in [QT656 Summoning the Princess].
 
+Fly to [F Thorium Point].
+
 -- Darnassus
+XXX:
 Fly to [F Menethil Harbor].
 Take the [G4.65,57.2 Wetlands] boat to Auberdine. Level first aid on the way.
 Fly to [F Rut'theran Village].
