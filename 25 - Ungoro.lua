@@ -8,12 +8,8 @@ Guidelime.registerGuide(
 
 -- Gadgetzan
 Turn in [QT4493 March of the Silithid].\\Accept [QA4496 Bungle in the Jungle].
-Turn in [QT2641 Sprinkle's Secret Ingredient].
+Turn in [QT2641 Sprinkle's Secret Ingredient].\\Accept [QA2661 Delivery for Marin].
 Accept [QA4504 Super Sticky].
-Turn in [QT1119 Zanzil's Mixture and a Fool's Stout].\\Accept [QA1120 Get the Gnomes Drunk]. -- XXX: This one has lost 60% xp at Lv.52, should consider putting it ealier somehow. Maybe artifically going via ratchet/bb to Hinterlands is an okay time/xp-trade?
-Turn in [QT1120 Get the Gnomes Drunk].
-Accept [QA1122 Report Back to Fizzlebub]. XXX: Do we do this?
-Accept [QA2661 Delivery for Marin].
 Set hearthstone in [S Gadgetzan].
 Turn in [QT2661 Delivery for Marin].\\Accept [QA2662 Noggenfogger Elixir].
 Turn in [QT2662 Noggenfogger Elixir].
@@ -53,7 +49,7 @@ Finish up [QC4291 The Scent of Lar'korwi][G66.9,72.9 Un'Goro Crater] in this are
 Run over the stone & waterfall [G71.447032,74.470466,7 Un'Goro Crater] here to get to the NPC.
 Turn in [QT4291 The Scent of Lar'korwi].\\Accept [QA4292 The Bait for Lar'korwi].
 Open Torwa's Pouch. Put down meat, then mixture on the stone. Then complete [QC4292 The Bait for Lar'korwi][G79.917,49.892 Un'Goro Crater].
-[O] Kill *Tar* elementals to progress [QC4504 Super Sticky][O].
+[O]On the way, kill *Tar* elementals to progress [QC4504 Super Sticky][O].
 [G64.4,24.3,20 Un'Goro Crater]
 [G61.0,23.4,20 Un'Goro Crater]
 [G47.9,17.7,20 Un'Goro Crater]
@@ -72,16 +68,16 @@ Open the item *A Small Pack*, to complete [QC3845 It's a Secret to Everybody].
 Turn in [QT3845 It's a Secret to Everybody].\\Accept follow-up [QA3908 It's a Secret to Everybody].
 
 -- Un'Goro to Tanaris
-[O] Kill pretty much any mobs for quest progress as you're on the way between steps. This holds true for the rest of Un'Goro.
-On the way towards the ape cave, complete [QC4504 Super Sticky].
+[O]Kill pretty much any mobs for quest progress as you're on the way between steps. This holds true for the rest of Un'Goro.
 Complete [QC4289 The Apes of Un'Goro][G63.7,16.6 Un'Goro Crater] in the cave.
-[OC] To get to A-Me 01, as you enter the cave just hug the right wall, taking the first turn presented.
+[OC]To get to A-Me 01, as you enter the cave just hug the right wall, taking the first turn presented.
 Turn in [QT4243 Chasing A-Me 01].\\Accept follow-up [QA4244 Chasing A-Me 01].
 Turn in [QT4244 Chasing A-Me 01].\\Accept follow-up *escort* [QA4245 Chasing A-Me 01].
 Complete [QC4245 Chasing A-Me 01].
 Turn in [QT4245 Chasing A-Me 01].
+Complete [QC4504 Super Sticky].
 Turn in [QT4289 The Apes of Un'Goro] and [QT4292 The Bait for Lar'korwi].\\Accept [QA4301 The Mighty U'cha].
-[O] Make sure to finish gathering *all* the crystals on the way back to the cave.
+[O]Make sure to finish gathering *all* the crystals on the way back to the cave.
 Also, make sure to complete [QC4496,2 Un'Goro Soil][O] on the way.
 Head back to the ape cave. Hug the left wall to reach *U'cha*. Kill him to complete [QC4301 The Mighty U'cha].
 Hearth to [H Gadgetzan].
@@ -119,6 +115,7 @@ Work on [QC4502 Volcanic Activity][O] during the next steps.
 [G47.938635,50.018399,3 Un'Goro Crater]
 [G48.417186,50.068324,3 Un'Goro Crater]
 [G48.729974,49.830722,2 Un'Goro Crater]
+[O]Walk along the ledge to not aggro the Elemental elite in the cave.
 [G48.874932,49.805325,2 Un'Goro Crater]
 [G48.928716,48.591166,5 Un'Goro Crater]
 Use *Krakle's Thermometer* to complete [QC974 Finding the Source][G49.689221,45.746579 Un'Goro Crater].
@@ -155,25 +152,20 @@ Turn in [QT4507 Pawn Captures Queen].\\Accept [QA4508 Calm Before the Storm].
 
 -- Ratchet
 Fly to [F Ratchet].
+Set hearthstone in [S Ratchet].
 Turn in [QT4502 Volcanic Activity].
-XXX: Would we want to do blasted lands here instead? Could probably do the Lv. 56 quest fairly easily now.
 
 -- Darnassus
 Fly to [F Rut'theran Village].
 [O]While here, learn Lv. 52 and 54 skills.
-XXX: Not sure if doing The New Frontier stuff, but if we end up doing Linken, e.g., we might want it available
-[G35.5755,10.7903 Darnassus]
-In the highest room of the tree, accept [QA6761 The New Frontier].
-Going down one level, turn in [QT6761 The New Frontier].\\Accept [QA6762 Rabine Saturna].
-Go back up again, and accept [QA3781 Morrowgrain Research].
-Again, go back downstairs and turn in [QT3781 Morrowgrain Research].\\Accept [QA3785 Morrowgrain Research].
-Jump over the [G34.219443,5.854978,3 Darnassus] railing.
 Turn in [QT3764 Un'Goro Soil].
-If you happen to collide with Herald, you could accept [QA5091 Call to Arms: The Plaguelands!][O]
+[O]The next 3 steps are probably better skipped. But, you can sell the seeds for half a gold.
+[G35.5755,10.7903 Darnassus]
+In the highest room of the tree, accept [QA3781 Morrowgrain Research].
+Going down one level, turn in [QT3781 Morrowgrain Research].
 Turn in [QT4508 Calm Before the Storm].\\Accept follow-up [QA4510 Calm Before the Storm].
 Turn in [QT4510 Calm Before the Storm].
-XXX: Don't know if we do these quests
-Outside of Darnassus, accept [QA978 Moontouched Wildkin].
+Outside of Darnassus, if not already accepted, accept [QA978 Moontouched Wildkin].
 -- Starfall is equivalent and exclusive to To Winterspring!
 Fly to [F Emerald Sanctuary].
 

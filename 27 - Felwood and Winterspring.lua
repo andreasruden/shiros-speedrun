@@ -3,11 +3,8 @@ Guidelime.registerGuide(
 
 [D Shiros 1-58 Speedrun for alliance (patch 2.3+)]
 [GA Alliance]
-[N 55-57 Felwood and Winterspring]
-[NX X-X X]
-
-XXX: Need to have A Little Slime Goes a Long Way from IF.
-XXX: Need hearthstone set in Ratchet before this.
+[N 54-57 Felwood and Winterspring]
+[NX 57-60 Western and Eastern Plaguelands]
 
 -- Emerald Sanctuary
 Accept [QA5155 Forces of Jaedenar].

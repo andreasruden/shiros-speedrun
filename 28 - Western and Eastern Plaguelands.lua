@@ -4,7 +4,6 @@ Guidelime.registerGuide(
 [D Shiros 1-58 Speedrun for alliance (patch 2.3+)]
 [GA Alliance]
 [N 57-60 Western and Eastern Plaguelands]
-[NX X-X X]
 
 -- Menethil Harbor
 Take boat to Menethil Harbor.
