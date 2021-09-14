@@ -13,7 +13,10 @@ Accept [QA5156 Verifying the Corruption].
 Accept [QA5249 To Winterspring!]
 
 -- Heading to northern Felwood
-[OC]Timbermaw Ally is not worth doing at this level. Lost too much xp.
+Accept [QA8460 Timbermaw Ally].
+[O]Kill the Chieftain for some bonus rep.
+Complete [QC8460 Timbermaw Ally]. *Note*: This quest has lost xp, but it allows us to get enough rep for double totem turn-in.
+Turn in [QT8460 Timbermaw Ally].\\Accept [QA8462 Speak to Nafien].
 Accept [QA4101 Cleansing Felwood].
 Open the *Package of Empty Ooze Containers*. Kill slimes and use the Empty Cursed Ooze Jar on the corpse to obtain 6 [QC4512,1 Filled Cursed Ooze Jar][G41.0,66.9 Felwood].
 Head all the way in the back of the camp and kill [QC4421,4 Xavathras].
@@ -25,23 +28,29 @@ Complete [QC5156 Verifying the Corruption].
 [G55.0,22.1,50 Felwood]
 Complete [QC4101 Cleansing Felwood][G54.7,16.7 Felwood].
 Get FP [P Talonbranch Glade].
-Accept [QA8461 Deadwood of the North].
+Turn in [QT8462 Speak to Nafien].\\Accept [QA8461 Deadwood of the North].
+[O]Save both Felwood & Winterspring totem if you get them. Also save feathers & beads.
+[O]Kill Chieftain Bloodmaw for some bonus rep.
 Complete [QC8461 Deadwood of the North].
 Turn in [QT8461 Deadwood of the North].\\Accept [QA8465 Speak to Salfa].
-XXX: Not worth turning in Rabine Saturna in moonglade, unless we want the follow-up that goes to Silithus.
+-- XXX: Not worth turning in Rabine Saturna in moonglade, unless we want the follow-up that goes to Silithus.
 
 -- Winterspring
 Head through to Winterspring and turn in [QT8465 Speak to Salfa].\\Accept [QA8464 Winterfall Activity].
 Loot feathers on the ground for progress on [QC978 Moontouched Wildkin][O].
-Turn in [QT3908 It's a Secret to Everybody].\\Accept [QA3909 The Videre Elixir] and [QA5082 Threat of the Winterfall]. XXX: Do we want the elixir quest?
+Turn in [QT3908 It's a Secret to Everybody].\\Accept [QA5082 Threat of the Winterfall].
 Turn in [QT980 The New Springs].\\Accept [QA4842 Strange Sources].
 North and east there are mobs for the quest. Complete [QC5082 Threat of the Winterfall][G40.1,43.8 Winterspring]. [L31,36 Winterspring]
-Farm the same mobs until you obtain [CI12771, 1 Empty Firewater Flask].
-Accept [QA5083 Winterfall Firewater].
+Farm the same mobs until you obtain an [CI12771, Empty Firewater Flask].
+From the Empty Firewater Flask, accept [QA5083 Winterfall Firewater].
 Turn in [QT5082 Threat of the Winterfall] and [QT5083 Winterfall Firewater].\\Accept [QA5084 Falling to Corruption].
 
 -- Felwood <-> Winterspring
 Head through into Felwood and turn in [QT5084 Falling to Corruption].\\Accept [QA5085 Mystery Goo].
+Farm the mobs until you obtain a [CI20741,1 Deadwood Ritual Totem].
+From the Deadwood Ritual Totem, accept [QA8470 Deadwood Ritual Totem].
+[O]Feathers are handed to Nafien in fives. If you're close to another stack of 5 feathers, you might wanna farm it out.
+At [G64.77,8.12 Felwood] Nafien, turn in all your feathers.
 Back to Winterspring and turn in [QT5085 Mystery Goo].\\Accept [QA5086 Toxic Horrors].
 
 -- Everlook
@@ -71,11 +80,12 @@ If not finished, keep killing mobs to get [CI11515,6 Corrupted Soul Shard].
 -- Winterspring
 Turn in [QT5086 Toxic Horrors].\\Accept [QA5087 Winterfall Runners].
 Complete [QC5087 Winterfall Runners].
+[OC]There will be an ambush of 3 Winterfall mobs when you turn in the quest.
 Turn in [QT5087 Winterfall Runners].\\Accept [QA5121 High Chief Winterfall].
 If not finished, finish up [QC978 Moontouched Wildkin].
 
 -- Felwood
-Run back into Felwood to Talonbranch Glade and fly to [F Emerald Sanctuary].
+Run back into Felwood to Talonbranch Glade and fly to [F Emerald Sanctuary]. -- XXX: Need wp + verifying if it's quicker than running to everglade
 Hand the shards to Arathandris [QA5882 Salve via Hunting] [QT5882 Salve via Hunting].
 [OC]Save the Salve for now.
 Turn in [QT5157 Collection of the Corrupt Water].\\Accept [QA5158 Seeking Spiritual Aid].
@@ -106,7 +116,7 @@ Head back past the FP and towards [G64.4,34.3,40 Winterspring] this path.
 [OC] The Highchief for the next step is Lv.59, guarded by one Lv.56 mob.
 Complete [QC8464 Winterfall Activity][G69.8,38.2 Winterspring] and [QC5121 High Chief Winterfall][G69.8,38.2 Winterspring].
 From the Crudely-written Log, accept [QA5123 The Final Piece].
-[G62,28 Winterspring] Complete Ursius of the Shardtooth. Look at the map to see his patrol path. Again, addon does not accept this step. -- Complete [QC5054 Ursius of the Shardtooth].
+Complete Ursius of the Shardtooth. He spawns at (56,32), and then walks the mountains (see the map which has some of his route). Again, addon does not accept this step. -- Complete [QC5054 Ursius of the Shardtooth].
 
 -- Starfall Village
 Turn in [QT5249 To Winterspring!]\\Accept [QA5244 The Ruins of Kel'Theril].
@@ -127,22 +137,27 @@ Ride across the ice bridge to complete [QC4842 Strange Sources].
 If you are able to, complete [QC969 Luck Be With You]. Either by distracting the giants, or finding unguarded ones. Otherwise abandon this quest.
 Turn in [QT979 Find Ranshalla].\\Accept the escort [QA4901 Guardians of the Altar].
 During the escort, loot the owlbeasts to maybe complete [QC4864 Enraged Wildkin][O].
-The mobs are a bit high level (up to 58), so be careful. Let the NPC pull aggro first. And if you can, complete [QC4901 Guardians of the Altar].
+Let the NPC pull aggro first. Complete [QC4901 Guardians of the Altar].
 Complete [QC4864 Enraged Wildkin].
-Try to complete Brumeran of the Chillwind while heading towards Lake Kel'Theril. If you cannot find him, skip step and abandon the quest. -- Try to complete [QC5055 Brumeran of the Chillwind] while heading towards Lake Kel'Theril. If you cannot find him, skip step and abandon the quest.
+Complete Brumeran of the Chillwind while heading towards Lake Kel'Theril (see map for path). -- Complete [QC5055 Brumeran of the Chillwind] while heading towards Lake Kel'Theril.
 At the lake, complete [QC5245 Troubled Spirits of Kel'Theril].
 
 -- Everlook
 Turn in [QT977 Are We There, Yeti?]\\Accept follow-up [QA5163 Are We There, Yeti?] XXX: Do we want this quest?
 Turn in [QT969 Luck Be With You]. Skip follow-up.
-Turn in [QT5055 Brumeran of the Chillwind]. Skip follow-up.
+Turn in Brumeran of the Chillwind. Accept Shy-Rotam. -- Turn in [QT5055 Brumeran of the Chillwind]. XXX: Skip follow-up.
 
 -- Starfall Village
 Turn in [QT4864 Enraged Wildkin].
+If you're strong enough (the fight is up to 2xLv.60 mobs; shy-rotam can summon an add), complete [G49.67,9.75 Winterspring] Shy-Rotam, then turn it in (+ the follow-up reward).
 
 -- Winterspring
-Ride west (flying is slower) to turn in [QT4842 Strange Sources], [QT5121 High Chief Winterfall] and [QT5123 The Final Piece].\\Accept [QA5128 Words of the High Chief].
+Ride west (flying is slower XXX: measure if also true if turning in shy-rotam) to turn in [QT4842 Strange Sources], [QT5121 High Chief Winterfall] and [QT5123 The Final Piece].\\Accept [QA5128 Words of the High Chief].
 Turn in [QT8464 Winterfall Activity].
+Farm for the [CI20742,1 Winterfall Ritual Totem] around Frostfire Hot Springs and the Timbermaw Post.
+From the Winterfall Ritual Totem, accept [QA8471 Winterfall Ritual Totem].
+If you're not *neutral* with *Timbermaw Hold* yet, farm around Frostfire Hot Springs and the Timbermaw Post until you are. *Note*: You can turn in stacks of 5 *Winterfall Spirit Beads* at Salfa for +150 rep per stack.
+In the tunnel, turn in [QT8470 Deadwood Ritual Totem] and [QT8471 Winterfall Ritual Totem].
 
 -- Felwood
 Head into felwood. Blow the *Flute of the Ancients* [G49.7,30.7 Felwood] here.
@@ -162,7 +177,7 @@ Turn in [QT5128 Words of the High Chief].
 Follow the linear path of the cave until you reach Rakaiah. Kill her to complete [QC5204 Retribution of the Light].
 Turn in [QT5204 Retribution of the Light].\\Accept [QA5385 The Remains of Trey Lightforge].
 Continue deeper and complete [QC5242 A Final Blow].
-Deathwarp out. Then run up to the northern flight-point and fly to [F Emerald Sanctuary].
+Deathwarp out. Then run up to the [G62.48,24.23 Felwood] northern flight-point and fly to [F Emerald Sanctuary].
 Turn in [QT5242 A Final Blow].
 Turn in [QT5385 The Remains of Trey Lightforge].
 
@@ -176,6 +191,7 @@ Turn in [QT4901 Guardians of the Altar].\\Accept [QA4902 Wildkin of Elune].
 [O][T]If not Lv.56 last time, learn skills.
 In Darnassus, go up this [G35.6,10.9 Darnassus] building.
 Turn in [QT4902 Wildkin of Elune].
-Hearth to ratchet or take boat to menethil?
+Hearth to [H Ratchet].
+Take the [G63.66,38.61 The Barrens] boat to Booty Bay.
 
 ]], 'Shiros Speedrun')
